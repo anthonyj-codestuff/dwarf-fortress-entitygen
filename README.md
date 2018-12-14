@@ -8,3 +8,4 @@ The end product should be able to replicate:
  - Books/Songs/Poetry
  - Instruments
  - Other things I hadn't considered
+ - Syndromes
