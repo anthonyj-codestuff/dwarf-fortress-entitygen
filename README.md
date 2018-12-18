@@ -11,5 +11,6 @@ The end product should be able to replicate:
  - Instruments
  - Other things I hadn't considered
  - Syndromes
+ - Deities
 
 Bootstrapped with create-react-app
