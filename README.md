@@ -11,6 +11,7 @@ The end product should be able to replicate:
  - Instruments
  - Other things I hadn't considered
  - Syndromes
- - Deities
+ - Deities  
+ Users should be able to filter traits by biome and gender
 
 Bootstrapped with create-react-app
