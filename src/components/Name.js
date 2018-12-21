@@ -9,7 +9,7 @@ class Name extends Component {
       title: ""
     };
 
-    var file = "../assets/language_DWARF.txt";
+    var file = "../src/assets/language_DWARF.txt";
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
     rawFile.onreadystatechange = function() {
