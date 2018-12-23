@@ -1,9 +1,5 @@
-ABBEY:kulet
-ACE:alak
-ACT:bidok
-AFTER:nicol
-AGE:anam
-AGELESS:gatal
+[{"ABBEY": "kulet"},{"ACE": "alak"},{"ACT": "bidok"},{"AFTER":"nicol"},{"AGE":"anam"},{"AGELESS":"gatal"},
+]
 ALE:mabdug
 ANCIENT:zustash
 ANGEL:sedil
