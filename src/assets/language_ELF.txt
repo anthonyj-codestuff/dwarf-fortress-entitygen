@@ -1,6587 +1,6587 @@
 [
   {
-    "ABBEY": "cebela"
+    "abbey": "cebela"
   },
   {
-    "ACE": "adi"
+    "ace": "adi"
   },
   {
-    "ACT": "ar¢"
+    "act": "ar¢"
   },
   {
-    "AFTER": "ifife"
+    "after": "ifife"
   },
   {
-    "AGE": "eyo"
+    "age": "eyo"
   },
   {
-    "AGELESS": "datha"
+    "ageless": "datha"
   },
   {
-    "ALE": "warerŠ"
+    "ale": "warerš"
   },
   {
-    "ANCIENT": "fathinu"
+    "ancient": "fathinu"
   },
   {
-    "ANGEL": "thili"
+    "angel": "thili"
   },
   {
-    "ANGER": "fomire"
+    "anger": "fomire"
   },
   {
-    "ANIMAL": "fela"
+    "animal": "fela"
   },
   {
-    "APE": "aweme"
+    "ape": "aweme"
   },
   {
-    "APPLE": "fena"
+    "apple": "fena"
   },
   {
-    "ARCH": "˜aniye"
+    "arch": "˜aniye"
   },
   {
-    "ARM": "atho"
+    "arm": "atho"
   },
   {
-    "ARMOR": "datome"
+    "armor": "datome"
   },
   {
-    "ARROW": "lari"
+    "arrow": "lari"
   },
   {
-    "ARTIFICE": "aratha"
+    "artifice": "aratha"
   },
   {
-    "ASH": "imeri"
+    "ash": "imeri"
   },
   {
-    "AUNT": "th—na"
+    "aunt": "th—na"
   },
   {
-    "AURA": "arazi"
+    "aura": "arazi"
   },
   {
-    "AUTUMN": "fidale"
+    "autumn": "fidale"
   },
   {
-    "AWE-INSPIRING": "tarathe"
+    "awe-inspiring": "tarathe"
   },
   {
-    "AXE": "cuthefi"
+    "axe": "cuthefi"
   },
   {
-    "BACK": "cede"
+    "back": "cede"
   },
   {
-    "BAD": "otoga"
+    "bad": "otoga"
   },
   {
-    "BALD": "dinade"
+    "bald": "dinade"
   },
   {
-    "BAKE": "cenopu"
+    "bake": "cenopu"
   },
   {
-    "BALL": "Šle"
+    "ball": "šle"
   },
   {
-    "BANE": "timafi"
+    "bane": "timafi"
   },
   {
-    "BAR": "emu"
+    "bar": "emu"
   },
   {
-    "BARB": "£pe"
+    "barb": "£pe"
   },
   {
-    "BATH": "amama"
+    "bath": "amama"
   },
   {
-    "BATTLE": "thafatha"
+    "battle": "thafatha"
   },
   {
-    "BEAK": "etini"
+    "beak": "etini"
   },
   {
-    "BEAST": "le"
+    "beast": "le"
   },
   {
-    "BEAR": "atha"
+    "bear": "atha"
   },
   {
-    "BEAR_VERB": "alo"
+    "bear_verb": "alo"
   },
   {
-    "BEE": "ave˜a"
+    "bee": "ave˜a"
   },
   {
-    "BEER": "mafina"
+    "beer": "mafina"
   },
   {
-    "BEETLE": "pama"
+    "beetle": "pama"
   },
   {
-    "BEGUILER": "math£va"
+    "beguiler": "math£va"
   },
   {
-    "BELCH": "bulifo"
+    "belch": "bulifo"
   },
   {
-    "BERRY": "ada"
+    "berry": "ada"
   },
   {
-    "BIG": "mamo"
+    "big": "mamo"
   },
   {
-    "BILE": "icithi"
+    "bile": "icithi"
   },
   {
-    "BIN": "masa"
+    "bin": "masa"
   },
   {
-    "BIRD": "ar¡le"
+    "bird": "ar¡le"
   },
   {
-    "BLACK": "opa"
+    "black": "opa"
   },
   {
-    "BLADE": "eli"
+    "blade": "eli"
   },
   {
-    "BLAZE": "mifava"
+    "blaze": "mifava"
   },
   {
-    "BLIND": "nanotha"
+    "blind": "nanotha"
   },
   {
-    "BLISTER": "licesi"
+    "blister": "licesi"
   },
   {
-    "BLOAT": "oma"
+    "bloat": "oma"
   },
   {
-    "BLOOD": "cameda"
+    "blood": "cameda"
   },
   {
-    "BLOODY": "cida"
+    "bloody": "cida"
   },
   {
-    "BLOSSOM": "lolama"
+    "blossom": "lolama"
   },
   {
-    "BLUE": "itho"
+    "blue": "itho"
   },
   {
-    "BOAR": "lebeyu"
+    "boar": "lebeyu"
   },
   {
-    "BOAT": "efeye"
+    "boat": "efeye"
   },
   {
-    "BODICE": "lemathe"
+    "bodice": "lemathe"
   },
   {
-    "BOG": "abure"
+    "bog": "abure"
   },
   {
-    "BOIL": "camaba"
+    "boil": "camaba"
   },
   {
-    "BOIL_V": "afatha"
+    "boil_v": "afatha"
   },
   {
-    "BOLD": "i˜e"
+    "bold": "i˜e"
   },
   {
-    "BOLT": "ene"
+    "bolt": "ene"
   },
   {
-    "BONE": "one"
+    "bone": "one"
   },
   {
-    "BOOK": "soya"
+    "book": "soya"
   },
   {
-    "BOOT": "emudi"
+    "boot": "emudi"
   },
   {
-    "BOTHER": "bareca"
+    "bother": "bareca"
   },
   {
-    "BOW": "ram¡"
+    "bow": "ram¡"
   },
   {
-    "BOW_VERB": "thiwa"
+    "bow_verb": "thiwa"
   },
   {
-    "BRAIN": "ereni"
+    "brain": "ereni"
   },
   {
-    "BREACH": "fecaci"
+    "breach": "fecaci"
   },
   {
-    "BREECHES": "niriwa"
+    "breeches": "niriwa"
   },
   {
-    "BREAD": "medo"
+    "bread": "medo"
   },
   {
-    "BREAK": "rire"
+    "break": "rire"
   },
   {
-    "BREAKFAST": "enele"
+    "breakfast": "enele"
   },
   {
-    "BREATH": "larna"
+    "breath": "larna"
   },
   {
-    "BREED": "erise"
+    "breed": "erise"
   },
   {
-    "BREW": "uyira"
+    "brew": "uyira"
   },
   {
-    "BRIDE": "awiri"
+    "bride": "awiri"
   },
   {
-    "BRIDLE": "bimawa"
+    "bridle": "bimawa"
   },
   {
-    "BRIGHT": "cele"
+    "bright": "cele"
   },
   {
-    "BRISTLE": "femeli"
+    "bristle": "femeli"
   },
   {
-    "BRILLIANT": "v¡˜o"
+    "brilliant": "v¡˜o"
   },
   {
-    "BRIM": "fita"
+    "brim": "fita"
   },
   {
-    "BROIL": "facic‚"
+    "broil": "facic‚"
   },
   {
-    "BROTHER": "oleme"
+    "brother": "oleme"
   },
   {
-    "BRUNCH": "fetili"
+    "brunch": "fetili"
   },
   {
-    "BUCK": "futace"
+    "buck": "futace"
   },
   {
-    "BUCKLE": "lete"
+    "buckle": "lete"
   },
   {
-    "BUNCH": "med‚"
+    "bunch": "med‚"
   },
   {
-    "BURDEN": "curo"
+    "burden": "curo"
   },
   {
-    "BURN": "cilole"
+    "burn": "cilole"
   },
   {
-    "BURY": "nula"
+    "bury": "nula"
   },
   {
-    "BUSH": "alithi"
+    "bush": "alithi"
   },
   {
-    "BUSHEL": "ifi"
+    "bushel": "ifi"
   },
   {
-    "BUST_NOUN": "sasifi"
+    "bust_noun": "sasifi"
   },
   {
-    "BUST_VERB": "thaba"
+    "bust_verb": "thaba"
   },
   {
-    "BUSINESS": "cuseni"
+    "business": "cuseni"
   },
   {
-    "BUSY": "yicethu"
+    "busy": "yicethu"
   },
   {
-    "BUTCHER": "uwale"
+    "butcher": "uwale"
   },
   {
-    "BUTTER": "necitho"
+    "butter": "necitho"
   },
   {
-    "BUTTERFLY": "ithithe"
+    "butterfly": "ithithe"
   },
   {
-    "BUTTON": "vaca"
+    "button": "vaca"
   },
   {
-    "BUZZARD": "acithe"
+    "buzzard": "acithe"
   },
   {
-    "CACKLE": "noca"
+    "cackle": "noca"
   },
   {
-    "CAD": "beyafe"
+    "cad": "beyafe"
   },
   {
-    "CAGE": "of£ru"
+    "cage": "of£ru"
   },
   {
-    "CAKE": "cefira"
+    "cake": "cefira"
   },
   {
-    "CALL": "mivere"
+    "call": "mivere"
   },
   {
-    "CAMP": "imen‚"
+    "camp": "imen‚"
   },
   {
-    "CANCER": "mavi"
+    "cancer": "mavi"
   },
   {
-    "CANDLE": "erela"
+    "candle": "erela"
   },
   {
-    "CANDY": "lire"
+    "candy": "lire"
   },
   {
-    "CANKER": "remofe"
+    "canker": "remofe"
   },
   {
-    "CANYON": "gica"
+    "canyon": "gica"
   },
   {
-    "CARNAGE": "fathiri"
+    "carnage": "fathiri"
   },
   {
-    "CASKET": "radi"
+    "casket": "radi"
   },
   {
-    "CASTLE": "tayo"
+    "castle": "tayo"
   },
   {
-    "CAT": "lin"
+    "cat": "lin"
   },
   {
-    "CAVE": "garetho"
+    "cave": "garetho"
   },
   {
-    "CELL": "rufa"
+    "cell": "rufa"
   },
   {
-    "CHAIN": "os‚fi"
+    "chain": "os‚fi"
   },
   {
-    "CHANT": "ayilo"
+    "chant": "ayilo"
   },
   {
-    "CHAOS": "thevalo"
+    "chaos": "thevalo"
   },
   {
-    "CHAMBER": "zole"
+    "chamber": "zole"
   },
   {
-    "CHAR": "imida"
+    "char": "imida"
   },
   {
-    "CHARM": "methila"
+    "charm": "methila"
   },
   {
-    "CHILD": "imi"
+    "child": "imi"
   },
   {
-    "CHILL": "pini"
+    "chill": "pini"
   },
   {
-    "CHIP_NOUN": "casi"
+    "chip_noun": "casi"
   },
   {
-    "CHIP_VERB": "amir¡"
+    "chip_verb": "amir¡"
   },
   {
-    "CHIRP": "rira"
+    "chirp": "rira"
   },
   {
-    "CHOKE": "oneca"
+    "choke": "oneca"
   },
   {
-    "CHOP": "riquethi"
+    "chop": "riquethi"
   },
   {
-    "CHUCK": "ladatha"
+    "chuck": "ladatha"
   },
   {
-    "CINDER": "wŠme"
+    "cinder": "wšme"
   },
   {
-    "CLAM": "vera"
+    "clam": "vera"
   },
   {
-    "CLAP": "ora"
+    "clap": "ora"
   },
   {
-    "CLASP": "lama"
+    "clasp": "lama"
   },
   {
-    "CLAW": "ef‚"
+    "claw": "ef‚"
   },
   {
-    "CLEAR": "thema"
+    "clear": "thema"
   },
   {
-    "CLEARING": "famime"
+    "clearing": "famime"
   },
   {
-    "CLEAVE": "rath"
+    "cleave": "rath"
   },
   {
-    "CLING": "nefu˜e"
+    "cling": "nefu˜e"
   },
   {
-    "CLOAK": "newo"
+    "cloak": "newo"
   },
   {
-    "CLOBBER": "naci"
+    "clobber": "naci"
   },
   {
-    "CLOCK": "arice"
+    "clock": "arice"
   },
   {
-    "CLOD": "idare"
+    "clod": "idare"
   },
   {
-    "CLOISTER": "nethale"
+    "cloister": "nethale"
   },
   {
-    "CLOSET": "madeci"
+    "closet": "madeci"
   },
   {
-    "CLUB": "mepa"
+    "club": "mepa"
   },
   {
-    "CLUSTER": "nali"
+    "cluster": "nali"
   },
   {
-    "CLUTTER": "ifeta"
+    "clutter": "ifeta"
   },
   {
-    "COBRA": "vicira"
+    "cobra": "vicira"
   },
   {
-    "COIL": "yila"
+    "coil": "yila"
   },
   {
-    "COLD": "efil—"
+    "cold": "efil—"
   },
   {
-    "COLOR": "mima"
+    "color": "mima"
   },
   {
-    "COMET": "amizo"
+    "comet": "amizo"
   },
   {
-    "CONQUEROR": "vacathi"
+    "conqueror": "vacathi"
   },
   {
-    "COOK": "othi"
+    "cook": "othi"
   },
   {
-    "COVER": "thefama"
+    "cover": "thefama"
   },
   {
-    "COTTON": "ethe"
+    "cotton": "ethe"
   },
   {
-    "COUPLE": "ana"
+    "couple": "ana"
   },
   {
-    "CRAB": "ditari"
+    "crab": "ditari"
   },
   {
-    "CRAWL": "awidi"
+    "crawl": "awidi"
   },
   {
-    "CRAZE": "amati"
+    "craze": "amati"
   },
   {
-    "CRAZY": "mala˜—"
+    "crazy": "mala˜—"
   },
   {
-    "CREAM": "yici"
+    "cream": "yici"
   },
   {
-    "CREEK": "thime"
+    "creek": "thime"
   },
   {
-    "CREEP": "coni"
+    "creep": "coni"
   },
   {
-    "CREEPY": "cipone"
+    "creepy": "cipone"
   },
   {
-    "CRESCENT": "corire"
+    "crescent": "corire"
   },
   {
-    "CROSS_NOUN": "arifi"
+    "cross_noun": "arifi"
   },
   {
-    "CROSS_VERB": "cuna"
+    "cross_verb": "cuna"
   },
   {
-    "CROSS_ADJ": "fafode"
+    "cross_adj": "fafode"
   },
   {
-    "CROW": "minaro"
+    "crow": "minaro"
   },
   {
-    "CROWN": "iminu"
+    "crown": "iminu"
   },
   {
-    "CRUCIFY": "afica"
+    "crucify": "afica"
   },
   {
-    "CRUMBLE": "celedo"
+    "crumble": "celedo"
   },
   {
-    "CRUSH": "utha"
+    "crush": "utha"
   },
   {
-    "CRUSHER": "athala"
+    "crusher": "athala"
   },
   {
-    "CRY": "nunera"
+    "cry": "nunera"
   },
   {
-    "CRYPT": "l•mifo"
+    "crypt": "l•mifo"
   },
   {
-    "CRYSTAL": "y¡lo"
+    "crystal": "y¡lo"
   },
   {
-    "CUDDLE": "thefefe"
+    "cuddle": "thefefe"
   },
   {
-    "CUDGEL": "mane"
+    "cudgel": "mane"
   },
   {
-    "CUP": "dima"
+    "cup": "dima"
   },
   {
-    "CURSE": "birŠtha"
+    "curse": "birštha"
   },
   {
-    "CUT": "raca"
+    "cut": "raca"
   },
   {
-    "CYST": "miyufa"
+    "cyst": "miyufa"
   },
   {
-    "DANCE": "rimame"
+    "dance": "rimame"
   },
   {
-    "DANGLE": "fathe"
+    "dangle": "fathe"
   },
   {
-    "DANK": "nawona"
+    "dank": "nawona"
   },
   {
-    "DAGGER": "acita"
+    "dagger": "acita"
   },
   {
-    "DARK": "mari"
+    "dark": "mari"
   },
   {
-    "DATE_FRUIT": "i˜i"
+    "date_fruit": "i˜i"
   },
   {
-    "DATE_VERB": "rale"
+    "date_verb": "rale"
   },
   {
-    "DAWN": "alino"
+    "dawn": "alino"
   },
   {
-    "DAY": "ira"
+    "day": "ira"
   },
   {
-    "DEAD": "ana˜a"
+    "dead": "ana˜a"
   },
   {
-    "DEAR": "rani"
+    "dear": "rani"
   },
   {
-    "DEATH": "rethi"
+    "death": "rethi"
   },
   {
-    "DECAY": "veno"
+    "decay": "veno"
   },
   {
-    "DECEIVER": "vemini"
+    "deceiver": "vemini"
   },
   {
-    "DEEP": "Šna"
+    "deep": "šna"
   },
   {
-    "DEER": "liy˜i"
+    "deer": "liy˜i"
   },
   {
-    "DEMON": "slevina"
+    "demon": "slevina"
   },
   {
-    "DESPAIR": "nopo"
+    "despair": "nopo"
   },
   {
-    "DESTROYER": "carili"
+    "destroyer": "carili"
   },
   {
-    "DESTRUCTION": "lebatha"
+    "destruction": "lebatha"
   },
   {
-    "DEVIL": "zecalo"
+    "devil": "zecalo"
   },
   {
-    "DEVOURER": "famolo"
+    "devourer": "famolo"
   },
   {
-    "DINE": "esi"
+    "dine": "esi"
   },
   {
-    "DINNER": "nabi"
+    "dinner": "nabi"
   },
   {
-    "DIRT": "orafi"
+    "dirt": "orafi"
   },
   {
-    "DITCH": "nili"
+    "ditch": "nili"
   },
   {
-    "DOG": "macetha"
+    "dog": "macetha"
   },
   {
-    "DOMESTIC": "wotha"
+    "domestic": "wotha"
   },
   {
-    "DONKEY": "ceriva"
+    "donkey": "ceriva"
   },
   {
-    "DOOM": "emura"
+    "doom": "emura"
   },
   {
-    "DOOR": "be˜a"
+    "door": "be˜a"
   },
   {
-    "DRAGON": "vutheni"
+    "dragon": "vutheni"
   },
   {
-    "DRAIN": "fana"
+    "drain": "fana"
   },
   {
-    "DRAWL": "paru"
+    "drawl": "paru"
   },
   {
-    "DREG": "ofetha"
+    "dreg": "ofetha"
   },
   {
-    "DRESS_CLOTHING": "mimire"
+    "dress_clothing": "mimire"
   },
   {
-    "DRESS_GENERAL": "alame"
+    "dress_general": "alame"
   },
   {
-    "DRINKER": "cime"
+    "drinker": "cime"
   },
   {
-    "DRIP": "c‚wi"
+    "drip": "c‚wi"
   },
   {
-    "DROOL": "efano"
+    "drool": "efano"
   },
   {
-    "DROWNED": "i˜itho"
+    "drowned": "i˜itho"
   },
   {
-    "DRUM": "maquaba"
+    "drum": "maquaba"
   },
   {
-    "DRY": "sari"
+    "dry": "sari"
   },
   {
-    "DUMP": "catha"
+    "dump": "catha"
   },
   {
-    "DUMPLING": "thinilu"
+    "dumpling": "thinilu"
   },
   {
-    "DUNG": "dadi"
+    "dung": "dadi"
   },
   {
-    "DUNGEON": "nuwetha"
+    "dungeon": "nuwetha"
   },
   {
-    "DUSK": "nidela"
+    "dusk": "nidela"
   },
   {
-    "DUST": "arani"
+    "dust": "arani"
   },
   {
-    "DUTY": "ida"
+    "duty": "ida"
   },
   {
-    "DYE": "afithi"
+    "dye": "afithi"
   },
   {
-    "EAGLE": "osime"
+    "eagle": "osime"
   },
   {
-    "EAR": "eta"
+    "ear": "eta"
   },
   {
-    "EAST": "othana"
+    "east": "othana"
   },
   {
-    "EAT": "mika"
+    "eat": "mika"
   },
   {
-    "ECTO": "anama"
+    "ecto": "anama"
   },
   {
-    "EEL": "werima"
+    "eel": "werima"
   },
   {
-    "EERIE": "elotha"
+    "eerie": "elotha"
   },
   {
-    "EGG": "amira"
+    "egg": "amira"
   },
   {
-    "ELDER": "aritha"
+    "elder": "aritha"
   },
   {
-    "ENTRAILS": "wŠmini"
+    "entrails": "wšmini"
   },
   {
-    "ETERNAL": "eme"
+    "eternal": "eme"
   },
   {
-    "EVER": "ele"
+    "ever": "ele"
   },
   {
-    "EVERLASTING": "ema"
+    "everlasting": "ema"
   },
   {
-    "EVERSEEING": "nama"
+    "everseeing": "nama"
   },
   {
-    "EVIL": "tharumi"
+    "evil": "tharumi"
   },
   {
-    "EXECUTE": "quara"
+    "execute": "quara"
   },
   {
-    "EXECUTIONER": "thura"
+    "executioner": "thura"
   },
   {
-    "EYE": "evi"
+    "eye": "evi"
   },
   {
-    "FACE": "elin¡"
+    "face": "elin¡"
   },
   {
-    "FALL": "enoth¢"
+    "fall": "enoth¢"
   },
   {
-    "FALSE": "˜ethari"
+    "false": "˜ethari"
   },
   {
-    "FAMINE": "lenuse"
+    "famine": "lenuse"
   },
   {
-    "FANG": "afe"
+    "fang": "afe"
   },
   {
-    "FAT": "rine"
+    "fat": "rine"
   },
   {
-    "FATAL": "rofela"
+    "fatal": "rofela"
   },
   {
-    "FATHER": "ane"
+    "father": "ane"
   },
   {
-    "FEAR": "meraca"
+    "fear": "meraca"
   },
   {
-    "FEAST": "neli"
+    "feast": "neli"
   },
   {
-    "FETID": "fa˜ithi"
+    "fetid": "fa˜ithi"
   },
   {
-    "FIEND": "menari"
+    "fiend": "menari"
   },
   {
-    "FIERCE": "kenoz"
+    "fierce": "kenoz"
   },
   {
-    "FILTH": "ciwa"
+    "filth": "ciwa"
   },
   {
-    "FIN": "tise"
+    "fin": "tise"
   },
   {
-    "FIND": "ciri"
+    "find": "ciri"
   },
   {
-    "FINGER": "elera"
+    "finger": "elera"
   },
   {
-    "FIRE": "inira"
+    "fire": "inira"
   },
   {
-    "FIRST": "ala"
+    "first": "ala"
   },
   {
-    "FISH_ANIMAL": "thaci"
+    "fish_animal": "thaci"
   },
   {
-    "FISH_VERB": "nenit¡"
+    "fish_verb": "nenit¡"
   },
   {
-    "FIST": "cire"
+    "fist": "cire"
   },
   {
-    "FLAME": "acathi"
+    "flame": "acathi"
   },
   {
-    "FLANK": "emero"
+    "flank": "emero"
   },
   {
-    "FLEA": "lefe"
+    "flea": "lefe"
   },
   {
-    "FLESH": "leci"
+    "flesh": "leci"
   },
   {
-    "FLING": "•ciy"
+    "fling": "•ciy"
   },
   {
-    "FLOOD": "wikira"
+    "flood": "wikira"
   },
   {
-    "FLOWER": "ima"
+    "flower": "ima"
   },
   {
-    "FLUTE": "nŠmile"
+    "flute": "nšmile"
   },
   {
-    "FLY_ANIMAL": "yetine"
+    "fly_animal": "yetine"
   },
   {
-    "FLY_VERB": "efili"
+    "fly_verb": "efili"
   },
   {
-    "FOCUS": "en‚"
+    "focus": "en‚"
   },
   {
-    "FOG": "oda"
+    "fog": "oda"
   },
   {
-    "FOOL": "quinefa"
+    "fool": "quinefa"
   },
   {
-    "FOOT": "aro"
+    "foot": "aro"
   },
   {
-    "FOREST": "mina"
+    "forest": "mina"
   },
   {
-    "FORK": "iva"
+    "fork": "iva"
   },
   {
-    "FORTIFY": "acene"
+    "fortify": "acene"
   },
   {
-    "FORTRESS": "abeco"
+    "fortress": "abeco"
   },
   {
-    "FRAGILE": "rimati"
+    "fragile": "rimati"
   },
   {
-    "FRAGMENT": "thesa"
+    "fragment": "thesa"
   },
   {
-    "FRAME": "c£cima"
+    "frame": "c£cima"
   },
   {
-    "FRAY": "ithafe"
+    "fray": "ithafe"
   },
   {
-    "FREE": "eth‚da"
+    "free": "eth‚da"
   },
   {
-    "FRENZY": "camo˜e"
+    "frenzy": "camo˜e"
   },
   {
-    "FREEZE": "thetif"
+    "freeze": "thetif"
   },
   {
-    "FRILL": "mithidi"
+    "frill": "mithidi"
   },
   {
-    "FROG": "amim¢"
+    "frog": "amim¢"
   },
   {
-    "FRUIT": "ile"
+    "fruit": "ile"
   },
   {
-    "FUNGUS": "arari"
+    "fungus": "arari"
   },
   {
-    "FUR": "narena"
+    "fur": "narena"
   },
   {
-    "GALL": "lefide"
+    "gall": "lefide"
   },
   {
-    "GAME": "mene"
+    "game": "mene"
   },
   {
-    "GARISH": "lifi"
+    "garish": "lifi"
   },
   {
-    "GARLIC": "nefefi"
+    "garlic": "nefefi"
   },
   {
-    "GARNISH": "fefa"
+    "garnish": "fefa"
   },
   {
-    "GATE": "i˜ema"
+    "gate": "i˜ema"
   },
   {
-    "GAUNT": "foce"
+    "gaunt": "foce"
   },
   {
-    "GAZE": "temame"
+    "gaze": "temame"
   },
   {
-    "GEAR": "fathala"
+    "gear": "fathala"
   },
   {
-    "GERBIL": "nithi"
+    "gerbil": "nithi"
   },
   {
-    "GHOST": "oreme"
+    "ghost": "oreme"
   },
   {
-    "GHOUL": "fecawi"
+    "ghoul": "fecawi"
   },
   {
-    "GIFT": "sema"
+    "gift": "sema"
   },
   {
-    "GILL": "dethe"
+    "gill": "dethe"
   },
   {
-    "GIRDLE": "emitho"
+    "girdle": "emitho"
   },
   {
-    "GLAND": "lolathe"
+    "gland": "lolathe"
   },
   {
-    "GLAZE": "fif¡"
+    "glaze": "fif¡"
   },
   {
-    "GLEN": "idala"
+    "glen": "idala"
   },
   {
-    "GLIDE": "vari"
+    "glide": "vari"
   },
   {
-    "GLIMMER": "pili"
+    "glimmer": "pili"
   },
   {
-    "GLISTEN": "ali"
+    "glisten": "ali"
   },
   {
-    "GLOSS": "nno"
+    "gloss": "nno"
   },
   {
-    "GLOVE": "athida"
+    "glove": "athida"
   },
   {
-    "GLUTTON": "leweme"
+    "glutton": "leweme"
   },
   {
-    "GOAT": "efafi"
+    "goat": "efafi"
   },
   {
-    "GOD": "ama"
+    "god": "ama"
   },
   {
-    "GOD-FORSAKEN": "ulire"
+    "god-forsaken": "ulire"
   },
   {
-    "GOLD": "ithi"
+    "gold": "ithi"
   },
   {
-    "GOOSE": "abime"
+    "goose": "abime"
   },
   {
-    "GORE": "racenu"
+    "gore": "racenu"
   },
   {
-    "GORGE_NOUN": "acithi"
+    "gorge_noun": "acithi"
   },
   {
-    "GORGE_VERB": "etathu"
+    "gorge_verb": "etathu"
   },
   {
-    "GRAIN": "eni"
+    "grain": "eni"
   },
   {
-    "GRAND": "fafo"
+    "grand": "fafo"
   },
   {
-    "GRAPE": "pocace"
+    "grape": "pocace"
   },
   {
-    "GRASS": "enena"
+    "grass": "enena"
   },
   {
-    "GRAVE": "rufithi"
+    "grave": "rufithi"
   },
   {
-    "GREASE": "ware"
+    "grease": "ware"
   },
   {
-    "GREAT": "apaca"
+    "great": "apaca"
   },
   {
-    "GREED": "rofane"
+    "greed": "rofane"
   },
   {
-    "GREEN": "liba"
+    "green": "liba"
   },
   {
-    "GRIFFON": "sinaru"
+    "griffon": "sinaru"
   },
   {
-    "GRILL": "fentho"
+    "grill": "fentho"
   },
   {
-    "GRIM": "ucadi"
+    "grim": "ucadi"
   },
   {
-    "GRIND": "lote"
+    "grind": "lote"
   },
   {
-    "GRIP": "casena"
+    "grip": "casena"
   },
   {
-    "GRISTLE": "rin•we"
+    "gristle": "rin•we"
   },
   {
-    "GRIZZLE": "caqui"
+    "grizzle": "caqui"
   },
   {
-    "GROVE": "alala"
+    "grove": "alala"
   },
   {
-    "GROW": "ame"
+    "grow": "ame"
   },
   {
-    "GROWL": "ula"
+    "growl": "ula"
   },
   {
-    "GROWTH": "mame"
+    "growth": "mame"
   },
   {
-    "GRUB": "cathe"
+    "grub": "cathe"
   },
   {
-    "GUARD": "ino"
+    "guard": "ino"
   },
   {
-    "GUILE": "alece"
+    "guile": "alece"
   },
   {
-    "GUISE": "nire"
+    "guise": "nire"
   },
   {
-    "GUT": "cetha"
+    "gut": "cetha"
   },
   {
-    "GUTTER": "cafafi"
+    "gutter": "cafafi"
   },
   {
-    "HAG": "ciriko"
+    "hag": "ciriko"
   },
   {
-    "HAIR": "rera"
+    "hair": "rera"
   },
   {
-    "HAIRY": "leri"
+    "hairy": "leri"
   },
   {
-    "HAME": "thifami"
+    "hame": "thifami"
   },
   {
-    "HAMMER": "˜eri"
+    "hammer": "˜eri"
   },
   {
-    "HAMMERER": "alara"
+    "hammerer": "alara"
   },
   {
-    "HAND": "raya"
+    "hand": "raya"
   },
   {
-    "HANDY": "acethe"
+    "handy": "acethe"
   },
   {
-    "HARE": "iri"
+    "hare": "iri"
   },
   {
-    "HARVEST": "ika"
+    "harvest": "ika"
   },
   {
-    "HARVEST_VERB": "civila"
+    "harvest_verb": "civila"
   },
   {
-    "HATCHET": "lece"
+    "hatchet": "lece"
   },
   {
-    "HATE": "efac"
+    "hate": "efac"
   },
   {
-    "HAUNT": "momi"
+    "haunt": "momi"
   },
   {
-    "HAWK": "senama"
+    "hawk": "senama"
   },
   {
-    "HAY": "ayame"
+    "hay": "ayame"
   },
   {
-    "HEAD": "¡ne"
+    "head": "¡ne"
   },
   {
-    "HEART": "enira"
+    "heart": "enira"
   },
   {
-    "HEARTH": "ibame"
+    "hearth": "ibame"
   },
   {
-    "HEATHER": "themiyi"
+    "heather": "themiyi"
   },
   {
-    "HEDGE": "ralila"
+    "hedge": "ralila"
   },
   {
-    "HELL": "m‚fa˜o"
+    "hell": "m‚fa˜o"
   },
   {
-    "HELM": "came"
+    "helm": "came"
   },
   {
-    "HERO": "arido"
+    "hero": "arido"
   },
   {
-    "HEX": "necate"
+    "hex": "necate"
   },
   {
-    "HIDE": "c¢ce"
+    "hide": "c¢ce"
   },
   {
-    "HIDEOUS": "bri"
+    "hideous": "bri"
   },
   {
-    "HIGH": "imama"
+    "high": "imama"
   },
   {
-    "HILL": "lŠma"
+    "hill": "lšma"
   },
   {
-    "HIP": "amori"
+    "hip": "amori"
   },
   {
-    "HOARY": "fica"
+    "hoary": "fica"
   },
   {
-    "HOBBLE": "epipe"
+    "hobble": "epipe"
   },
   {
-    "HOG": "˜ara"
+    "hog": "˜ara"
   },
   {
-    "HOLY": "elo"
+    "holy": "elo"
   },
   {
-    "HOIST": "lar•"
+    "hoist": "lar•"
   },
   {
-    "HOLE": "cona"
+    "hole": "cona"
   },
   {
-    "HOME": "elomi"
+    "home": "elomi"
   },
   {
-    "HONEY": "arifŠ"
+    "honey": "arifš"
   },
   {
-    "HOOD": "luthama"
+    "hood": "luthama"
   },
   {
-    "HOOF": "fma"
+    "hoof": "fma"
   },
   {
-    "HOP_NOUN": "lel‚"
+    "hop_noun": "lel‚"
   },
   {
-    "HOP_VERB": "ayefi"
+    "hop_verb": "ayefi"
   },
   {
-    "HORN": "¡lime"
+    "horn": "¡lime"
   },
   {
-    "HORSE": "remni"
+    "horse": "remni"
   },
   {
-    "HOUND": "cami"
+    "hound": "cami"
   },
   {
-    "HOWL": "ola"
+    "howl": "ola"
   },
   {
-    "HUG": "ina"
+    "hug": "ina"
   },
   {
-    "HUM": "vora"
+    "hum": "vora"
   },
   {
-    "HUNGER": "ume"
+    "hunger": "ume"
   },
   {
-    "HUSTLE": "narowi"
+    "hustle": "narowi"
   },
   {
-    "ICE": "ocima"
+    "ice": "ocima"
   },
   {
-    "IDLE": "newa"
+    "idle": "newa"
   },
   {
-    "IDOL": "athaca"
+    "idol": "athaca"
   },
   {
-    "ILL": "vawume"
+    "ill": "vawume"
   },
   {
-    "IMPURE": "urila"
+    "impure": "urila"
   },
   {
-    "INCENSE": "thone"
+    "incense": "thone"
   },
   {
-    "INCH": "nipa"
+    "inch": "nipa"
   },
   {
-    "INK": "forile"
+    "ink": "forile"
   },
   {
-    "INN": "ifisa"
+    "inn": "ifisa"
   },
   {
-    "INSANITY": "˜aralo"
+    "insanity": "˜aralo"
   },
   {
-    "INVISIBLE": "arali"
+    "invisible": "arali"
   },
   {
-    "IRON": "icori"
+    "iron": "icori"
   },
   {
-    "ITCH": "rithi"
+    "itch": "rithi"
   },
   {
-    "IVY": "sal¢"
+    "ivy": "sal¢"
   },
   {
-    "JACK": "lati"
+    "jack": "lati"
   },
   {
-    "JACKAL": "apufi"
+    "jackal": "apufi"
   },
   {
-    "JAUNDICE": "fesluyi"
+    "jaundice": "fesluyi"
   },
   {
-    "JAW": "nisa"
+    "jaw": "nisa"
   },
   {
-    "JEST": "tede"
+    "jest": "tede"
   },
   {
-    "JOKE": "athini"
+    "joke": "athini"
   },
   {
-    "JUGGLE": "becaro"
+    "juggle": "becaro"
   },
   {
-    "JUICE": "fiva"
+    "juice": "fiva"
   },
   {
-    "JUNGLE": "covema"
+    "jungle": "covema"
   },
   {
-    "JUST": "le˜a"
+    "just": "le˜a"
   },
   {
-    "JUSTIFY": "thepolu"
+    "justify": "thepolu"
   },
   {
-    "KEEPER": "sinu"
+    "keeper": "sinu"
   },
   {
-    "KEG": "Šbe"
+    "keg": "šbe"
   },
   {
-    "KEY": "ferame"
+    "key": "ferame"
   },
   {
-    "KINDNESS": "ileda"
+    "kindness": "ileda"
   },
   {
-    "KILLER": "macofi"
+    "killer": "macofi"
   },
   {
-    "KISS": "tima"
+    "kiss": "tima"
   },
   {
-    "KING": "afedo"
+    "king": "afedo"
   },
   {
-    "KNEAD": "yathi"
+    "knead": "yathi"
   },
   {
-    "KNIFE": "ceta"
+    "knife": "ceta"
   },
   {
-    "KNIGHT": "cavŠre"
+    "knight": "cavšre"
   },
   {
-    "KNIT": "nanathe"
+    "knit": "nanathe"
   },
   {
-    "KNOT": "cithasi"
+    "knot": "cithasi"
   },
   {
-    "LACE": "arane"
+    "lace": "arane"
   },
   {
-    "LAKE": "˜onali"
+    "lake": "˜onali"
   },
   {
-    "LARD": "muthe"
+    "lard": "muthe"
   },
   {
-    "LARK": "sidaya"
+    "lark": "sidaya"
   },
   {
-    "LARVA": "boniti"
+    "larva": "boniti"
   },
   {
-    "LAST": "aba"
+    "last": "aba"
   },
   {
-    "LAW": "mera"
+    "law": "mera"
   },
   {
-    "LAZY": "nere"
+    "lazy": "nere"
   },
   {
-    "LEADER": "raneci"
+    "leader": "raneci"
   },
   {
-    "LEAF": "ale"
+    "leaf": "ale"
   },
   {
-    "LEAK": "Šyile"
+    "leak": "šyile"
   },
   {
-    "LEAN": "eri"
+    "lean": "eri"
   },
   {
-    "LEECH": "awathi"
+    "leech": "awathi"
   },
   {
-    "LEGEND": "liceva"
+    "legend": "liceva"
   },
   {
-    "LENS": "dena"
+    "lens": "dena"
   },
   {
-    "LEOPARD": "icem"
+    "leopard": "icem"
   },
   {
-    "LEPER": "emothe"
+    "leper": "emothe"
   },
   {
-    "LEPROSY": "˜acada"
+    "leprosy": "˜acada"
   },
   {
-    "LETTER": "˜ora"
+    "letter": "˜ora"
   },
   {
-    "LIE": "lice˜i"
+    "lie": "lice˜i"
   },
   {
-    "LIGHT": "a˜eli"
+    "light": "a˜eli"
   },
   {
-    "LIGHTNING": "thefra"
+    "lightning": "thefra"
   },
   {
-    "LIMB": "il‚"
+    "limb": "il‚"
   },
   {
-    "LIP": "eneya"
+    "lip": "eneya"
   },
   {
-    "LISTEN": "edinu"
+    "listen": "edinu"
   },
   {
-    "LIZARD": "cimathi"
+    "lizard": "cimathi"
   },
   {
-    "LOBSTER": "ru˜ava"
+    "lobster": "ru˜ava"
   },
   {
-    "LOCK": "icala"
+    "lock": "icala"
   },
   {
-    "LONE": "osi"
+    "lone": "osi"
   },
   {
-    "LONG": "beresi"
+    "long": "beresi"
   },
   {
-    "LOOT": "tireve"
+    "loot": "tireve"
   },
   {
-    "LORD": "rete"
+    "lord": "rete"
   },
   {
-    "LOST": "lena"
+    "lost": "lena"
   },
   {
-    "LOUSE": "lenipe"
+    "louse": "lenipe"
   },
   {
-    "LOVE": "enela"
+    "love": "enela"
   },
   {
-    "LOW": "rafethe"
+    "low": "rafethe"
   },
   {
-    "LUNCH": "equelu"
+    "lunch": "equelu"
   },
   {
-    "LUNG": "lave"
+    "lung": "lave"
   },
   {
-    "LURID": "rali"
+    "lurid": "rali"
   },
   {
-    "LURCH": "eth£ni"
+    "lurch": "eth£ni"
   },
   {
-    "LURK": "moba"
+    "lurk": "moba"
   },
   {
-    "LUSH": "n¢queme"
+    "lush": "n¢queme"
   },
   {
-    "LUST": "nthari"
+    "lust": "nthari"
   },
   {
-    "LUTE": "fale"
+    "lute": "fale"
   },
   {
-    "LYRIC": "lapama"
+    "lyric": "lapama"
   },
   {
-    "MAGGOT": "ez‚li"
+    "maggot": "ez‚li"
   },
   {
-    "MAGIC": "isila"
+    "magic": "isila"
   },
   {
-    "MAN": "onino"
+    "man": "onino"
   },
   {
-    "MANGE": "mathe"
+    "mange": "mathe"
   },
   {
-    "MANY": "eda"
+    "many": "eda"
   },
   {
-    "MARSH": "im•la"
+    "marsh": "im•la"
   },
   {
-    "MARTYR": "relmi"
+    "martyr": "relmi"
   },
   {
-    "MASTER": "ithera"
+    "master": "ithera"
   },
   {
-    "MAW": "iwo"
+    "maw": "iwo"
   },
   {
-    "MEAD": "tiwuthi"
+    "mead": "tiwuthi"
   },
   {
-    "MEADOW": "pari"
+    "meadow": "pari"
   },
   {
-    "MEAL_DOM": "cithi"
+    "meal_dom": "cithi"
   },
   {
-    "MEAL_GROUND": "theth‚fa"
+    "meal_ground": "theth‚fa"
   },
   {
-    "MEAT": "lethiro"
+    "meat": "lethiro"
   },
   {
-    "MEDITATION": "neba"
+    "meditation": "neba"
   },
   {
-    "MELLOW": "nowo"
+    "mellow": "nowo"
   },
   {
-    "MENACE": "sofip—"
+    "menace": "sofip—"
   },
   {
-    "MESS": "n¡letha"
+    "mess": "n¡letha"
   },
   {
-    "METAL": "lethi"
+    "metal": "lethi"
   },
   {
-    "MIDNIGHT": "mevena"
+    "midnight": "mevena"
   },
   {
-    "MIGHTY": "thiyira"
+    "mighty": "thiyira"
   },
   {
-    "MIGHTINESS": "avithe"
+    "mightiness": "avithe"
   },
   {
-    "MILE": "ide"
+    "mile": "ide"
   },
   {
-    "MINCE": "caca"
+    "mince": "caca"
   },
   {
-    "MIND": "sede"
+    "mind": "sede"
   },
   {
-    "MINION": "mafa"
+    "minion": "mafa"
   },
   {
-    "MIRROR": "opeya"
+    "mirror": "opeya"
   },
   {
-    "MISERY": "mamica"
+    "misery": "mamica"
   },
   {
-    "MIST": "enure"
+    "mist": "enure"
   },
   {
-    "MITE": "lotheye"
+    "mite": "lotheye"
   },
   {
-    "MOLD": "edimi"
+    "mold": "edimi"
   },
   {
-    "MOLE": "seye"
+    "mole": "seye"
   },
   {
-    "MOLTEN": "mesica"
+    "molten": "mesica"
   },
   {
-    "MONKEY": "rith‚"
+    "monkey": "rith‚"
   },
   {
-    "MOON": "anaye"
+    "moon": "anaye"
   },
   {
-    "MONGER": "mirala"
+    "monger": "mirala"
   },
   {
-    "MOTH": "nevi"
+    "moth": "nevi"
   },
   {
-    "MOTHER": "el‚de"
+    "mother": "el‚de"
   },
   {
-    "MOUSE": "yali"
+    "mouse": "yali"
   },
   {
-    "MOUTH": "ela"
+    "mouth": "ela"
   },
   {
-    "MUCK": "corowa"
+    "muck": "corowa"
   },
   {
-    "MUD": "salapa"
+    "mud": "salapa"
   },
   {
-    "MUFFIN": "ilafe"
+    "muffin": "ilafe"
   },
   {
-    "MULE": "efama"
+    "mule": "efama"
   },
   {
-    "MUNCH": "amafi"
+    "munch": "amafi"
   },
   {
-    "MURDER": "rathi"
+    "murder": "rathi"
   },
   {
-    "MUSH": "nathe"
+    "mush": "nathe"
   },
   {
-    "MUSHROOM": "oba"
+    "mushroom": "oba"
   },
   {
-    "MUSIC": "sanera"
+    "music": "sanera"
   },
   {
-    "MYSTERY": "vulo"
+    "mystery": "vulo"
   },
   {
-    "MYTH": "mo˜o"
+    "myth": "mo˜o"
   },
   {
-    "NAIL": "thŠdi"
+    "nail": "thšdi"
   },
   {
-    "NASTY": "rele"
+    "nasty": "rele"
   },
   {
-    "NATURE": "amala"
+    "nature": "amala"
   },
   {
-    "NECRO": "athoma"
+    "necro": "athoma"
   },
   {
-    "NEGATIVE": "mori"
+    "negative": "mori"
   },
   {
-    "NEGATE": "ocithe"
+    "negate": "ocithe"
   },
   {
-    "NEO": "ami"
+    "neo": "ami"
   },
   {
-    "NEST": "arima"
+    "nest": "arima"
   },
   {
-    "NESTLE": "cina"
+    "nestle": "cina"
   },
   {
-    "NET": "ecate"
+    "net": "ecate"
   },
   {
-    "NETTLE": "finele"
+    "nettle": "finele"
   },
   {
-    "NEW": "lila"
+    "new": "lila"
   },
   {
-    "NEWT": "risemi"
+    "newt": "risemi"
   },
   {
-    "NIBBLE": "yade"
+    "nibble": "yade"
   },
   {
-    "NIGHT": "lith‚me"
+    "night": "lith‚me"
   },
   {
-    "NIGHTMARE": "oquar¡"
+    "nightmare": "oquar¡"
   },
   {
-    "NOBLE": "ramu"
+    "noble": "ramu"
   },
   {
-    "NOOSE": "marice"
+    "noose": "marice"
   },
   {
-    "NORTH": "‚mara"
+    "north": "‚mara"
   },
   {
-    "NOSE": "era"
+    "nose": "era"
   },
   {
-    "NULL": "nafa"
+    "null": "nafa"
   },
   {
-    "NUMBER": "noletha"
+    "number": "noletha"
   },
   {
-    "NURTURE": "una"
+    "nurture": "una"
   },
   {
-    "NUT": "apasi"
+    "nut": "apasi"
   },
   {
-    "OAK": "lulo"
+    "oak": "lulo"
   },
   {
-    "OAR": "aditha"
+    "oar": "aditha"
   },
   {
-    "OAT": "rifu"
+    "oat": "rifu"
   },
   {
-    "OBLIVION": "taritha"
+    "oblivion": "taritha"
   },
   {
-    "OCEAN": "romi"
+    "ocean": "romi"
   },
   {
-    "OLD": "vado"
+    "old": "vado"
   },
   {
-    "OMEN": "oroni"
+    "omen": "oroni"
   },
   {
-    "ONE": "ena"
+    "one": "ena"
   },
   {
-    "ONE_PREF": "ime"
+    "one_pref": "ime"
   },
   {
-    "ONION": "mecifa"
+    "onion": "mecifa"
   },
   {
-    "OOZE": "neca"
+    "ooze": "neca"
   },
   {
-    "OPEN": "ba"
+    "open": "ba"
   },
   {
-    "ORB": "niwora"
+    "orb": "niwora"
   },
   {
-    "OVER": "ani"
+    "over": "ani"
   },
   {
-    "OWL": "necalo"
+    "owl": "necalo"
   },
   {
-    "OX": "cile"
+    "ox": "cile"
   },
   {
-    "PACK": "sethe"
+    "pack": "sethe"
   },
   {
-    "PAD_NOUN": "lemi"
+    "pad_noun": "lemi"
   },
   {
-    "PAD_VERB": "wani"
+    "pad_verb": "wani"
   },
   {
-    "PAGE": "epe"
+    "page": "epe"
   },
   {
-    "PAIN": "l•cara"
+    "pain": "l•cara"
   },
   {
-    "PAINT": "bila"
+    "paint": "bila"
   },
   {
-    "PALE": "yefiri"
+    "pale": "yefiri"
   },
   {
-    "PALM": "mimi"
+    "palm": "mimi"
   },
   {
-    "PANT": "thifa"
+    "pant": "thifa"
   },
   {
-    "PANTHER": "r‚nuna"
+    "panther": "r‚nuna"
   },
   {
-    "PANTS": "nive"
+    "pants": "nive"
   },
   {
-    "PAPER": "yane"
+    "paper": "yane"
   },
   {
-    "PEACE": "ero"
+    "peace": "ero"
   },
   {
-    "PEACH": "quemi"
+    "peach": "quemi"
   },
   {
-    "PEPPER": "tithithi"
+    "pepper": "tithithi"
   },
   {
-    "PHLEGM": "wothana"
+    "phlegm": "wothana"
   },
   {
-    "PIG": "sano"
+    "pig": "sano"
   },
   {
-    "PIT": "nimo"
+    "pit": "nimo"
   },
   {
-    "PITCH": "kecewa"
+    "pitch": "kecewa"
   },
   {
-    "PLAGUE": "weri"
+    "plague": "weri"
   },
   {
-    "PLANT": "mana"
+    "plant": "mana"
   },
   {
-    "PLANTER": "eyeli"
+    "planter": "eyeli"
   },
   {
-    "PLOT": "ranitha"
+    "plot": "ranitha"
   },
   {
-    "POCKET_NOUN": "nele"
+    "pocket_noun": "nele"
   },
   {
-    "POCKET_VERB": "cimere"
+    "pocket_verb": "cimere"
   },
   {
-    "POISON": "uthimi"
+    "poison": "uthimi"
   },
   {
-    "PORTAL": "cama"
+    "portal": "cama"
   },
   {
-    "POWER": "an•va"
+    "power": "an•va"
   },
   {
-    "PRANK": "lana"
+    "prank": "lana"
   },
   {
-    "PREGNANT": "imeva"
+    "pregnant": "imeva"
   },
   {
-    "PRIDE": "fene"
+    "pride": "fene"
   },
   {
-    "PRIEST": "melela"
+    "priest": "melela"
   },
   {
-    "PRIM": "coquani"
+    "prim": "coquani"
   },
   {
-    "PRIME": "omi"
+    "prime": "omi"
   },
   {
-    "PRIMITIVE": "leru"
+    "primitive": "leru"
   },
   {
-    "PROFANE": "f¡thaca"
+    "profane": "f¡thaca"
   },
   {
-    "PROPHECY": "etha"
+    "prophecy": "etha"
   },
   {
-    "PROPHET": "ethi"
+    "prophet": "ethi"
   },
   {
-    "PROWL": "covace"
+    "prowl": "covace"
   },
   {
-    "PUKE": "ra˜afa"
+    "puke": "ra˜afa"
   },
   {
-    "PULL": "yupe"
+    "pull": "yupe"
   },
   {
-    "PULLEY": "ureli"
+    "pulley": "ureli"
   },
   {
-    "PULP": "rifi"
+    "pulp": "rifi"
   },
   {
-    "PUNCH": "cova"
+    "punch": "cova"
   },
   {
-    "PURPLE": "l•nethu"
+    "purple": "l•nethu"
   },
   {
-    "PUS": "p¡ware"
+    "pus": "p¡ware"
   },
   {
-    "PUTRID": "letheca"
+    "putrid": "letheca"
   },
   {
-    "QUAKE": "ratha"
+    "quake": "ratha"
   },
   {
-    "QUEEN": "evala"
+    "queen": "evala"
   },
   {
-    "QUICK": "emi"
+    "quick": "emi"
   },
   {
-    "QUILL": "asi"
+    "quill": "asi"
   },
   {
-    "RABBIT": "anale"
+    "rabbit": "anale"
   },
   {
-    "RABBLE": "naquithe"
+    "rabble": "naquithe"
   },
   {
-    "RACE_GROUP": "nina"
+    "race_group": "nina"
   },
   {
-    "RACE_VERB": "Šbire"
+    "race_verb": "šbire"
   },
   {
-    "RACK": "memica"
+    "rack": "memica"
   },
   {
-    "RAG": "dema"
+    "rag": "dema"
   },
   {
-    "RAGE": "ritho"
+    "rage": "ritho"
   },
   {
-    "RAIN": "imere"
+    "rain": "imere"
   },
   {
-    "RAKE": "nafe"
+    "rake": "nafe"
   },
   {
-    "RAM": "¡lathe"
+    "ram": "¡lathe"
   },
   {
-    "RAMPAGE": "baslata"
+    "rampage": "baslata"
   },
   {
-    "RANDOM": "yŠrefa"
+    "random": "yšrefa"
   },
   {
-    "RANSACK": "ludŠ"
+    "ransack": "ludš"
   },
   {
-    "RAPTOR": "cethire"
+    "raptor": "cethire"
   },
   {
-    "RAT": "thapa"
+    "rat": "thapa"
   },
   {
-    "RAUNCH": "ffema"
+    "raunch": "ffema"
   },
   {
-    "RAVAGER": "methi"
+    "ravager": "methi"
   },
   {
-    "RAVEN": "ceca"
+    "raven": "ceca"
   },
   {
-    "RAW": "yeque"
+    "raw": "yeque"
   },
   {
-    "RAZOR": "avathe"
+    "razor": "avathe"
   },
   {
-    "RED": "ni˜ira"
+    "red": "ni˜ira"
   },
   {
-    "REGAL": "lithi"
+    "regal": "lithi"
   },
   {
-    "REIGN": "vimeba"
+    "reign": "vimeba"
   },
   {
-    "REIN": "reli"
+    "rein": "reli"
   },
   {
-    "REND": "feca"
+    "rend": "feca"
   },
   {
-    "RIDER": "rile"
+    "rider": "rile"
   },
   {
-    "RIM": "niti"
+    "rim": "niti"
   },
   {
-    "RING_OBJECT": "mithu"
+    "ring_object": "mithu"
   },
   {
-    "RING_SOUND": "rev‚"
+    "ring_sound": "rev‚"
   },
   {
-    "RIP": "seca"
+    "rip": "seca"
   },
   {
-    "RIPE": "elu"
+    "ripe": "elu"
   },
   {
-    "RIPPER": "p—tha"
+    "ripper": "p—tha"
   },
   {
-    "RISE": "evane"
+    "rise": "evane"
   },
   {
-    "RITE": "nepema"
+    "rite": "nepema"
   },
   {
-    "RIVER": "mimale"
+    "river": "mimale"
   },
   {
-    "ROCK": "athe"
+    "rock": "athe"
   },
   {
-    "ROGUE": "birelo"
+    "rogue": "birelo"
   },
   {
-    "ROMANCE": "lidava"
+    "romance": "lidava"
   },
   {
-    "ROOM": "imira"
+    "room": "imira"
   },
   {
-    "ROOMY": "api"
+    "roomy": "api"
   },
   {
-    "ROOT": "nemo"
+    "root": "nemo"
   },
   {
-    "ROSE": "sareve"
+    "rose": "sareve"
   },
   {
-    "ROT": "feware"
+    "rot": "feware"
   },
   {
-    "ROUGH": "otha"
+    "rough": "otha"
   },
   {
-    "ROYAL": "ariyi"
+    "royal": "ariyi"
   },
   {
-    "RUIN": "sebeca"
+    "ruin": "sebeca"
   },
   {
-    "RUIN_V": "cafu"
+    "ruin_v": "cafu"
   },
   {
-    "RULER": "thŠne"
+    "ruler": "thšne"
   },
   {
-    "RUMOR": "gilafi"
+    "rumor": "gilafi"
   },
   {
-    "RUST": "caqua"
+    "rust": "caqua"
   },
   {
-    "SABRE": "siniti"
+    "sabre": "siniti"
   },
   {
-    "SACK": "fama"
+    "sack": "fama"
   },
   {
-    "SAINT": "elale"
+    "saint": "elale"
   },
   {
-    "SALT": "cŠro"
+    "salt": "cšro"
   },
   {
-    "SALVE": "olaca"
+    "salve": "olaca"
   },
   {
-    "SAP": "fimere"
+    "sap": "fimere"
   },
   {
-    "SATIN": "lesana"
+    "satin": "lesana"
   },
   {
-    "SAVAGE": "cirethi"
+    "savage": "cirethi"
   },
   {
-    "SAVAGERY": "fetho"
+    "savagery": "fetho"
   },
   {
-    "SAVIOR": "mela"
+    "savior": "mela"
   },
   {
-    "SCAB": "isalo"
+    "scab": "isalo"
   },
   {
-    "SCAR": "wami"
+    "scar": "wami"
   },
   {
-    "SCOLD": "thoci"
+    "scold": "thoci"
   },
   {
-    "SCORPION": "nosaro"
+    "scorpion": "nosaro"
   },
   {
-    "SCRATCH": "timi"
+    "scratch": "timi"
   },
   {
-    "SCOURGE": "f‚tha"
+    "scourge": "f‚tha"
   },
   {
-    "SCREAM": "fiweno"
+    "scream": "fiweno"
   },
   {
-    "SCUM": "afetho"
+    "scum": "afetho"
   },
   {
-    "SEA": "lene"
+    "sea": "lene"
   },
   {
-    "SEAL_ANIMAL": "ricote"
+    "seal_animal": "ricote"
   },
   {
-    "SEAL_ART": "athi"
+    "seal_art": "athi"
   },
   {
-    "SEAM": "alere"
+    "seam": "alere"
   },
   {
-    "SEASON": "ameli"
+    "season": "ameli"
   },
   {
-    "SECRET": "sapi"
+    "secret": "sapi"
   },
   {
-    "SEDUCE": "lerine"
+    "seduce": "lerine"
   },
   {
-    "SEDUCER": "li˜etha"
+    "seducer": "li˜etha"
   },
   {
-    "SEED": "are"
+    "seed": "are"
   },
   {
-    "SEER": "ab¡mu"
+    "seer": "ab¡mu"
   },
   {
-    "SEIZE": "litho"
+    "seize": "litho"
   },
   {
-    "SERPENT": "relira"
+    "serpent": "relira"
   },
   {
-    "SERVANT": "cavemi"
+    "servant": "cavemi"
   },
   {
-    "SEVER": "sici"
+    "sever": "sici"
   },
   {
-    "SEWER": "caretha"
+    "sewer": "caretha"
   },
   {
-    "SHADOW": "obi"
+    "shadow": "obi"
   },
   {
-    "SHAFT": "isa"
+    "shaft": "isa"
   },
   {
-    "SHANK": "iz‚"
+    "shank": "iz‚"
   },
   {
-    "SHARK": "cequova"
+    "shark": "cequova"
   },
   {
-    "SHEAR": "inithi"
+    "shear": "inithi"
   },
   {
-    "SHEEN": "itha"
+    "sheen": "itha"
   },
   {
-    "SHELL": "caraca"
+    "shell": "caraca"
   },
   {
-    "SHELTER": "fera"
+    "shelter": "fera"
   },
   {
-    "SHIELD": "veca"
+    "shield": "veca"
   },
   {
-    "SHIMMER": "firi"
+    "shimmer": "firi"
   },
   {
-    "SHIP": "otira"
+    "ship": "otira"
   },
   {
-    "SHOOT": "sesi"
+    "shoot": "sesi"
   },
   {
-    "SHOW": "rara"
+    "show": "rara"
   },
   {
-    "SHRED": "rilovi"
+    "shred": "rilovi"
   },
   {
-    "SHRIEK": "bithili"
+    "shriek": "bithili"
   },
   {
-    "SHUT": "abo"
+    "shut": "abo"
   },
   {
-    "SICK": "fethida"
+    "sick": "fethida"
   },
   {
-    "SICKNESS": "macala"
+    "sickness": "macala"
   },
   {
-    "SIEGE": "thima"
+    "siege": "thima"
   },
   {
-    "SILENCE": "inori"
+    "silence": "inori"
   },
   {
-    "SILK": "yarare"
+    "silk": "yarare"
   },
   {
-    "SILKY": "amane"
+    "silky": "amane"
   },
   {
-    "SILT": "rema"
+    "silt": "rema"
   },
   {
-    "SILVER": "nelare"
+    "silver": "nelare"
   },
   {
-    "SIN": "vathi"
+    "sin": "vathi"
   },
   {
-    "SINEW": "tida"
+    "sinew": "tida"
   },
   {
-    "SING": "ova"
+    "sing": "ova"
   },
   {
-    "SISTER": "betha"
+    "sister": "betha"
   },
   {
-    "SKIRT_CLOTHING": "ecafe"
+    "skirt_clothing": "ecafe"
   },
   {
-    "SKIRT_VERB": "thecere"
+    "skirt_verb": "thecere"
   },
   {
-    "SKUNK": "dipane"
+    "skunk": "dipane"
   },
   {
-    "SKULL": "ome"
+    "skull": "ome"
   },
   {
-    "SKY": "eliye"
+    "sky": "eliye"
   },
   {
-    "SLAUGHTER": "roresa"
+    "slaughter": "roresa"
   },
   {
-    "SLAVE": "urepe"
+    "slave": "urepe"
   },
   {
-    "SLAYER": "mŠcre"
+    "slayer": "mšcre"
   },
   {
-    "SLIM": "anesa"
+    "slim": "anesa"
   },
   {
-    "SLIME": "quathe"
+    "slime": "quathe"
   },
   {
-    "SLING": "amate"
+    "sling": "amate"
   },
   {
-    "SLINK": "ilethe"
+    "slink": "ilethe"
   },
   {
-    "SLIT": "fi"
+    "slit": "fi"
   },
   {
-    "SLITHER": "mifali"
+    "slither": "mifali"
   },
   {
-    "SLIVER": "rili"
+    "sliver": "rili"
   },
   {
-    "SLOTH": "timeba"
+    "sloth": "timeba"
   },
   {
-    "SLUG": "ralu"
+    "slug": "ralu"
   },
   {
-    "SMASH": "eremo"
+    "smash": "eremo"
   },
   {
-    "SMILE": "lali"
+    "smile": "lali"
   },
   {
-    "SMITH": "macame"
+    "smith": "macame"
   },
   {
-    "SMOKE": "thafa"
+    "smoke": "thafa"
   },
   {
-    "SMOOTH": "tane"
+    "smooth": "tane"
   },
   {
-    "SMOULDER": "ca‡e"
+    "smoulder": "ca‡e"
   },
   {
-    "SNACK": "selera"
+    "snack": "selera"
   },
   {
-    "SNAKE": "imaza"
+    "snake": "imaza"
   },
   {
-    "SNEER": "ifada"
+    "sneer": "ifada"
   },
   {
-    "SNOT": "esaga"
+    "snot": "esaga"
   },
   {
-    "SNUGGLE": "meleye"
+    "snuggle": "meleye"
   },
   {
-    "SOIL": "avi"
+    "soil": "avi"
   },
   {
-    "SOLDIER": "ethare"
+    "soldier": "ethare"
   },
   {
-    "SOOT": "sva"
+    "soot": "sva"
   },
   {
-    "SOOTHE": "lawa"
+    "soothe": "lawa"
   },
   {
-    "SORROW": "nathi"
+    "sorrow": "nathi"
   },
   {
-    "SOUL": "mare"
+    "soul": "mare"
   },
   {
-    "SOUND": "ca˜a"
+    "sound": "ca˜a"
   },
   {
-    "SOUTH": "liri"
+    "south": "liri"
   },
   {
-    "SPASM": "erawi"
+    "spasm": "erawi"
   },
   {
-    "SPAWN": "recile"
+    "spawn": "recile"
   },
   {
-    "SPEAR": "iti"
+    "spear": "iti"
   },
   {
-    "SPELL": "seneri"
+    "spell": "seneri"
   },
   {
-    "SPICE": "thithi"
+    "spice": "thithi"
   },
   {
-    "SPIDER": "thepani"
+    "spider": "thepani"
   },
   {
-    "SPIDERY": "terathi"
+    "spidery": "terathi"
   },
   {
-    "SPIKE": "ey"
+    "spike": "ey"
   },
   {
-    "SPIN": "thitha"
+    "spin": "thitha"
   },
   {
-    "SPINE": "micaca"
+    "spine": "micaca"
   },
   {
-    "SPIRIT": "ano"
+    "spirit": "ano"
   },
   {
-    "SPIT": "fefu"
+    "spit": "fefu"
   },
   {
-    "SPITTLE": "belepi"
+    "spittle": "belepi"
   },
   {
-    "SPOIL": "nimife"
+    "spoil": "nimife"
   },
   {
-    "SPOON": "theni"
+    "spoon": "theni"
   },
   {
-    "SPRING_NOUN": "˜elawe"
+    "spring_noun": "˜elawe"
   },
   {
-    "SPRING_SEASON": "amena"
+    "spring_season": "amena"
   },
   {
-    "SPRING_VERB": "inere"
+    "spring_verb": "inere"
   },
   {
-    "SPRY": "awiyi"
+    "spry": "awiyi"
   },
   {
-    "SPY": "namova"
+    "spy": "namova"
   },
   {
-    "SQUID": "nethitha"
+    "squid": "nethitha"
   },
   {
-    "SQUIRM": "‚tha"
+    "squirm": "‚tha"
   },
   {
-    "STAB": "ridi"
+    "stab": "ridi"
   },
   {
-    "STAFF": "sila"
+    "staff": "sila"
   },
   {
-    "STALK": "nala"
+    "stalk": "nala"
   },
   {
-    "STAND": "rino"
+    "stand": "rino"
   },
   {
-    "STAR": "ila"
+    "star": "ila"
   },
   {
-    "STEED": "irumo"
+    "steed": "irumo"
   },
   {
-    "STARVE": "theva"
+    "starve": "theva"
   },
   {
-    "STEAL": "tafizŠ"
+    "steal": "tafizš"
   },
   {
-    "STEEL": "inire"
+    "steel": "inire"
   },
   {
-    "STENCH": "nithami"
+    "stench": "nithami"
   },
   {
-    "STERN": "thani"
+    "stern": "thani"
   },
   {
-    "STICK_WOOD": "sanetha"
+    "stick_wood": "sanetha"
   },
   {
-    "STICK_VERB": "ith¢"
+    "stick_verb": "ith¢"
   },
   {
-    "STICKY": "mebithi"
+    "sticky": "mebithi"
   },
   {
-    "STONE": "queca"
+    "stone": "queca"
   },
   {
-    "STORM": "vinena"
+    "storm": "vinena"
   },
   {
-    "STRANGE": "amomu"
+    "strange": "amomu"
   },
   {
-    "STRAP": "fepa"
+    "strap": "fepa"
   },
   {
-    "STRAPPING_ADJ": "cale"
+    "strapping_adj": "cale"
   },
   {
-    "STRAW": "a˜ife"
+    "straw": "a˜ife"
   },
   {
-    "STRAY": "Šle"
+    "stray": "šle"
   },
   {
-    "STRENGTH": "ecan¢"
+    "strength": "ecan¢"
   },
   {
-    "STRETCH": "fithithe"
+    "stretch": "fithithe"
   },
   {
-    "STRIKE": "liwa"
+    "strike": "liwa"
   },
   {
-    "STROKE": "lelu"
+    "stroke": "lelu"
   },
   {
-    "STUNT": "cuwiwe"
+    "stunt": "cuwiwe"
   },
   {
-    "STUNTED": "cecica"
+    "stunted": "cecica"
   },
   {
-    "STUPID": "bifi"
+    "stupid": "bifi"
   },
   {
-    "STUTTER": "afibi"
+    "stutter": "afibi"
   },
   {
-    "STYLE": "kifino"
+    "style": "kifino"
   },
   {
-    "SUBORDINATE": "ecani"
+    "subordinate": "ecani"
   },
   {
-    "SUCK": "pelese"
+    "suck": "pelese"
   },
   {
-    "SUFFERING": "necimi"
+    "suffering": "necimi"
   },
   {
-    "SUGAR": "fili"
+    "sugar": "fili"
   },
   {
-    "SULLY": "¡rede"
+    "sully": "¡rede"
   },
   {
-    "SULLEN": "ciquo"
+    "sullen": "ciquo"
   },
   {
-    "SUMMER": "imara"
+    "summer": "imara"
   },
   {
-    "SUN": "ami˜a"
+    "sun": "ami˜a"
   },
   {
-    "SUNDER": "rezici"
+    "sunder": "rezici"
   },
   {
-    "SUPPER": "enani"
+    "supper": "enani"
   },
   {
-    "SURPRISE": "ilicŠ"
+    "surprise": "ilicš"
   },
   {
-    "SWAMP": "calovi"
+    "swamp": "calovi"
   },
   {
-    "SWEAT": "thelo"
+    "sweat": "thelo"
   },
   {
-    "SWEET": "tira"
+    "sweet": "tira"
   },
   {
-    "SWIFT": "ilire"
+    "swift": "ilire"
   },
   {
-    "SWIM": "enolo"
+    "swim": "enolo"
   },
   {
-    "SWINE": "omala"
+    "swine": "omala"
   },
   {
-    "SWORD": "ocade"
+    "sword": "ocade"
   },
   {
-    "SYRUP": "aru"
+    "syrup": "aru"
   },
   {
-    "TAKER": "nafi"
+    "taker": "nafi"
   },
   {
-    "TAIL": "yawo"
+    "tail": "yawo"
   },
   {
-    "TALON": "cata"
+    "talon": "cata"
   },
   {
-    "TAR": "—mapi"
+    "tar": "—mapi"
   },
   {
-    "TARNISH": "malabu"
+    "tarnish": "malabu"
   },
   {
-    "TELL": "s‚le"
+    "tell": "s‚le"
   },
   {
-    "TEMPEST": "rayali"
+    "tempest": "rayali"
   },
   {
-    "TEAR": "mirise"
+    "tear": "mirise"
   },
   {
-    "TERROR": "asithi"
+    "terror": "asithi"
   },
   {
-    "THIEF": "urithi"
+    "thief": "urithi"
   },
   {
-    "THIRST": "pacata"
+    "thirst": "pacata"
   },
   {
-    "THORN": "iki"
+    "thorn": "iki"
   },
   {
-    "THRALL": "nenu"
+    "thrall": "nenu"
   },
   {
-    "THREE": "sara"
+    "three": "sara"
   },
   {
-    "THROAT": "cinili"
+    "throat": "cinili"
   },
   {
-    "THRONE": "toneri"
+    "throne": "toneri"
   },
   {
-    "THROWER": "ireci"
+    "thrower": "ireci"
   },
   {
-    "THUNDER": "eletha"
+    "thunder": "eletha"
   },
   {
-    "TICK_ANIMAL": "pamŠne"
+    "tick_animal": "pamšne"
   },
   {
-    "TICK_CLOCK": "wele"
+    "tick_clock": "wele"
   },
   {
-    "TIGHT": "febe"
+    "tight": "febe"
   },
   {
-    "TIME": "nela"
+    "time": "nela"
   },
   {
-    "TOAD": "imadu"
+    "toad": "imadu"
   },
   {
-    "TOE": "nani"
+    "toe": "nani"
   },
   {
-    "TOMB": "nelara"
+    "tomb": "nelara"
   },
   {
-    "TOME": "emora"
+    "tome": "emora"
   },
   {
-    "TONGUE": "alotha"
+    "tongue": "alotha"
   },
   {
-    "TOOTH": "vare"
+    "tooth": "vare"
   },
   {
-    "TORMENT": "melici"
+    "torment": "melici"
   },
   {
-    "TOUCH": "mave"
+    "touch": "mave"
   },
   {
-    "TOUCHY": "fucali"
+    "touchy": "fucali"
   },
   {
-    "TOUR": "rima"
+    "tour": "rima"
   },
   {
-    "TOWER": "atheli"
+    "tower": "atheli"
   },
   {
-    "TRAIL": "lanale"
+    "trail": "lanale"
   },
   {
-    "TRANCE": "omina"
+    "trance": "omina"
   },
   {
-    "TRAP": "abola"
+    "trap": "abola"
   },
   {
-    "TRASH": "repefe"
+    "trash": "repefe"
   },
   {
-    "TREASURE": "bera˜i"
+    "treasure": "bera˜i"
   },
   {
-    "TREAT": "ini"
+    "treat": "ini"
   },
   {
-    "TREATY": "liriva"
+    "treaty": "liriva"
   },
   {
-    "TRENCH": "wŠweya"
+    "trench": "wšweya"
   },
   {
-    "TRIBE": "emene"
+    "tribe": "emene"
   },
   {
-    "TRICK": "merame"
+    "trick": "merame"
   },
   {
-    "TRICKERY": "wawana"
+    "trickery": "wawana"
   },
   {
-    "TRIM": "rene"
+    "trim": "rene"
   },
   {
-    "TROUBLE": "raliwo"
+    "trouble": "raliwo"
   },
   {
-    "TUG": "ifa"
+    "tug": "ifa"
   },
   {
-    "TULIP": "enina"
+    "tulip": "enina"
   },
   {
-    "TUMBLE": "carethe"
+    "tumble": "carethe"
   },
   {
-    "TUMOR": "ni˜eru"
+    "tumor": "ni˜eru"
   },
   {
-    "TURMOIL": "bedotha"
+    "turmoil": "bedotha"
   },
   {
-    "TUSK": "iferi"
+    "tusk": "iferi"
   },
   {
-    "TWEET": "pipe"
+    "tweet": "pipe"
   },
   {
-    "TWILIGHT": "nawara"
+    "twilight": "nawara"
   },
   {
-    "TWINE": "withe"
+    "twine": "withe"
   },
   {
-    "TWIST": "relŠpi"
+    "twist": "relšpi"
   },
   {
-    "TWO": "teme"
+    "two": "teme"
   },
   {
-    "UGLY": "n—madu"
+    "ugly": "n—madu"
   },
   {
-    "ULCER": "calethe"
+    "ulcer": "calethe"
   },
   {
-    "ULTIMATE": "eno"
+    "ultimate": "eno"
   },
   {
-    "ULTRA": "irani"
+    "ultra": "irani"
   },
   {
-    "UNBRIDLED": "ayafa"
+    "unbridled": "ayafa"
   },
   {
-    "UNCLE": "ibi"
+    "uncle": "ibi"
   },
   {
-    "UNGODLY": "thanetha"
+    "ungodly": "thanetha"
   },
   {
-    "UNHOLY": "nabethe"
+    "unholy": "nabethe"
   },
   {
-    "UNKEMPT": "ethaci"
+    "unkempt": "ethaci"
   },
   {
-    "UNSEEN": "ne˜e"
+    "unseen": "ne˜e"
   },
   {
-    "UNTOWARD": "laseca"
+    "untoward": "laseca"
   },
   {
-    "UNWELCOME": "ycal‚"
+    "unwelcome": "ycal‚"
   },
   {
-    "URN": "rupola"
+    "urn": "rupola"
   },
   {
-    "USELESS": "liva"
+    "useless": "liva"
   },
   {
-    "VANDAL": "ir¢ci"
+    "vandal": "ir¢ci"
   },
   {
-    "VEGETABLE": "ine"
+    "vegetable": "ine"
   },
   {
-    "VEGETATE": "Šnira"
+    "vegetate": "šnira"
   },
   {
-    "VEGETATION": "inale"
+    "vegetation": "inale"
   },
   {
-    "VELVET": "penopu"
+    "velvet": "penopu"
   },
   {
-    "VENOM": "neleni"
+    "venom": "neleni"
   },
   {
-    "VERMIN": "nirica"
+    "vermin": "nirica"
   },
   {
-    "VILE": "r£fa"
+    "vile": "r£fa"
   },
   {
-    "VIOLATOR": "thatero"
+    "violator": "thatero"
   },
   {
-    "VIOLENCE": "p¢bor¢"
+    "violence": "p¢bor¢"
   },
   {
-    "VIOLET": "mira"
+    "violet": "mira"
   },
   {
-    "VIPER": "lefari"
+    "viper": "lefari"
   },
   {
-    "VOICE": "l‚na"
+    "voice": "l‚na"
   },
   {
-    "VOID": "ava"
+    "void": "ava"
   },
   {
-    "VOLCANO": "amoya"
+    "volcano": "amoya"
   },
   {
-    "VOMIT": "cemato"
+    "vomit": "cemato"
   },
   {
-    "VULTURE": "rath¢na"
+    "vulture": "rath¢na"
   },
   {
-    "WAIL": "omela"
+    "wail": "omela"
   },
   {
-    "WANDER": "taveve"
+    "wander": "taveve"
   },
   {
-    "WAR": "athama"
+    "war": "athama"
   },
   {
-    "WARRIOR": "ese"
+    "warrior": "ese"
   },
   {
-    "WASP": "avafi"
+    "wasp": "avafi"
   },
   {
-    "WASTE": "tholatho"
+    "waste": "tholatho"
   },
   {
-    "WATCH": "casatha"
+    "watch": "casatha"
   },
   {
-    "WATCHFUL": "aletha"
+    "watchful": "aletha"
   },
   {
-    "WAVE": "iru"
+    "wave": "iru"
   },
   {
-    "WAVY": "rerela"
+    "wavy": "rerela"
   },
   {
-    "WEAR": "ribe"
+    "wear": "ribe"
   },
   {
-    "WEASEL": "lethina"
+    "weasel": "lethina"
   },
   {
-    "WEAVER": "namamo"
+    "weaver": "namamo"
   },
   {
-    "WEED": "mibi"
+    "weed": "mibi"
   },
   {
-    "WEIGHT": "eba"
+    "weight": "eba"
   },
   {
-    "WEIRD": "yemila"
+    "weird": "yemila"
   },
   {
-    "WERE": "rivi"
+    "were": "rivi"
   },
   {
-    "WEST": "am£ra"
+    "west": "am£ra"
   },
   {
-    "WHEAT": "yafa"
+    "wheat": "yafa"
   },
   {
-    "WHEEL": "rere"
+    "wheel": "rere"
   },
   {
-    "WHIP": "baci"
+    "whip": "baci"
   },
   {
-    "WHISK": "¢‡a"
+    "whisk": "¢‡a"
   },
   {
-    "WHISKY": "nathaci"
+    "whisky": "nathaci"
   },
   {
-    "WHISPER": "ay¡ti"
+    "whisper": "ay¡ti"
   },
   {
-    "WHITE": "alire"
+    "white": "alire"
   },
   {
-    "WICKED": "rithesa"
+    "wicked": "rithesa"
   },
   {
-    "WILD": "the˜ise"
+    "wild": "the˜ise"
   },
   {
-    "WILL": "cera"
+    "will": "cera"
   },
   {
-    "WING": "nine"
+    "wing": "nine"
   },
   {
-    "WINTER": "olova"
+    "winter": "olova"
   },
   {
-    "WISP": "ririli"
+    "wisp": "ririli"
   },
   {
-    "WITCH": "lanami"
+    "witch": "lanami"
   },
   {
-    "WONDER_NOUN": "adela"
+    "wonder_noun": "adela"
   },
   {
-    "WONDER_VERB": "ibena"
+    "wonder_verb": "ibena"
   },
   {
-    "WOOD": "ave"
+    "wood": "ave"
   },
   {
-    "WORK": "eyila"
+    "work": "eyila"
   },
   {
-    "WORM": "nema"
+    "worm": "nema"
   },
   {
-    "WRAITH": "athara"
+    "wraith": "athara"
   },
   {
-    "WRATH": "th•seri"
+    "wrath": "th•seri"
   },
   {
-    "WRETCH": "cicetha"
+    "wretch": "cicetha"
   },
   {
-    "YARN": "ire"
+    "yarn": "ire"
   },
   {
-    "YEAR": "em‚ne"
+    "year": "em‚ne"
   },
   {
-    "YEARLING": "a˜ara"
+    "yearling": "a˜ara"
   },
   {
-    "YELLOW": "yame"
+    "yellow": "yame"
   },
   {
-    "YORE": "lirena"
+    "yore": "lirena"
   },
   {
-    "YOUNG": "˜ce"
+    "young": "˜ce"
   },
   {
-    "YOUTH": "capi"
+    "youth": "capi"
   },
   {
-    "ZEAL": "careme"
+    "zeal": "careme"
   },
   {
-    "ZEALOT": "gifama"
+    "zealot": "gifama"
   },
   {
-    "ZEPHYR": "defiyi"
+    "zephyr": "defiyi"
   },
   {
-    "EARTH": "saba"
+    "earth": "saba"
   },
   {
-    "ARTIFACT": "eth¢ca"
+    "artifact": "eth¢ca"
   },
   {
-    "BED": "sira"
+    "bed": "sira"
   },
   {
-    "BUD": "alisa"
+    "bud": "alisa"
   },
   {
-    "CAVORT": "liqui"
+    "cavort": "liqui"
   },
   {
-    "COMMON": "lade"
+    "common": "lade"
   },
   {
-    "DAUB": "wama"
+    "daub": "wama"
   },
   {
-    "DESERT": "avetho"
+    "desert": "avetho"
   },
   {
-    "DESSERT": "laci"
+    "dessert": "laci"
   },
   {
-    "DIAMOND": "akera"
+    "diamond": "akera"
   },
   {
-    "DOMAIN": "elathu"
+    "domain": "elathu"
   },
   {
-    "DREAM": "tharama"
+    "dream": "tharama"
   },
   {
-    "TIN": "thono"
+    "tin": "thono"
   },
   {
-    "COPPER": "can•"
+    "copper": "can•"
   },
   {
-    "BRONZE": "dagi"
+    "bronze": "dagi"
   },
   {
-    "GRANITE": "bamo"
+    "granite": "bamo"
   },
   {
-    "FANCY": "vipa"
+    "fancy": "vipa"
   },
   {
-    "FARM": "t•baf¡"
+    "farm": "t•baf¡"
   },
   {
-    "FIELD": "lora"
+    "field": "lora"
   },
   {
-    "FROTH": "laceci"
+    "froth": "laceci"
   },
   {
-    "GENIUS": "ariva"
+    "genius": "ariva"
   },
   {
-    "GLACIER": "vaci"
+    "glacier": "vaci"
   },
   {
-    "GURGLE": "quadere"
+    "gurgle": "quadere"
   },
   {
-    "IMPALE": "retha"
+    "impale": "retha"
   },
   {
-    "JOIN": "dala"
+    "join": "dala"
   },
   {
-    "JADE": "anara"
+    "jade": "anara"
   },
   {
-    "IVORY": "ciquara"
+    "ivory": "ciquara"
   },
   {
-    "LAND": "lina"
+    "land": "lina"
   },
   {
-    "LATHER": "qu¡leli"
+    "lather": "qu¡leli"
   },
   {
-    "LIMP": "binoli"
+    "limp": "binoli"
   },
   {
-    "LUCID": "leni"
+    "lucid": "leni"
   },
   {
-    "MOUNTAIN": "thele"
+    "mountain": "thele"
   },
   {
-    "MUCUS": "lathi"
+    "mucus": "lathi"
   },
   {
-    "PATTERN": "lalala"
+    "pattern": "lalala"
   },
   {
-    "PEBBLE": "ata"
+    "pebble": "ata"
   },
   {
-    "BOULDER": "saro"
+    "boulder": "saro"
   },
   {
-    "PETAL": "l¡ceyi"
+    "petal": "l¡ceyi"
   },
   {
-    "DROPLET": "niri"
+    "droplet": "niri"
   },
   {
-    "PINNACLE": "ilo"
+    "pinnacle": "ilo"
   },
   {
-    "PLAIN": "yeme"
+    "plain": "yeme"
   },
   {
-    "PLAINADJ": "levo"
+    "plainadj": "levo"
   },
   {
-    "POINT": "cila"
+    "point": "cila"
   },
   {
-    "POT": "momo"
+    "pot": "momo"
   },
   {
-    "PRAIRIE": "elana"
+    "prairie": "elana"
   },
   {
-    "RUSH": "vime"
+    "rush": "vime"
   },
   {
-    "SLAP": "laca"
+    "slap": "laca"
   },
   {
-    "SLEEVE": "elema"
+    "sleeve": "elema"
   },
   {
-    "SPECK": "idi"
+    "speck": "idi"
   },
   {
-    "STEPPE": "ilare"
+    "steppe": "ilare"
   },
   {
-    "TENTACLE": "vimara"
+    "tentacle": "vimara"
   },
   {
-    "TEST": "odata"
+    "test": "odata"
   },
   {
-    "TROT": "adapi"
+    "trot": "adapi"
   },
   {
-    "TUB": "onapu"
+    "tub": "onapu"
   },
   {
-    "TUBE": "cinami"
+    "tube": "cinami"
   },
   {
-    "TUNDRA": "zepave"
+    "tundra": "zepave"
   },
   {
-    "UN": "seno"
+    "un": "seno"
   },
   {
-    "WADDLE": "nima"
+    "waddle": "nima"
   },
   {
-    "WEALTH": "rano"
+    "wealth": "rano"
   },
   {
-    "WEEVIL": "sifina"
+    "weevil": "sifina"
   },
   {
-    "WHIM": "cipi"
+    "whim": "cipi"
   },
   {
-    "WHIRL": "elira"
+    "whirl": "elira"
   },
   {
-    "WORLD": "teyo"
+    "world": "teyo"
   },
   {
-    "DESERTVERB": "abita"
+    "desertverb": "abita"
   },
   {
-    "FANCYVERB": "dita"
+    "fancyverb": "dita"
   },
   {
-    "LIMPVERB": "fala"
+    "limpverb": "fala"
   },
   {
-    "POINTVERB": "mipa"
+    "pointverb": "mipa"
   },
   {
-    "PANTOMIME": "taviti"
+    "pantomime": "taviti"
   },
   {
-    "SLUDGE": "paro"
+    "sludge": "paro"
   },
   {
-    "GOO": "eyutho"
+    "goo": "eyutho"
   },
   {
-    "REALM": "camade"
+    "realm": "camade"
   },
   {
-    "PLANE": "athira"
+    "plane": "athira"
   },
   {
-    "DIMENSION": "def¡ni"
+    "dimension": "def¡ni"
   },
   {
-    "UNIVERSE": "ecamo"
+    "universe": "ecamo"
   },
   {
-    "PLANET": "anenu"
+    "planet": "anenu"
   },
   {
-    "LIVID": "yifi"
+    "livid": "yifi"
   },
   {
-    "TEPID": "dewe"
+    "tepid": "dewe"
   },
   {
-    "HONEST": "thana"
+    "honest": "thana"
   },
   {
-    "KINGDOM": "araca"
+    "kingdom": "araca"
   },
   {
-    "EMPIRE": "rasima"
+    "empire": "rasima"
   },
   {
-    "CONFEDERATION": "rimara"
+    "confederation": "rimara"
   },
   {
-    "SIMPLE": "delado"
+    "simple": "delado"
   },
   {
-    "TROOPER": "ayero"
+    "trooper": "ayero"
   },
   {
-    "CRIMSON": "umola"
+    "crimson": "umola"
   },
   {
-    "DUNE": "vadane"
+    "dune": "vadane"
   },
   {
-    "DIRECT": "aca"
+    "direct": "aca"
   },
   {
-    "CLASH": "esala"
+    "clash": "esala"
   },
   {
-    "FOREVER": "yula"
+    "forever": "yula"
   },
   {
-    "SUBTLE": "raniya"
+    "subtle": "raniya"
   },
   {
-    "PUPPET": "arepa"
+    "puppet": "arepa"
   },
   {
-    "HEGEMON": "athelo"
+    "hegemon": "athelo"
   },
   {
-    "AMAZE": "vole"
+    "amaze": "vole"
   },
   {
-    "ALCHEMY": "zamesi"
+    "alchemy": "zamesi"
   },
   {
-    "INSIGHT": "nami"
+    "insight": "nami"
   },
   {
-    "UNION": "eva"
+    "union": "eva"
   },
   {
-    "CONFEDERACY": "yed‚le"
+    "confederacy": "yed‚le"
   },
   {
-    "SPEAK": "lelo"
+    "speak": "lelo"
   },
   {
-    "SPEAKER": "lere"
+    "speaker": "lere"
   },
   {
-    "PERSUADE": "amare"
+    "persuade": "amare"
   },
   {
-    "PERSUADER": "theveme"
+    "persuader": "theveme"
   },
   {
-    "CONTROL": "ade"
+    "control": "ade"
   },
   {
-    "CONTROLLER": "darala"
+    "controller": "darala"
   },
   {
-    "WORKER": "ipana"
+    "worker": "ipana"
   },
   {
-    "BASIC": "esame"
+    "basic": "esame"
   },
   {
-    "SYSTEM": "eritha"
+    "system": "eritha"
   },
   {
-    "RAY": "iya"
+    "ray": "iya"
   },
   {
-    "TARGET": "th•se"
+    "target": "th•se"
   },
   {
-    "BANK": "erani"
+    "bank": "erani"
   },
   {
-    "CLEAN": "reya"
+    "clean": "reya"
   },
   {
-    "DRIVE": "iyilo"
+    "drive": "iyilo"
   },
   {
-    "SOAR": "aya"
+    "soar": "aya"
   },
   {
-    "GLORY": "kara"
+    "glory": "kara"
   },
   {
-    "DISMAL": "malatha"
+    "dismal": "malatha"
   },
   {
-    "RADIANCE": "irami"
+    "radiance": "irami"
   },
   {
-    "PINE": "blalo"
+    "pine": "blalo"
   },
   {
-    "MESSIAH": "leyara"
+    "messiah": "leyara"
   },
   {
-    "CRAFT": "nedu"
+    "craft": "nedu"
   },
   {
-    "LABOR": "equa"
+    "labor": "equa"
   },
   {
-    "DISCOVER": "overe"
+    "discover": "overe"
   },
   {
-    "PROLIFERATE": "irada"
+    "proliferate": "irada"
   },
   {
-    "CHUNK": "niba"
+    "chunk": "niba"
   },
   {
-    "SLIP": "senawi"
+    "slip": "senawi"
   },
   {
-    "SLIDE": "mabo"
+    "slide": "mabo"
   },
   {
-    "SINGLE": "afate"
+    "single": "afate"
   },
   {
-    "PICK": "mubara"
+    "pick": "mubara"
   },
   {
-    "TONGS": "aslef"
+    "tongs": "aslef"
   },
   {
-    "PERMANENCY": "yara"
+    "permanency": "yara"
   },
   {
-    "RESPONSIBLE": "lithu"
+    "responsible": "lithu"
   },
   {
-    "REQUIRE": "enotho"
+    "require": "enotho"
   },
   {
-    "ROOTVERB": "dene"
+    "rootverb": "dene"
   },
   {
-    "BLIZZARD": "ethela"
+    "blizzard": "ethela"
   },
   {
-    "GENERAL": "carila"
+    "general": "carila"
   },
   {
-    "MEMORY": "nŠmetho"
+    "memory": "nšmetho"
   },
   {
-    "CONSTRUCT": "arabe"
+    "construct": "arabe"
   },
   {
-    "LAMB": "milema"
+    "lamb": "milema"
   },
   {
-    "TOAST": "emafi"
+    "toast": "emafi"
   },
   {
-    "GROSS": "fitha"
+    "gross": "fitha"
   },
   {
-    "PADDLE": "apa"
+    "paddle": "apa"
   },
   {
-    "COUNCIL": "¢lomi"
+    "council": "¢lomi"
   },
   {
-    "COUNSEL": "anomi"
+    "counsel": "anomi"
   },
   {
-    "GNARLED": "ruwire"
+    "gnarled": "ruwire"
   },
   {
-    "STUMP": "m•fi"
+    "stump": "m•fi"
   },
   {
-    "NAUGHTY": "ye‡a˜a"
+    "naughty": "ye‡a˜a"
   },
   {
-    "PLAY FUN": "mithe"
+    "play fun": "mithe"
   },
   {
-    "PLAY PERFORM": "quathari"
+    "play perform": "quathari"
   },
   {
-    "FLIMSY": "r‚ne"
+    "flimsy": "r‚ne"
   },
   {
-    "GREATER": "lale"
+    "greater": "lale"
   },
   {
-    "GREATEST": "lira"
+    "greatest": "lira"
   },
   {
-    "LESSER": "fime"
+    "lesser": "fime"
   },
   {
-    "LEAST": "fumi"
+    "least": "fumi"
   },
   {
-    "BEARD": "eslome"
+    "beard": "eslome"
   },
   {
-    "DREAD": "lutha˜Š"
+    "dread": "lutha˜š"
   },
   {
-    "WALL": "ferale"
+    "wall": "ferale"
   },
   {
-    "WALLOW": "•nebe"
+    "wallow": "•nebe"
   },
   {
-    "TAX": "fac¡"
+    "tax": "fac¡"
   },
   {
-    "FRAGRANCE": "camela"
+    "fragrance": "camela"
   },
   {
-    "LANTERN": "lepe"
+    "lantern": "lepe"
   },
   {
-    "TORCH": "eti"
+    "torch": "eti"
   },
   {
-    "WATER": "alu"
+    "water": "alu"
   },
   {
-    "WINE": "ipivi"
+    "wine": "ipivi"
   },
   {
-    "LINE": "inupi"
+    "line": "inupi"
   },
   {
-    "MINE": "cŠthutha"
+    "mine": "cšthutha"
   },
   {
-    "WAX": "imepe"
+    "wax": "imepe"
   },
   {
-    "SHOVE": "amo"
+    "shove": "amo"
   },
   {
-    "SHOVEL": "n˜atha"
+    "shovel": "n˜atha"
   },
   {
-    "MELT": "cane"
+    "melt": "cane"
   },
   {
-    "WRACK": "yithe"
+    "wrack": "yithe"
   },
   {
-    "GLITTER": "fecici"
+    "glitter": "fecici"
   },
   {
-    "SPARK": "niweni"
+    "spark": "niweni"
   },
   {
-    "SPARKLE": "epeve"
+    "sparkle": "epeve"
   },
   {
-    "FLASH": "cayi"
+    "flash": "cayi"
   },
   {
-    "GLEAM": "e˜i"
+    "gleam": "e˜i"
   },
   {
-    "RUN": "ive"
+    "run": "ive"
   },
   {
-    "DASH": "varano"
+    "dash": "varano"
   },
   {
-    "SAVANT": "mequema"
+    "savant": "mequema"
   },
   {
-    "ROAR": "omo"
+    "roar": "omo"
   },
   {
-    "YELL": "vafe"
+    "yell": "vafe"
   },
   {
-    "ECHO": "sanene"
+    "echo": "sanene"
   },
   {
-    "HOLLOW": "omethu"
+    "hollow": "omethu"
   },
   {
-    "FULL": "lema"
+    "full": "lema"
   },
   {
-    "EMPTY": "cobesi"
+    "empty": "cobesi"
   },
   {
-    "WORD": "elina"
+    "word": "elina"
   },
   {
-    "INTENSE": "fava"
+    "intense": "fava"
   },
   {
-    "SAD": "¡la"
+    "sad": "¡la"
   },
   {
-    "GLAD": "˜ithi"
+    "glad": "˜ithi"
   },
   {
-    "TRAGEDY": "n¢riwa"
+    "tragedy": "n¢riwa"
   },
   {
-    "BELL": "ere"
+    "bell": "ere"
   },
   {
-    "BELLY": "feta"
+    "belly": "feta"
   },
   {
-    "TUMMY": "miga"
+    "tummy": "miga"
   },
   {
-    "SHOCK": "riqui"
+    "shock": "riqui"
   },
   {
-    "PONDER": "meco"
+    "ponder": "meco"
   },
   {
-    "PONDEROUS": "ceth‚da"
+    "ponderous": "ceth‚da"
   },
   {
-    "HEAVEN": "pacila"
+    "heaven": "pacila"
   },
   {
-    "ROUND": "thanemo"
+    "round": "thanemo"
   },
   {
-    "ROUNDED": "thinere"
+    "rounded": "thinere"
   },
   {
-    "UNSPEAKABLE": "nini"
+    "unspeakable": "nini"
   },
   {
-    "UNTHINKABLE": "nife"
+    "unthinkable": "nife"
   },
   {
-    "UNNAMEABLE": "nica"
+    "unnameable": "nica"
   },
   {
-    "CALAMITY": "carena"
+    "calamity": "carena"
   },
   {
-    "CYCLOPEAN": "sethere"
+    "cyclopean": "sethere"
   },
   {
-    "TAME": "bibawe"
+    "tame": "bibawe"
   },
   {
-    "UNTAMED": "etho"
+    "untamed": "etho"
   },
   {
-    "BURST": "ivatha"
+    "burst": "ivatha"
   },
   {
-    "METEOR": "aleni"
+    "meteor": "aleni"
   },
   {
-    "TRITE": "mitif"
+    "trite": "mitif"
   },
   {
-    "TRIFLE": "faqua"
+    "trifle": "faqua"
   },
   {
-    "RANK": "—ba"
+    "rank": "—ba"
   },
   {
-    "RANCOR": "ofe"
+    "rancor": "ofe"
   },
   {
-    "BITTER": "ufithe"
+    "bitter": "ufithe"
   },
   {
-    "SOUR": "alecu"
+    "sour": "alecu"
   },
   {
-    "DANGER": "eduma"
+    "danger": "eduma"
   },
   {
-    "IMPERVIOUS": "derle"
+    "impervious": "derle"
   },
   {
-    "UNSWERVING": "inime"
+    "unswerving": "inime"
   },
   {
-    "SWAY": "ceye"
+    "sway": "ceye"
   },
   {
-    "LUXURY": "salore"
+    "luxury": "salore"
   },
   {
-    "EUPHORIA": "ar¡"
+    "euphoria": "ar¡"
   },
   {
-    "SCINTILLATE": "thineli"
+    "scintillate": "thineli"
   },
   {
-    "DIVINE": "mecala"
+    "divine": "mecala"
   },
   {
-    "DIVIDE": "acira"
+    "divide": "acira"
   },
   {
-    "TAINT": "poyife"
+    "taint": "poyife"
   },
   {
-    "CORRUPT": "fadethe"
+    "corrupt": "fadethe"
   },
   {
-    "MALIGN SLANDER V": "mimamu"
+    "malign slander v": "mimamu"
   },
   {
-    "MALIGN ADJ": "yeri"
+    "malign adj": "yeri"
   },
   {
-    "MALIGNANT": "umathi"
+    "malignant": "umathi"
   },
   {
-    "TRUST": "thebe"
+    "trust": "thebe"
   },
   {
-    "DISTRUST": "paca"
+    "distrust": "paca"
   },
   {
-    "TRUSTWORTHY": "eyi"
+    "trustworthy": "eyi"
   },
   {
-    "UNTRUSTWORTHY": "manali"
+    "untrustworthy": "manali"
   },
   {
-    "DISHONEST": "enav‚"
+    "dishonest": "enav‚"
   },
   {
-    "BLIGHT": "voma"
+    "blight": "voma"
   },
   {
-    "CUNNING": "afi"
+    "cunning": "afi"
   },
   {
-    "SLY": "wat¢tho"
+    "sly": "wat¢tho"
   },
   {
-    "RUSTIC": "thatheci"
+    "rustic": "thatheci"
   },
   {
-    "HOMELY": "ayibi"
+    "homely": "ayibi"
   },
   {
-    "LONELY": "geme"
+    "lonely": "geme"
   },
   {
-    "LONESOME": "lepi"
+    "lonesome": "lepi"
   },
   {
-    "CLOSE": "eru"
+    "close": "eru"
   },
   {
-    "FORD": "romimi"
+    "ford": "romimi"
   },
   {
-    "WAY": "abi"
+    "way": "abi"
   },
   {
-    "WAYWARD": "elen£"
+    "wayward": "elen£"
   },
   {
-    "BANDIT": "veyico"
+    "bandit": "veyico"
   },
   {
-    "BRIGAND": "tathe"
+    "brigand": "tathe"
   },
   {
-    "MONSTER": "nane"
+    "monster": "nane"
   },
   {
-    "SENSE": "cereni"
+    "sense": "cereni"
   },
   {
-    "INSENSITIVE": "nemama"
+    "insensitive": "nemama"
   },
   {
-    "SENSUAL": "alana"
+    "sensual": "alana"
   },
   {
-    "ODOR": "miceli"
+    "odor": "miceli"
   },
   {
-    "MALODOROUS": "thato"
+    "malodorous": "thato"
   },
   {
-    "IGNORANT": "‚ceti"
+    "ignorant": "‚ceti"
   },
   {
-    "IGNOBLE": "ise"
+    "ignoble": "ise"
   },
   {
-    "HUMBLE": "rava"
+    "humble": "rava"
   },
   {
-    "MORAL": "nayi"
+    "moral": "nayi"
   },
   {
-    "IMMORAL": "nowe"
+    "immoral": "nowe"
   },
   {
-    "SUPERIOR": "erifi"
+    "superior": "erifi"
   },
   {
-    "INFERIOR": "ecide"
+    "inferior": "ecide"
   },
   {
-    "INFINITE": "cerete"
+    "infinite": "cerete"
   },
   {
-    "SABLE COLOR": "tuthi"
+    "sable color": "tuthi"
   },
   {
-    "FELL CRUEL": "malethe"
+    "fell cruel": "malethe"
   },
   {
-    "FELL HIDE": "inefa"
+    "fell hide": "inefa"
   },
   {
-    "PELT HIDE": "cacame"
+    "pelt hide": "cacame"
   },
   {
-    "DIGNITY": "iyane"
+    "dignity": "iyane"
   },
   {
-    "UNDIGNIFIED": "nice˜i"
+    "undignified": "nice˜i"
   },
   {
-    "INDIGNATION": "wiyi"
+    "indignation": "wiyi"
   },
   {
-    "RIGHT BETTER": "enore"
+    "right better": "enore"
   },
   {
-    "ABSOLUTE": "atle"
+    "absolute": "atle"
   },
   {
-    "FAIR EVEN": "ode"
+    "fair even": "ode"
   },
   {
-    "FAIR COLOR": "ewiwi"
+    "fair color": "ewiwi"
   },
   {
-    "SNARL": "thithu"
+    "snarl": "thithu"
   },
   {
-    "LOYAL": "oy‚le"
+    "loyal": "oy‚le"
   },
   {
-    "DISLOYAL": "ori"
+    "disloyal": "ori"
   },
   {
-    "HELP": "pavi"
+    "help": "pavi"
   },
   {
-    "FRIEND": "ramana"
+    "friend": "ramana"
   },
   {
-    "COURTESY": "mirathi"
+    "courtesy": "mirathi"
   },
   {
-    "CHEERFUL": "firil"
+    "cheerful": "firil"
   },
   {
-    "THRIFT": "¡˜¡mo"
+    "thrift": "¡˜¡mo"
   },
   {
-    "BRAVERY": "imase"
+    "bravery": "imase"
   },
   {
-    "REVERE": "fiya"
+    "revere": "fiya"
   },
   {
-    "VENERATE": "obe"
+    "venerate": "obe"
   },
   {
-    "SALUTE": "risa"
+    "salute": "risa"
   },
   {
-    "NATION": "mememi"
+    "nation": "mememi"
   },
   {
-    "DRINK": "vafice"
+    "drink": "vafice"
   },
   {
-    "CONSIDERATE": "icifa"
+    "considerate": "icifa"
   },
   {
-    "CONVENIENT": "aqueve"
+    "convenient": "aqueve"
   },
   {
-    "INCONSIDERATE": "f¡mu"
+    "inconsiderate": "f¡mu"
   },
   {
-    "INCONVENIENT": "¡neri"
+    "inconvenient": "¡neri"
   },
   {
-    "CONTINENT": "fev¡la"
+    "continent": "fev¡la"
   },
   {
-    "FLIGHT": "ilama"
+    "flight": "ilama"
   },
   {
-    "FLIGHTY": "thethi"
+    "flighty": "thethi"
   },
   {
-    "GILD": "caci"
+    "gild": "caci"
   },
   {
-    "GUILD": "refi"
+    "guild": "refi"
   },
   {
-    "MERCHANT": "ficemi"
+    "merchant": "ficemi"
   },
   {
-    "TRADE": "lath"
+    "trade": "lath"
   },
   {
-    "PLAIT": "erare"
+    "plait": "erare"
   },
   {
-    "BRAID": "quali"
+    "braid": "quali"
   },
   {
-    "PLEAT": "tefe"
+    "pleat": "tefe"
   },
   {
-    "FOLD": "ofa"
+    "fold": "ofa"
   },
   {
-    "BUNION": "betava"
+    "bunion": "betava"
   },
   {
-    "UNCOMMON": "ileca"
+    "uncommon": "ileca"
   },
   {
-    "RARE": "cicane"
+    "rare": "cicane"
   },
   {
-    "SCARCE": "‚fi"
+    "scarce": "‚fi"
   },
   {
-    "REMARKABLE": "vemi"
+    "remarkable": "vemi"
   },
   {
-    "UNREMARKABLE": "if¢"
+    "unremarkable": "if¢"
   },
   {
-    "SOLITARY": "themi"
+    "solitary": "themi"
   },
   {
-    "BEND": "thiyo"
+    "bend": "thiyo"
   },
   {
-    "BLAME": "abama"
+    "blame": "abama"
   },
   {
-    "BLAMELESS": "nanina"
+    "blameless": "nanina"
   },
   {
-    "TWIG": "aye"
+    "twig": "aye"
   },
   {
-    "GIRDER": "ceni"
+    "girder": "ceni"
   },
   {
-    "TRUSS": "irecu"
+    "truss": "irecu"
   },
   {
-    "SKEWER": "viye"
+    "skewer": "viye"
   },
   {
-    "SCULPT": "cerethe"
+    "sculpt": "cerethe"
   },
   {
-    "TRESS": "mimi"
+    "tress": "mimi"
   },
   {
-    "LOCK HAIR": "athina"
+    "lock hair": "athina"
   },
   {
-    "CURL": "ewirŠ"
+    "curl": "ewirš"
   },
   {
-    "TUFT": "thal£"
+    "tuft": "thal£"
   },
   {
-    "MEAN NASTY": "osata"
+    "mean nasty": "osata"
   },
   {
-    "MEAN LOW": "n‚tho"
+    "mean low": "n‚tho"
   },
   {
-    "SHAME": "yatha"
+    "shame": "yatha"
   },
   {
-    "ASHAMED": "nulas¢"
+    "ashamed": "nulas¢"
   },
   {
-    "STEAM": "tayol¡"
+    "steam": "tayol¡"
   },
   {
-    "FERN": "ithith¡"
+    "fern": "ithith¡"
   },
   {
-    "FERRY": "litha"
+    "ferry": "litha"
   },
   {
-    "GULLY": "˜emeni"
+    "gully": "˜emeni"
   },
   {
-    "WORRY": "letha"
+    "worry": "letha"
   },
   {
-    "LION": "alatha"
+    "lion": "alatha"
   },
   {
-    "CACTUS": "masami"
+    "cactus": "masami"
   },
   {
-    "DESK": "th‚mi"
+    "desk": "th‚mi"
   },
   {
-    "BOTTLE": "ithe"
+    "bottle": "ithe"
   },
   {
-    "SHINGLE": "oco"
+    "shingle": "oco"
   },
   {
-    "BLANKET": "there"
+    "blanket": "there"
   },
   {
-    "CLOUD": "atera"
+    "cloud": "atera"
   },
   {
-    "PLATE": "lethine"
+    "plate": "lethine"
   },
   {
-    "ROAD": "fatha"
+    "road": "fatha"
   },
   {
-    "HOUSE": "feretha"
+    "house": "feretha"
   },
   {
-    "BEAN": "mawada"
+    "bean": "mawada"
   },
   {
-    "BLOCK DEFEND": "canara"
+    "block defend": "canara"
   },
   {
-    "BLOCK SQUARE": "epuba"
+    "block square": "epuba"
   },
   {
-    "FOUNTAIN": "ivi"
+    "fountain": "ivi"
   },
   {
-    "PEARL": "amayi"
+    "pearl": "amayi"
   },
   {
-    "PEAR": "¡le"
+    "pear": "¡le"
   },
   {
-    "THIMBLE": "ocathu"
+    "thimble": "ocathu"
   },
   {
-    "BUNNY": "nede"
+    "bunny": "nede"
   },
   {
-    "ROPE": "imiwŠ"
+    "rope": "imiwš"
   },
   {
-    "STRING": "nale"
+    "string": "nale"
   },
   {
-    "WIRE": "mopi"
+    "wire": "mopi"
   },
   {
-    "LASH": "thepa"
+    "lash": "thepa"
   },
   {
-    "SORCERY": "ifu"
+    "sorcery": "ifu"
   },
   {
-    "SORCERER": "ifo"
+    "sorcerer": "ifo"
   },
   {
-    "ENSORCEL": "icibe"
+    "ensorcel": "icibe"
   },
   {
-    "BEWITCH": "efa˜i"
+    "bewitch": "efa˜i"
   },
   {
-    "MAGICIAN": "rimi"
+    "magician": "rimi"
   },
   {
-    "CONJURE": "nera"
+    "conjure": "nera"
   },
   {
-    "CONJURER": "macati"
+    "conjurer": "macati"
   },
   {
-    "ENCHANT": "ewŠ"
+    "enchant": "ewš"
   },
   {
-    "ENCHANTER": "cen¢pi"
+    "enchanter": "cen¢pi"
   },
   {
-    "LANCE": "thebi"
+    "lance": "thebi"
   },
   {
-    "LANCER": "reri"
+    "lancer": "reri"
   },
   {
-    "STINK": "ifalo"
+    "stink": "ifalo"
   },
   {
-    "FRECKLE": "thimi"
+    "freckle": "thimi"
   },
   {
-    "PIMPLE": "˜itana"
+    "pimple": "˜itana"
   },
   {
-    "WART": "wi˜eve"
+    "wart": "wi˜eve"
   },
   {
-    "BLOTCH": "redo"
+    "blotch": "redo"
   },
   {
-    "CALLUS": "¡ci"
+    "callus": "¡ci"
   },
   {
-    "WIND STORM": "ametha"
+    "wind storm": "ametha"
   },
   {
-    "WIND CLOCK": "‚litho"
+    "wind clock": "‚litho"
   },
   {
-    "HAZE": "wetholi"
+    "haze": "wetholi"
   },
   {
-    "SKIN": "tipi"
+    "skin": "tipi"
   },
   {
-    "SHIN": "cana"
+    "shin": "cana"
   },
   {
-    "TORTURE": "umethe"
+    "torture": "umethe"
   },
   {
-    "TOOL": "wanala"
+    "tool": "wanala"
   },
   {
-    "SCHOLAR": "naquina"
+    "scholar": "naquina"
   },
   {
-    "WEEP": "cedi"
+    "weep": "cedi"
   },
   {
-    "MASSIVE": "‚ra"
+    "massive": "‚ra"
   },
   {
-    "LARGE": "lacifa"
+    "large": "lacifa"
   },
   {
-    "SMALL": "lifela"
+    "small": "lifela"
   },
   {
-    "LOAF": "nedŠ"
+    "loaf": "nedš"
   },
   {
-    "TILE": "‡ile"
+    "tile": "‡ile"
   },
   {
-    "SPORT": "lima"
+    "sport": "lima"
   },
   {
-    "SEARCH": "sali"
+    "search": "sali"
   },
   {
-    "STALE": "i‡i"
+    "stale": "i‡i"
   },
   {
-    "FRESH": "tha˜ebo"
+    "fresh": "tha˜ebo"
   },
   {
-    "RUB": "er¡"
+    "rub": "er¡"
   },
   {
-    "WORTHY": "cira"
+    "worthy": "cira"
   },
   {
-    "WORTHLESS": "nafamo"
+    "worthless": "nafamo"
   },
   {
-    "FRIGHT": "n¡yo"
+    "fright": "n¡yo"
   },
   {
-    "REVOLTING": "rurame"
+    "revolting": "rurame"
   },
   {
-    "DISGUST": "quema"
+    "disgust": "quema"
   },
   {
-    "OUTRAGE": "namice"
+    "outrage": "namice"
   },
   {
-    "CRUEL": "mino"
+    "cruel": "mino"
   },
   {
-    "DEVIANT": "thayama"
+    "deviant": "thayama"
   },
   {
-    "DEVIOUS": "nitha"
+    "devious": "nitha"
   },
   {
-    "FABULOUS": "elethi"
+    "fabulous": "elethi"
   },
   {
-    "MORALITY": "cetele"
+    "morality": "cetele"
   },
   {
-    "IMMORALITY": "wumaya"
+    "immorality": "wumaya"
   },
   {
-    "SKIN VERB": "feceve"
+    "skin verb": "feceve"
   },
   {
-    "SKINNY": "lini"
+    "skinny": "lini"
   },
   {
-    "NARROW": "renire"
+    "narrow": "renire"
   },
   {
-    "GRIEF": "comewi"
+    "grief": "comewi"
   },
   {
-    "BELT": "thfi"
+    "belt": "thfi"
   },
   {
-    "SANDAL": "thazi"
+    "sandal": "thazi"
   },
   {
-    "FUTURE": "nithara"
+    "future": "nithara"
   },
   {
-    "PAST": "todi"
+    "past": "todi"
   },
   {
-    "PRESENT": "ayu"
+    "present": "ayu"
   },
   {
-    "BITE": "imici"
+    "bite": "imici"
   },
   {
-    "SPLIT": "fenefe"
+    "split": "fenefe"
   },
   {
-    "BRASH": "bara"
+    "brash": "bara"
   },
   {
-    "BRAZEN": "nath¢de"
+    "brazen": "nath¢de"
   },
   {
-    "STRANGLE": "wareci"
+    "strangle": "wareci"
   },
   {
-    "GALLOWS": "bitafe"
+    "gallows": "bitafe"
   },
   {
-    "MUSCLE": "dana"
+    "muscle": "dana"
   },
   {
-    "DIM": "ethili"
+    "dim": "ethili"
   },
   {
-    "SPURT": "fafire"
+    "spurt": "fafire"
   },
   {
-    "GRAVEL": "niye"
+    "gravel": "niye"
   },
   {
-    "RISK": "semili"
+    "risk": "semili"
   },
   {
-    "CHANCE": "ce˜eca"
+    "chance": "ce˜eca"
   },
   {
-    "CHANNEL": "teze"
+    "channel": "teze"
   },
   {
-    "MIRTH": "ale˜a"
+    "mirth": "ale˜a"
   },
   {
-    "GLEE": "a˜epa"
+    "glee": "a˜epa"
   },
   {
-    "VICTIM": "nafalo"
+    "victim": "nafalo"
   },
   {
-    "STRANGER": "wanara"
+    "stranger": "wanara"
   },
   {
-    "DRAB": "elafa"
+    "drab": "elafa"
   },
   {
-    "VISION": "asada"
+    "vision": "asada"
   },
   {
-    "VISIONARY": "ilaya"
+    "visionary": "ilaya"
   },
   {
-    "ORACLE": "anetha"
+    "oracle": "anetha"
   },
   {
-    "UTTER": "ipo"
+    "utter": "ipo"
   },
   {
-    "DECIDE": "thira"
+    "decide": "thira"
   },
   {
-    "DECISIVE": "ralo"
+    "decisive": "ralo"
   },
   {
-    "SPECIAL": "pelina"
+    "special": "pelina"
   },
   {
-    "AUTHOR": "cofari"
+    "author": "cofari"
   },
   {
-    "AUTHORITY": "vŠlami"
+    "authority": "všlami"
   },
   {
-    "PORTENT": "inala"
+    "portent": "inala"
   },
   {
-    "MOMENTOUS": "alabe"
+    "momentous": "alabe"
   },
   {
-    "INFALLIBLE": "aciso"
+    "infallible": "aciso"
   },
   {
-    "AMBIGUOUS": "˜a˜ura"
+    "ambiguous": "˜a˜ura"
   },
   {
-    "CURIOUS": "inena"
+    "curious": "inena"
   },
   {
-    "OBSCURE": "˜nathi"
+    "obscure": "˜nathi"
   },
   {
-    "OBSCENE": "fethene"
+    "obscene": "fethene"
   },
   {
-    "OBSTACLE": "ladino"
+    "obstacle": "ladino"
   },
   {
-    "VULGAR": "wumamo"
+    "vulgar": "wumamo"
   },
   {
-    "OMINOUS": "sathus¡"
+    "ominous": "sathus¡"
   },
   {
-    "ISLAND": "elifa"
+    "island": "elifa"
   },
   {
-    "CHURCH": "fi˜opi"
+    "church": "fi˜opi"
   },
   {
-    "TEMPLE": "fothi"
+    "temple": "fothi"
   },
   {
-    "CULT": "ro˜ere"
+    "cult": "ro˜ere"
   },
   {
-    "COVEN": "neslane"
+    "coven": "neslane"
   },
   {
-    "SECT": "nalet¡"
+    "sect": "nalet¡"
   },
   {
-    "ORDER GROUP": "feri"
+    "order group": "feri"
   },
   {
-    "CREED": "d‚veli"
+    "creed": "d‚veli"
   },
   {
-    "COMMUNION": "enŠ"
+    "communion": "enš"
   },
   {
-    "DOCTRINE": "loruca"
+    "doctrine": "loruca"
   },
   {
-    "FAITH": "awa"
+    "faith": "awa"
   },
   {
-    "DENOMINATION": "ofara"
+    "denomination": "ofara"
   },
   {
-    "TEMPLE HEAD": "odi˜a"
+    "temple head": "odi˜a"
   },
   {
-    "OCCULT": "neyamo"
+    "occult": "neyamo"
   },
   {
-    "ORDER CONCEPT": "cadame"
+    "order concept": "cadame"
   },
   {
-    "FAITH LOYALTY": "thari"
+    "faith loyalty": "thari"
   },
   {
-    "GUILT": "wirethi"
+    "guilt": "wirethi"
   },
   {
-    "BABY": "cema"
+    "baby": "cema"
   },
   {
-    "BLEED": "vathe"
+    "bleed": "vathe"
   },
   {
-    "GIRL": "pamata"
+    "girl": "pamata"
   },
   {
-    "BOY": "¢nowe"
+    "boy": "¢nowe"
   },
   {
-    "WOMAN": "˜ariwi"
+    "woman": "˜ariwi"
   },
   {
-    "FLAG": "redari"
+    "flag": "redari"
   },
   {
-    "BANNER": "nawo"
+    "banner": "nawo"
   },
   {
-    "WREATH": "canira"
+    "wreath": "canira"
   },
   {
-    "STANDARD FLAG": "falone"
+    "standard flag": "falone"
   },
   {
-    "TRUMPET": "palara"
+    "trumpet": "palara"
   },
   {
-    "GOAL": "ciba"
+    "goal": "ciba"
   },
   {
-    "JAIL": "lezitha"
+    "jail": "lezitha"
   },
   {
-    "PRISON": "recethi"
+    "prison": "recethi"
   },
   {
-    "LIBRARY": "dethara"
+    "library": "dethara"
   },
   {
-    "AVALANCHE": "˜ud•"
+    "avalanche": "˜ud•"
   },
   {
-    "STIGMA": "vadi"
+    "stigma": "vadi"
   },
   {
-    "SLICK": "eyaza"
+    "slick": "eyaza"
   },
   {
-    "TALK": "mowe"
+    "talk": "mowe"
   },
   {
-    "JAILER": "lithate"
+    "jailer": "lithate"
   },
   {
-    "STILL UNMOVING": "a‡Šya"
+    "still unmoving": "a‡šya"
   },
   {
-    "CALM": "valo"
+    "calm": "valo"
   },
   {
-    "HUSH": "sori"
+    "hush": "sori"
   },
   {
-    "LACONIC": "elathi"
+    "laconic": "elathi"
   },
   {
-    "LULL": "ibo"
+    "lull": "ibo"
   },
   {
-    "MUTE": "emino"
+    "mute": "emino"
   },
   {
-    "NOISELESS": "afa"
+    "noiseless": "afa"
   },
   {
-    "QUIESCENT": "£le"
+    "quiescent": "£le"
   },
   {
-    "QUIET": "seni"
+    "quiet": "seni"
   },
   {
-    "RETICENT": "tosace"
+    "reticent": "tosace"
   },
   {
-    "SATURNINE": "mokathi"
+    "saturnine": "mokathi"
   },
   {
-    "SPEECHLESS": "‡iri"
+    "speechless": "‡iri"
   },
   {
-    "TACITURN": "rer‚thi"
+    "taciturn": "rer‚thi"
   },
   {
-    "FORTUNE LUCK": "favane"
+    "fortune luck": "favane"
   },
   {
-    "FORTUNE WEALTH": "fawara"
+    "fortune wealth": "fawara"
   },
   {
-    "ACCIDENT": "matirŠ"
+    "accident": "matirš"
   },
   {
-    "CIRCUMSTANCE": "thici"
+    "circumstance": "thici"
   },
   {
-    "CONTINGENT": "lunaba"
+    "contingent": "lunaba"
   },
   {
-    "CONTINGENCY": "toli"
+    "contingency": "toli"
   },
   {
-    "COINCIDENCE": "a˜ifi"
+    "coincidence": "a˜ifi"
   },
   {
-    "FLUKE": "fimaca"
+    "fluke": "fimaca"
   },
   {
-    "LUCK": "icaye"
+    "luck": "icaye"
   },
   {
-    "CERTAIN": "lata"
+    "certain": "lata"
   },
   {
-    "UNCERTAIN": "feferi"
+    "uncertain": "feferi"
   },
   {
-    "FORTUITOUS": "layu"
+    "fortuitous": "layu"
   },
   {
-    "INCIDENTAL": "fucovo"
+    "incidental": "fucovo"
   },
   {
-    "AMUSE": "mase"
+    "amuse": "mase"
   },
   {
-    "PASTIME": "asibi"
+    "pastime": "asibi"
   },
   {
-    "DISTRACT ANNOY": "riraci"
+    "distract annoy": "riraci"
   },
   {
-    "DISTRACTION GAME": "arola"
+    "distraction game": "arola"
   },
   {
-    "DIVERSION GAME": "athame"
+    "diversion game": "athame"
   },
   {
-    "DIVERT DETOUR": "mfo"
+    "divert detour": "mfo"
   },
   {
-    "RECREATION GAME": "cipame"
+    "recreation game": "cipame"
   },
   {
-    "COMPETE": "iwe"
+    "compete": "iwe"
   },
   {
-    "CONTEST": "ita"
+    "contest": "ita"
   },
   {
-    "MATCH CONTEST": "pare"
+    "match contest": "pare"
   },
   {
-    "MATCH EQUAL": "limili"
+    "match equal": "limili"
   },
   {
-    "TOURNAMENT": "dethimi"
+    "tournament": "dethimi"
   },
   {
-    "PLAN": "nemathe"
+    "plan": "nemathe"
   },
   {
-    "SCENARIO": "finfa"
+    "scenario": "finfa"
   },
   {
-    "STRATEGY": "tiveyŠ"
+    "strategy": "tiveyš"
   },
   {
-    "TACTIC": "ti˜ipo"
+    "tactic": "ti˜ipo"
   },
   {
-    "AUTONOMY": "atara"
+    "autonomy": "atara"
   },
   {
-    "EMANCIPATE": "thimire"
+    "emancipate": "thimire"
   },
   {
-    "EXTRICATE": "lasi"
+    "extricate": "lasi"
   },
   {
-    "IMPUNITY": "mothani"
+    "impunity": "mothani"
   },
   {
-    "LIBERATE": "rama"
+    "liberate": "rama"
   },
   {
-    "LIBERTY": "ari"
+    "liberty": "ari"
   },
   {
-    "RELEASE": "ad‚ma"
+    "release": "ad‚ma"
   },
   {
-    "RELIEVE": "cere"
+    "relieve": "cere"
   },
   {
-    "EVEN": "nila"
+    "even": "nila"
   },
   {
-    "BALANCE": "rame"
+    "balance": "rame"
   },
   {
-    "EQUITY": "aline"
+    "equity": "aline"
   },
   {
-    "EQUIVALENCE": "elime"
+    "equivalence": "elime"
   },
   {
-    "PARITY": "e˜o"
+    "parity": "e˜o"
   },
   {
-    "STASIS": "moduve"
+    "stasis": "moduve"
   },
   {
-    "SYMMETRY": "rarami"
+    "symmetry": "rarami"
   },
   {
-    "EQUAL": "laco"
+    "equal": "laco"
   },
   {
-    "HARMONY": "oyomo"
+    "harmony": "oyomo"
   },
   {
-    "NEUTRALIZE": "tithefa"
+    "neutralize": "tithefa"
   },
   {
-    "NEUTRAL": "rise"
+    "neutral": "rise"
   },
   {
-    "STABLE UNCHANGING": "uyane"
+    "stable unchanging": "uyane"
   },
   {
-    "LULL MISLEAD": "civeri"
+    "lull mislead": "civeri"
   },
   {
-    "DOUR": "vafo"
+    "dour": "vafo"
   },
   {
-    "GLOOM": "vama"
+    "gloom": "vama"
   },
   {
-    "SEVERE": "febi"
+    "severe": "febi"
   },
   {
-    "GLUM": "lethathi"
+    "glum": "lethathi"
   },
   {
-    "IMAGE": "ilami"
+    "image": "ilami"
   },
   {
-    "SHRINE": "dama"
+    "shrine": "dama"
   },
   {
-    "SANCTUARY": "ralimi"
+    "sanctuary": "ralimi"
   },
   {
-    "MONASTERY": "iritha"
+    "monastery": "iritha"
   },
   {
-    "CONVENT": "rithini"
+    "convent": "rithini"
   },
   {
-    "CATHEDRAL": "erane"
+    "cathedral": "erane"
   },
   {
-    "CHAPEL": "alitha"
+    "chapel": "alitha"
   },
   {
-    "SANCTUM": "athave"
+    "sanctum": "athave"
   },
   {
-    "INFERNO": "radavi"
+    "inferno": "radavi"
   },
   {
-    "CONFLAGRATION": "bath¢re"
+    "conflagration": "bath¢re"
   },
   {
-    "FLARE": "lirina"
+    "flare": "lirina"
   },
   {
-    "HEAT": "thasa"
+    "heat": "thasa"
   },
   {
-    "SAND": "polefa"
+    "sand": "polefa"
   },
   {
-    "PILLAR": "¡cati"
+    "pillar": "¡cati"
   },
   {
-    "COLUMN": "esaca"
+    "column": "esaca"
   },
   {
-    "ARCH NOUN": "fis£"
+    "arch noun": "fis£"
   },
   {
-    "GROTTO": "dimati"
+    "grotto": "dimati"
   },
   {
-    "CAVERN": "nun•re"
+    "cavern": "nun•re"
   },
   {
-    "DEPTH": "cuthabe"
+    "depth": "cuthabe"
   },
   {
-    "SHADE": "fere"
+    "shade": "fere"
   },
   {
-    "VEIL": "fiso"
+    "veil": "fiso"
   },
   {
-    "RELIC": "omoka"
+    "relic": "omoka"
   },
   {
-    "UMBRA": "iquila"
+    "umbra": "iquila"
   },
   {
-    "PHANTOM": "vilela"
+    "phantom": "vilela"
   },
   {
-    "MURK": "meli"
+    "murk": "meli"
   },
   {
-    "FAINT INTENSITY": "ac¡"
+    "faint intensity": "ac¡"
   },
   {
-    "FAINT VERB": "webana"
+    "faint verb": "webana"
   },
   {
-    "SOMBER": "fomi"
+    "somber": "fomi"
   },
   {
-    "TENEBROUS": "thadaro"
+    "tenebrous": "thadaro"
   },
   {
-    "MOROSE": "wamo"
+    "morose": "wamo"
   },
   {
-    "LOVER": "nelime"
+    "lover": "nelime"
   },
   {
-    "BELOVED": "icamo"
+    "beloved": "icamo"
   },
   {
-    "ESCORT": "rala"
+    "escort": "rala"
   },
   {
-    "SUITOR": "riramo"
+    "suitor": "riramo"
   },
   {
-    "PUNGENT": "vofa"
+    "pungent": "vofa"
   },
   {
-    "MUSTY": "mocena"
+    "musty": "mocena"
   },
   {
-    "INFECT": "vima˜i"
+    "infect": "vima˜i"
   },
   {
-    "LESION": "suthe"
+    "lesion": "suthe"
   },
   {
-    "AFFLICT": "eca"
+    "afflict": "eca"
   },
   {
-    "ACHE": "balane"
+    "ache": "balane"
   },
   {
-    "EPIDEMIC": "fisifo"
+    "epidemic": "fisifo"
   },
   {
-    "FIGHT": "uri"
+    "fight": "uri"
   },
   {
-    "SCUFFLE": "thethe"
+    "scuffle": "thethe"
   },
   {
-    "YAWN": "eya"
+    "yawn": "eya"
   },
   {
-    "ACTION": "nŠ˜"
+    "action": "nš˜"
   },
   {
-    "ASSAULT": "irafe"
+    "assault": "irafe"
   },
   {
-    "CARNAL": "l•ni"
+    "carnal": "l•ni"
   },
   {
-    "STRIFE": "nawiri"
+    "strife": "nawiri"
   },
   {
-    "COMBAT": "mo˜ira"
+    "combat": "mo˜ira"
   },
   {
-    "CITADEL": "ciniro"
+    "citadel": "ciniro"
   },
   {
-    "CITY": "nele˜e"
+    "city": "nele˜e"
   },
   {
-    "TOWN": "irive"
+    "town": "irive"
   },
   {
-    "VILLAGE": "enathi"
+    "village": "enathi"
   },
   {
-    "MANOR": "aslefa"
+    "manor": "aslefa"
   },
   {
-    "MANSION": "deri"
+    "mansion": "deri"
   },
   {
-    "PALACE": "silera"
+    "palace": "silera"
   },
   {
-    "COTTAGE": "roce"
+    "cottage": "roce"
   },
   {
-    "SHACK": "ethabo"
+    "shack": "ethabo"
   },
   {
-    "HUT": "pepana"
+    "hut": "pepana"
   },
   {
-    "HOVEL": "etewo"
+    "hovel": "etewo"
   },
   {
-    "BASTION": "quemera"
+    "bastion": "quemera"
   },
   {
-    "FURNACE": "lethari"
+    "furnace": "lethari"
   },
   {
-    "ANVIL": "othala"
+    "anvil": "othala"
   },
   {
-    "BRIDGE": "val¢na"
+    "bridge": "val¢na"
   },
   {
-    "SAFE": "eci"
+    "safe": "eci"
   },
   {
-    "GOAD": "rathe"
+    "goad": "rathe"
   },
   {
-    "MACHINE": "faci"
+    "machine": "faci"
   },
   {
-    "FLAY": "teca"
+    "flay": "teca"
   },
   {
-    "OIL": "˜ivu"
+    "oil": "˜ivu"
   },
   {
-    "SUICIDE": "parida"
+    "suicide": "parida"
   },
   {
-    "MARBLE BALL": "Šri"
+    "marble ball": "šri"
   },
   {
-    "BAIT": "ey¢"
+    "bait": "ey¢"
   },
   {
-    "LURE": "lanebe"
+    "lure": "lanebe"
   },
   {
-    "REWARD": "rethu"
+    "reward": "rethu"
   },
   {
-    "WARD": "semabe"
+    "ward": "semabe"
   },
   {
-    "PRICE": "ica"
+    "price": "ica"
   },
   {
-    "PRINCE": "ithiri"
+    "prince": "ithiri"
   },
   {
-    "PRINCESS": "lothena"
+    "princess": "lothena"
   },
   {
-    "TEMPT": "Š˜e"
+    "tempt": "š˜e"
   },
   {
-    "SPURN": "larota"
+    "spurn": "larota"
   },
   {
-    "SCORN": "nefethi"
+    "scorn": "nefethi"
   },
   {
-    "CONTEMPT": "carima"
+    "contempt": "carima"
   },
   {
-    "AFFECTION": "papewa"
+    "affection": "papewa"
   },
   {
-    "COMPASSION": "eleni"
+    "compassion": "eleni"
   },
   {
-    "SACRIFICE": "ficeri"
+    "sacrifice": "ficeri"
   },
   {
-    "CHARITY": "tethe"
+    "charity": "tethe"
   },
   {
-    "CHERISH": "‡•me"
+    "cherish": "‡•me"
   },
   {
-    "TRAMPLE": "talefi"
+    "trample": "talefi"
   },
   {
-    "MALICE": "anaro"
+    "malice": "anaro"
   },
   {
-    "HATRED": "esathi"
+    "hatred": "esathi"
   },
   {
-    "SPITE": "thufi"
+    "spite": "thufi"
   },
   {
-    "SHORE": "thilri"
+    "shore": "thilri"
   },
   {
-    "BEACH": "rofa"
+    "beach": "rofa"
   },
   {
-    "COAST": "conibo"
+    "coast": "conibo"
   },
   {
-    "INSECT": "themita"
+    "insect": "themita"
   },
   {
-    "BUG": "fotha"
+    "bug": "fotha"
   },
   {
-    "CRITTER": "a˜e"
+    "critter": "a˜e"
   },
   {
-    "BRUTE": "i˜ami"
+    "brute": "i˜ami"
   },
   {
-    "PET": "querete"
+    "pet": "querete"
   },
   {
-    "BARBARIAN": "rŠfa"
+    "barbarian": "ršfa"
   },
   {
-    "HARSH": "fef‚f¡"
+    "harsh": "fef‚f¡"
   },
   {
-    "PRISTINE": "liquena"
+    "pristine": "liquena"
   },
   {
-    "FEROCITY": "lefu"
+    "ferocity": "lefu"
   },
   {
-    "BARBARITY": "metava"
+    "barbarity": "metava"
   },
   {
-    "FERAL": "o˜if¢"
+    "feral": "o˜if¢"
   },
   {
-    "FURY": "fivi"
+    "fury": "fivi"
   },
   {
-    "RUTHLESS": "rafov"
+    "ruthless": "rafov"
   },
   {
-    "GORE NOUN": "wive"
+    "gore noun": "wive"
   },
   {
-    "CHAMPION": "atafo"
+    "champion": "atafo"
   },
   {
-    "VIRTUE": "lathoce"
+    "virtue": "lathoce"
   },
   {
-    "SCANDAL": "natha"
+    "scandal": "natha"
   },
   {
-    "APOGEE": "leme"
+    "apogee": "leme"
   },
   {
-    "SPIRE": "necere"
+    "spire": "necere"
   },
   {
-    "SPIRAL": "ireri"
+    "spiral": "ireri"
   },
   {
-    "CLIMAX": "wulema"
+    "climax": "wulema"
   },
   {
-    "CLIMATE": "eslo"
+    "climate": "eslo"
   },
   {
-    "WEATHER": "dafo"
+    "weather": "dafo"
   },
   {
-    "CREST": "thami"
+    "crest": "thami"
   },
   {
-    "CULMINATE": "•ne"
+    "culminate": "•ne"
   },
   {
-    "CUSP": "siraya"
+    "cusp": "siraya"
   },
   {
-    "MOST": "vic"
+    "most": "vic"
   },
   {
-    "PEAK": "erena"
+    "peak": "erena"
   },
   {
-    "BLUNT": "thiruri"
+    "blunt": "thiruri"
   },
   {
-    "ROOF": "Šfa"
+    "roof": "šfa"
   },
   {
-    "CEILING": "afo"
+    "ceiling": "afo"
   },
   {
-    "FLOOR": "mere"
+    "floor": "mere"
   },
   {
-    "SUMMIT": "weneve"
+    "summit": "weneve"
   },
   {
-    "TIP": "suda"
+    "tip": "suda"
   },
   {
-    "TOP": "athathi"
+    "top": "athathi"
   },
   {
-    "BOTTOM": "befale"
+    "bottom": "befale"
   },
   {
-    "SIDE": "imu"
+    "side": "imu"
   },
   {
-    "ZENITH": "cadedi"
+    "zenith": "cadedi"
   },
   {
-    "FLANK VERB": "tala"
+    "flank verb": "tala"
   },
   {
-    "PASS MOUNTAIN": "nelo"
+    "pass mountain": "nelo"
   },
   {
-    "PASS VERB": "rane"
+    "pass verb": "rane"
   },
   {
-    "PASSAGE": "vin¡th•"
+    "passage": "vin¡th•"
   },
   {
-    "CORRIDOR": "rol¢"
+    "corridor": "rol¢"
   },
   {
-    "HALL": "pani"
+    "hall": "pani"
   },
   {
-    "GALLERY": "cimi"
+    "gallery": "cimi"
   },
   {
-    "GALLEY": "ca˜ilu"
+    "galley": "ca˜ilu"
   },
   {
-    "ARENA": "thadi"
+    "arena": "thadi"
   },
   {
-    "ARMORY": "darame"
+    "armory": "darame"
   },
   {
-    "ASSEMBLE": "wemathŠ"
+    "assemble": "wemathš"
   },
   {
-    "MEET": "awi˜o"
+    "meet": "awi˜o"
   },
   {
-    "THEATER": "¢ne"
+    "theater": "¢ne"
   },
   {
-    "ENTRANCE": "mona"
+    "entrance": "mona"
   },
   {
-    "EXIT": "quabif‚"
+    "exit": "quabif‚"
   },
   {
-    "ENTRY": "eco"
+    "entry": "eco"
   },
   {
-    "VESTIBULE": "am"
+    "vestibule": "am"
   },
   {
-    "FROST": "seyec‚"
+    "frost": "seyec‚"
   },
   {
-    "FEVER": "bi‡athi"
+    "fever": "bi‡athi"
   },
   {
-    "HUMID": "eslefa"
+    "humid": "eslefa"
   },
   {
-    "HUMOR": "kavena"
+    "humor": "kavena"
   },
   {
-    "COMEDY": "idaba"
+    "comedy": "idaba"
   },
   {
-    "SIZZLE": "ofi"
+    "sizzle": "ofi"
   },
   {
-    "SWELTER": "tot•"
+    "swelter": "tot•"
   },
   {
-    "WARM": "lawe"
+    "warm": "lawe"
   },
   {
-    "TORRID": "icu"
+    "torrid": "icu"
   },
   {
-    "ACRID": "rela"
+    "acrid": "rela"
   },
   {
-    "DALE": "Štile"
+    "dale": "štile"
   },
   {
-    "DELL": "irene"
+    "dell": "irene"
   },
   {
-    "GLADE": "rifafa"
+    "glade": "rifafa"
   },
   {
-    "VALE": "laf¢"
+    "vale": "laf¢"
   },
   {
-    "BASIN": "iyathi"
+    "basin": "iyathi"
   },
   {
-    "BOWL": "mefa"
+    "bowl": "mefa"
   },
   {
-    "CAVITY": "larore"
+    "cavity": "larore"
   },
   {
-    "CRATER": "ocina"
+    "crater": "ocina"
   },
   {
-    "DEN": "ecu"
+    "den": "ecu"
   },
   {
-    "DENT": "mothida"
+    "dent": "mothida"
   },
   {
-    "DEPRESS SAD": "eyuca"
+    "depress sad": "eyuca"
   },
   {
-    "DEPRESSION LOW": "iquisi"
+    "depression low": "iquisi"
   },
   {
-    "DIMPLE": "thace"
+    "dimple": "thace"
   },
   {
-    "DIP": "icitha"
+    "dip": "icitha"
   },
   {
-    "DISH": "thilama"
+    "dish": "thilama"
   },
   {
-    "EXCAVATE": "in¢"
+    "excavate": "in¢"
   },
   {
-    "GROOVE": "racalu"
+    "groove": "racalu"
   },
   {
-    "GULF SEA": "emma"
+    "gulf sea": "emma"
   },
   {
-    "GULF PIT": "efara"
+    "gulf pit": "efara"
   },
   {
-    "GULF DISTANCE": "aku"
+    "gulf distance": "aku"
   },
   {
-    "DISTANCE": "cifa"
+    "distance": "cifa"
   },
   {
-    "NOTCH": "niya"
+    "notch": "niya"
   },
   {
-    "SAG": "araci"
+    "sag": "araci"
   },
   {
-    "SCOOP": "narayi"
+    "scoop": "narayi"
   },
   {
-    "SOCKET": "nececa"
+    "socket": "nececa"
   },
   {
-    "TROUGH": "e˜otha"
+    "trough": "e˜otha"
   },
   {
-    "VALLEY": "disa"
+    "valley": "disa"
   },
   {
-    "FENCE": "lero"
+    "fence": "lero"
   },
   {
-    "BARRICADE": "iwa"
+    "barricade": "iwa"
   },
   {
-    "BLOCKADE": "yathine"
+    "blockade": "yathine"
   },
   {
-    "BOARD PLANK": "bathiti"
+    "board plank": "bathiti"
   },
   {
-    "BOARD GET ON": "celi"
+    "board get on": "celi"
   },
   {
-    "PLANK": "thiva"
+    "plank": "thiva"
   },
   {
-    "DEFEND": "apal"
+    "defend": "apal"
   },
   {
-    "DEFENSE": "obeni"
+    "defense": "obeni"
   },
   {
-    "DIKE": "quaba"
+    "dike": "quaba"
   },
   {
-    "PALISADE": "oyoli"
+    "palisade": "oyoli"
   },
   {
-    "POST": "thawathi"
+    "post": "thawathi"
   },
   {
-    "RAMPART": "icam¡"
+    "rampart": "icam¡"
   },
   {
-    "STAKE": "naca"
+    "stake": "naca"
   },
   {
-    "STOP": "ca˜i"
+    "stop": "ca˜i"
   },
   {
-    "STOCKADE": "mawate"
+    "stockade": "mawate"
   },
   {
-    "ABYSS": "ayanu"
+    "abyss": "ayanu"
   },
   {
-    "CHASM": "nimi"
+    "chasm": "nimi"
   },
   {
-    "CREVICE": "tof"
+    "crevice": "tof"
   },
   {
-    "RIFT": "moma"
+    "rift": "moma"
   },
   {
-    "FISSURE": "buna"
+    "fissure": "buna"
   },
   {
-    "UNDER": "tari"
+    "under": "tari"
   },
   {
-    "ABYSMAL": "˜upa"
+    "abysmal": "˜upa"
   },
   {
-    "SUBMERGE": "tape"
+    "submerge": "tape"
   },
   {
-    "CYCLONE": "quico"
+    "cyclone": "quico"
   },
   {
-    "TYPHOON": "m£ya"
+    "typhoon": "m£ya"
   },
   {
-    "HURRICANE": "iwethi"
+    "hurricane": "iwethi"
   },
   {
-    "GALE": "imiwa"
+    "gale": "imiwa"
   },
   {
-    "TORNADO": "ereyi"
+    "tornado": "ereyi"
   },
   {
-    "HAIL GREET": "bili"
+    "hail greet": "bili"
   },
   {
-    "HAIL ICE": "eri˜a"
+    "hail ice": "eri˜a"
   },
   {
-    "HALE": "ilimi"
+    "hale": "ilimi"
   },
   {
-    "ROBUST": "milafe"
+    "robust": "milafe"
   },
   {
-    "HARDY": "otheta"
+    "hardy": "otheta"
   },
   {
-    "VIGOR": "le"
+    "vigor": "le"
   },
   {
-    "AIR": "im"
+    "air": "im"
   },
   {
-    "SPLASH": "wara"
+    "splash": "wara"
   },
   {
-    "DABBLE": "aquane"
+    "dabble": "aquane"
   },
   {
-    "DOUSE": "refa"
+    "douse": "refa"
   },
   {
-    "DRENCH": "cedo"
+    "drench": "cedo"
   },
   {
-    "MOIST": "oci"
+    "moist": "oci"
   },
   {
-    "PLUNGE": "calathi"
+    "plunge": "calathi"
   },
   {
-    "SHOWER": "bali"
+    "shower": "bali"
   },
   {
-    "SLOP": "fuvi"
+    "slop": "fuvi"
   },
   {
-    "SLOSH": "eye"
+    "slosh": "eye"
   },
   {
-    "SOAK": "lafo"
+    "soak": "lafo"
   },
   {
-    "SPATTER": "aci"
+    "spatter": "aci"
   },
   {
-    "SPLATTER": "idata"
+    "splatter": "idata"
   },
   {
-    "SPRAY": "cirono"
+    "spray": "cirono"
   },
   {
-    "SPREAD": "fa˜ile"
+    "spread": "fa˜ile"
   },
   {
-    "SPRINKLE": "omula"
+    "sprinkle": "omula"
   },
   {
-    "TWINKLE": "icica"
+    "twinkle": "icica"
   },
   {
-    "SQUIRT": "f•ri"
+    "squirt": "f•ri"
   },
   {
-    "WAD": "bithemi"
+    "wad": "bithemi"
   },
   {
-    "WADE": "ethefa"
+    "wade": "ethefa"
   },
   {
-    "WET": "bamefa"
+    "wet": "bamefa"
   },
   {
-    "FADE": "mŠfi"
+    "fade": "mšfi"
   },
   {
-    "COLORLESS": "ace"
+    "colorless": "ace"
   },
   {
-    "BLANCH": "cepe"
+    "blanch": "cepe"
   },
   {
-    "BLEACH": "fataba"
+    "bleach": "fataba"
   },
   {
-    "BLENCH": "wiritha"
+    "blench": "wiritha"
   },
   {
-    "FLINCH": "—ce˜i"
+    "flinch": "—ce˜i"
   },
   {
-    "APPEAR": "uli"
+    "appear": "uli"
   },
   {
-    "DISAPPEAR": "‚faf£"
+    "disappear": "‚faf£"
   },
   {
-    "DISSOLVE": "etawe"
+    "dissolve": "etawe"
   },
   {
-    "DULL": "esa"
+    "dull": "esa"
   },
   {
-    "EVAPORATE": "Šla"
+    "evaporate": "šla"
   },
   {
-    "LUSTER": "lor‚"
+    "luster": "lor‚"
   },
   {
-    "TONE": "wamiwi"
+    "tone": "wamiwi"
   },
   {
-    "VANISH": "tathali"
+    "vanish": "tathali"
   },
   {
-    "WASH": "lebovo"
+    "wash": "lebovo"
   },
   {
-    "ABATE": "vithi"
+    "abate": "vithi"
   },
   {
-    "DECLINE": "tona"
+    "decline": "tona"
   },
   {
-    "DETERIORATE": "femiy¢"
+    "deteriorate": "femiy¢"
   },
   {
-    "DIMINISH": "ike"
+    "diminish": "ike"
   },
   {
-    "DISPERSE": "ivire"
+    "disperse": "ivire"
   },
   {
-    "DROOP": "e˜i"
+    "droop": "e˜i"
   },
   {
-    "DWINDLE": "˜ofe"
+    "dwindle": "˜ofe"
   },
   {
-    "KINDLE": "mocuri"
+    "kindle": "mocuri"
   },
   {
-    "STOKE": "ici"
+    "stoke": "ici"
   },
   {
-    "POKE": "ricowe"
+    "poke": "ricowe"
   },
   {
-    "STIR": "‡ara"
+    "stir": "‡ara"
   },
   {
-    "FEED": "nawi"
+    "feed": "nawi"
   },
   {
-    "FAIL": "owe"
+    "fail": "owe"
   },
   {
-    "LANGUISH": "amafe"
+    "languish": "amafe"
   },
   {
-    "LESSEN": "ethere"
+    "lessen": "ethere"
   },
   {
-    "LESSON": "e˜eyo"
+    "lesson": "e˜eyo"
   },
   {
-    "TEACH": "maci"
+    "teach": "maci"
   },
   {
-    "MASTERY": "˜amoru"
+    "mastery": "˜amoru"
   },
   {
-    "PERISH": "more"
+    "perish": "more"
   },
   {
-    "SHRIVEL": "cice"
+    "shrivel": "cice"
   },
   {
-    "SINK": "gife"
+    "sink": "gife"
   },
   {
-    "TAPER": "mivoc"
+    "taper": "mivoc"
   },
   {
-    "THIN": "rini"
+    "thin": "rini"
   },
   {
-    "TIRE": "coru"
+    "tire": "coru"
   },
   {
-    "WANE": "iyic"
+    "wane": "iyic"
   },
   {
-    "WEAK": "eneme"
+    "weak": "eneme"
   },
   {
-    "WILT": "r¢nira"
+    "wilt": "r¢nira"
   },
   {
-    "WITHER": "uthe"
+    "wither": "uthe"
   },
   {
-    "HONOR": "fidi"
+    "honor": "fidi"
   },
   {
-    "ADORE": "emofe"
+    "adore": "emofe"
   },
   {
-    "ADULATE": "arare"
+    "adulate": "arare"
   },
   {
-    "CELEBRATE": "yipi"
+    "celebrate": "yipi"
   },
   {
-    "CONFIDENT": "emepe"
+    "confident": "emepe"
   },
   {
-    "DEFERENCE": "Šci"
+    "deference": "šci"
   },
   {
-    "DEITY": "ricafa"
+    "deity": "ricafa"
   },
   {
-    "DISTINCT": "leneli"
+    "distinct": "leneli"
   },
   {
-    "ELEVATE": "madi"
+    "elevate": "madi"
   },
   {
-    "ESTEEM": "ayi"
+    "esteem": "ayi"
   },
   {
-    "EXALT": "˜iwere"
+    "exalt": "˜iwere"
   },
   {
-    "FAME": "icite"
+    "fame": "icite"
   },
   {
-    "FEALTY": "felefa"
+    "fealty": "felefa"
   },
   {
-    "HOMAGE": "bilire"
+    "homage": "bilire"
   },
   {
-    "MORTAL": "metha"
+    "mortal": "metha"
   },
   {
-    "IMMORTAL": "mon¡"
+    "immortal": "mon¡"
   },
   {
-    "LAUD": "f‚mava"
+    "laud": "f‚mava"
   },
   {
-    "OBEISANCE": "linifa"
+    "obeisance": "linifa"
   },
   {
-    "PRAISE": "rafici"
+    "praise": "rafici"
   },
   {
-    "PRESTIGE": "ithe˜i"
+    "prestige": "ithe˜i"
   },
   {
-    "RENOWN": "fepiri"
+    "renown": "fepiri"
   },
   {
-    "REPUTATION": "casowi"
+    "reputation": "casowi"
   },
   {
-    "TRIBUTE": "fivo"
+    "tribute": "fivo"
   },
   {
-    "WORSHIP": "cili"
+    "worship": "cili"
   },
   {
-    "CHASTITY": "uni"
+    "chastity": "uni"
   },
   {
-    "COURAGE": "¡fatha"
+    "courage": "¡fatha"
   },
   {
-    "DECENT": "ceci"
+    "decent": "ceci"
   },
   {
-    "GOOD": "ethana"
+    "good": "ethana"
   },
   {
-    "INNOCENT": "theta"
+    "innocent": "theta"
   },
   {
-    "MODEST": "themu"
+    "modest": "themu"
   },
   {
-    "PRINCIPLE": "olesi"
+    "principle": "olesi"
   },
   {
-    "PURE": "elufi"
+    "pure": "elufi"
   },
   {
-    "RIGHTEOUSNESS": "aliwe"
+    "righteousness": "aliwe"
   },
   {
-    "TRUTH": "rena"
+    "truth": "rena"
   },
   {
-    "TRUTHFUL": "Š˜ida"
+    "truthful": "š˜ida"
   },
   {
-    "VIRGIN": "elica"
+    "virgin": "elica"
   },
   {
-    "VIRGINITY": "rireni"
+    "virginity": "rireni"
   },
   {
-    "HOLD": "e˜a"
+    "hold": "e˜a"
   },
   {
-    "SCALD": "ethera"
+    "scald": "ethera"
   },
   {
-    "SCALE VERB": "et‚we"
+    "scale verb": "et‚we"
   },
   {
-    "SCALE SKIN": "mafi"
+    "scale skin": "mafi"
   },
   {
-    "CLAN": "polef—"
+    "clan": "polef—"
   },
   {
-    "LABYRINTH": "w¡thona"
+    "labyrinth": "w¡thona"
   },
   {
-    "MAZE": "aco"
+    "maze": "aco"
   },
   {
-    "WEB": "ilu"
+    "web": "ilu"
   },
   {
-    "CROWD": "deca"
+    "crowd": "deca"
   },
   {
-    "FAMILY": "larami"
+    "family": "larami"
   },
   {
-    "KIN": "pima"
+    "kin": "pima"
   },
   {
-    "MOB": "efiva"
+    "mob": "efiva"
   },
   {
-    "ORGAN": "eth—"
+    "organ": "eth—"
   },
   {
-    "ORGANIZE": "efe"
+    "organize": "efe"
   },
   {
-    "MESH": "ma˜ithe"
+    "mesh": "ma˜ithe"
   },
   {
-    "TANGLE": "fol¡"
+    "tangle": "fol¡"
   },
   {
-    "ENTANGLE": "n¡cawe"
+    "entangle": "n¡cawe"
   },
   {
-    "PUZZLE": "cuquimo"
+    "puzzle": "cuquimo"
   },
   {
-    "PERPLEX": "ili"
+    "perplex": "ili"
   },
   {
-    "QUANDARY": "nona"
+    "quandary": "nona"
   },
   {
-    "COMBINE": "menadi"
+    "combine": "menadi"
   },
   {
-    "FLICKER": "fed¡"
+    "flicker": "fed¡"
   },
   {
-    "BRAND": "thali"
+    "brand": "thali"
   },
   {
-    "SINGE": "watha"
+    "singe": "watha"
   },
   {
-    "SEAR": "fevu"
+    "sear": "fevu"
   },
   {
-    "SCORCH": "dip¡"
+    "scorch": "dip¡"
   },
   {
-    "ROAST": "refe"
+    "roast": "refe"
   },
   {
-    "PARCH": "¡ro"
+    "parch": "¡ro"
   },
   {
-    "IGNITE": "quala"
+    "ignite": "quala"
   },
   {
-    "INCINERATE": "corape"
+    "incinerate": "corape"
   },
   {
-    "GLOW": "fone"
+    "glow": "fone"
   },
   {
-    "CREMATE": "enafe"
+    "cremate": "enafe"
   },
   {
-    "FACTION": "anoni"
+    "faction": "anoni"
   },
   {
-    "CREW": "nonu"
+    "crew": "nonu"
   },
   {
-    "VESSEL": "careci"
+    "vessel": "careci"
   },
   {
-    "LEAGUE GROUP": "cuwo"
+    "league group": "cuwo"
   },
   {
-    "COOPERATE": "lace"
+    "cooperate": "lace"
   },
   {
-    "GROUP": "melara"
+    "group": "melara"
   },
   {
-    "GANG": "ciya"
+    "gang": "ciya"
   },
   {
-    "FELLOWSHIP": "diri"
+    "fellowship": "diri"
   },
   {
-    "PARTNER": "cani"
+    "partner": "cani"
   },
   {
-    "RIDDLE": "pife"
+    "riddle": "pife"
   },
   {
-    "ROUT": "lanisi"
+    "rout": "lanisi"
   },
   {
-    "SCRAPE": "af¡"
+    "scrape": "af¡"
   },
   {
-    "SCRAP": "sama"
+    "scrap": "sama"
   },
   {
-    "SCOUR": "rfi"
+    "scour": "rfi"
   },
   {
-    "SCRUB": "varoli"
+    "scrub": "varoli"
   },
   {
-    "SHAKE": "nurami"
+    "shake": "nurami"
   },
   {
-    "SOAP": "dathe"
+    "soap": "dathe"
   },
   {
-    "SPONGE": "meca"
+    "sponge": "meca"
   },
   {
-    "SWEEP": "oro"
+    "sweep": "oro"
   },
   {
-    "WHISKER": "nithe"
+    "whisker": "nithe"
   },
   {
-    "FASTEN": "thuca"
+    "fasten": "thuca"
   },
   {
-    "WINNOW": "reyine"
+    "winnow": "reyine"
   },
   {
-    "WIPE": "niro"
+    "wipe": "niro"
   },
   {
-    "CLENCH": "fare"
+    "clench": "fare"
   },
   {
-    "CLINCH": "lothe"
+    "clinch": "lothe"
   },
   {
-    "CLOUT": "naco"
+    "clout": "naco"
   },
   {
-    "CLUTCH": "afedi"
+    "clutch": "afedi"
   },
   {
-    "DOMINATE": "rayathi"
+    "dominate": "rayathi"
   },
   {
-    "DOMINION": "thase"
+    "dominion": "thase"
   },
   {
-    "GRASP": "‡omo"
+    "grasp": "‡omo"
   },
   {
-    "INFLUENCE": "rede"
+    "influence": "rede"
   },
   {
-    "OWN": "ath•fe"
+    "own": "ath•fe"
   },
   {
-    "OWNERSHIP": "enara"
+    "ownership": "enara"
   },
   {
-    "TENACITY": "•nale"
+    "tenacity": "•nale"
   },
   {
-    "BIND": "avera"
+    "bind": "avera"
   },
   {
-    "CARRY": "elaye"
+    "carry": "elaye"
   },
   {
-    "CATCH": "ewi"
+    "catch": "ewi"
   },
   {
-    "CONFINE": "cara"
+    "confine": "cara"
   },
   {
-    "CONTAIN": "thale"
+    "contain": "thale"
   },
   {
-    "CRADLE": "mapi"
+    "cradle": "mapi"
   },
   {
-    "EMBRACE": "thilu"
+    "embrace": "thilu"
   },
   {
-    "POOL": "pati"
+    "pool": "pati"
   },
   {
-    "SOCIETY": "tharale"
+    "society": "tharale"
   },
   {
-    "CIRCLE": "zocisa"
+    "circle": "zocisa"
   },
   {
-    "SQUARE": "rana"
+    "square": "rana"
   },
   {
-    "TRIANGLE": "oneni"
+    "triangle": "oneni"
   },
   {
-    "CONNECT": "cam•re"
+    "connect": "cam•re"
   },
   {
-    "MERGE": "˜aba"
+    "merge": "˜aba"
   },
   {
-    "CONFUSE": "ifebo"
+    "confuse": "ifebo"
   },
   {
-    "COMPLEX": "thini"
+    "complex": "thini"
   },
   {
-    "MEANDER": "thefaro"
+    "meander": "thefaro"
   },
   {
-    "MUDDLE": "memefi"
+    "muddle": "memefi"
   },
   {
-    "BEWILDER": "i˜e"
+    "bewilder": "i˜e"
   },
   {
-    "MORASS": "fethavo"
+    "morass": "fethavo"
   },
   {
-    "PROBLEM": "dithi"
+    "problem": "dithi"
   },
   {
-    "INTRICATE": "lida"
+    "intricate": "lida"
   },
   {
-    "FLUSH": "ececi"
+    "flush": "ececi"
   },
   {
-    "MOP": "recathu"
+    "mop": "recathu"
   },
   {
-    "POLISH": "canene"
+    "polish": "canene"
   },
   {
-    "PURGE": "ebeca"
+    "purge": "ebeca"
   },
   {
-    "RASP": "laba"
+    "rasp": "laba"
   },
   {
-    "RINSE": "ithaya"
+    "rinse": "ithaya"
   },
   {
-    "BAND OBJECT": "isi"
+    "band object": "isi"
   },
   {
-    "BAND GROUP": "ebe"
+    "band group": "ebe"
   },
   {
-    "TALL": "a˜eva"
+    "tall": "a˜eva"
   },
   {
-    "SHORT": "coci"
+    "short": "coci"
   },
   {
-    "BULBOUS": "enate"
+    "bulbous": "enate"
   },
   {
-    "BULB": "pev¢"
+    "bulb": "pev¢"
   },
   {
-    "ALLY": "‡uthŠ"
+    "ally": "‡uthš"
   },
   {
-    "ALLIANCE": "iline"
+    "alliance": "iline"
   },
   {
-    "ALLEGIANCE": "laci˜a"
+    "allegiance": "laci˜a"
   },
   {
-    "COALITION": "niciba"
+    "coalition": "niciba"
   },
   {
-    "COAL": "ipa"
+    "coal": "ipa"
   },
   {
-    "ENJOY": "niceci"
+    "enjoy": "niceci"
   },
   {
-    "FONDLE": "fora"
+    "fondle": "fora"
   },
   {
-    "HANDLE OBJECT": "mithi"
+    "handle object": "mithi"
   },
   {
-    "HANDLE VERB": "thawa"
+    "handle verb": "thawa"
   },
   {
-    "IMPRISON": "loyara"
+    "imprison": "loyara"
   },
   {
-    "NOURISH": "mem¢thi"
+    "nourish": "mem¢thi"
   },
   {
-    "SQUEEZE": "ribi"
+    "squeeze": "ribi"
   },
   {
-    "TRAMMEL": "thilini"
+    "trammel": "thilini"
   },
   {
-    "VICE": "ni˜a"
+    "vice": "ni˜a"
   },
   {
-    "VISE": "mideb¡"
+    "vise": "mideb¡"
   },
   {
-    "DEFECT FAULT": "muce"
+    "defect fault": "muce"
   },
   {
-    "PERFECT": "equuyi"
+    "perfect": "equuyi"
   },
   {
-    "GEM": "eruwa"
+    "gem": "eruwa"
   },
   {
-    "JEWEL": "nifi"
+    "jewel": "nifi"
   },
   {
-    "WIELD": "mazadi"
+    "wield": "mazadi"
   },
   {
-    "WRING": "Šni"
+    "wring": "šni"
   },
   {
-    "CONJUNCTION": "malafo"
+    "conjunction": "malafo"
   },
   {
-    "BLOT": "enade"
+    "blot": "enade"
   },
   {
-    "BLOW": "futhile"
+    "blow": "futhile"
   },
   {
-    "BRUSH": "ec‚na"
+    "brush": "ec‚na"
   },
   {
-    "CLARIFY": "icila"
+    "clarify": "icila"
   },
   {
-    "CLEANSE": "nemine"
+    "cleanse": "nemine"
   },
   {
-    "DREDGE": "nevele"
+    "dredge": "nevele"
   },
   {
-    "ERASE": "emefe"
+    "erase": "emefe"
   },
   {
-    "MORSEL": "reci"
+    "morsel": "reci"
   },
   {
-    "MONGREL": "efi"
+    "mongrel": "efi"
   },
   {
-    "TENDER": "coli"
+    "tender": "coli"
   },
   {
-    "URGE": "itheca"
+    "urge": "itheca"
   },
   {
-    "MECHANISM": "cere˜a"
+    "mechanism": "cere˜a"
   },
   {
-    "SMEAR": "‚˜ome"
+    "smear": "‚˜ome"
   },
   {
-    "TATTOO": "ilifi"
+    "tattoo": "ilifi"
   },
   {
-    "WEATHER VERB": "ecemu"
+    "weather verb": "ecemu"
   },
   {
-    "CRUX": "ate"
+    "crux": "ate"
   },
   {
-    "PEEK": "lera"
+    "peek": "lera"
   },
   {
-    "SNEAK": "tabami"
+    "sneak": "tabami"
   },
   {
-    "ATTIC": "sefi"
+    "attic": "sefi"
   },
   {
-    "BASEMENT": "neci"
+    "basement": "neci"
   },
   {
-    "DEARTH": "relinu"
+    "dearth": "relinu"
   },
   {
-    "APEX": "thicivi"
+    "apex": "thicivi"
   },
   {
-    "NADIR": "aneca"
+    "nadir": "aneca"
   },
   {
-    "TUNNEL": "thateme"
+    "tunnel": "thateme"
   },
   {
-    "ENTRANCE VERB": "afaya"
+    "entrance verb": "afaya"
   },
   {
-    "DELIGHT": "be"
+    "delight": "be"
   },
   {
-    "JOY": "i˜aso"
+    "joy": "i˜aso"
   },
   {
-    "FRIGID": "raci"
+    "frigid": "raci"
   },
   {
-    "ANKLE": "feretu"
+    "ankle": "feretu"
   },
   {
-    "ELBOW": "Šna"
+    "elbow": "šna"
   },
   {
-    "PASSION": "siva"
+    "passion": "siva"
   },
   {
-    "ARDENT": "¡ni"
+    "ardent": "¡ni"
   },
   {
-    "STREAM": "nef•la"
+    "stream": "nef•la"
   },
   {
-    "BOWEL GUT": "iye"
+    "bowel gut": "iye"
   },
   {
-    "BOWEL INTERIOR": "awi"
+    "bowel interior": "awi"
   },
   {
-    "DRILL BORE": "weni"
+    "drill bore": "weni"
   },
   {
-    "DRILL ROUTINE": "ecefe"
+    "drill routine": "ecefe"
   },
   {
-    "BORE DRILL": "ewe"
+    "bore drill": "ewe"
   },
   {
-    "BOREDOM": "fife"
+    "boredom": "fife"
   },
   {
-    "FLECK": "edi"
+    "fleck": "edi"
   },
   {
-    "SPOT": "ase"
+    "spot": "ase"
   },
   {
-    "DOT": "¡ce"
+    "dot": "¡ce"
   },
   {
-    "CREATE": "wene"
+    "create": "wene"
   },
   {
-    "POEM": "rathŠ"
+    "poem": "rathš"
   },
   {
-    "POETRY": "pila"
+    "poetry": "pila"
   },
   {
-    "POET": "athifi"
+    "poet": "athifi"
   },
   {
-    "SCRIBE": "kema"
+    "scribe": "kema"
   },
   {
-    "MONK": "ete"
+    "monk": "ete"
   },
   {
-    "HERMIT": "fari"
+    "hermit": "fari"
   },
   {
-    "RECLUSE": "‚niri"
+    "recluse": "‚niri"
   },
   {
-    "NAME": "sofi"
+    "name": "sofi"
   },
   {
-    "LANGUAGE": "yifa"
+    "language": "yifa"
   },
   {
-    "PHRASE": "etani"
+    "phrase": "etani"
   },
   {
-    "RHYME": "ezo"
+    "rhyme": "ezo"
   },
   {
-    "RHYTHM": "th‚ce"
+    "rhythm": "th‚ce"
   },
   {
-    "VERSE": "nicana"
+    "verse": "nicana"
   },
   {
-    "DRUM VERB": "ilila"
+    "drum verb": "ilila"
   },
   {
-    "CREATURE": "amu"
+    "creature": "amu"
   },
   {
-    "SNAIL": "limi"
+    "snail": "limi"
   },
   {
-    "VINE": "fewetha"
+    "vine": "fewetha"
   },
   {
-    "SQUASH": "thafe"
+    "squash": "thafe"
   },
   {
-    "NEVER": "eramu"
+    "never": "eramu"
   },
   {
-    "DWELL": "icice"
+    "dwell": "icice"
   },
   {
-    "HABIT": "lathiru"
+    "habit": "lathiru"
   },
   {
-    "CHEW": "elethe"
+    "chew": "elethe"
   },
   {
-    "SWALLOW": "thicera"
+    "swallow": "thicera"
   },
   {
-    "DISEMBOWEL": "eleri"
+    "disembowel": "eleri"
   },
   {
-    "EVISCERATE": "eve"
+    "eviscerate": "eve"
   },
   {
-    "RAPID": "ucuco"
+    "rapid": "ucuco"
   },
   {
-    "MEDICINE": "ifere"
+    "medicine": "ifere"
   },
   {
-    "HEAL": "ipiro"
+    "heal": "ipiro"
   },
   {
-    "SELL": "navise"
+    "sell": "navise"
   },
   {
-    "MARKET": "omu"
+    "market": "omu"
   },
   {
-    "SLOW": "cathine"
+    "slow": "cathine"
   },
   {
-    "MIRE": "mipo"
+    "mire": "mipo"
   },
   {
-    "ADMIRE": "thitathi"
+    "admire": "thitathi"
   },
   {
-    "DIRGE": "Šfeni"
+    "dirge": "šfeni"
   },
   {
-    "LAMENT": "manari"
+    "lament": "manari"
   },
   {
-    "FUNERAL": "ufalo"
+    "funeral": "ufalo"
   },
   {
-    "QUEST": "elabe"
+    "quest": "elabe"
   },
   {
-    "ADVENTURE": "thela"
+    "adventure": "thela"
   },
   {
-    "MOURN": "al‚thi"
+    "mourn": "al‚thi"
   },
   {
-    "MORNING": "rifa"
+    "morning": "rifa"
   },
   {
-    "BULWARK": "wina"
+    "bulwark": "wina"
   },
   {
-    "COSMOS": "nora"
+    "cosmos": "nora"
   },
   {
-    "ANGUISH": "cifano"
+    "anguish": "cifano"
   },
   {
-    "TAUT": "ma˜u"
+    "taut": "ma˜u"
   },
   {
-    "DEIFY": "sefa"
+    "deify": "sefa"
   },
   {
-    "INFAMY": "le˜e"
+    "infamy": "le˜e"
   },
   {
-    "MORTALITY": "omiri"
+    "mortality": "omiri"
   },
   {
-    "IMMORTALITY": "liwere"
+    "immortality": "liwere"
   },
   {
-    "MORTIFY": "minetha"
+    "mortify": "minetha"
   },
   {
-    "OBEY": "visela"
+    "obey": "visela"
   },
   {
-    "WORSHIPPER": "lofi"
+    "worshipper": "lofi"
   },
   {
-    "RIDDLE HOLES": "wile"
+    "riddle holes": "wile"
   },
   {
-    "DWELLING": "yir¢"
+    "dwelling": "yir¢"
   },
   {
-    "DISEMBOWELMENT": "thine"
+    "disembowelment": "thine"
   },
   {
-    "EVISCERATION": "abecu"
+    "evisceration": "abecu"
   },
   {
-    "HEALING": "reni"
+    "healing": "reni"
   },
   {
-    "ADMIRATION": "awe"
+    "admiration": "awe"
   },
   {
-    "CONFLICT": "vesifa"
+    "conflict": "vesifa"
   },
   {
-    "ATTACK": "irithe"
+    "attack": "irithe"
   },
   {
-    "ONSLAUGHT": "pal¢thi"
+    "onslaught": "pal¢thi"
   },
   {
-    "TREE": "thelire"
+    "tree": "thelire"
   },
   {
-    "AMBER": "il¡"
+    "amber": "il¡"
   },
   {
-    "AMETHYST": "fece"
+    "amethyst": "fece"
   },
   {
-    "AQUA": "nayidi"
+    "aqua": "nayidi"
   },
   {
-    "AQUAMARINE": "˜al—mi"
+    "aquamarine": "˜al—mi"
   },
   {
-    "GRAY": "aso"
+    "gray": "aso"
   },
   {
-    "AUBURN": "‚do"
+    "auburn": "‚do"
   },
   {
-    "AZURE": "naquifa"
+    "azure": "naquifa"
   },
   {
-    "BEIGE": "queci"
+    "beige": "queci"
   },
   {
-    "BRASS": "irci"
+    "brass": "irci"
   },
   {
-    "BROWN": "bide˜e"
+    "brown": "bide˜e"
   },
   {
-    "BUFF": "mitho"
+    "buff": "mitho"
   },
   {
-    "SIENNA": "licele"
+    "sienna": "licele"
   },
   {
-    "UMBER": "rabe"
+    "umber": "rabe"
   },
   {
-    "CARDINAL_COLOR": "leyo"
+    "cardinal_color": "leyo"
   },
   {
-    "CARMINE": "venevu"
+    "carmine": "venevu"
   },
   {
-    "CERULEAN": "ife"
+    "cerulean": "ife"
   },
   {
-    "CHARCOAL": "Što"
+    "charcoal": "što"
   },
   {
-    "CHARTREUSE": "etthi"
+    "chartreuse": "etthi"
   },
   {
-    "CHESTNUT": "bisi"
+    "chestnut": "bisi"
   },
   {
-    "CHOCOLATE": "lifu"
+    "chocolate": "lifu"
   },
   {
-    "CINNAMON": "titha"
+    "cinnamon": "titha"
   },
   {
-    "COBALT": "mepu"
+    "cobalt": "mepu"
   },
   {
-    "INDIGO": "tici"
+    "indigo": "tici"
   },
   {
-    "OLIVE": "naye"
+    "olive": "naye"
   },
   {
-    "PINK": "divama"
+    "pink": "divama"
   },
   {
-    "SCARLET": "ecira"
+    "scarlet": "ecira"
   },
   {
-    "TAN": "esleci"
+    "tan": "esleci"
   },
   {
-    "ECRU": "mibeni"
+    "ecru": "mibeni"
   },
   {
-    "EMERALD": "thofala"
+    "emerald": "thofala"
   },
   {
-    "FLAX": "quithe"
+    "flax": "quithe"
   },
   {
-    "FUCHSIA": "eceri"
+    "fuchsia": "eceri"
   },
   {
-    "GOLDENROD": "diwi"
+    "goldenrod": "diwi"
   },
   {
-    "HELIOTROPE": "aniso"
+    "heliotrope": "aniso"
   },
   {
-    "LAVENDER": "inile"
+    "lavender": "inile"
   },
   {
-    "BLUSH": "veri"
+    "blush": "veri"
   },
   {
-    "LEMON": "thicawe"
+    "lemon": "thicawe"
   },
   {
-    "LILAC": "me˜i"
+    "lilac": "me˜i"
   },
   {
-    "LIME": "quidole"
+    "lime": "quidole"
   },
   {
-    "MAHOGANY": "enefi"
+    "mahogany": "enefi"
   },
   {
-    "MAROON_COLOR": "fanem¡"
+    "maroon_color": "fanem¡"
   },
   {
-    "MAUVE": "thavetha"
+    "mauve": "thavetha"
   },
   {
-    "TAUPE": "‡efetha"
+    "taupe": "‡efetha"
   },
   {
-    "MINT": "mithama"
+    "mint": "mithama"
   },
   {
-    "MOSS": "vema"
+    "moss": "vema"
   },
   {
-    "OCHRE": "acath¢"
+    "ochre": "acath¢"
   },
   {
-    "ORANGE": "˜are"
+    "orange": "˜are"
   },
   {
-    "PERIWINKLE": "fira"
+    "periwinkle": "fira"
   },
   {
-    "PLUM": "bele"
+    "plum": "bele"
   },
   {
-    "PUCE": "eveta"
+    "puce": "eveta"
   },
   {
-    "PUMPKIN": "peve"
+    "pumpkin": "peve"
   },
   {
-    "RUSSET": "c¡vira"
+    "russet": "c¡vira"
   },
   {
-    "SAFFRON": "ethithi"
+    "saffron": "ethithi"
   },
   {
-    "SEPIA": "osume"
+    "sepia": "osume"
   },
   {
-    "TEAL": "wimo"
+    "teal": "wimo"
   },
   {
-    "TURQUOISE": "anice"
+    "turquoise": "anice"
   },
   {
-    "VERMILION": "asŠle"
+    "vermilion": "asšle"
   },
   {
-    "PATH": "al¡"
+    "path": "al¡"
   },
   {
-    "THREAT": "uce"
+    "threat": "uce"
   },
   {
-    "WARNING": "seti"
+    "warning": "seti"
   },
   {
-    "FATE": "aquiya"
+    "fate": "aquiya"
   },
   {
-    "DESTINY": "cadeni"
+    "destiny": "cadeni"
   },
   {
-    "HORROR": "nesŠne"
+    "horror": "nesšne"
   },
   {
-    "LITTLE": "‡oka"
+    "little": "‡oka"
   },
   {
-    "EARLY": "anafa"
+    "early": "anafa"
   },
   {
-    "LATE": "c£thete"
+    "late": "c£thete"
   },
   {
-    "LIFE": "eniwa"
+    "life": "eniwa"
   },
   {
-    "CHEESE": "fetha"
+    "cheese": "fetha"
   },
   {
-    "FIGURE_OBJECT": "icaro"
+    "figure_object": "icaro"
   },
   {
-    "HOPE": "bef¡tha"
+    "hope": "bef¡tha"
   },
   {
-    "BODY": "thite"
+    "body": "thite"
   },
   {
-    "WALK": "b¡rare"
+    "walk": "b¡rare"
   },
   {
-    "HOUR": "ece"
+    "hour": "ece"
   },
   {
-    "SIT": "direbo"
+    "sit": "direbo"
   },
   {
-    "MOMENT": "tharo"
+    "moment": "tharo"
   },
   {
-    "BEAUTY": "alathŠ"
+    "beauty": "alathš"
   },
   {
-    "JUDGE": "afuni"
+    "judge": "afuni"
   },
   {
-    "WISH": "ilifa"
+    "wish": "ilifa"
   },
   {
-    "RESPECT": "mil—"
+    "respect": "mil—"
   },
   {
-    "MARK": "ilefi"
+    "mark": "ilefi"
   },
   {
-    "HEAVY": "themeno"
+    "heavy": "themeno"
   },
   {
-    "TRIAL": "f¢lŠthi"
+    "trial": "f¢lšthi"
   },
   {
-    "PRACTICE": "mefeye"
+    "practice": "mefeye"
   },
   {
-    "END": "bicana"
+    "end": "bicana"
   },
   {
-    "START": "nesa"
+    "start": "nesa"
   },
   {
-    "BEGIN": "ric"
+    "begin": "ric"
   },
   {
-    "BIRTH": "˜emi"
+    "birth": "˜emi"
   },
   {
-    "LEARN": "ridethe"
+    "learn": "ridethe"
   },
   {
-    "MISCHIEF": "masi"
+    "mischief": "masi"
   },
   {
-    "WISDOM": "thadayi"
+    "wisdom": "thadayi"
   },
   {
-    "KNOW": "¡cena"
+    "know": "¡cena"
   },
   {
-    "KNOWLEDGE": "ipe˜a"
+    "knowledge": "ipe˜a"
   },
   {
-    "CRACK": "f¡ra"
+    "crack": "f¡ra"
   },
   {
-    "SHATTER": "wabe"
+    "shatter": "wabe"
   },
   {
-    "LEAP": "thit¡"
+    "leap": "thit¡"
   },
   {
-    "JUMP": "efami"
+    "jump": "efami"
   },
   {
-    "DIVE": "fayoba"
+    "dive": "fayoba"
   },
   {
-    "VAULT VERB": "e˜e"
+    "vault verb": "e˜e"
   },
   {
-    "VAULT PLACE": "thenaca"
+    "vault place": "thenaca"
   },
   {
-    "TREASURY": "thenel"
+    "treasury": "thenel"
   },
   {
-    "BETRAY": "slerima"
+    "betray": "slerima"
   },
   {
-    "TREASON": "p¢mila"
+    "treason": "p¢mila"
   },
   {
-    "REASON": "rayo"
+    "reason": "rayo"
   },
   {
-    "SQUAT": "quequava"
+    "squat": "quequava"
   },
   {
-    "FESTIVAL": "om¡va"
+    "festival": "om¡va"
   }
 ]
