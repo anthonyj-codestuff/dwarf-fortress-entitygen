@@ -1,6587 +1,6587 @@
 [
   {
-    "ABBEY": "xenmu"
+    "abbey": "xenmu"
   },
   {
-    "ACE": "ogo"
+    "ace": "ogo"
   },
   {
-    "ACT": "lƒsm"
+    "act": "lƒsm"
   },
   {
-    "AFTER": "l–bu"
+    "after": "l–bu"
   },
   {
-    "AGE": "abo"
+    "age": "abo"
   },
   {
-    "AGELESS": "usnusp"
+    "ageless": "usnusp"
   },
   {
-    "ALE": "ngub"
+    "ale": "ngub"
   },
   {
-    "ANCIENT": "ekxox"
+    "ancient": "ekxox"
   },
   {
-    "ANGEL": "asmuk"
+    "angel": "asmuk"
   },
   {
-    "ANGER": "ok"
+    "anger": "ok"
   },
   {
-    "ANIMAL": "slulasp"
+    "animal": "slulasp"
   },
   {
-    "APE": "ozse"
+    "ape": "ozse"
   },
   {
-    "APPLE": "slusna"
+    "apple": "slusna"
   },
   {
-    "ARCH": "sasne"
+    "arch": "sasne"
   },
   {
-    "ARM": "odu"
+    "arm": "odu"
   },
   {
-    "ARMOR": "nuklat"
+    "armor": "nuklat"
   },
   {
-    "ARROW": "ost"
+    "arrow": "ost"
   },
   {
-    "ARTIFICE": "urdu"
+    "artifice": "urdu"
   },
   {
-    "ASH": "usmdas"
+    "ash": "usmdas"
   },
   {
-    "AUNT": "uto"
+    "aunt": "uto"
   },
   {
-    "AURA": "nol"
+    "aura": "nol"
   },
   {
-    "AUTUMN": "dab"
+    "autumn": "dab"
   },
   {
-    "AWE-INSPIRING": "nolsmu"
+    "awe-inspiring": "nolsmu"
   },
   {
-    "AXE": "agun"
+    "axe": "agun"
   },
   {
-    "BACK": "ung"
+    "back": "ung"
   },
   {
-    "BAD": "stotho"
+    "bad": "stotho"
   },
   {
-    "BALD": "bor"
+    "bald": "bor"
   },
   {
-    "BAKE": "osm"
+    "bake": "osm"
   },
   {
-    "BALL": "enu"
+    "ball": "enu"
   },
   {
-    "BANE": "st”l"
+    "bane": "st”l"
   },
   {
-    "BAR": "zak"
+    "bar": "zak"
   },
   {
-    "BARB": "tuxxu"
+    "barb": "tuxxu"
   },
   {
-    "BATH": "ugas"
+    "bath": "ugas"
   },
   {
-    "BATTLE": "ustrok"
+    "battle": "ustrok"
   },
   {
-    "BEAK": "gosma"
+    "beak": "gosma"
   },
   {
-    "BEAST": "k†bu"
+    "beast": "k†bu"
   },
   {
-    "BEAR": "ron"
+    "bear": "ron"
   },
   {
-    "BEAR_VERB": "zud”l"
+    "bear_verb": "zud”l"
   },
   {
-    "BEE": "zaxo"
+    "bee": "zaxo"
   },
   {
-    "BEER": "ospo"
+    "beer": "ospo"
   },
   {
-    "BEETLE": "strog"
+    "beetle": "strog"
   },
   {
-    "BEGUILER": "osmze"
+    "beguiler": "osmze"
   },
   {
-    "BELCH": "ulu"
+    "belch": "ulu"
   },
   {
-    "BERRY": "smug"
+    "berry": "smug"
   },
   {
-    "BIG": "t”bog"
+    "big": "t”bog"
   },
   {
-    "BILE": "stran"
+    "bile": "stran"
   },
   {
-    "BIN": "sputo"
+    "bin": "sputo"
   },
   {
-    "BIRD": "umung"
+    "bird": "umung"
   },
   {
-    "BLACK": "ogur"
+    "black": "ogur"
   },
   {
-    "BLADE": "roz"
+    "blade": "roz"
   },
   {
-    "BLAZE": "uxzo"
+    "blaze": "uxzo"
   },
   {
-    "BLIND": "ostad"
+    "blind": "ostad"
   },
   {
-    "BLISTER": "z–spo"
+    "blister": "z–spo"
   },
   {
-    "BLOAT": "mosl”"
+    "bloat": "mosl”"
   },
   {
-    "BLOOD": "ogom"
+    "blood": "ogom"
   },
   {
-    "BLOODY": "dotom"
+    "bloody": "dotom"
   },
   {
-    "BLOSSOM": "z”slu"
+    "blossom": "z”slu"
   },
   {
-    "BLUE": "oxsa"
+    "blue": "oxsa"
   },
   {
-    "BOAR": "oke"
+    "boar": "oke"
   },
   {
-    "BOAT": "usasp"
+    "boat": "usasp"
   },
   {
-    "BODICE": "obxo"
+    "bodice": "obxo"
   },
   {
-    "BOG": "onu"
+    "bog": "onu"
   },
   {
-    "BOIL": "nguzo"
+    "boil": "nguzo"
   },
   {
-    "BOIL_V": "asttu"
+    "boil_v": "asttu"
   },
   {
-    "BOLD": "oz"
+    "bold": "oz"
   },
   {
-    "BOLT": "okom"
+    "bolt": "okom"
   },
   {
-    "BONE": "mudo"
+    "bone": "mudo"
   },
   {
-    "BOOK": "zosto"
+    "book": "zosto"
   },
   {
-    "BOOT": "stokko"
+    "boot": "stokko"
   },
   {
-    "BOTHER": "asa"
+    "bother": "asa"
   },
   {
-    "BOW": "uneg"
+    "bow": "uneg"
   },
   {
-    "BOW_VERB": "uku"
+    "bow_verb": "uku"
   },
   {
-    "BRAIN": "ulux"
+    "brain": "ulux"
   },
   {
-    "BREACH": "stratƒb"
+    "breach": "stratƒb"
   },
   {
-    "BREECHES": "olu"
+    "breeches": "olu"
   },
   {
-    "BREAD": "goso"
+    "bread": "goso"
   },
   {
-    "BREAK": "astrum"
+    "break": "astrum"
   },
   {
-    "BREAKFAST": "sod"
+    "breakfast": "sod"
   },
   {
-    "BREATH": "kug"
+    "breath": "kug"
   },
   {
-    "BREED": "smusm"
+    "breed": "smusm"
   },
   {
-    "BREW": "um"
+    "brew": "um"
   },
   {
-    "BRIDE": "snonggom"
+    "bride": "snonggom"
   },
   {
-    "BRIDLE": "ol“t"
+    "bridle": "ol“t"
   },
   {
-    "BRIGHT": "ur"
+    "bright": "ur"
   },
   {
-    "BRISTLE": "gorno"
+    "bristle": "gorno"
   },
   {
-    "BRILLIANT": "snuko"
+    "brilliant": "snuko"
   },
   {
-    "BRIM": "nguxur"
+    "brim": "nguxur"
   },
   {
-    "BROIL": "kusmke"
+    "broil": "kusmke"
   },
   {
-    "BROTHER": "osnu"
+    "brother": "osnu"
   },
   {
-    "BRUNCH": "uxa"
+    "brunch": "uxa"
   },
   {
-    "BUCK": "sl“bo"
+    "buck": "sl“bo"
   },
   {
-    "BUCKLE": "ast"
+    "buckle": "ast"
   },
   {
-    "BUNCH": "gosp"
+    "bunch": "gosp"
   },
   {
-    "BURDEN": "stok"
+    "burden": "stok"
   },
   {
-    "BURN": "mugub"
+    "burn": "mugub"
   },
   {
-    "BURY": "uno"
+    "bury": "uno"
   },
   {
-    "BUSH": "ngontek"
+    "bush": "ngontek"
   },
   {
-    "BUSHEL": "ugstol"
+    "bushel": "ugstol"
   },
   {
-    "BUST_NOUN": "dusnu"
+    "bust_noun": "dusnu"
   },
   {
-    "BUST_VERB": "star"
+    "bust_verb": "star"
   },
   {
-    "BUSINESS": "d”dong"
+    "business": "d”dong"
   },
   {
-    "BUSY": "umub"
+    "busy": "umub"
   },
   {
-    "BUTCHER": "slust"
+    "butcher": "slust"
   },
   {
-    "BUTTER": "lel"
+    "butter": "lel"
   },
   {
-    "BUTTERFLY": "nuxka"
+    "butterfly": "nuxka"
   },
   {
-    "BUTTON": "uze"
+    "button": "uze"
   },
   {
-    "BUZZARD": "ƒng"
+    "buzzard": "ƒng"
   },
   {
-    "CACKLE": "urog"
+    "cackle": "urog"
   },
   {
-    "CAD": "an"
+    "cad": "an"
   },
   {
-    "CAGE": "obtux"
+    "cage": "obtux"
   },
   {
-    "CAKE": "bogzut"
+    "cake": "bogzut"
   },
   {
-    "CALL": "nonu"
+    "call": "nonu"
   },
   {
-    "CAMP": "ustthut"
+    "camp": "ustthut"
   },
   {
-    "CANCER": "gostat"
+    "cancer": "gostat"
   },
   {
-    "CANDLE": "gunsmom"
+    "candle": "gunsmom"
   },
   {
-    "CANDY": "kumo"
+    "candy": "kumo"
   },
   {
-    "CANKER": "nosmul"
+    "canker": "nosmul"
   },
   {
-    "CANYON": "naza"
+    "canyon": "naza"
   },
   {
-    "CARNAGE": "uzet"
+    "carnage": "uzet"
   },
   {
-    "CASKET": "ostre"
+    "casket": "ostre"
   },
   {
-    "CASTLE": "zogast"
+    "castle": "zogast"
   },
   {
-    "CAT": "sest"
+    "cat": "sest"
   },
   {
-    "CAVE": "omo"
+    "cave": "omo"
   },
   {
-    "CELL": "un"
+    "cell": "un"
   },
   {
-    "CHAIN": "ugo"
+    "chain": "ugo"
   },
   {
-    "CHANT": "slonu"
+    "chant": "slonu"
   },
   {
-    "CHAOS": "–d"
+    "chaos": "–d"
   },
   {
-    "CHAMBER": "ngorug"
+    "chamber": "ngorug"
   },
   {
-    "CHAR": "ustgu"
+    "char": "ustgu"
   },
   {
-    "CHARM": "d“ng"
+    "charm": "d“ng"
   },
   {
-    "CHILD": "tox"
+    "child": "tox"
   },
   {
-    "CHILL": "xama"
+    "chill": "xama"
   },
   {
-    "CHIP_NOUN": "ngosmest"
+    "chip_noun": "ngosmest"
   },
   {
-    "CHIP_VERB": "ub"
+    "chip_verb": "ub"
   },
   {
-    "CHIRP": "nub"
+    "chirp": "nub"
   },
   {
-    "CHOKE": "sl‰sla"
+    "choke": "sl‰sla"
   },
   {
-    "CHOP": "eg"
+    "chop": "eg"
   },
   {
-    "CHUCK": "dunosp"
+    "chuck": "dunosp"
   },
   {
-    "CINDER": "uslo"
+    "cinder": "uslo"
   },
   {
-    "CLAM": "ongkosm"
+    "clam": "ongkosm"
   },
   {
-    "CLAP": "kuda"
+    "clap": "kuda"
   },
   {
-    "CLASP": "ozad"
+    "clasp": "ozad"
   },
   {
-    "CLAW": "–r"
+    "claw": "–r"
   },
   {
-    "CLEAR": "ug"
+    "clear": "ug"
   },
   {
-    "CLEARING": "ud"
+    "clearing": "ud"
   },
   {
-    "CLEAVE": "ost“k"
+    "cleave": "ost“k"
   },
   {
-    "CLING": "usno"
+    "cling": "usno"
   },
   {
-    "CLOAK": "osmmuk"
+    "cloak": "osmmuk"
   },
   {
-    "CLOBBER": "–sp"
+    "clobber": "–sp"
   },
   {
-    "CLOCK": "ostron"
+    "clock": "ostron"
   },
   {
-    "CLOD": "zusmob"
+    "clod": "zusmob"
   },
   {
-    "CLOISTER": "r”tstong"
+    "cloister": "r”tstong"
   },
   {
-    "CLOSET": "snusnu"
+    "closet": "snusnu"
   },
   {
-    "CLUB": "gan"
+    "club": "gan"
   },
   {
-    "CLUSTER": "gadu"
+    "cluster": "gadu"
   },
   {
-    "CLUTTER": "ozma"
+    "clutter": "ozma"
   },
   {
-    "COBRA": "gusslax"
+    "cobra": "gusslax"
   },
   {
-    "COIL": "ngosm"
+    "coil": "ngosm"
   },
   {
-    "COLD": "sumtu"
+    "cold": "sumtu"
   },
   {
-    "COLOR": "zon"
+    "color": "zon"
   },
   {
-    "COMET": "ngost“z"
+    "comet": "ngost“z"
   },
   {
-    "CONQUEROR": "uzod"
+    "conqueror": "uzod"
   },
   {
-    "COOK": "kengku"
+    "cook": "kengku"
   },
   {
-    "COVER": "oslu"
+    "cover": "oslu"
   },
   {
-    "COTTON": "ongu"
+    "cotton": "ongu"
   },
   {
-    "COUPLE": "ot–st"
+    "couple": "ot–st"
   },
   {
-    "CRAB": "slalsto"
+    "crab": "slalsto"
   },
   {
-    "CRAWL": "olo"
+    "crawl": "olo"
   },
   {
-    "CRAZE": "mogoz"
+    "craze": "mogoz"
   },
   {
-    "CRAZY": "kagus"
+    "crazy": "kagus"
   },
   {
-    "CREAM": "spost"
+    "cream": "spost"
   },
   {
-    "CREEK": "aspak"
+    "creek": "aspak"
   },
   {
-    "CREEP": "gudo"
+    "creep": "gudo"
   },
   {
-    "CREEPY": "noke"
+    "creepy": "noke"
   },
   {
-    "CRESCENT": "otuz"
+    "crescent": "otuz"
   },
   {
-    "CROSS_NOUN": "sakor"
+    "cross_noun": "sakor"
   },
   {
-    "CROSS_VERB": "aruz"
+    "cross_verb": "aruz"
   },
   {
-    "CROSS_ADJ": "ram"
+    "cross_adj": "ram"
   },
   {
-    "CROW": "osok"
+    "crow": "osok"
   },
   {
-    "CROWN": "tello"
+    "crown": "tello"
   },
   {
-    "CRUCIFY": "stun"
+    "crucify": "stun"
   },
   {
-    "CRUMBLE": "dasnur"
+    "crumble": "dasnur"
   },
   {
-    "CRUSH": "†d"
+    "crush": "†d"
   },
   {
-    "CRUSHER": "abu"
+    "crusher": "abu"
   },
   {
-    "CRY": "nobde"
+    "cry": "nobde"
   },
   {
-    "CRYPT": "uktang"
+    "crypt": "uktang"
   },
   {
-    "CRYSTAL": "snusnud"
+    "crystal": "snusnud"
   },
   {
-    "CUDDLE": "sledsmuz"
+    "cuddle": "sledsmuz"
   },
   {
-    "CUDGEL": "usu"
+    "cudgel": "usu"
   },
   {
-    "CUP": "kux"
+    "cup": "kux"
   },
   {
-    "CURSE": "ngokang"
+    "curse": "ngokang"
   },
   {
-    "CUT": "ostro"
+    "cut": "ostro"
   },
   {
-    "CYST": "abesp"
+    "cyst": "abesp"
   },
   {
-    "DANCE": "mutog"
+    "dance": "mutog"
   },
   {
-    "DANGLE": "speslu"
+    "dangle": "speslu"
   },
   {
-    "DANK": "nassmu"
+    "dank": "nassmu"
   },
   {
-    "DAGGER": "ulspa"
+    "dagger": "ulspa"
   },
   {
-    "DARK": "ustro"
+    "dark": "ustro"
   },
   {
-    "DATE_FRUIT": "xenak"
+    "date_fruit": "xenak"
   },
   {
-    "DATE_VERB": "rusnung"
+    "date_verb": "rusnung"
   },
   {
-    "DAWN": "sagus"
+    "dawn": "sagus"
   },
   {
-    "DAY": "zordas"
+    "day": "zordas"
   },
   {
-    "DEAD": "–stru"
+    "dead": "–stru"
   },
   {
-    "DEAR": "umust"
+    "dear": "umust"
   },
   {
-    "DEATH": "os"
+    "death": "os"
   },
   {
-    "DECAY": "namo"
+    "decay": "namo"
   },
   {
-    "DECEIVER": "damsto"
+    "deceiver": "damsto"
   },
   {
-    "DEEP": "sodor"
+    "deep": "sodor"
   },
   {
-    "DEER": "unes"
+    "deer": "unes"
   },
   {
-    "DEMON": "arstruk"
+    "demon": "arstruk"
   },
   {
-    "DESPAIR": "natong"
+    "despair": "natong"
   },
   {
-    "DESTROYER": "dutsmon"
+    "destroyer": "dutsmon"
   },
   {
-    "DESTRUCTION": "kud"
+    "destruction": "kud"
   },
   {
-    "DEVIL": "azstrog"
+    "devil": "azstrog"
   },
   {
-    "DEVOURER": "usmka"
+    "devourer": "usmka"
   },
   {
-    "DINE": "ngubung"
+    "dine": "ngubung"
   },
   {
-    "DINNER": "stebo"
+    "dinner": "stebo"
   },
   {
-    "DIRT": "z”t"
+    "dirt": "z”t"
   },
   {
-    "DITCH": "umu"
+    "ditch": "umu"
   },
   {
-    "DOG": "anot"
+    "dog": "anot"
   },
   {
-    "DOMESTIC": "ongob"
+    "domestic": "ongob"
   },
   {
-    "DONKEY": "usnog"
+    "donkey": "usnog"
   },
   {
-    "DOOM": "ngom"
+    "doom": "ngom"
   },
   {
-    "DOOR": "sustgo"
+    "door": "sustgo"
   },
   {
-    "DRAGON": "kusnath"
+    "dragon": "kusnath"
   },
   {
-    "DRAIN": "rost"
+    "drain": "rost"
   },
   {
-    "DRAWL": "strubu"
+    "drawl": "strubu"
   },
   {
-    "DREG": "umstrux"
+    "dreg": "umstrux"
   },
   {
-    "DRESS_CLOTHING": "gur“r"
+    "dress_clothing": "gur“r"
   },
   {
-    "DRESS_GENERAL": "utgub"
+    "dress_general": "utgub"
   },
   {
-    "DRINKER": "asto"
+    "drinker": "asto"
   },
   {
-    "DRIP": "storur"
+    "drip": "storur"
   },
   {
-    "DROOL": "xukong"
+    "drool": "xukong"
   },
   {
-    "DROWNED": "xek"
+    "drowned": "xek"
   },
   {
-    "DRUM": "kun"
+    "drum": "kun"
   },
   {
-    "DRY": "otsta"
+    "dry": "otsta"
   },
   {
-    "DUMP": "korar"
+    "dump": "korar"
   },
   {
-    "DUMPLING": "sud"
+    "dumpling": "sud"
   },
   {
-    "DUNG": "emxa"
+    "dung": "emxa"
   },
   {
-    "DUNGEON": "bosa"
+    "dungeon": "bosa"
   },
   {
-    "DUSK": "zesmstum"
+    "dusk": "zesmstum"
   },
   {
-    "DUST": "lozu"
+    "dust": "lozu"
   },
   {
-    "DUTY": "ngumost"
+    "duty": "ngumost"
   },
   {
-    "DYE": "osmu"
+    "dye": "osmu"
   },
   {
-    "EAGLE": "kedusm"
+    "eagle": "kedusm"
   },
   {
-    "EAR": "slusmbu"
+    "ear": "slusmbu"
   },
   {
-    "EAST": "zusle"
+    "east": "zusle"
   },
   {
-    "EAT": "susmat"
+    "eat": "susmat"
   },
   {
-    "ECTO": "reku"
+    "ecto": "reku"
   },
   {
-    "EEL": "usnos"
+    "eel": "usnos"
   },
   {
-    "EERIE": "“l"
+    "eerie": "“l"
   },
   {
-    "EGG": "donsmok"
+    "egg": "donsmok"
   },
   {
-    "ELDER": "zur"
+    "elder": "zur"
   },
   {
-    "ENTRAILS": "dosmar"
+    "entrails": "dosmar"
   },
   {
-    "ETERNAL": "rusp"
+    "eternal": "rusp"
   },
   {
-    "EVER": "aslu"
+    "ever": "aslu"
   },
   {
-    "EVERLASTING": "or"
+    "everlasting": "or"
   },
   {
-    "EVERSEEING": "xesor"
+    "everseeing": "xesor"
   },
   {
-    "EVIL": "–sbu"
+    "evil": "–sbu"
   },
   {
-    "EXECUTE": "komsto"
+    "execute": "komsto"
   },
   {
-    "EXECUTIONER": "nestro"
+    "executioner": "nestro"
   },
   {
-    "EYE": "mangdu"
+    "eye": "mangdu"
   },
   {
-    "FACE": "esed"
+    "face": "esed"
   },
   {
-    "FALL": "osku"
+    "fall": "osku"
   },
   {
-    "FALSE": "gusm"
+    "false": "gusm"
   },
   {
-    "FAMINE": "rong"
+    "famine": "rong"
   },
   {
-    "FANG": "omot"
+    "fang": "omot"
   },
   {
-    "FAT": "dusmxu"
+    "fat": "dusmxu"
   },
   {
-    "FATAL": "stosp"
+    "fatal": "stosp"
   },
   {
-    "FATHER": "ng“g"
+    "father": "ng“g"
   },
   {
-    "FEAR": "dub"
+    "fear": "dub"
   },
   {
-    "FEAST": "–z"
+    "feast": "–z"
   },
   {
-    "FETID": "sospu"
+    "fetid": "sospu"
   },
   {
-    "FIEND": "zom"
+    "fiend": "zom"
   },
   {
-    "FIERCE": "saspspus"
+    "fierce": "saspspus"
   },
   {
-    "FILTH": "reko"
+    "filth": "reko"
   },
   {
-    "FIN": "stuzang"
+    "fin": "stuzang"
   },
   {
-    "FIND": "”tda"
+    "find": "”tda"
   },
   {
-    "FINGER": "zugstrux"
+    "finger": "zugstrux"
   },
   {
-    "FIRE": "zedan"
+    "fire": "zedan"
   },
   {
-    "FIRST": "”t"
+    "first": "”t"
   },
   {
-    "FISH_ANIMAL": "otu"
+    "fish_animal": "otu"
   },
   {
-    "FISH_VERB": "sposm"
+    "fish_verb": "sposm"
   },
   {
-    "FIST": "ror"
+    "fist": "ror"
   },
   {
-    "FLAME": "slakga"
+    "flame": "slakga"
   },
   {
-    "FLANK": "bosda"
+    "flank": "bosda"
   },
   {
-    "FLEA": "ango"
+    "flea": "ango"
   },
   {
-    "FLESH": "etk–k"
+    "flesh": "etk–k"
   },
   {
-    "FLING": "zoslo"
+    "fling": "zoslo"
   },
   {
-    "FLOOD": "oda"
+    "flood": "oda"
   },
   {
-    "FLOWER": "resm"
+    "flower": "resm"
   },
   {
-    "FLUTE": "ongum"
+    "flute": "ongum"
   },
   {
-    "FLY_ANIMAL": "atu"
+    "fly_animal": "atu"
   },
   {
-    "FLY_VERB": "–n"
+    "fly_verb": "–n"
   },
   {
-    "FOCUS": "rosmnu"
+    "focus": "rosmnu"
   },
   {
-    "FOG": "xob"
+    "fog": "xob"
   },
   {
-    "FOOL": "ustrƒ"
+    "fool": "ustrƒ"
   },
   {
-    "FOOT": "ostrul"
+    "foot": "ostrul"
   },
   {
-    "FOREST": "udast"
+    "forest": "udast"
   },
   {
-    "FORK": "tolto"
+    "fork": "tolto"
   },
   {
-    "FORTIFY": "osma"
+    "fortify": "osma"
   },
   {
-    "FORTRESS": "snusp"
+    "fortress": "snusp"
   },
   {
-    "FRAGILE": "ngosud"
+    "fragile": "ngosud"
   },
   {
-    "FRAGMENT": "ustba"
+    "fragment": "ustba"
   },
   {
-    "FRAME": "ob"
+    "frame": "ob"
   },
   {
-    "FRAY": "„s"
+    "fray": "„s"
   },
   {
-    "FREE": "sostu"
+    "free": "sostu"
   },
   {
-    "FRENZY": "roslast"
+    "frenzy": "roslast"
   },
   {
-    "FREEZE": "gam"
+    "freeze": "gam"
   },
   {
-    "FRILL": "renus"
+    "frill": "renus"
   },
   {
-    "FROG": "uxus"
+    "frog": "uxus"
   },
   {
-    "FRUIT": "utmak"
+    "fruit": "utmak"
   },
   {
-    "FUNGUS": "‰smor"
+    "fungus": "‰smor"
   },
   {
-    "FUR": "mot"
+    "fur": "mot"
   },
   {
-    "GALL": "engg“"
+    "gall": "engg“"
   },
   {
-    "GAME": "zadxe"
+    "game": "zadxe"
   },
   {
-    "GARISH": "luslul"
+    "garish": "luslul"
   },
   {
-    "GARLIC": "ot"
+    "garlic": "ot"
   },
   {
-    "GARNISH": "kast"
+    "garnish": "kast"
   },
   {
-    "GATE": "d–nguk"
+    "gate": "d–nguk"
   },
   {
-    "GAUNT": "az"
+    "gaunt": "az"
   },
   {
-    "GAZE": "spoxom"
+    "gaze": "spoxom"
   },
   {
-    "GEAR": "sosleng"
+    "gear": "sosleng"
   },
   {
-    "GERBIL": "goksta"
+    "gerbil": "goksta"
   },
   {
-    "GHOST": "engror"
+    "ghost": "engror"
   },
   {
-    "GHOUL": "osnun"
+    "ghoul": "osnun"
   },
   {
-    "GIFT": "espo"
+    "gift": "espo"
   },
   {
-    "GILL": "stongun"
+    "gill": "stongun"
   },
   {
-    "GIRDLE": "oxoz"
+    "girdle": "oxoz"
   },
   {
-    "GLAND": "gosmsex"
+    "gland": "gosmsex"
   },
   {
-    "GLAZE": "ul"
+    "glaze": "ul"
   },
   {
-    "GLEN": "asnur"
+    "glen": "asnur"
   },
   {
-    "GLIDE": "ora"
+    "glide": "ora"
   },
   {
-    "GLIMMER": "ong"
+    "glimmer": "ong"
   },
   {
-    "GLISTEN": "odstron"
+    "glisten": "odstron"
   },
   {
-    "GLOSS": "uram"
+    "gloss": "uram"
   },
   {
-    "GLOVE": "deng"
+    "glove": "deng"
   },
   {
-    "GLUTTON": "rusm"
+    "glutton": "rusm"
   },
   {
-    "GOAT": "orang"
+    "goat": "orang"
   },
   {
-    "GOD": "usp"
+    "god": "usp"
   },
   {
-    "GOD-FORSAKEN": "togu"
+    "god-forsaken": "togu"
   },
   {
-    "GOLD": "ongong"
+    "gold": "ongong"
   },
   {
-    "GOOSE": "us"
+    "goose": "us"
   },
   {
-    "GORE": "oddo"
+    "gore": "oddo"
   },
   {
-    "GORGE_NOUN": "ezung"
+    "gorge_noun": "ezung"
   },
   {
-    "GORGE_VERB": "nolsto"
+    "gorge_verb": "nolsto"
   },
   {
-    "GRAIN": "noto"
+    "grain": "noto"
   },
   {
-    "GRAND": "spostza"
+    "grand": "spostza"
   },
   {
-    "GRAPE": "tat"
+    "grape": "tat"
   },
   {
-    "GRASS": "struxe"
+    "grass": "struxe"
   },
   {
-    "GRAVE": "orgu"
+    "grave": "orgu"
   },
   {
-    "GREASE": "mukong"
+    "grease": "mukong"
   },
   {
-    "GREAT": "snuz"
+    "great": "snuz"
   },
   {
-    "GREED": "zuspzeb"
+    "greed": "zuspzeb"
   },
   {
-    "GREEN": "astru"
+    "green": "astru"
   },
   {
-    "GRIFFON": "oxdu"
+    "griffon": "oxdu"
   },
   {
-    "GRILL": "zot"
+    "grill": "zot"
   },
   {
-    "GRIM": "ux"
+    "grim": "ux"
   },
   {
-    "GRIND": "nˆsnub"
+    "grind": "nˆsnub"
   },
   {
-    "GRIP": "slon"
+    "grip": "slon"
   },
   {
-    "GRISTLE": "smaspest"
+    "gristle": "smaspest"
   },
   {
-    "GRIZZLE": "utux"
+    "grizzle": "utux"
   },
   {
-    "GROVE": "guzel"
+    "grove": "guzel"
   },
   {
-    "GROW": "„n"
+    "grow": "„n"
   },
   {
-    "GROWL": "kudo"
+    "growl": "kudo"
   },
   {
-    "GROWTH": "ngon"
+    "growth": "ngon"
   },
   {
-    "GRUB": "oxosp"
+    "grub": "oxosp"
   },
   {
-    "GUARD": "totsnost"
+    "guard": "totsnost"
   },
   {
-    "GUILE": "kaza"
+    "guile": "kaza"
   },
   {
-    "GUISE": "ummu"
+    "guise": "ummu"
   },
   {
-    "GUT": "zumzust"
+    "gut": "zumzust"
   },
   {
-    "GUTTER": "on"
+    "gutter": "on"
   },
   {
-    "HAG": "zastrur"
+    "hag": "zastrur"
   },
   {
-    "HAIR": "esmast"
+    "hair": "esmast"
   },
   {
-    "HAIRY": "nosno"
+    "hairy": "nosno"
   },
   {
-    "HAME": "oru"
+    "hame": "oru"
   },
   {
-    "HAMMER": "ospum"
+    "hammer": "ospum"
   },
   {
-    "HAMMERER": "spar"
+    "hammerer": "spar"
   },
   {
-    "HAND": "ngam"
+    "hand": "ngam"
   },
   {
-    "HANDY": "lose"
+    "handy": "lose"
   },
   {
-    "HARE": "sluto"
+    "hare": "sluto"
   },
   {
-    "HARVEST": "†st"
+    "harvest": "†st"
   },
   {
-    "HARVEST_VERB": "oso"
+    "harvest_verb": "oso"
   },
   {
-    "HATCHET": "ono"
+    "hatchet": "ono"
   },
   {
-    "HATE": "stosb–b"
+    "hate": "stosb–b"
   },
   {
-    "HAUNT": "smumxu"
+    "haunt": "smumxu"
   },
   {
-    "HAWK": "smuga"
+    "hawk": "smuga"
   },
   {
-    "HAY": "uga"
+    "hay": "uga"
   },
   {
-    "HEAD": "ostam"
+    "head": "ostam"
   },
   {
-    "HEART": "osmat"
+    "heart": "osmat"
   },
   {
-    "HEARTH": "ad"
+    "hearth": "ad"
   },
   {
-    "HEATHER": "nganuz"
+    "heather": "nganuz"
   },
   {
-    "HEDGE": "sl‰su"
+    "hedge": "sl‰su"
   },
   {
-    "HELL": "gozru"
+    "hell": "gozru"
   },
   {
-    "HELM": "zuslo"
+    "helm": "zuslo"
   },
   {
-    "HERO": "spunog"
+    "hero": "spunog"
   },
   {
-    "HEX": "aslot"
+    "hex": "aslot"
   },
   {
-    "HIDE": "obruk"
+    "hide": "obruk"
   },
   {
-    "HIDEOUS": "streras"
+    "hideous": "streras"
   },
   {
-    "HIGH": "aku"
+    "high": "aku"
   },
   {
-    "HILL": "bostu"
+    "hill": "bostu"
   },
   {
-    "HIP": "kad"
+    "hip": "kad"
   },
   {
-    "HOARY": "otbu"
+    "hoary": "otbu"
   },
   {
-    "HOBBLE": "ngut"
+    "hobble": "ngut"
   },
   {
-    "HOG": "snam"
+    "hog": "snam"
   },
   {
-    "HOLY": "luxam"
+    "holy": "luxam"
   },
   {
-    "HOIST": "aspung"
+    "hoist": "aspung"
   },
   {
-    "HOLE": "ana"
+    "hole": "ana"
   },
   {
-    "HOME": "udung"
+    "home": "udung"
   },
   {
-    "HONEY": "stoz"
+    "honey": "stoz"
   },
   {
-    "HOOD": "setu"
+    "hood": "setu"
   },
   {
-    "HOOF": "slum"
+    "hoof": "slum"
   },
   {
-    "HOP_NOUN": "asm"
+    "hop_noun": "asm"
   },
   {
-    "HOP_VERB": "angnu"
+    "hop_verb": "angnu"
   },
   {
-    "HORN": "era"
+    "horn": "era"
   },
   {
-    "HORSE": "smuz"
+    "horse": "smuz"
   },
   {
-    "HOUND": "on‰s"
+    "hound": "on‰s"
   },
   {
-    "HOWL": "nosost"
+    "howl": "nosost"
   },
   {
-    "HUG": "susp"
+    "hug": "susp"
   },
   {
-    "HUM": "utnu"
+    "hum": "utnu"
   },
   {
-    "HUNGER": "esno"
+    "hunger": "esno"
   },
   {
-    "HUSTLE": "umo"
+    "hustle": "umo"
   },
   {
-    "ICE": "uslang"
+    "ice": "uslang"
   },
   {
-    "IDLE": "esrox"
+    "idle": "esrox"
   },
   {
-    "IDOL": "rur"
+    "idol": "rur"
   },
   {
-    "ILL": "†t“z"
+    "ill": "†t“z"
   },
   {
-    "IMPURE": "uxom"
+    "impure": "uxom"
   },
   {
-    "INCENSE": "ungo"
+    "incense": "ungo"
   },
   {
-    "INCH": "ngust–"
+    "inch": "ngust–"
   },
   {
-    "INK": "ng–lo"
+    "ink": "ng–lo"
   },
   {
-    "INN": "okaz"
+    "inn": "okaz"
   },
   {
-    "INSANITY": "naslo"
+    "insanity": "naslo"
   },
   {
-    "INVISIBLE": "slug"
+    "invisible": "slug"
   },
   {
-    "IRON": "dusna"
+    "iron": "dusna"
   },
   {
-    "ITCH": "mut"
+    "itch": "mut"
   },
   {
-    "IVY": "st‰tso"
+    "ivy": "st‰tso"
   },
   {
-    "JACK": "uro"
+    "jack": "uro"
   },
   {
-    "JACKAL": "em"
+    "jackal": "em"
   },
   {
-    "JAUNDICE": "stroso"
+    "jaundice": "stroso"
   },
   {
-    "JAW": "zureng"
+    "jaw": "zureng"
   },
   {
-    "JEST": "†smum"
+    "jest": "†smum"
   },
   {
-    "JOKE": "ule"
+    "joke": "ule"
   },
   {
-    "JUGGLE": "gex"
+    "juggle": "gex"
   },
   {
-    "JUICE": "usnar"
+    "juice": "usnar"
   },
   {
-    "JUNGLE": "rƒbab"
+    "jungle": "rƒbab"
   },
   {
-    "JUST": "aka"
+    "just": "aka"
   },
   {
-    "JUSTIFY": "uspax"
+    "justify": "uspax"
   },
   {
-    "KEEPER": "ol"
+    "keeper": "ol"
   },
   {
-    "KEG": "‰slun"
+    "keg": "‰slun"
   },
   {
-    "KEY": "exzas"
+    "key": "exzas"
   },
   {
-    "KINDNESS": "slusne"
+    "kindness": "slusne"
   },
   {
-    "KILLER": "ngosnud"
+    "killer": "ngosnud"
   },
   {
-    "KISS": "snong"
+    "kiss": "snong"
   },
   {
-    "KING": "zozlo"
+    "king": "zozlo"
   },
   {
-    "KNEAD": "sot"
+    "knead": "sot"
   },
   {
-    "KNIFE": "ngesosp"
+    "knife": "ngesosp"
   },
   {
-    "KNIGHT": "kod"
+    "knight": "kod"
   },
   {
-    "KNIT": "strosnu"
+    "knit": "strosnu"
   },
   {
-    "KNOT": "–st"
+    "knot": "–st"
   },
   {
-    "LACE": "ngok"
+    "lace": "ngok"
   },
   {
-    "LAKE": "smespu"
+    "lake": "smespu"
   },
   {
-    "LARD": "g”sp"
+    "lard": "g”sp"
   },
   {
-    "LARK": "baspu"
+    "lark": "baspu"
   },
   {
-    "LARVA": "ustru"
+    "larva": "ustru"
   },
   {
-    "LAST": "asmba"
+    "last": "asmba"
   },
   {
-    "LAW": "stod"
+    "law": "stod"
   },
   {
-    "LAZY": "umr“k"
+    "lazy": "umr“k"
   },
   {
-    "LEADER": "”la"
+    "leader": "”la"
   },
   {
-    "LEAF": "uko"
+    "leaf": "uko"
   },
   {
-    "LEAK": "susm"
+    "leak": "susm"
   },
   {
-    "LEAN": "smuspzu"
+    "lean": "smuspzu"
   },
   {
-    "LEECH": "axson"
+    "leech": "axson"
   },
   {
-    "LEGEND": "olzul"
+    "legend": "olzul"
   },
   {
-    "LENS": "ez"
+    "lens": "ez"
   },
   {
-    "LEOPARD": "utol"
+    "leopard": "utol"
   },
   {
-    "LEPER": "ostrasm"
+    "leper": "ostrasm"
   },
   {
-    "LEPROSY": "kuza"
+    "leprosy": "kuza"
   },
   {
-    "LETTER": "engo"
+    "letter": "engo"
   },
   {
-    "LIE": "smunstu"
+    "lie": "smunstu"
   },
   {
-    "LIGHT": "asne"
+    "light": "asne"
   },
   {
-    "LIGHTNING": "uslu"
+    "lightning": "uslu"
   },
   {
-    "LIMB": "otos"
+    "limb": "otos"
   },
   {
-    "LIP": "ubon"
+    "lip": "ubon"
   },
   {
-    "LISTEN": "otsmo"
+    "listen": "otsmo"
   },
   {
-    "LIZARD": "asp"
+    "lizard": "asp"
   },
   {
-    "LOBSTER": "ospun"
+    "lobster": "ospun"
   },
   {
-    "LOCK": "sposmo"
+    "lock": "sposmo"
   },
   {
-    "LONE": "gangox"
+    "lone": "gangox"
   },
   {
-    "LONG": "xom"
+    "long": "xom"
   },
   {
-    "LOOT": "aspo"
+    "loot": "aspo"
   },
   {
-    "LORD": "tormuk"
+    "lord": "tormuk"
   },
   {
-    "LOST": "mak"
+    "lost": "mak"
   },
   {
-    "LOUSE": "baru"
+    "louse": "baru"
   },
   {
-    "LOVE": "rato"
+    "love": "rato"
   },
   {
-    "LOW": "omag"
+    "low": "omag"
   },
   {
-    "LUNCH": "spakzo"
+    "lunch": "spakzo"
   },
   {
-    "LUNG": "bostra"
+    "lung": "bostra"
   },
   {
-    "LURID": "snospu"
+    "lurid": "snospu"
   },
   {
-    "LURCH": "kuk"
+    "lurch": "kuk"
   },
   {
-    "LURK": "spunngu"
+    "lurk": "spunngu"
   },
   {
-    "LUSH": "spad"
+    "lush": "spad"
   },
   {
-    "LUST": "sulud"
+    "lust": "sulud"
   },
   {
-    "LUTE": "nusgoz"
+    "lute": "nusgoz"
   },
   {
-    "LYRIC": "lomno"
+    "lyric": "lomno"
   },
   {
-    "MAGGOT": "stug"
+    "maggot": "stug"
   },
   {
-    "MAGIC": "sl”l"
+    "magic": "sl”l"
   },
   {
-    "MAN": "ngor–g"
+    "man": "ngor–g"
   },
   {
-    "MANGE": "aru"
+    "mange": "aru"
   },
   {
-    "MANY": "ek"
+    "many": "ek"
   },
   {
-    "MARSH": "kest"
+    "marsh": "kest"
   },
   {
-    "MARTYR": "mutku"
+    "martyr": "mutku"
   },
   {
-    "MASTER": "ƒs"
+    "master": "ƒs"
   },
   {
-    "MAW": "ozuz"
+    "maw": "ozuz"
   },
   {
-    "MEAD": "ger"
+    "mead": "ger"
   },
   {
-    "MEADOW": "stobux"
+    "meadow": "stobux"
   },
   {
-    "MEAL_DOM": "lule"
+    "meal_dom": "lule"
   },
   {
-    "MEAL_GROUND": "xan‰"
+    "meal_ground": "xan‰"
   },
   {
-    "MEAT": "smoz–"
+    "meat": "smoz–"
   },
   {
-    "MEDITATION": "gotkol"
+    "meditation": "gotkol"
   },
   {
-    "MELLOW": "zusmuz"
+    "mellow": "zusmuz"
   },
   {
-    "MENACE": "kutsmob"
+    "menace": "kutsmob"
   },
   {
-    "MESS": "smodu"
+    "mess": "smodu"
   },
   {
-    "METAL": "snusm"
+    "metal": "snusm"
   },
   {
-    "MIDNIGHT": "estrur"
+    "midnight": "estrur"
   },
   {
-    "MIGHTY": "ostost"
+    "mighty": "ostost"
   },
   {
-    "MIGHTINESS": "rustrom"
+    "mightiness": "rustrom"
   },
   {
-    "MILE": "ngustuk"
+    "mile": "ngustuk"
   },
   {
-    "MINCE": "bosm"
+    "mince": "bosm"
   },
   {
-    "MIND": "ugsmez"
+    "mind": "ugsmez"
   },
   {
-    "MINION": "snanspex"
+    "minion": "snanspex"
   },
   {
-    "MIRROR": "„tkust"
+    "mirror": "„tkust"
   },
   {
-    "MISERY": "uksox"
+    "misery": "uksox"
   },
   {
-    "MIST": "guslo"
+    "mist": "guslo"
   },
   {
-    "MITE": "en"
+    "mite": "en"
   },
   {
-    "MOLD": "totƒs"
+    "mold": "totƒs"
   },
   {
-    "MOLE": "ut“st"
+    "mole": "ut“st"
   },
   {
-    "MOLTEN": "odes"
+    "molten": "odes"
   },
   {
-    "MONKEY": "lam"
+    "monkey": "lam"
   },
   {
-    "MOON": "zusla"
+    "moon": "zusla"
   },
   {
-    "MONGER": "mostrosp"
+    "monger": "mostrosp"
   },
   {
-    "MOTH": "atan"
+    "moth": "atan"
   },
   {
-    "MOTHER": "ozod"
+    "mother": "ozod"
   },
   {
-    "MOUSE": "nexed"
+    "mouse": "nexed"
   },
   {
-    "MOUTH": "osl”t"
+    "mouth": "osl”t"
   },
   {
-    "MUCK": "nokast"
+    "muck": "nokast"
   },
   {
-    "MUD": "gob"
+    "mud": "gob"
   },
   {
-    "MUFFIN": "ostu"
+    "muffin": "ostu"
   },
   {
-    "MULE": "ner"
+    "mule": "ner"
   },
   {
-    "MUNCH": "zut"
+    "munch": "zut"
   },
   {
-    "MURDER": "ustol"
+    "murder": "ustol"
   },
   {
-    "MUSH": "smozuz"
+    "mush": "smozuz"
   },
   {
-    "MUSHROOM": "smul"
+    "mushroom": "smul"
   },
   {
-    "MUSIC": "bagost"
+    "music": "bagost"
   },
   {
-    "MYSTERY": "as"
+    "mystery": "as"
   },
   {
-    "MYTH": "angstur"
+    "myth": "angstur"
   },
   {
-    "NAIL": "olnge"
+    "nail": "olnge"
   },
   {
-    "NASTY": "gunzo"
+    "nasty": "gunzo"
   },
   {
-    "NATURE": "busm"
+    "nature": "busm"
   },
   {
-    "NECRO": "got"
+    "necro": "got"
   },
   {
-    "NEGATIVE": "snuto"
+    "negative": "snuto"
   },
   {
-    "NEGATE": "osu"
+    "negate": "osu"
   },
   {
-    "NEO": "solu"
+    "neo": "solu"
   },
   {
-    "NEST": "smugsasp"
+    "nest": "smugsasp"
   },
   {
-    "NESTLE": "boz"
+    "nestle": "boz"
   },
   {
-    "NET": "strugu"
+    "net": "strugu"
   },
   {
-    "NETTLE": "ngudgu"
+    "nettle": "ngudgu"
   },
   {
-    "NEW": "nodluz"
+    "new": "nodluz"
   },
   {
-    "NEWT": "oge"
+    "newt": "oge"
   },
   {
-    "NIBBLE": "kog"
+    "nibble": "kog"
   },
   {
-    "NIGHT": "anu"
+    "night": "anu"
   },
   {
-    "NIGHTMARE": "b†x"
+    "nightmare": "b†x"
   },
   {
-    "NOBLE": "d”sta"
+    "noble": "d”sta"
   },
   {
-    "NOOSE": "ube"
+    "noose": "ube"
   },
   {
-    "NORTH": "oslo"
+    "north": "oslo"
   },
   {
-    "NOSE": "atog"
+    "nose": "atog"
   },
   {
-    "NULL": "smast"
+    "null": "smast"
   },
   {
-    "NUMBER": "rusnut"
+    "number": "rusnut"
   },
   {
-    "NURTURE": "uxrosp"
+    "nurture": "uxrosp"
   },
   {
-    "NUT": "stasoz"
+    "nut": "stasoz"
   },
   {
-    "OAK": "os“"
+    "oak": "os“"
   },
   {
-    "OAR": "akusm"
+    "oar": "akusm"
   },
   {
-    "OAT": "dalag"
+    "oat": "dalag"
   },
   {
-    "OBLIVION": "xan"
+    "oblivion": "xan"
   },
   {
-    "OCEAN": "strabo"
+    "ocean": "strabo"
   },
   {
-    "OLD": "tokxe"
+    "old": "tokxe"
   },
   {
-    "OMEN": "slospu"
+    "omen": "slospu"
   },
   {
-    "ONE": "toxu"
+    "one": "toxu"
   },
   {
-    "ONE_PREF": "obngot"
+    "one_pref": "obngot"
   },
   {
-    "ONION": "nubkam"
+    "onion": "nubkam"
   },
   {
-    "OOZE": "ak"
+    "ooze": "ak"
   },
   {
-    "OPEN": "uxnu"
+    "open": "uxnu"
   },
   {
-    "ORB": "uka"
+    "orb": "uka"
   },
   {
-    "OVER": "ox"
+    "over": "ox"
   },
   {
-    "OWL": "„do"
+    "owl": "„do"
   },
   {
-    "OX": "ustspu"
+    "ox": "ustspu"
   },
   {
-    "PACK": "slux"
+    "pack": "slux"
   },
   {
-    "PAD_NOUN": "ostˆ"
+    "pad_noun": "ostˆ"
   },
   {
-    "PAD_VERB": "nud"
+    "pad_verb": "nud"
   },
   {
-    "PAGE": "smox"
+    "page": "smox"
   },
   {
-    "PAIN": "omur"
+    "pain": "omur"
   },
   {
-    "PAINT": "estu"
+    "paint": "estu"
   },
   {
-    "PALE": "ngorub"
+    "pale": "ngorub"
   },
   {
-    "PALM": "lub”m"
+    "palm": "lub”m"
   },
   {
-    "PANT": "zol"
+    "pant": "zol"
   },
   {
-    "PANTHER": "spuzsux"
+    "panther": "spuzsux"
   },
   {
-    "PANTS": "buse"
+    "pants": "buse"
   },
   {
-    "PAPER": "eru"
+    "paper": "eru"
   },
   {
-    "PEACE": "zub"
+    "peace": "zub"
   },
   {
-    "PEACH": "musnu"
+    "peach": "musnu"
   },
   {
-    "PEPPER": "ugud"
+    "pepper": "ugud"
   },
   {
-    "PHLEGM": "xest"
+    "phlegm": "xest"
   },
   {
-    "PIG": "dul"
+    "pig": "dul"
   },
   {
-    "PIT": "sl”mod"
+    "pit": "sl”mod"
   },
   {
-    "PITCH": "uxun"
+    "pitch": "uxun"
   },
   {
-    "PLAGUE": "snodub"
+    "plague": "snodub"
   },
   {
-    "PLANT": "tusnas"
+    "plant": "tusnas"
   },
   {
-    "PLANTER": "og”"
+    "planter": "og”"
   },
   {
-    "PLOT": "ngunga"
+    "plot": "ngunga"
   },
   {
-    "POCKET_NOUN": "kunsme"
+    "pocket_noun": "kunsme"
   },
   {
-    "POCKET_VERB": "”z"
+    "pocket_verb": "”z"
   },
   {
-    "POISON": "stozu"
+    "poison": "stozu"
   },
   {
-    "PORTAL": "aslo"
+    "portal": "aslo"
   },
   {
-    "POWER": "slatsu"
+    "power": "slatsu"
   },
   {
-    "PRANK": "lub"
+    "prank": "lub"
   },
   {
-    "PREGNANT": "dumo"
+    "pregnant": "dumo"
   },
   {
-    "PRIDE": "nog"
+    "pride": "nog"
   },
   {
-    "PRIEST": "xunox"
+    "priest": "xunox"
   },
   {
-    "PRIM": "ossnus"
+    "prim": "ossnus"
   },
   {
-    "PRIME": "ngospa"
+    "prime": "ngospa"
   },
   {
-    "PRIMITIVE": "goslol"
+    "primitive": "goslol"
   },
   {
-    "PROFANE": "ukge"
+    "profane": "ukge"
   },
   {
-    "PROPHECY": "s–ttu"
+    "prophecy": "s–ttu"
   },
   {
-    "PROPHET": "ala"
+    "prophet": "ala"
   },
   {
-    "PROWL": "susla"
+    "prowl": "susla"
   },
   {
-    "PUKE": "xung“"
+    "puke": "xung“"
   },
   {
-    "PULL": "xosno"
+    "pull": "xosno"
   },
   {
-    "PULLEY": "ust“t"
+    "pulley": "ust“t"
   },
   {
-    "PULP": "gugo"
+    "pulp": "gugo"
   },
   {
-    "PUNCH": "s„sp"
+    "punch": "s„sp"
   },
   {
-    "PURPLE": "xus"
+    "purple": "xus"
   },
   {
-    "PUS": "ostr”t"
+    "pus": "ostr”t"
   },
   {
-    "PUTRID": "snut"
+    "putrid": "snut"
   },
   {
-    "QUAKE": "ngaxa"
+    "quake": "ngaxa"
   },
   {
-    "QUEEN": "odgas"
+    "queen": "odgas"
   },
   {
-    "QUICK": "slonƒn"
+    "quick": "slonƒn"
   },
   {
-    "QUILL": "kuxngul"
+    "quill": "kuxngul"
   },
   {
-    "RABBIT": "badan"
+    "rabbit": "badan"
   },
   {
-    "RABBLE": "xug"
+    "rabble": "xug"
   },
   {
-    "RACE_GROUP": "ozlu"
+    "race_group": "ozlu"
   },
   {
-    "RACE_VERB": "smoza"
+    "race_verb": "smoza"
   },
   {
-    "RACK": "smas"
+    "rack": "smas"
   },
   {
-    "RAG": "uzor"
+    "rag": "uzor"
   },
   {
-    "RAGE": "ospu"
+    "rage": "ospu"
   },
   {
-    "RAIN": "ugok"
+    "rain": "ugok"
   },
   {
-    "RAKE": "smuslo"
+    "rake": "smuslo"
   },
   {
-    "RAM": "ngukez"
+    "ram": "ngukez"
   },
   {
-    "RAMPAGE": "snos"
+    "rampage": "snos"
   },
   {
-    "RANDOM": "smorusp"
+    "random": "smorusp"
   },
   {
-    "RANSACK": "smoslu"
+    "ransack": "smoslu"
   },
   {
-    "RAPTOR": "x–ku"
+    "raptor": "x–ku"
   },
   {
-    "RAT": "sp”dg“z"
+    "rat": "sp”dg“z"
   },
   {
-    "RAUNCH": "“m"
+    "raunch": "“m"
   },
   {
-    "RAVAGER": "ubest"
+    "ravager": "ubest"
   },
   {
-    "RAVEN": "rosp"
+    "raven": "rosp"
   },
   {
-    "RAW": "tuxum"
+    "raw": "tuxum"
   },
   {
-    "RAZOR": "lusspu"
+    "razor": "lusspu"
   },
   {
-    "RED": "tur"
+    "red": "tur"
   },
   {
-    "REGAL": "duka"
+    "regal": "duka"
   },
   {
-    "REIGN": "kus–n"
+    "reign": "kus–n"
   },
   {
-    "REIN": "nusnost"
+    "rein": "nusnost"
   },
   {
-    "REND": "usmzug"
+    "rend": "usmzug"
   },
   {
-    "RIDER": "ng”n"
+    "rider": "ng”n"
   },
   {
-    "RIM": "ukung"
+    "rim": "ukung"
   },
   {
-    "RING_OBJECT": "utok"
+    "ring_object": "utok"
   },
   {
-    "RING_SOUND": "ungong"
+    "ring_sound": "ungong"
   },
   {
-    "RIP": "sasmar"
+    "rip": "sasmar"
   },
   {
-    "RIPE": "odo"
+    "ripe": "odo"
   },
   {
-    "RIPPER": "smosp"
+    "ripper": "smosp"
   },
   {
-    "RISE": "or–sp"
+    "rise": "or–sp"
   },
   {
-    "RITE": "zurusp"
+    "rite": "zurusp"
   },
   {
-    "RIVER": "”btasp"
+    "river": "”btasp"
   },
   {
-    "ROCK": "ereg"
+    "rock": "ereg"
   },
   {
-    "ROGUE": "snazog"
+    "rogue": "snazog"
   },
   {
-    "ROMANCE": "luru"
+    "romance": "luru"
   },
   {
-    "ROOM": "xustxu"
+    "room": "xustxu"
   },
   {
-    "ROOMY": "dungnoz"
+    "roomy": "dungnoz"
   },
   {
-    "ROOT": "lobok"
+    "root": "lobok"
   },
   {
-    "ROSE": "umstos"
+    "rose": "umstos"
   },
   {
-    "ROT": "nom"
+    "rot": "nom"
   },
   {
-    "ROUGH": "basnung"
+    "rough": "basnung"
   },
   {
-    "ROYAL": "xasnos"
+    "royal": "xasnos"
   },
   {
-    "RUIN": "ng–tdo"
+    "ruin": "ng–tdo"
   },
   {
-    "RUIN_V": "steg"
+    "ruin_v": "steg"
   },
   {
-    "RULER": "ongno"
+    "ruler": "ongno"
   },
   {
-    "RUMOR": "ludosm"
+    "rumor": "ludosm"
   },
   {
-    "RUST": "snab"
+    "rust": "snab"
   },
   {
-    "SABRE": "sat"
+    "sabre": "sat"
   },
   {
-    "SACK": "stror"
+    "sack": "stror"
   },
   {
-    "SAINT": "s†kno"
+    "saint": "s†kno"
   },
   {
-    "SALT": "kosmdasp"
+    "salt": "kosmdasp"
   },
   {
-    "SALVE": "spug"
+    "salve": "spug"
   },
   {
-    "SAP": "at"
+    "sap": "at"
   },
   {
-    "SATIN": "ungxa"
+    "satin": "ungxa"
   },
   {
-    "SAVAGE": "smoxut"
+    "savage": "smoxut"
   },
   {
-    "SAVAGERY": "zulast"
+    "savagery": "zulast"
   },
   {
-    "SAVIOR": "spospo"
+    "savior": "spospo"
   },
   {
-    "SCAB": "boslut"
+    "scab": "boslut"
   },
   {
-    "SCAR": "loz"
+    "scar": "loz"
   },
   {
-    "SCOLD": "ura"
+    "scold": "ura"
   },
   {
-    "SCORPION": "strodno"
+    "scorpion": "strodno"
   },
   {
-    "SCRATCH": "nutxox"
+    "scratch": "nutxox"
   },
   {
-    "SCOURGE": "song"
+    "scourge": "song"
   },
   {
-    "SCREAM": "slag"
+    "scream": "slag"
   },
   {
-    "SCUM": "”g"
+    "scum": "”g"
   },
   {
-    "SEA": "ozob"
+    "sea": "ozob"
   },
   {
-    "SEAL_ANIMAL": "uzbad"
+    "seal_animal": "uzbad"
   },
   {
-    "SEAL_ART": "momnux"
+    "seal_art": "momnux"
   },
   {
-    "SEAM": "nomu"
+    "seam": "nomu"
   },
   {
-    "SEASON": "meslu"
+    "season": "meslu"
   },
   {
-    "SECRET": "smoxspu"
+    "secret": "smoxspu"
   },
   {
-    "SEDUCE": "amxu"
+    "seduce": "amxu"
   },
   {
-    "SEDUCER": "asno"
+    "seducer": "asno"
   },
   {
-    "SEED": "”smosp"
+    "seed": "”smosp"
   },
   {
-    "SEER": "z“n†"
+    "seer": "z“n†"
   },
   {
-    "SEIZE": "tosnak"
+    "seize": "tosnak"
   },
   {
-    "SERPENT": "olsmu"
+    "serpent": "olsmu"
   },
   {
-    "SERVANT": "nguk"
+    "servant": "nguk"
   },
   {
-    "SEVER": "koxstas"
+    "sever": "koxstas"
   },
   {
-    "SEWER": "oxxo"
+    "sewer": "oxxo"
   },
   {
-    "SHADOW": "akon"
+    "shadow": "akon"
   },
   {
-    "SHAFT": "„b"
+    "shaft": "„b"
   },
   {
-    "SHANK": "uk"
+    "shank": "uk"
   },
   {
-    "SHARK": "sl†ngo"
+    "shark": "sl†ngo"
   },
   {
-    "SHEAR": "rungdo"
+    "shear": "rungdo"
   },
   {
-    "SHEEN": "oko"
+    "sheen": "oko"
   },
   {
-    "SHELL": "†tsnusm"
+    "shell": "†tsnusm"
   },
   {
-    "SHELTER": "strolu"
+    "shelter": "strolu"
   },
   {
-    "SHIELD": "ulsa"
+    "shield": "ulsa"
   },
   {
-    "SHIMMER": "lom"
+    "shimmer": "lom"
   },
   {
-    "SHIP": "aste"
+    "ship": "aste"
   },
   {
-    "SHOOT": "sloxuk"
+    "shoot": "sloxuk"
   },
   {
-    "SHOW": "stongnub"
+    "show": "stongnub"
   },
   {
-    "SHRED": "ogmong"
+    "shred": "ogmong"
   },
   {
-    "SHRIEK": "ubstusp"
+    "shriek": "ubstusp"
   },
   {
-    "SHUT": "esm"
+    "shut": "esm"
   },
   {
-    "SICK": "n‰b"
+    "sick": "n‰b"
   },
   {
-    "SICKNESS": "slok"
+    "sickness": "slok"
   },
   {
-    "SIEGE": "etosp"
+    "siege": "etosp"
   },
   {
-    "SILENCE": "rut"
+    "silence": "rut"
   },
   {
-    "SILK": "egod"
+    "silk": "egod"
   },
   {
-    "SILKY": "ogna"
+    "silky": "ogna"
   },
   {
-    "SILT": "omub"
+    "silt": "omub"
   },
   {
-    "SILVER": "one"
+    "silver": "one"
   },
   {
-    "SIN": "zolak"
+    "sin": "zolak"
   },
   {
-    "SINEW": "sloslub"
+    "sinew": "sloslub"
   },
   {
-    "SING": "okum"
+    "sing": "okum"
   },
   {
-    "SISTER": "b‰xo"
+    "sister": "b‰xo"
   },
   {
-    "SKIRT_CLOTHING": "ar"
+    "skirt_clothing": "ar"
   },
   {
-    "SKIRT_VERB": "ukong"
+    "skirt_verb": "ukong"
   },
   {
-    "SKUNK": "masn„m"
+    "skunk": "masn„m"
   },
   {
-    "SKULL": "unu"
+    "skull": "unu"
   },
   {
-    "SKY": "oslak"
+    "sky": "oslak"
   },
   {
-    "SLAUGHTER": "arspun"
+    "slaughter": "arspun"
   },
   {
-    "SLAVE": "smanges"
+    "slave": "smanges"
   },
   {
-    "SLAYER": "stuz”g"
+    "slayer": "stuz”g"
   },
   {
-    "SLIM": "mubo"
+    "slim": "mubo"
   },
   {
-    "SLIME": "slesnan"
+    "slime": "slesnan"
   },
   {
-    "SLING": "ug‰"
+    "sling": "ug‰"
   },
   {
-    "SLINK": "nadog"
+    "slink": "nadog"
   },
   {
-    "SLIT": "xud"
+    "slit": "xud"
   },
   {
-    "SLITHER": "sangnosm"
+    "slither": "sangnosm"
   },
   {
-    "SLIVER": "uz"
+    "sliver": "uz"
   },
   {
-    "SLOTH": "ongo"
+    "sloth": "ongo"
   },
   {
-    "SLUG": "omu"
+    "slug": "omu"
   },
   {
-    "SMASH": "uzest"
+    "smash": "uzest"
   },
   {
-    "SMILE": "uspuk"
+    "smile": "uspuk"
   },
   {
-    "SMITH": "am"
+    "smith": "am"
   },
   {
-    "SMOKE": "uspsast"
+    "smoke": "uspsast"
   },
   {
-    "SMOOTH": "spugkad"
+    "smooth": "spugkad"
   },
   {
-    "SMOULDER": "xubu"
+    "smoulder": "xubu"
   },
   {
-    "SNACK": "gud"
+    "snack": "gud"
   },
   {
-    "SNAKE": "slorust"
+    "snake": "slorust"
   },
   {
-    "SNEER": "ostrur"
+    "sneer": "ostrur"
   },
   {
-    "SNOT": "kosmz†"
+    "snot": "kosmz†"
   },
   {
-    "SNUGGLE": "smum"
+    "snuggle": "smum"
   },
   {
-    "SOIL": "snustrok"
+    "soil": "snustrok"
   },
   {
-    "SOLDIER": "oxo"
+    "soldier": "oxo"
   },
   {
-    "SOOT": "aton"
+    "soot": "aton"
   },
   {
-    "SOOTHE": "ormo"
+    "soothe": "ormo"
   },
   {
-    "SORROW": "†kru"
+    "sorrow": "†kru"
   },
   {
-    "SOUL": "ud”"
+    "soul": "ud”"
   },
   {
-    "SOUND": "ngoslun"
+    "sound": "ngoslun"
   },
   {
-    "SOUTH": "zuslust"
+    "south": "zuslust"
   },
   {
-    "SPASM": "bodod"
+    "spasm": "bodod"
   },
   {
-    "SPAWN": "sm“nge"
+    "spawn": "sm“nge"
   },
   {
-    "SPEAR": "bukza"
+    "spear": "bukza"
   },
   {
-    "SPELL": "spespo"
+    "spell": "spespo"
   },
   {
-    "SPICE": "tux"
+    "spice": "tux"
   },
   {
-    "SPIDER": "utes"
+    "spider": "utes"
   },
   {
-    "SPIDERY": "osm”sp"
+    "spidery": "osm”sp"
   },
   {
-    "SPIKE": "gugol"
+    "spike": "gugol"
   },
   {
-    "SPIN": "osput"
+    "spin": "osput"
   },
   {
-    "SPINE": "slesat"
+    "spine": "slesat"
   },
   {
-    "SPIRIT": "stusnu"
+    "spirit": "stusnu"
   },
   {
-    "SPIT": "gusmul"
+    "spit": "gusmul"
   },
   {
-    "SPITTLE": "stospdab"
+    "spittle": "stospdab"
   },
   {
-    "SPOIL": "bur"
+    "spoil": "bur"
   },
   {
-    "SPOON": "somug"
+    "spoon": "somug"
   },
   {
-    "SPRING_NOUN": "xestor"
+    "spring_noun": "xestor"
   },
   {
-    "SPRING_SEASON": "gaspa"
+    "spring_season": "gaspa"
   },
   {
-    "SPRING_VERB": "non"
+    "spring_verb": "non"
   },
   {
-    "SPRY": "slulo"
+    "spry": "slulo"
   },
   {
-    "SPY": "espe"
+    "spy": "espe"
   },
   {
-    "SQUID": "ozstag"
+    "squid": "ozstag"
   },
   {
-    "SQUIRM": "xunggob"
+    "squirm": "xunggob"
   },
   {
-    "STAB": "gostus"
+    "stab": "gostus"
   },
   {
-    "STAFF": "ukod"
+    "staff": "ukod"
   },
   {
-    "STALK": "astol"
+    "stalk": "astol"
   },
   {
-    "STAND": "axod"
+    "stand": "axod"
   },
   {
-    "STAR": "ex"
+    "star": "ex"
   },
   {
-    "STEED": "ngustut"
+    "steed": "ngustut"
   },
   {
-    "STARVE": "okal"
+    "starve": "okal"
   },
   {
-    "STEAL": "uksos"
+    "steal": "uksos"
   },
   {
-    "STEEL": "zodsto"
+    "steel": "zodsto"
   },
   {
-    "STENCH": "osnusm"
+    "stench": "osnusm"
   },
   {
-    "STERN": "tux–g"
+    "stern": "tux–g"
   },
   {
-    "STICK_WOOD": "xortu"
+    "stick_wood": "xortu"
   },
   {
-    "STICK_VERB": "ulo"
+    "stick_verb": "ulo"
   },
   {
-    "STICKY": "zut“"
+    "sticky": "zut“"
   },
   {
-    "STONE": "ngomstu"
+    "stone": "ngomstu"
   },
   {
-    "STORM": "ozo"
+    "storm": "ozo"
   },
   {
-    "STRANGE": "gut"
+    "strange": "gut"
   },
   {
-    "STRAP": "ust†"
+    "strap": "ust†"
   },
   {
-    "STRAPPING_ADJ": "obstu"
+    "strapping_adj": "obstu"
   },
   {
-    "STRAW": "slatspu"
+    "straw": "slatspu"
   },
   {
-    "STRAY": "sux"
+    "stray": "sux"
   },
   {
-    "STRENGTH": "sokr”x"
+    "strength": "sokr”x"
   },
   {
-    "STRETCH": "osmum"
+    "stretch": "osmum"
   },
   {
-    "STRIKE": "sang”sm"
+    "strike": "sang”sm"
   },
   {
-    "STROKE": "smumu"
+    "stroke": "smumu"
   },
   {
-    "STUNT": "”lku"
+    "stunt": "”lku"
   },
   {
-    "STUNTED": "ed"
+    "stunted": "ed"
   },
   {
-    "STUPID": "”sna"
+    "stupid": "”sna"
   },
   {
-    "STUTTER": "sebo"
+    "stutter": "sebo"
   },
   {
-    "STYLE": "ustgast"
+    "style": "ustgast"
   },
   {
-    "SUBORDINATE": "lon"
+    "subordinate": "lon"
   },
   {
-    "SUCK": "oson"
+    "suck": "oson"
   },
   {
-    "SUFFERING": "usmraz"
+    "suffering": "usmraz"
   },
   {
-    "SUGAR": "langom"
+    "sugar": "langom"
   },
   {
-    "SULLY": "ungust"
+    "sully": "ungust"
   },
   {
-    "SULLEN": "esme"
+    "sullen": "esme"
   },
   {
-    "SUMMER": "“ng"
+    "summer": "“ng"
   },
   {
-    "SUN": "xogak"
+    "sun": "xogak"
   },
   {
-    "SUNDER": "ozspu"
+    "sunder": "ozspu"
   },
   {
-    "SUPPER": "arad"
+    "supper": "arad"
   },
   {
-    "SURPRISE": "bunok"
+    "surprise": "bunok"
   },
   {
-    "SWAMP": "slexsmul"
+    "swamp": "slexsmul"
   },
   {
-    "SWEAT": "uxu"
+    "sweat": "uxu"
   },
   {
-    "SWEET": "xospo"
+    "sweet": "xospo"
   },
   {
-    "SWIFT": "xungbu"
+    "swift": "xungbu"
   },
   {
-    "SWIM": "ato"
+    "swim": "ato"
   },
   {
-    "SWINE": "rudslas"
+    "swine": "rudslas"
   },
   {
-    "SWORD": "oxox"
+    "sword": "oxox"
   },
   {
-    "SYRUP": "gok"
+    "syrup": "gok"
   },
   {
-    "TAKER": "xok"
+    "taker": "xok"
   },
   {
-    "TAIL": "ostusm"
+    "tail": "ostusm"
   },
   {
-    "TALON": "ngedlu"
+    "talon": "ngedlu"
   },
   {
-    "TAR": "zorad"
+    "tar": "zorad"
   },
   {
-    "TARNISH": "ˆbung"
+    "tarnish": "ˆbung"
   },
   {
-    "TELL": "osnol"
+    "tell": "osnol"
   },
   {
-    "TEMPEST": "ebno"
+    "tempest": "ebno"
   },
   {
-    "TEAR": "mosl‰x"
+    "tear": "mosl‰x"
   },
   {
-    "TERROR": "nguslu"
+    "terror": "nguslu"
   },
   {
-    "THIEF": "snang"
+    "thief": "snang"
   },
   {
-    "THIRST": "strabtom"
+    "thirst": "strabtom"
   },
   {
-    "THORN": "spuspo"
+    "thorn": "spuspo"
   },
   {
-    "THRALL": "snuslok"
+    "thrall": "snuslok"
   },
   {
-    "THREE": "rugol"
+    "three": "rugol"
   },
   {
-    "THROAT": "gaspgud"
+    "throat": "gaspgud"
   },
   {
-    "THRONE": "zongosp"
+    "throne": "zongosp"
   },
   {
-    "THROWER": "slobu"
+    "thrower": "slobu"
   },
   {
-    "THUNDER": "nust"
+    "thunder": "nust"
   },
   {
-    "TICK_ANIMAL": "stƒsost"
+    "tick_animal": "stƒsost"
   },
   {
-    "TICK_CLOCK": "gug"
+    "tick_clock": "gug"
   },
   {
-    "TIGHT": "gutu"
+    "tight": "gutu"
   },
   {
-    "TIME": "aspsa"
+    "time": "aspsa"
   },
   {
-    "TOAD": "ngusnog"
+    "toad": "ngusnog"
   },
   {
-    "TOE": "osmnog"
+    "toe": "osmnog"
   },
   {
-    "TOMB": "zakosp"
+    "tomb": "zakosp"
   },
   {
-    "TOME": "bossu"
+    "tome": "bossu"
   },
   {
-    "TONGUE": "asnam"
+    "tongue": "asnam"
   },
   {
-    "TOOTH": "tad"
+    "tooth": "tad"
   },
   {
-    "TORMENT": "nako"
+    "torment": "nako"
   },
   {
-    "TOUCH": "sled†s"
+    "touch": "sled†s"
   },
   {
-    "TOUCHY": "tet"
+    "touchy": "tet"
   },
   {
-    "TOUR": "otuk"
+    "tour": "otuk"
   },
   {
-    "TOWER": "sp”stro"
+    "tower": "sp”stro"
   },
   {
-    "TRAIL": "olgost"
+    "trail": "olgost"
   },
   {
-    "TRANCE": "stangdo"
+    "trance": "stangdo"
   },
   {
-    "TRAP": "stoslo"
+    "trap": "stoslo"
   },
   {
-    "TRASH": "toslug"
+    "trash": "toslug"
   },
   {
-    "TREASURE": "osna"
+    "treasure": "osna"
   },
   {
-    "TREAT": "zastuz"
+    "treat": "zastuz"
   },
   {
-    "TREATY": "xuststu"
+    "treaty": "xuststu"
   },
   {
-    "TRENCH": "ngustrang"
+    "trench": "ngustrang"
   },
   {
-    "TRIBE": "sesnum"
+    "tribe": "sesnum"
   },
   {
-    "TRICK": "adsta"
+    "trick": "adsta"
   },
   {
-    "TRICKERY": "ozzeb"
+    "trickery": "ozzeb"
   },
   {
-    "TRIM": "oro"
+    "trim": "oro"
   },
   {
-    "TROUBLE": "osnon"
+    "trouble": "osnon"
   },
   {
-    "TUG": "ursnag"
+    "tug": "ursnag"
   },
   {
-    "TULIP": "tusm"
+    "tulip": "tusm"
   },
   {
-    "TUMBLE": "asmon"
+    "tumble": "asmon"
   },
   {
-    "TUMOR": "smesp"
+    "tumor": "smesp"
   },
   {
-    "TURMOIL": "moslol"
+    "turmoil": "moslol"
   },
   {
-    "TUSK": "lurngu"
+    "tusk": "lurngu"
   },
   {
-    "TWEET": "oxung"
+    "tweet": "oxung"
   },
   {
-    "TWILIGHT": "zomus"
+    "twilight": "zomus"
   },
   {
-    "TWINE": "b„stza"
+    "twine": "b„stza"
   },
   {
-    "TWIST": "xost"
+    "twist": "xost"
   },
   {
-    "TWO": "stazgud"
+    "two": "stazgud"
   },
   {
-    "UGLY": "uzob"
+    "ugly": "uzob"
   },
   {
-    "ULCER": "spadngo"
+    "ulcer": "spadngo"
   },
   {
-    "ULTIMATE": "ungsma"
+    "ultimate": "ungsma"
   },
   {
-    "ULTRA": "alt”g"
+    "ultra": "alt”g"
   },
   {
-    "UNBRIDLED": "bongu"
+    "unbridled": "bongu"
   },
   {
-    "UNCLE": "ngudem"
+    "uncle": "ngudem"
   },
   {
-    "UNGODLY": "sum"
+    "ungodly": "sum"
   },
   {
-    "UNHOLY": "kuga"
+    "unholy": "kuga"
   },
   {
-    "UNKEMPT": "ngogosm"
+    "unkempt": "ngogosm"
   },
   {
-    "UNSEEN": "uxdu"
+    "unseen": "uxdu"
   },
   {
-    "UNTOWARD": "bamngu"
+    "untoward": "bamngu"
   },
   {
-    "UNWELCOME": "obo"
+    "unwelcome": "obo"
   },
   {
-    "URN": "egngun"
+    "urn": "egngun"
   },
   {
-    "USELESS": "asl‰"
+    "useless": "asl‰"
   },
   {
-    "VANDAL": "‰b"
+    "vandal": "‰b"
   },
   {
-    "VEGETABLE": "malar"
+    "vegetable": "malar"
   },
   {
-    "VEGETATE": "ngusat"
+    "vegetate": "ngusat"
   },
   {
-    "VEGETATION": "sostux"
+    "vegetation": "sostux"
   },
   {
-    "VELVET": "r–xu"
+    "velvet": "r–xu"
   },
   {
-    "VENOM": "luskon"
+    "venom": "luskon"
   },
   {
-    "VERMIN": "otod"
+    "vermin": "otod"
   },
   {
-    "VILE": "omosp"
+    "vile": "omosp"
   },
   {
-    "VIOLATOR": "kozzo"
+    "violator": "kozzo"
   },
   {
-    "VIOLENCE": "ado"
+    "violence": "ado"
   },
   {
-    "VIOLET": "gox"
+    "violet": "gox"
   },
   {
-    "VIPER": "rengzu"
+    "viper": "rengzu"
   },
   {
-    "VOICE": "dod"
+    "voice": "dod"
   },
   {
-    "VOID": "ngosto"
+    "void": "ngosto"
   },
   {
-    "VOLCANO": "uru"
+    "volcano": "uru"
   },
   {
-    "VOMIT": "strastnas"
+    "vomit": "strastnas"
   },
   {
-    "VULTURE": "uzun"
+    "vulture": "uzun"
   },
   {
-    "WAIL": "ngonos"
+    "wail": "ngonos"
   },
   {
-    "WANDER": "snus"
+    "wander": "snus"
   },
   {
-    "WAR": "aslez"
+    "war": "aslez"
   },
   {
-    "WARRIOR": "slod"
+    "warrior": "slod"
   },
   {
-    "WASP": "“nu"
+    "wasp": "“nu"
   },
   {
-    "WASTE": "dˆsmo"
+    "waste": "dˆsmo"
   },
   {
-    "WATCH": "suru"
+    "watch": "suru"
   },
   {
-    "WATCHFUL": "ngustr‰k"
+    "watchful": "ngustr‰k"
   },
   {
-    "WAVE": "ustxu"
+    "wave": "ustxu"
   },
   {
-    "WAVY": "usnob"
+    "wavy": "usnob"
   },
   {
-    "WEAR": "kasprax"
+    "wear": "kasprax"
   },
   {
-    "WEASEL": "balu"
+    "weasel": "balu"
   },
   {
-    "WEAVER": "utsmƒ"
+    "weaver": "utsmƒ"
   },
   {
-    "WEED": "sp†lu"
+    "weed": "sp†lu"
   },
   {
-    "WEIGHT": "deslo"
+    "weight": "deslo"
   },
   {
-    "WEIRD": "slosmrez"
+    "weird": "slosmrez"
   },
   {
-    "WERE": "bem"
+    "were": "bem"
   },
   {
-    "WEST": "obslon"
+    "west": "obslon"
   },
   {
-    "WHEAT": "snasm"
+    "wheat": "snasm"
   },
   {
-    "WHEEL": "sost"
+    "wheel": "sost"
   },
   {
-    "WHIP": "sox"
+    "whip": "sox"
   },
   {
-    "WHISK": "smosuk"
+    "whisk": "smosuk"
   },
   {
-    "WHISKY": "m†ststu"
+    "whisky": "m†ststu"
   },
   {
-    "WHISPER": "ugsnor"
+    "whisper": "ugsnor"
   },
   {
-    "WHITE": "uslun"
+    "white": "uslun"
   },
   {
-    "WICKED": "ngerxung"
+    "wicked": "ngerxung"
   },
   {
-    "WILD": "muso"
+    "wild": "muso"
   },
   {
-    "WILL": "udu"
+    "will": "udu"
   },
   {
-    "WING": "bustusm"
+    "wing": "bustusm"
   },
   {
-    "WINTER": "ostub"
+    "winter": "ostub"
   },
   {
-    "WISP": "xor"
+    "wisp": "xor"
   },
   {
-    "WITCH": "osta"
+    "witch": "osta"
   },
   {
-    "WONDER_NOUN": "bagsnub"
+    "wonder_noun": "bagsnub"
   },
   {
-    "WONDER_VERB": "xomu"
+    "wonder_verb": "xomu"
   },
   {
-    "WOOD": "d“r"
+    "wood": "d“r"
   },
   {
-    "WORK": "ngebo"
+    "work": "ngebo"
   },
   {
-    "WORM": "osle"
+    "worm": "osle"
   },
   {
-    "WRAITH": "mato"
+    "wraith": "mato"
   },
   {
-    "WRATH": "ƒro"
+    "wrath": "ƒro"
   },
   {
-    "WRETCH": "aglo"
+    "wretch": "aglo"
   },
   {
-    "YARN": "nasˆ"
+    "yarn": "nasˆ"
   },
   {
-    "YEAR": "usle"
+    "year": "usle"
   },
   {
-    "YEARLING": "otub"
+    "yearling": "otub"
   },
   {
-    "YELLOW": "stoko"
+    "yellow": "stoko"
   },
   {
-    "YORE": "stusto"
+    "yore": "stusto"
   },
   {
-    "YOUNG": "xoxo"
+    "young": "xoxo"
   },
   {
-    "YOUTH": "uznuk"
+    "youth": "uznuk"
   },
   {
-    "ZEAL": "otst‰"
+    "zeal": "otst‰"
   },
   {
-    "ZEALOT": "noslong"
+    "zealot": "noslong"
   },
   {
-    "ZEPHYR": "umxox"
+    "zephyr": "umxox"
   },
   {
-    "EARTH": "usluk"
+    "earth": "usluk"
   },
   {
-    "ARTIFACT": "anust"
+    "artifact": "anust"
   },
   {
-    "BED": "zozax"
+    "bed": "zozax"
   },
   {
-    "BUD": "slospo"
+    "bud": "slospo"
   },
   {
-    "CAVORT": "smal"
+    "cavort": "smal"
   },
   {
-    "COMMON": "ngozo"
+    "common": "ngozo"
   },
   {
-    "DAUB": "ogzu"
+    "daub": "ogzu"
   },
   {
-    "DESERT": "slosno"
+    "desert": "slosno"
   },
   {
-    "DESSERT": "umsest"
+    "dessert": "umsest"
   },
   {
-    "DIAMOND": "tusnung"
+    "diamond": "tusnung"
   },
   {
-    "DOMAIN": "z–za"
+    "domain": "z–za"
   },
   {
-    "DREAM": "ongas"
+    "dream": "ongas"
   },
   {
-    "TIN": "unst“"
+    "tin": "unst“"
   },
   {
-    "COPPER": "saxo"
+    "copper": "saxo"
   },
   {
-    "BRONZE": "sus„l"
+    "bronze": "sus„l"
   },
   {
-    "GRANITE": "orux"
+    "granite": "orux"
   },
   {
-    "FANCY": "sm”rtuk"
+    "fancy": "sm”rtuk"
   },
   {
-    "FARM": "got†m"
+    "farm": "got†m"
   },
   {
-    "FIELD": "xunust"
+    "field": "xunust"
   },
   {
-    "FROTH": "stuxul"
+    "froth": "stuxul"
   },
   {
-    "GENIUS": "spukom"
+    "genius": "spukom"
   },
   {
-    "GLACIER": "t–beb"
+    "glacier": "t–beb"
   },
   {
-    "GURGLE": "zok"
+    "gurgle": "zok"
   },
   {
-    "IMPALE": "nokud"
+    "impale": "nokud"
   },
   {
-    "JOIN": "ebrog"
+    "join": "ebrog"
   },
   {
-    "JADE": "toslu"
+    "jade": "toslu"
   },
   {
-    "IVORY": "stuz"
+    "ivory": "stuz"
   },
   {
-    "LAND": "smaksmo"
+    "land": "smaksmo"
   },
   {
-    "LATHER": "osno"
+    "lather": "osno"
   },
   {
-    "LIMP": "eng"
+    "limp": "eng"
   },
   {
-    "LUCID": "emgon"
+    "lucid": "emgon"
   },
   {
-    "MOUNTAIN": "ngosla"
+    "mountain": "ngosla"
   },
   {
-    "MUCUS": "osnong"
+    "mucus": "osnong"
   },
   {
-    "PATTERN": "sp”sp"
+    "pattern": "sp”sp"
   },
   {
-    "PEBBLE": "aba"
+    "pebble": "aba"
   },
   {
-    "BOULDER": "stob"
+    "boulder": "stob"
   },
   {
-    "PETAL": "suslem"
+    "petal": "suslem"
   },
   {
-    "DROPLET": "snex†"
+    "droplet": "snex†"
   },
   {
-    "PINNACLE": "engon"
+    "pinnacle": "engon"
   },
   {
-    "PLAIN": "keng"
+    "plain": "keng"
   },
   {
-    "PLAINADJ": "og"
+    "plainadj": "og"
   },
   {
-    "POINT": "spumnod"
+    "point": "spumnod"
   },
   {
-    "POT": "ag"
+    "pot": "ag"
   },
   {
-    "PRAIRIE": "strogag"
+    "prairie": "strogag"
   },
   {
-    "RUSH": "udat"
+    "rush": "udat"
   },
   {
-    "SLAP": "odom"
+    "slap": "odom"
   },
   {
-    "SLEEVE": "lodsusm"
+    "sleeve": "lodsusm"
   },
   {
-    "SPECK": "ngobo"
+    "speck": "ngobo"
   },
   {
-    "STEPPE": "egun"
+    "steppe": "egun"
   },
   {
-    "TENTACLE": "spun"
+    "tentacle": "spun"
   },
   {
-    "TEST": "”x"
+    "test": "”x"
   },
   {
-    "TROT": "anusp"
+    "trot": "anusp"
   },
   {
-    "TUB": "onoz"
+    "tub": "onoz"
   },
   {
-    "TUBE": "ospe"
+    "tube": "ospe"
   },
   {
-    "TUNDRA": "strasnu"
+    "tundra": "strasnu"
   },
   {
-    "UN": "rot"
+    "un": "rot"
   },
   {
-    "WADDLE": "ukuz"
+    "waddle": "ukuz"
   },
   {
-    "WEALTH": "sloron"
+    "wealth": "sloron"
   },
   {
-    "WEEVIL": "smunxaz"
+    "weevil": "smunxaz"
   },
   {
-    "WHIM": "arug"
+    "whim": "arug"
   },
   {
-    "WHIRL": "tud"
+    "whirl": "tud"
   },
   {
-    "WORLD": "buzong"
+    "world": "buzong"
   },
   {
-    "DESERTVERB": "kul"
+    "desertverb": "kul"
   },
   {
-    "FANCYVERB": "r‰kusm"
+    "fancyverb": "r‰kusm"
   },
   {
-    "LIMPVERB": "snar"
+    "limpverb": "snar"
   },
   {
-    "POINTVERB": "snuddu"
+    "pointverb": "snuddu"
   },
   {
-    "PANTOMIME": "olax"
+    "pantomime": "olax"
   },
   {
-    "SLUDGE": "mesle"
+    "sludge": "mesle"
   },
   {
-    "GOO": "stokgor"
+    "goo": "stokgor"
   },
   {
-    "REALM": "smata"
+    "realm": "smata"
   },
   {
-    "PLANE": "mon"
+    "plane": "mon"
   },
   {
-    "DIMENSION": "osmlo"
+    "dimension": "osmlo"
   },
   {
-    "UNIVERSE": "slozgo"
+    "universe": "slozgo"
   },
   {
-    "PLANET": "strasp"
+    "planet": "strasp"
   },
   {
-    "LIVID": "ranum"
+    "livid": "ranum"
   },
   {
-    "TEPID": "usplo"
+    "tepid": "usplo"
   },
   {
-    "HONEST": "lobug"
+    "honest": "lobug"
   },
   {
-    "KINGDOM": "bonrosp"
+    "kingdom": "bonrosp"
   },
   {
-    "EMPIRE": "mul"
+    "empire": "mul"
   },
   {
-    "CONFEDERATION": "aslod"
+    "confederation": "aslod"
   },
   {
-    "SIMPLE": "sm„sta"
+    "simple": "sm„sta"
   },
   {
-    "TROOPER": "ost“ng"
+    "trooper": "ost“ng"
   },
   {
-    "CRIMSON": "tuku"
+    "crimson": "tuku"
   },
   {
-    "DUNE": "aslud"
+    "dune": "aslud"
   },
   {
-    "DIRECT": "sog"
+    "direct": "sog"
   },
   {
-    "CLASH": "exuz"
+    "clash": "exuz"
   },
   {
-    "FOREVER": "ustra"
+    "forever": "ustra"
   },
   {
-    "SUBTLE": "daz"
+    "subtle": "daz"
   },
   {
-    "PUPPET": "ungu"
+    "puppet": "ungu"
   },
   {
-    "HEGEMON": "rog–t"
+    "hegemon": "rog–t"
   },
   {
-    "AMAZE": "kangsu"
+    "amaze": "kangsu"
   },
   {
-    "ALCHEMY": "esnu"
+    "alchemy": "esnu"
   },
   {
-    "INSIGHT": "zodod"
+    "insight": "zodod"
   },
   {
-    "UNION": "bongnguk"
+    "union": "bongnguk"
   },
   {
-    "CONFEDERACY": "dukxong"
+    "confederacy": "dukxong"
   },
   {
-    "SPEAK": "astom"
+    "speak": "astom"
   },
   {
-    "SPEAKER": "rumux"
+    "speaker": "rumux"
   },
   {
-    "PERSUADE": "otar"
+    "persuade": "otar"
   },
   {
-    "PERSUADER": "gerthu"
+    "persuader": "gerthu"
   },
   {
-    "CONTROL": "ngure"
+    "control": "ngure"
   },
   {
-    "CONTROLLER": "”d"
+    "controller": "”d"
   },
   {
-    "WORKER": "otut"
+    "worker": "otut"
   },
   {
-    "BASIC": "kugme"
+    "basic": "kugme"
   },
   {
-    "SYSTEM": "obs†r"
+    "system": "obs†r"
   },
   {
-    "RAY": "zozusp"
+    "ray": "zozusp"
   },
   {
-    "TARGET": "s–tu"
+    "target": "s–tu"
   },
   {
-    "BANK": "tuntust"
+    "bank": "tuntust"
   },
   {
-    "CLEAN": "ustu"
+    "clean": "ustu"
   },
   {
-    "DRIVE": "dospo"
+    "drive": "dospo"
   },
   {
-    "SOAR": "aksput"
+    "soar": "aksput"
   },
   {
-    "GLORY": "omuk"
+    "glory": "omuk"
   },
   {
-    "DISMAL": "ruz"
+    "dismal": "ruz"
   },
   {
-    "RADIANCE": "elo"
+    "radiance": "elo"
   },
   {
-    "PINE": "bog"
+    "pine": "bog"
   },
   {
-    "MESSIAH": "mudob"
+    "messiah": "mudob"
   },
   {
-    "CRAFT": "odan"
+    "craft": "odan"
   },
   {
-    "LABOR": "akul"
+    "labor": "akul"
   },
   {
-    "DISCOVER": "omzom"
+    "discover": "omzom"
   },
   {
-    "PROLIFERATE": "ngasad"
+    "proliferate": "ngasad"
   },
   {
-    "CHUNK": "osme"
+    "chunk": "osme"
   },
   {
-    "SLIP": "sluro"
+    "slip": "sluro"
   },
   {
-    "SLIDE": "oxstrum"
+    "slide": "oxstrum"
   },
   {
-    "SINGLE": "spez"
+    "single": "spez"
   },
   {
-    "PICK": "otez"
+    "pick": "otez"
   },
   {
-    "TONGS": "smad"
+    "tongs": "smad"
   },
   {
-    "PERMANENCY": "uzur"
+    "permanency": "uzur"
   },
   {
-    "RESPONSIBLE": "obuz"
+    "responsible": "obuz"
   },
   {
-    "REQUIRE": "eted"
+    "require": "eted"
   },
   {
-    "ROOTVERB": "ostosp"
+    "rootverb": "ostosp"
   },
   {
-    "BLIZZARD": "xodu"
+    "blizzard": "xodu"
   },
   {
-    "GENERAL": "turu"
+    "general": "turu"
   },
   {
-    "MEMORY": "tok"
+    "memory": "tok"
   },
   {
-    "CONSTRUCT": "rom"
+    "construct": "rom"
   },
   {
-    "LAMB": "tol"
+    "lamb": "tol"
   },
   {
-    "TOAST": "tul"
+    "toast": "tul"
   },
   {
-    "GROSS": "sp„stngux"
+    "gross": "sp„stngux"
   },
   {
-    "PADDLE": "dak"
+    "paddle": "dak"
   },
   {
-    "COUNCIL": "sp†s"
+    "council": "sp†s"
   },
   {
-    "COUNSEL": "raslost"
+    "counsel": "raslost"
   },
   {
-    "GNARLED": "damuz"
+    "gnarled": "damuz"
   },
   {
-    "STUMP": "spung"
+    "stump": "spung"
   },
   {
-    "NAUGHTY": "emo"
+    "naughty": "emo"
   },
   {
-    "PLAY FUN": "lungo"
+    "play fun": "lungo"
   },
   {
-    "PLAY PERFORM": "osles"
+    "play perform": "osles"
   },
   {
-    "FLIMSY": "xosp"
+    "flimsy": "xosp"
   },
   {
-    "GREATER": "osmosm"
+    "greater": "osmosm"
   },
   {
-    "GREATEST": "obe"
+    "greatest": "obe"
   },
   {
-    "LESSER": "smox†"
+    "lesser": "smox†"
   },
   {
-    "LEAST": "spub"
+    "least": "spub"
   },
   {
-    "BEARD": "xubngesp"
+    "beard": "xubngesp"
   },
   {
-    "DREAD": "ngebzo"
+    "dread": "ngebzo"
   },
   {
-    "WALL": "umƒ"
+    "wall": "umƒ"
   },
   {
-    "WALLOW": "nokut"
+    "wallow": "nokut"
   },
   {
-    "TAX": "angot"
+    "tax": "angot"
   },
   {
-    "FRAGRANCE": "m–ra"
+    "fragrance": "m–ra"
   },
   {
-    "LANTERN": "snog“ng"
+    "lantern": "snog“ng"
   },
   {
-    "TORCH": "lasut"
+    "torch": "lasut"
   },
   {
-    "WATER": "esp"
+    "water": "esp"
   },
   {
-    "WINE": "“lsmu"
+    "wine": "“lsmu"
   },
   {
-    "LINE": "tamsmu"
+    "line": "tamsmu"
   },
   {
-    "MINE": "ngogngo"
+    "mine": "ngogngo"
   },
   {
-    "WAX": "tung–"
+    "wax": "tung–"
   },
   {
-    "SHOVE": "ngasmuk"
+    "shove": "ngasmuk"
   },
   {
-    "SHOVEL": "ospa"
+    "shovel": "ospa"
   },
   {
-    "MELT": "luzo"
+    "melt": "luzo"
   },
   {
-    "WRACK": "tamo"
+    "wrack": "tamo"
   },
   {
-    "GLITTER": "dadu"
+    "glitter": "dadu"
   },
   {
-    "SPARK": "olsmo"
+    "spark": "olsmo"
   },
   {
-    "SPARKLE": "smaz"
+    "sparkle": "smaz"
   },
   {
-    "FLASH": "lesmnast"
+    "flash": "lesmnast"
   },
   {
-    "GLEAM": "unlo"
+    "gleam": "unlo"
   },
   {
-    "RUN": "duba"
+    "run": "duba"
   },
   {
-    "DASH": "umkost"
+    "dash": "umkost"
   },
   {
-    "SAVANT": "strusnu"
+    "savant": "strusnu"
   },
   {
-    "ROAR": "oza"
+    "roar": "oza"
   },
   {
-    "YELL": "osmoz"
+    "yell": "osmoz"
   },
   {
-    "ECHO": "rusmo"
+    "echo": "rusmo"
   },
   {
-    "HOLLOW": "esnust"
+    "hollow": "esnust"
   },
   {
-    "FULL": "mus"
+    "full": "mus"
   },
   {
-    "EMPTY": "atob"
+    "empty": "atob"
   },
   {
-    "WORD": "sotuk"
+    "word": "sotuk"
   },
   {
-    "INTENSE": "ukust"
+    "intense": "ukust"
   },
   {
-    "SAD": "snelo"
+    "sad": "snelo"
   },
   {
-    "GLAD": "kose"
+    "glad": "kose"
   },
   {
-    "TRAGEDY": "nozb„b"
+    "tragedy": "nozb„b"
   },
   {
-    "BELL": "mube"
+    "bell": "mube"
   },
   {
-    "BELLY": "ozsta"
+    "belly": "ozsta"
   },
   {
-    "TUMMY": "sluso"
+    "tummy": "sluso"
   },
   {
-    "SHOCK": "malduz"
+    "shock": "malduz"
   },
   {
-    "PONDER": "uztob"
+    "ponder": "uztob"
   },
   {
-    "PONDEROUS": "z†r"
+    "ponderous": "z†r"
   },
   {
-    "HEAVEN": "osp”z"
+    "heaven": "osp”z"
   },
   {
-    "ROUND": "onla"
+    "round": "onla"
   },
   {
-    "ROUNDED": "nasp"
+    "rounded": "nasp"
   },
   {
-    "UNSPEAKABLE": "rosm"
+    "unspeakable": "rosm"
   },
   {
-    "UNTHINKABLE": "ulog"
+    "unthinkable": "ulog"
   },
   {
-    "UNNAMEABLE": "xaslod"
+    "unnameable": "xaslod"
   },
   {
-    "CALAMITY": "okust"
+    "calamity": "okust"
   },
   {
-    "CYCLOPEAN": "”tstux"
+    "cyclopean": "”tstux"
   },
   {
-    "TAME": "ab"
+    "tame": "ab"
   },
   {
-    "UNTAMED": "ongnor"
+    "untamed": "ongnor"
   },
   {
-    "BURST": "om"
+    "burst": "om"
   },
   {
-    "METEOR": "onsmost"
+    "meteor": "onsmost"
   },
   {
-    "TRITE": "ngozong"
+    "trite": "ngozong"
   },
   {
-    "TRIFLE": "et"
+    "trifle": "et"
   },
   {
-    "RANK": "ezak"
+    "rank": "ezak"
   },
   {
-    "RANCOR": "oxas"
+    "rancor": "oxas"
   },
   {
-    "BITTER": "zuspu"
+    "bitter": "zuspu"
   },
   {
-    "SOUR": "osa"
+    "sour": "osa"
   },
   {
-    "DANGER": "ugot"
+    "danger": "ugot"
   },
   {
-    "IMPERVIOUS": "tunar"
+    "impervious": "tunar"
   },
   {
-    "UNSWERVING": "asnut"
+    "unswerving": "asnut"
   },
   {
-    "SWAY": "ustub"
+    "sway": "ustub"
   },
   {
-    "LUXURY": "slusa"
+    "luxury": "slusa"
   },
   {
-    "EUPHORIA": "stost"
+    "euphoria": "stost"
   },
   {
-    "SCINTILLATE": "spasnom"
+    "scintillate": "spasnom"
   },
   {
-    "DIVINE": "ngungdub"
+    "divine": "ngungdub"
   },
   {
-    "DIVIDE": "gƒmasm"
+    "divide": "gƒmasm"
   },
   {
-    "TAINT": "–sud"
+    "taint": "–sud"
   },
   {
-    "CORRUPT": "ngot"
+    "corrupt": "ngot"
   },
   {
-    "MALIGN SLANDER V": "urar"
+    "malign slander v": "urar"
   },
   {
-    "MALIGN ADJ": "dosmu"
+    "malign adj": "dosmu"
   },
   {
-    "MALIGNANT": "tog"
+    "malignant": "tog"
   },
   {
-    "TRUST": "zukod"
+    "trust": "zukod"
   },
   {
-    "DISTRUST": "snadbo"
+    "distrust": "snadbo"
   },
   {
-    "TRUSTWORTHY": "ubo"
+    "trustworthy": "ubo"
   },
   {
-    "UNTRUSTWORTHY": "oma"
+    "untrustworthy": "oma"
   },
   {
-    "DISHONEST": "musla"
+    "dishonest": "musla"
   },
   {
-    "BLIGHT": "stungo"
+    "blight": "stungo"
   },
   {
-    "CUNNING": "smosto"
+    "cunning": "smosto"
   },
   {
-    "SLY": "gor"
+    "sly": "gor"
   },
   {
-    "RUSTIC": "zungspu"
+    "rustic": "zungspu"
   },
   {
-    "HOMELY": "k”ngan"
+    "homely": "k”ngan"
   },
   {
-    "LONELY": "lezos"
+    "lonely": "lezos"
   },
   {
-    "LONESOME": "osmgu"
+    "lonesome": "osmgu"
   },
   {
-    "CLOSE": "er"
+    "close": "er"
   },
   {
-    "FORD": "ongslun"
+    "ford": "ongslun"
   },
   {
-    "WAY": "smastre"
+    "way": "smastre"
   },
   {
-    "WAYWARD": "saz"
+    "wayward": "saz"
   },
   {
-    "BANDIT": "oz”"
+    "bandit": "oz”"
   },
   {
-    "BRIGAND": "“sma"
+    "brigand": "“sma"
   },
   {
-    "MONSTER": "olng”"
+    "monster": "olng”"
   },
   {
-    "SENSE": "zozo"
+    "sense": "zozo"
   },
   {
-    "INSENSITIVE": "ut"
+    "insensitive": "ut"
   },
   {
-    "SENSUAL": "oz„"
+    "sensual": "oz„"
   },
   {
-    "ODOR": "nusnak"
+    "odor": "nusnak"
   },
   {
-    "MALODOROUS": "usngong"
+    "malodorous": "usngong"
   },
   {
-    "IGNORANT": "snuzo"
+    "ignorant": "snuzo"
   },
   {
-    "IGNOBLE": "lune"
+    "ignoble": "lune"
   },
   {
-    "HUMBLE": "sogo"
+    "humble": "sogo"
   },
   {
-    "MORAL": "rodaz"
+    "moral": "rodaz"
   },
   {
-    "IMMORAL": "usmstor"
+    "immoral": "usmstor"
   },
   {
-    "SUPERIOR": "rasm‰sp"
+    "superior": "rasm‰sp"
   },
   {
-    "INFERIOR": "strambe"
+    "inferior": "strambe"
   },
   {
-    "INFINITE": "oruk"
+    "infinite": "oruk"
   },
   {
-    "SABLE COLOR": "obosp"
+    "sable color": "obosp"
   },
   {
-    "FELL CRUEL": "slaxu"
+    "fell cruel": "slaxu"
   },
   {
-    "FELL HIDE": "nuspu"
+    "fell hide": "nuspu"
   },
   {
-    "PELT HIDE": "uxo"
+    "pelt hide": "uxo"
   },
   {
-    "DIGNITY": "ralu"
+    "dignity": "ralu"
   },
   {
-    "UNDIGNIFIED": "ostge"
+    "undignified": "ostge"
   },
   {
-    "INDIGNATION": "ostzu"
+    "indignation": "ostzu"
   },
   {
-    "RIGHT BETTER": "nongnob"
+    "right better": "nongnob"
   },
   {
-    "ABSOLUTE": "bok"
+    "absolute": "bok"
   },
   {
-    "FAIR EVEN": "gaduz"
+    "fair even": "gaduz"
   },
   {
-    "FAIR COLOR": "snustro"
+    "fair color": "snustro"
   },
   {
-    "SNARL": "ar“sp"
+    "snarl": "ar“sp"
   },
   {
-    "LOYAL": "ezusp"
+    "loyal": "ezusp"
   },
   {
-    "DISLOYAL": "tode"
+    "disloyal": "tode"
   },
   {
-    "HELP": "xusp"
+    "help": "xusp"
   },
   {
-    "FRIEND": "usnub"
+    "friend": "usnub"
   },
   {
-    "COURTESY": "–n"
+    "courtesy": "–n"
   },
   {
-    "CHEERFUL": "–st"
+    "cheerful": "–st"
   },
   {
-    "THRIFT": "lubsem"
+    "thrift": "lubsem"
   },
   {
-    "BRAVERY": "rukku"
+    "bravery": "rukku"
   },
   {
-    "REVERE": "espbo"
+    "revere": "espbo"
   },
   {
-    "VENERATE": "oka"
+    "venerate": "oka"
   },
   {
-    "SALUTE": "dungo"
+    "salute": "dungo"
   },
   {
-    "NATION": "ust"
+    "nation": "ust"
   },
   {
-    "DRINK": "d“rku"
+    "drink": "d“rku"
   },
   {
-    "CONSIDERATE": "–xo"
+    "considerate": "–xo"
   },
   {
-    "CONVENIENT": "gol"
+    "convenient": "gol"
   },
   {
-    "INCONSIDERATE": "od"
+    "inconsiderate": "od"
   },
   {
-    "INCONVENIENT": "sturo"
+    "inconvenient": "sturo"
   },
   {
-    "CONTINENT": "slaku"
+    "continent": "slaku"
   },
   {
-    "FLIGHT": "xusmasm"
+    "flight": "xusmasm"
   },
   {
-    "FLIGHTY": "umsma"
+    "flighty": "umsma"
   },
   {
-    "GILD": "xosna"
+    "gild": "xosna"
   },
   {
-    "GUILD": "„t"
+    "guild": "„t"
   },
   {
-    "MERCHANT": "muk"
+    "merchant": "muk"
   },
   {
-    "TRADE": "otsmor"
+    "trade": "otsmor"
   },
   {
-    "PLAIT": "gon"
+    "plait": "gon"
   },
   {
-    "BRAID": "b–ku"
+    "braid": "b–ku"
   },
   {
-    "PLEAT": "ngasm„"
+    "pleat": "ngasm„"
   },
   {
-    "FOLD": "logu"
+    "fold": "logu"
   },
   {
-    "BUNION": "snosnu"
+    "bunion": "snosnu"
   },
   {
-    "UNCOMMON": "okung"
+    "uncommon": "okung"
   },
   {
-    "RARE": "zoslasp"
+    "rare": "zoslasp"
   },
   {
-    "SCARCE": "espuz"
+    "scarce": "espuz"
   },
   {
-    "REMARKABLE": "usto"
+    "remarkable": "usto"
   },
   {
-    "UNREMARKABLE": "botu"
+    "unremarkable": "botu"
   },
   {
-    "SOLITARY": "ostuz"
+    "solitary": "ostuz"
   },
   {
-    "BEND": "asu"
+    "bend": "asu"
   },
   {
-    "BLAME": "ragu"
+    "blame": "ragu"
   },
   {
-    "BLAMELESS": "zam–"
+    "blameless": "zam–"
   },
   {
-    "TWIG": "use"
+    "twig": "use"
   },
   {
-    "GIRDER": "omkut"
+    "girder": "omkut"
   },
   {
-    "TRUSS": "ngotoz"
+    "truss": "ngotoz"
   },
   {
-    "SKEWER": "asmu"
+    "skewer": "asmu"
   },
   {
-    "SCULPT": "osplu"
+    "sculpt": "osplu"
   },
   {
-    "TRESS": "tudo"
+    "tress": "tudo"
   },
   {
-    "LOCK HAIR": "mulu"
+    "lock hair": "mulu"
   },
   {
-    "CURL": "ose"
+    "curl": "ose"
   },
   {
-    "TUFT": "stez"
+    "tuft": "stez"
   },
   {
-    "MEAN NASTY": "alor"
+    "mean nasty": "alor"
   },
   {
-    "MEAN LOW": "ozub"
+    "mean low": "ozub"
   },
   {
-    "SHAME": "tosp"
+    "shame": "tosp"
   },
   {
-    "ASHAMED": "nanggo"
+    "ashamed": "nanggo"
   },
   {
-    "STEAM": "gomux"
+    "steam": "gomux"
   },
   {
-    "FERN": "slusl”r"
+    "fern": "slusl”r"
   },
   {
-    "FERRY": "xosmreb"
+    "ferry": "xosmreb"
   },
   {
-    "GULLY": "urut"
+    "gully": "urut"
   },
   {
-    "WORRY": "omstu"
+    "worry": "omstu"
   },
   {
-    "LION": "dostom"
+    "lion": "dostom"
   },
   {
-    "CACTUS": "smudo"
+    "cactus": "smudo"
   },
   {
-    "DESK": "s†x"
+    "desk": "s†x"
   },
   {
-    "BOTTLE": "ostox"
+    "bottle": "ostox"
   },
   {
-    "SHINGLE": "uddo"
+    "shingle": "uddo"
   },
   {
-    "BLANKET": "uspƒb"
+    "blanket": "uspƒb"
   },
   {
-    "CLOUD": "‰straz"
+    "cloud": "‰straz"
   },
   {
-    "PLATE": "ustug"
+    "plate": "ustug"
   },
   {
-    "ROAD": "lunzor"
+    "road": "lunzor"
   },
   {
-    "HOUSE": "usnu"
+    "house": "usnu"
   },
   {
-    "BEAN": "dugu"
+    "bean": "dugu"
   },
   {
-    "BLOCK DEFEND": "zemkom"
+    "block defend": "zemkom"
   },
   {
-    "BLOCK SQUARE": "zobo"
+    "block square": "zobo"
   },
   {
-    "FOUNTAIN": "osp"
+    "fountain": "osp"
   },
   {
-    "PEARL": "obasp"
+    "pearl": "obasp"
   },
   {
-    "PEAR": "gurmus"
+    "pear": "gurmus"
   },
   {
-    "THIMBLE": "mek"
+    "thimble": "mek"
   },
   {
-    "BUNNY": "koz"
+    "bunny": "koz"
   },
   {
-    "ROPE": "slusp"
+    "rope": "slusp"
   },
   {
-    "STRING": "slongu"
+    "string": "slongu"
   },
   {
-    "WIRE": "snug"
+    "wire": "snug"
   },
   {
-    "LASH": "asmrar"
+    "lash": "asmrar"
   },
   {
-    "SORCERY": "spusp"
+    "sorcery": "spusp"
   },
   {
-    "SORCERER": "stronol"
+    "sorcerer": "stronol"
   },
   {
-    "ENSORCEL": "uslog"
+    "ensorcel": "uslog"
   },
   {
-    "BEWITCH": "sner"
+    "bewitch": "sner"
   },
   {
-    "MAGICIAN": "tusma"
+    "magician": "tusma"
   },
   {
-    "CONJURE": "smob"
+    "conjure": "smob"
   },
   {
-    "CONJURER": "spabse"
+    "conjurer": "spabse"
   },
   {
-    "ENCHANT": "xestsu"
+    "enchant": "xestsu"
   },
   {
-    "ENCHANTER": "stuk"
+    "enchanter": "stuk"
   },
   {
-    "LANCE": "ƒxstut"
+    "lance": "ƒxstut"
   },
   {
-    "LANCER": "spoku"
+    "lancer": "spoku"
   },
   {
-    "STINK": "geng"
+    "stink": "geng"
   },
   {
-    "FRECKLE": "smoz"
+    "freckle": "smoz"
   },
   {
-    "PIMPLE": "otus"
+    "pimple": "otus"
   },
   {
-    "WART": "tomom"
+    "wart": "tomom"
   },
   {
-    "BLOTCH": "amxo"
+    "blotch": "amxo"
   },
   {
-    "CALLUS": "xun"
+    "callus": "xun"
   },
   {
-    "WIND STORM": "ospaz"
+    "wind storm": "ospaz"
   },
   {
-    "WIND CLOCK": "esmˆn"
+    "wind clock": "esmˆn"
   },
   {
-    "HAZE": "rugo"
+    "haze": "rugo"
   },
   {
-    "SKIN": "duspbu"
+    "skin": "duspbu"
   },
   {
-    "SHIN": "omrab"
+    "shin": "omrab"
   },
   {
-    "TORTURE": "goxa"
+    "torture": "goxa"
   },
   {
-    "TOOL": "ˆngan"
+    "tool": "ˆngan"
   },
   {
-    "SCHOLAR": "mol"
+    "scholar": "mol"
   },
   {
-    "WEEP": "odgu"
+    "weep": "odgu"
   },
   {
-    "MASSIVE": "r–kest"
+    "massive": "r–kest"
   },
   {
-    "LARGE": "sted"
+    "large": "sted"
   },
   {
-    "SMALL": "“st"
+    "small": "“st"
   },
   {
-    "LOAF": "xusm"
+    "loaf": "xusm"
   },
   {
-    "TILE": "garspo"
+    "tile": "garspo"
   },
   {
-    "SPORT": "slet"
+    "sport": "slet"
   },
   {
-    "SEARCH": "snungo"
+    "search": "snungo"
   },
   {
-    "STALE": "gung"
+    "stale": "gung"
   },
   {
-    "FRESH": "okok"
+    "fresh": "okok"
   },
   {
-    "RUB": "b‰bro"
+    "rub": "b‰bro"
   },
   {
-    "WORTHY": "ospasm"
+    "worthy": "ospasm"
   },
   {
-    "WORTHLESS": "obsto"
+    "worthless": "obsto"
   },
   {
-    "FRIGHT": "rosusm"
+    "fright": "rosusm"
   },
   {
-    "REVOLTING": "udstrum"
+    "revolting": "udstrum"
   },
   {
-    "DISGUST": "eblak"
+    "disgust": "eblak"
   },
   {
-    "OUTRAGE": "ongor"
+    "outrage": "ongor"
   },
   {
-    "CRUEL": "dostngosp"
+    "cruel": "dostngosp"
   },
   {
-    "DEVIANT": "dakus"
+    "deviant": "dakus"
   },
   {
-    "DEVIOUS": "ostob"
+    "devious": "ostob"
   },
   {
-    "FABULOUS": "ukke"
+    "fabulous": "ukke"
   },
   {
-    "MORALITY": "spux"
+    "morality": "spux"
   },
   {
-    "IMMORALITY": "ago"
+    "immorality": "ago"
   },
   {
-    "SKIN VERB": "olang"
+    "skin verb": "olang"
   },
   {
-    "SKINNY": "nugusm"
+    "skinny": "nugusm"
   },
   {
-    "NARROW": "zesm"
+    "narrow": "zesm"
   },
   {
-    "GRIEF": "„gu"
+    "grief": "„gu"
   },
   {
-    "BELT": "ˆngus"
+    "belt": "ˆngus"
   },
   {
-    "SANDAL": "angkasp"
+    "sandal": "angkasp"
   },
   {
-    "FUTURE": "exsmox"
+    "future": "exsmox"
   },
   {
-    "PAST": "snospda"
+    "past": "snospda"
   },
   {
-    "PRESENT": "totsmab"
+    "present": "totsmab"
   },
   {
-    "BITE": "ngul"
+    "bite": "ngul"
   },
   {
-    "SPLIT": "stutom"
+    "split": "stutom"
   },
   {
-    "BRASH": "snogspo"
+    "brash": "snogspo"
   },
   {
-    "BRAZEN": "at“r"
+    "brazen": "at“r"
   },
   {
-    "STRANGLE": "sunga"
+    "strangle": "sunga"
   },
   {
-    "GALLOWS": "ungod"
+    "gallows": "ungod"
   },
   {
-    "MUSCLE": "rulasm"
+    "muscle": "rulasm"
   },
   {
-    "DIM": "sloslud"
+    "dim": "sloslud"
   },
   {
-    "SPURT": "xosun"
+    "spurt": "xosun"
   },
   {
-    "GRAVEL": "asten"
+    "gravel": "asten"
   },
   {
-    "RISK": "gonguk"
+    "risk": "gonguk"
   },
   {
-    "CHANCE": "onga"
+    "chance": "onga"
   },
   {
-    "CHANNEL": "osnaz"
+    "channel": "osnaz"
   },
   {
-    "MIRTH": "kunam"
+    "mirth": "kunam"
   },
   {
-    "GLEE": "taslo"
+    "glee": "taslo"
   },
   {
-    "VICTIM": "zubar"
+    "victim": "zubar"
   },
   {
-    "STRANGER": "uslosm"
+    "stranger": "uslosm"
   },
   {
-    "DRAB": "obmu"
+    "drab": "obmu"
   },
   {
-    "VISION": "xƒgu"
+    "vision": "xƒgu"
   },
   {
-    "VISIONARY": "tokla"
+    "visionary": "tokla"
   },
   {
-    "ORACLE": "sn–n"
+    "oracle": "sn–n"
   },
   {
-    "UTTER": "utong"
+    "utter": "utong"
   },
   {
-    "DECIDE": "rosmat"
+    "decide": "rosmat"
   },
   {
-    "DECISIVE": "udob"
+    "decisive": "udob"
   },
   {
-    "SPECIAL": "bostong"
+    "special": "bostong"
   },
   {
-    "AUTHOR": "ulxe"
+    "author": "ulxe"
   },
   {
-    "AUTHORITY": "spƒb"
+    "authority": "spƒb"
   },
   {
-    "PORTENT": "ogusp"
+    "portent": "ogusp"
   },
   {
-    "MOMENTOUS": "zuspoz"
+    "momentous": "zuspoz"
   },
   {
-    "INFALLIBLE": "stalk“l"
+    "infallible": "stalk“l"
   },
   {
-    "AMBIGUOUS": "murox"
+    "ambiguous": "murox"
   },
   {
-    "CURIOUS": "malla"
+    "curious": "malla"
   },
   {
-    "OBSCURE": "snun"
+    "obscure": "snun"
   },
   {
-    "OBSCENE": "utlad"
+    "obscene": "utlad"
   },
   {
-    "OBSTACLE": "sosma"
+    "obstacle": "sosma"
   },
   {
-    "VULGAR": "ega"
+    "vulgar": "ega"
   },
   {
-    "OMINOUS": "slus"
+    "ominous": "slus"
   },
   {
-    "ISLAND": "bungmo"
+    "island": "bungmo"
   },
   {
-    "CHURCH": "unom"
+    "church": "unom"
   },
   {
-    "TEMPLE": "sp“gmuk"
+    "temple": "sp“gmuk"
   },
   {
-    "CULT": "ngobte"
+    "cult": "ngobte"
   },
   {
-    "COVEN": "kus"
+    "coven": "kus"
   },
   {
-    "SECT": "spango"
+    "sect": "spango"
   },
   {
-    "ORDER GROUP": "axusp"
+    "order group": "axusp"
   },
   {
-    "CREED": "oxam"
+    "creed": "oxam"
   },
   {
-    "COMMUNION": "osluk"
+    "communion": "osluk"
   },
   {
-    "DOCTRINE": "osnem"
+    "doctrine": "osnem"
   },
   {
-    "FAITH": "usmbaz"
+    "faith": "usmbaz"
   },
   {
-    "DENOMINATION": "kas"
+    "denomination": "kas"
   },
   {
-    "TEMPLE HEAD": "guslen"
+    "temple head": "guslen"
   },
   {
-    "OCCULT": "slax"
+    "occult": "slax"
   },
   {
-    "ORDER CONCEPT": "spakmuz"
+    "order concept": "spakmuz"
   },
   {
-    "FAITH LOYALTY": "tastor"
+    "faith loyalty": "tastor"
   },
   {
-    "GUILT": "lostƒ"
+    "guilt": "lostƒ"
   },
   {
-    "BABY": "orspusm"
+    "baby": "orspusm"
   },
   {
-    "BLEED": "stonu"
+    "bleed": "stonu"
   },
   {
-    "GIRL": "ostdu"
+    "girl": "ostdu"
   },
   {
-    "BOY": "nux"
+    "boy": "nux"
   },
   {
-    "WOMAN": "zusmusm"
+    "woman": "zusmusm"
   },
   {
-    "FLAG": "kunga"
+    "flag": "kunga"
   },
   {
-    "BANNER": "oslˆ"
+    "banner": "oslˆ"
   },
   {
-    "WREATH": "lasla"
+    "wreath": "lasla"
   },
   {
-    "STANDARD FLAG": "b”kur"
+    "standard flag": "b”kur"
   },
   {
-    "TRUMPET": "ob“"
+    "trumpet": "ob“"
   },
   {
-    "GOAL": "tud“sp"
+    "goal": "tud“sp"
   },
   {
-    "JAIL": "ax"
+    "jail": "ax"
   },
   {
-    "PRISON": "zosla"
+    "prison": "zosla"
   },
   {
-    "LIBRARY": "ruspdo"
+    "library": "ruspdo"
   },
   {
-    "AVALANCHE": "lonsust"
+    "avalanche": "lonsust"
   },
   {
-    "STIGMA": "spen"
+    "stigma": "spen"
   },
   {
-    "SLICK": "xosten"
+    "slick": "xosten"
   },
   {
-    "TALK": "zosbag"
+    "talk": "zosbag"
   },
   {
-    "JAILER": "ozos"
+    "jailer": "ozos"
   },
   {
-    "STILL UNMOVING": "ola"
+    "still unmoving": "ola"
   },
   {
-    "CALM": "spet"
+    "calm": "spet"
   },
   {
-    "HUSH": "stut"
+    "hush": "stut"
   },
   {
-    "LACONIC": "ostra"
+    "laconic": "ostra"
   },
   {
-    "LULL": "g“gust"
+    "lull": "g“gust"
   },
   {
-    "MUTE": "gasnasp"
+    "mute": "gasnasp"
   },
   {
-    "NOISELESS": "toton"
+    "noiseless": "toton"
   },
   {
-    "QUIESCENT": "uspuz"
+    "quiescent": "uspuz"
   },
   {
-    "QUIET": "slosax"
+    "quiet": "slosax"
   },
   {
-    "RETICENT": "aspu"
+    "reticent": "aspu"
   },
   {
-    "SATURNINE": "”sle"
+    "saturnine": "”sle"
   },
   {
-    "SPEECHLESS": "st–lul"
+    "speechless": "st–lul"
   },
   {
-    "TACITURN": "sodsosm"
+    "taciturn": "sodsosm"
   },
   {
-    "FORTUNE LUCK": "snuna"
+    "fortune luck": "snuna"
   },
   {
-    "FORTUNE WEALTH": "zangu"
+    "fortune wealth": "zangu"
   },
   {
-    "ACCIDENT": "smaxa"
+    "accident": "smaxa"
   },
   {
-    "CIRCUMSTANCE": "xudlub"
+    "circumstance": "xudlub"
   },
   {
-    "CONTINGENT": "–xag"
+    "contingent": "–xag"
   },
   {
-    "CONTINGENCY": "rospgum"
+    "contingency": "rospgum"
   },
   {
-    "COINCIDENCE": "zutul"
+    "coincidence": "zutul"
   },
   {
-    "FLUKE": "uxum"
+    "fluke": "uxum"
   },
   {
-    "LUCK": "losno"
+    "luck": "losno"
   },
   {
-    "CERTAIN": "smospe"
+    "certain": "smospe"
   },
   {
-    "UNCERTAIN": "oxa"
+    "uncertain": "oxa"
   },
   {
-    "FORTUITOUS": "bubed"
+    "fortuitous": "bubed"
   },
   {
-    "INCIDENTAL": "ust”sp"
+    "incidental": "ust”sp"
   },
   {
-    "AMUSE": "odsnun"
+    "amuse": "odsnun"
   },
   {
-    "PASTIME": "eb"
+    "pastime": "eb"
   },
   {
-    "DISTRACT ANNOY": "nan†"
+    "distract annoy": "nan†"
   },
   {
-    "DISTRACTION GAME": "“sm"
+    "distraction game": "“sm"
   },
   {
-    "DIVERSION GAME": "xono"
+    "diversion game": "xono"
   },
   {
-    "DIVERT DETOUR": "gorost"
+    "divert detour": "gorost"
   },
   {
-    "RECREATION GAME": "adno"
+    "recreation game": "adno"
   },
   {
-    "COMPETE": "zex"
+    "compete": "zex"
   },
   {
-    "CONTEST": "ugu"
+    "contest": "ugu"
   },
   {
-    "MATCH CONTEST": "bosteb"
+    "match contest": "bosteb"
   },
   {
-    "MATCH EQUAL": "uspra"
+    "match equal": "uspra"
   },
   {
-    "TOURNAMENT": "zod"
+    "tournament": "zod"
   },
   {
-    "PLAN": "buru"
+    "plan": "buru"
   },
   {
-    "SCENARIO": "smodkod"
+    "scenario": "smodkod"
   },
   {
-    "STRATEGY": "ngosteb"
+    "strategy": "ngosteb"
   },
   {
-    "TACTIC": "omab"
+    "tactic": "omab"
   },
   {
-    "AUTONOMY": "mong"
+    "autonomy": "mong"
   },
   {
-    "EMANCIPATE": "sledsa"
+    "emancipate": "sledsa"
   },
   {
-    "EXTRICATE": "takuk"
+    "extricate": "takuk"
   },
   {
-    "IMPUNITY": "num"
+    "impunity": "num"
   },
   {
-    "LIBERATE": "angos"
+    "liberate": "angos"
   },
   {
-    "LIBERTY": "spomu"
+    "liberty": "spomu"
   },
   {
-    "RELEASE": "smosm"
+    "release": "smosm"
   },
   {
-    "RELIEVE": "mole"
+    "relieve": "mole"
   },
   {
-    "EVEN": "kango"
+    "even": "kango"
   },
   {
-    "BALANCE": "olos"
+    "balance": "olos"
   },
   {
-    "EQUITY": "eslo"
+    "equity": "eslo"
   },
   {
-    "EQUIVALENCE": "osmo"
+    "equivalence": "osmo"
   },
   {
-    "PARITY": "besmor"
+    "parity": "besmor"
   },
   {
-    "STASIS": "kastrag"
+    "stasis": "kastrag"
   },
   {
-    "SYMMETRY": "urlut"
+    "symmetry": "urlut"
   },
   {
-    "EQUAL": "x–ngu"
+    "equal": "x–ngu"
   },
   {
-    "HARMONY": "„lo"
+    "harmony": "„lo"
   },
   {
-    "NEUTRALIZE": "ospsƒs"
+    "neutralize": "ospsƒs"
   },
   {
-    "NEUTRAL": "oxtu"
+    "neutral": "oxtu"
   },
   {
-    "STABLE UNCHANGING": "snulut"
+    "stable unchanging": "snulut"
   },
   {
-    "LULL MISLEAD": "suxut"
+    "lull mislead": "suxut"
   },
   {
-    "DOUR": "olok"
+    "dour": "olok"
   },
   {
-    "GLOOM": "mado"
+    "gloom": "mado"
   },
   {
-    "SEVERE": "obngut"
+    "severe": "obngut"
   },
   {
-    "GLUM": "asub"
+    "glum": "asub"
   },
   {
-    "IMAGE": "nguslosp"
+    "image": "nguslosp"
   },
   {
-    "SHRINE": "stodrus"
+    "shrine": "stodrus"
   },
   {
-    "SANCTUARY": "usper"
+    "sanctuary": "usper"
   },
   {
-    "MONASTERY": "spol"
+    "monastery": "spol"
   },
   {
-    "CONVENT": "m“sp"
+    "convent": "m“sp"
   },
   {
-    "CATHEDRAL": "ozsosm"
+    "cathedral": "ozsosm"
   },
   {
-    "CHAPEL": "rugbun"
+    "chapel": "rugbun"
   },
   {
-    "SANCTUM": "zong"
+    "sanctum": "zong"
   },
   {
-    "INFERNO": "snok"
+    "inferno": "snok"
   },
   {
-    "CONFLAGRATION": "spogu"
+    "conflagration": "spogu"
   },
   {
-    "FLARE": "lusnub"
+    "flare": "lusnub"
   },
   {
-    "HEAT": "ronux"
+    "heat": "ronux"
   },
   {
-    "SAND": "anga"
+    "sand": "anga"
   },
   {
-    "PILLAR": "smomku"
+    "pillar": "smomku"
   },
   {
-    "COLUMN": "rokub"
+    "column": "rokub"
   },
   {
-    "ARCH NOUN": "rusmu"
+    "arch noun": "rusmu"
   },
   {
-    "GROTTO": "nos"
+    "grotto": "nos"
   },
   {
-    "CAVERN": "aspƒd"
+    "cavern": "aspƒd"
   },
   {
-    "DEPTH": "gened"
+    "depth": "gened"
   },
   {
-    "SHADE": "ozran"
+    "shade": "ozran"
   },
   {
-    "VEIL": "tongmul"
+    "veil": "tongmul"
   },
   {
-    "RELIC": "snuk"
+    "relic": "snuk"
   },
   {
-    "UMBRA": "zospu"
+    "umbra": "zospu"
   },
   {
-    "PHANTOM": "kung"
+    "phantom": "kung"
   },
   {
-    "MURK": "ebr†"
+    "murk": "ebr†"
   },
   {
-    "FAINT INTENSITY": "ˆl"
+    "faint intensity": "ˆl"
   },
   {
-    "FAINT VERB": "zumu"
+    "faint verb": "zumu"
   },
   {
-    "SOMBER": "tar"
+    "somber": "tar"
   },
   {
-    "TENEBROUS": "bozur"
+    "tenebrous": "bozur"
   },
   {
-    "MOROSE": "ulom"
+    "morose": "ulom"
   },
   {
-    "LOVER": "ruspkes"
+    "lover": "ruspkes"
   },
   {
-    "BELOVED": "oxu"
+    "beloved": "oxu"
   },
   {
-    "ESCORT": "astu"
+    "escort": "astu"
   },
   {
-    "SUITOR": "omzust"
+    "suitor": "omzust"
   },
   {
-    "PUNGENT": "ngurda"
+    "pungent": "ngurda"
   },
   {
-    "MUSTY": "slud"
+    "musty": "slud"
   },
   {
-    "INFECT": "snulmo"
+    "infect": "snulmo"
   },
   {
-    "LESION": "uspo"
+    "lesion": "uspo"
   },
   {
-    "AFFLICT": "smestre"
+    "afflict": "smestre"
   },
   {
-    "ACHE": "m“klo"
+    "ache": "m“klo"
   },
   {
-    "EPIDEMIC": "nastu"
+    "epidemic": "nastu"
   },
   {
-    "FIGHT": "asnu"
+    "fight": "asnu"
   },
   {
-    "SCUFFLE": "rukam"
+    "scuffle": "rukam"
   },
   {
-    "YAWN": "r”snus"
+    "yawn": "r”snus"
   },
   {
-    "ACTION": "odlug"
+    "action": "odlug"
   },
   {
-    "ASSAULT": "k”k"
+    "assault": "k”k"
   },
   {
-    "CARNAL": "unzos"
+    "carnal": "unzos"
   },
   {
-    "STRIFE": "tospas"
+    "strife": "tospas"
   },
   {
-    "COMBAT": "nur"
+    "combat": "nur"
   },
   {
-    "CITADEL": "kunur"
+    "citadel": "kunur"
   },
   {
-    "CITY": "snog"
+    "city": "snog"
   },
   {
-    "TOWN": "kabu"
+    "town": "kabu"
   },
   {
-    "VILLAGE": "masp"
+    "village": "masp"
   },
   {
-    "MANOR": "smusat"
+    "manor": "smusat"
   },
   {
-    "MANSION": "odux"
+    "mansion": "odux"
   },
   {
-    "PALACE": "mosp"
+    "palace": "mosp"
   },
   {
-    "COTTAGE": "„g"
+    "cottage": "„g"
   },
   {
-    "SHACK": "kareb"
+    "shack": "kareb"
   },
   {
-    "HUT": "uxuz"
+    "hut": "uxuz"
   },
   {
-    "HOVEL": "xosong"
+    "hovel": "xosong"
   },
   {
-    "BASTION": "sasal"
+    "bastion": "sasal"
   },
   {
-    "FURNACE": "usmza"
+    "furnace": "usmza"
   },
   {
-    "ANVIL": "umas"
+    "anvil": "umas"
   },
   {
-    "BRIDGE": "romnu"
+    "bridge": "romnu"
   },
   {
-    "SAFE": "uspung"
+    "safe": "uspung"
   },
   {
-    "GOAD": "asesm"
+    "goad": "asesm"
   },
   {
-    "MACHINE": "osmust"
+    "machine": "osmust"
   },
   {
-    "FLAY": "zus"
+    "flay": "zus"
   },
   {
-    "OIL": "smatspo"
+    "oil": "smatspo"
   },
   {
-    "SUICIDE": "slexu"
+    "suicide": "slexu"
   },
   {
-    "MARBLE BALL": "†bduz"
+    "marble ball": "†bduz"
   },
   {
-    "BAIT": "zestto"
+    "bait": "zestto"
   },
   {
-    "LURE": "ser"
+    "lure": "ser"
   },
   {
-    "REWARD": "es"
+    "reward": "es"
   },
   {
-    "WARD": "duzob"
+    "ward": "duzob"
   },
   {
-    "PRICE": "uspsl“l"
+    "price": "uspsl“l"
   },
   {
-    "PRINCE": "ngos"
+    "prince": "ngos"
   },
   {
-    "PRINCESS": "rasm"
+    "princess": "rasm"
   },
   {
-    "TEMPT": "uk”"
+    "tempt": "uk”"
   },
   {
-    "SPURN": "zusto"
+    "spurn": "zusto"
   },
   {
-    "SCORN": "kaslusp"
+    "scorn": "kaslusp"
   },
   {
-    "CONTEMPT": "stras"
+    "contempt": "stras"
   },
   {
-    "AFFECTION": "kusnu"
+    "affection": "kusnu"
   },
   {
-    "COMPASSION": "usku"
+    "compassion": "usku"
   },
   {
-    "SACRIFICE": "ungel"
+    "sacrifice": "ungel"
   },
   {
-    "CHARITY": "okluk"
+    "charity": "okluk"
   },
   {
-    "CHERISH": "komu"
+    "cherish": "komu"
   },
   {
-    "TRAMPLE": "ngusa"
+    "trample": "ngusa"
   },
   {
-    "MALICE": "xuspgas"
+    "malice": "xuspgas"
   },
   {
-    "HATRED": "snamoz"
+    "hatred": "snamoz"
   },
   {
-    "SPITE": "sletbu"
+    "spite": "sletbu"
   },
   {
-    "SHORE": "omus"
+    "shore": "omus"
   },
   {
-    "BEACH": "stasno"
+    "beach": "stasno"
   },
   {
-    "COAST": "asngek"
+    "coast": "asngek"
   },
   {
-    "INSECT": "basusm"
+    "insect": "basusm"
   },
   {
-    "BUG": "dongdu"
+    "bug": "dongdu"
   },
   {
-    "CRITTER": "spostoz"
+    "critter": "spostoz"
   },
   {
-    "BRUTE": "entust"
+    "brute": "entust"
   },
   {
-    "PET": "amro"
+    "pet": "amro"
   },
   {
-    "BARBARIAN": "zursmu"
+    "barbarian": "zursmu"
   },
   {
-    "HARSH": "unsnuk"
+    "harsh": "unsnuk"
   },
   {
-    "PRISTINE": "b“nes"
+    "pristine": "b“nes"
   },
   {
-    "FEROCITY": "tast"
+    "ferocity": "tast"
   },
   {
-    "BARBARITY": "ber"
+    "barbarity": "ber"
   },
   {
-    "FERAL": "domo"
+    "feral": "domo"
   },
   {
-    "FURY": "lak‰"
+    "fury": "lak‰"
   },
   {
-    "RUTHLESS": "ozud"
+    "ruthless": "ozud"
   },
   {
-    "GORE NOUN": "unƒm"
+    "gore noun": "unƒm"
   },
   {
-    "CHAMPION": "umal"
+    "champion": "umal"
   },
   {
-    "VIRTUE": "ulug"
+    "virtue": "ulug"
   },
   {
-    "SCANDAL": "smunet"
+    "scandal": "smunet"
   },
   {
-    "APOGEE": "ngonu"
+    "apogee": "ngonu"
   },
   {
-    "SPIRE": "m‰zspog"
+    "spire": "m‰zspog"
   },
   {
-    "SPIRAL": "studam"
+    "spiral": "studam"
   },
   {
-    "CLIMAX": "moguk"
+    "climax": "moguk"
   },
   {
-    "CLIMATE": "lang"
+    "climate": "lang"
   },
   {
-    "WEATHER": "strobnod"
+    "weather": "strobnod"
   },
   {
-    "CREST": "ubspu"
+    "crest": "ubspu"
   },
   {
-    "CULMINATE": "koro"
+    "culminate": "koro"
   },
   {
-    "CUSP": "suxo"
+    "cusp": "suxo"
   },
   {
-    "MOST": "nusm"
+    "most": "nusm"
   },
   {
-    "PEAK": "smustum"
+    "peak": "smustum"
   },
   {
-    "BLUNT": "ulxa"
+    "blunt": "ulxa"
   },
   {
-    "ROOF": "lud"
+    "roof": "lud"
   },
   {
-    "CEILING": "berut"
+    "ceiling": "berut"
   },
   {
-    "FLOOR": "ublu"
+    "floor": "ublu"
   },
   {
-    "SUMMIT": "bamud"
+    "summit": "bamud"
   },
   {
-    "TIP": "uled"
+    "tip": "uled"
   },
   {
-    "TOP": "oxno"
+    "top": "oxno"
   },
   {
-    "BOTTOM": "odsnˆn"
+    "bottom": "odsnˆn"
   },
   {
-    "SIDE": "negon"
+    "side": "negon"
   },
   {
-    "ZENITH": "dat"
+    "zenith": "dat"
   },
   {
-    "FLANK VERB": "spodsta"
+    "flank verb": "spodsta"
   },
   {
-    "PASS MOUNTAIN": "rorngal"
+    "pass mountain": "rorngal"
   },
   {
-    "PASS VERB": "”xo"
+    "pass verb": "”xo"
   },
   {
-    "PASSAGE": "sƒsm"
+    "passage": "sƒsm"
   },
   {
-    "CORRIDOR": "zadkel"
+    "corridor": "zadkel"
   },
   {
-    "HALL": "ngug"
+    "hall": "ngug"
   },
   {
-    "GALLERY": "ngasmspo"
+    "gallery": "ngasmspo"
   },
   {
-    "GALLEY": "uzgob"
+    "galley": "uzgob"
   },
   {
-    "ARENA": "sponsm”st"
+    "arena": "sponsm”st"
   },
   {
-    "ARMORY": "lumab"
+    "armory": "lumab"
   },
   {
-    "ASSEMBLE": "ngod"
+    "assemble": "ngod"
   },
   {
-    "MEET": "ugar"
+    "meet": "ugar"
   },
   {
-    "THEATER": "zuro"
+    "theater": "zuro"
   },
   {
-    "ENTRANCE": "str–b"
+    "entrance": "str–b"
   },
   {
-    "EXIT": "osnor"
+    "exit": "osnor"
   },
   {
-    "ENTRY": "spƒspo"
+    "entry": "spƒspo"
   },
   {
-    "VESTIBULE": "uk†"
+    "vestibule": "uk†"
   },
   {
-    "FROST": "snebgo"
+    "frost": "snebgo"
   },
   {
-    "FEVER": "nunno"
+    "fever": "nunno"
   },
   {
-    "HUMID": "spang"
+    "humid": "spang"
   },
   {
-    "HUMOR": "strurku"
+    "humor": "strurku"
   },
   {
-    "COMEDY": "guz"
+    "comedy": "guz"
   },
   {
-    "SIZZLE": "nosmu"
+    "sizzle": "nosmu"
   },
   {
-    "SWELTER": "sulo"
+    "swelter": "sulo"
   },
   {
-    "WARM": "obraz"
+    "warm": "obraz"
   },
   {
-    "TORRID": "oslol"
+    "torrid": "oslol"
   },
   {
-    "ACRID": "l–spuz"
+    "acrid": "l–spuz"
   },
   {
-    "DALE": "aml–"
+    "dale": "aml–"
   },
   {
-    "DELL": "kuspmosp"
+    "dell": "kuspmosp"
   },
   {
-    "GLADE": "oslˆ"
+    "glade": "oslˆ"
   },
   {
-    "VALE": "ngud"
+    "vale": "ngud"
   },
   {
-    "BASIN": "abusp"
+    "basin": "abusp"
   },
   {
-    "BOWL": "xal"
+    "bowl": "xal"
   },
   {
-    "CAVITY": "struku"
+    "cavity": "struku"
   },
   {
-    "CRATER": "–sm–ng"
+    "crater": "–sm–ng"
   },
   {
-    "DEN": "xolang"
+    "den": "xolang"
   },
   {
-    "DENT": "saslu"
+    "dent": "saslu"
   },
   {
-    "DEPRESS SAD": "ostest"
+    "depress sad": "ostest"
   },
   {
-    "DEPRESSION LOW": "tomo"
+    "depression low": "tomo"
   },
   {
-    "DIMPLE": "nor"
+    "dimple": "nor"
   },
   {
-    "DIP": "spamo"
+    "dip": "spamo"
   },
   {
-    "DISH": "ubu"
+    "dish": "ubu"
   },
   {
-    "EXCAVATE": "dudspung"
+    "excavate": "dudspung"
   },
   {
-    "GROOVE": "loxsnosm"
+    "groove": "loxsnosm"
   },
   {
-    "GULF SEA": "ƒt"
+    "gulf sea": "ƒt"
   },
   {
-    "GULF PIT": "nug"
+    "gulf pit": "nug"
   },
   {
-    "GULF DISTANCE": "stulu"
+    "gulf distance": "stulu"
   },
   {
-    "DISTANCE": "mam"
+    "distance": "mam"
   },
   {
-    "NOTCH": "nozut"
+    "notch": "nozut"
   },
   {
-    "SAG": "smust"
+    "sag": "smust"
   },
   {
-    "SCOOP": "uspa"
+    "scoop": "uspa"
   },
   {
-    "SOCKET": "usma"
+    "socket": "usma"
   },
   {
-    "TROUGH": "ngadu"
+    "trough": "ngadu"
   },
   {
-    "VALLEY": "sm”xog"
+    "valley": "sm”xog"
   },
   {
-    "FENCE": "ama"
+    "fence": "ama"
   },
   {
-    "BARRICADE": "uros"
+    "barricade": "uros"
   },
   {
-    "BLOCKADE": "slos"
+    "blockade": "slos"
   },
   {
-    "BOARD PLANK": "l„go"
+    "board plank": "l„go"
   },
   {
-    "BOARD GET ON": "slongus"
+    "board get on": "slongus"
   },
   {
-    "PLANK": "xut"
+    "plank": "xut"
   },
   {
-    "DEFEND": "stexusm"
+    "defend": "stexusm"
   },
   {
-    "DEFENSE": "oslox"
+    "defense": "oslox"
   },
   {
-    "DIKE": "mog"
+    "dike": "mog"
   },
   {
-    "PALISADE": "ngospur"
+    "palisade": "ngospur"
   },
   {
-    "POST": "ngoru"
+    "post": "ngoru"
   },
   {
-    "RAMPART": "stangu"
+    "rampart": "stangu"
   },
   {
-    "STAKE": "adu"
+    "stake": "adu"
   },
   {
-    "STOP": "al"
+    "stop": "al"
   },
   {
-    "STOCKADE": "slostest"
+    "stockade": "slostest"
   },
   {
-    "ABYSS": "spos"
+    "abyss": "spos"
   },
   {
-    "CHASM": "smatru"
+    "chasm": "smatru"
   },
   {
-    "CREVICE": "‰sru"
+    "crevice": "‰sru"
   },
   {
-    "RIFT": "stoslug"
+    "rift": "stoslug"
   },
   {
-    "FISSURE": "tosmstong"
+    "fissure": "tosmstong"
   },
   {
-    "UNDER": "sumspa"
+    "under": "sumspa"
   },
   {
-    "ABYSMAL": "rosl”"
+    "abysmal": "rosl”"
   },
   {
-    "SUBMERGE": "tomsu"
+    "submerge": "tomsu"
   },
   {
-    "CYCLONE": "tosnung"
+    "cyclone": "tosnung"
   },
   {
-    "TYPHOON": "x”mlox"
+    "typhoon": "x”mlox"
   },
   {
-    "HURRICANE": "tosm"
+    "hurricane": "tosm"
   },
   {
-    "GALE": "odmu"
+    "gale": "odmu"
   },
   {
-    "TORNADO": "muko"
+    "tornado": "muko"
   },
   {
-    "HAIL GREET": "obu"
+    "hail greet": "obu"
   },
   {
-    "HAIL ICE": "spostnal"
+    "hail ice": "spostnal"
   },
   {
-    "HALE": "lˆzen"
+    "hale": "lˆzen"
   },
   {
-    "ROBUST": "ospong"
+    "robust": "ospong"
   },
   {
-    "HARDY": "slong"
+    "hardy": "slong"
   },
   {
-    "VIGOR": "botun"
+    "vigor": "botun"
   },
   {
-    "AIR": "xusmz–k"
+    "air": "xusmz–k"
   },
   {
-    "SPLASH": "ath"
+    "splash": "ath"
   },
   {
-    "DABBLE": "nax“b"
+    "dabble": "nax“b"
   },
   {
-    "DOUSE": "spudta"
+    "douse": "spudta"
   },
   {
-    "DRENCH": "oslosm"
+    "drench": "oslosm"
   },
   {
-    "MOIST": "–rer"
+    "moist": "–rer"
   },
   {
-    "PLUNGE": "bod"
+    "plunge": "bod"
   },
   {
-    "SHOWER": "gƒxu"
+    "shower": "gƒxu"
   },
   {
-    "SLOP": "bul"
+    "slop": "bul"
   },
   {
-    "SLOSH": "ozstur"
+    "slosh": "ozstur"
   },
   {
-    "SOAK": "lod"
+    "soak": "lod"
   },
   {
-    "SPATTER": "otkel"
+    "spatter": "otkel"
   },
   {
-    "SPLATTER": "slaz"
+    "splatter": "slaz"
   },
   {
-    "SPRAY": "tostra"
+    "spray": "tostra"
   },
   {
-    "SPREAD": "unug"
+    "spread": "unug"
   },
   {
-    "SPRINKLE": "usl–r"
+    "sprinkle": "usl–r"
   },
   {
-    "TWINKLE": "tod"
+    "twinkle": "tod"
   },
   {
-    "SQUIRT": "sur"
+    "squirt": "sur"
   },
   {
-    "WAD": "stroxzak"
+    "wad": "stroxzak"
   },
   {
-    "WADE": "muspbo"
+    "wade": "muspbo"
   },
   {
-    "WET": "ugust"
+    "wet": "ugust"
   },
   {
-    "FADE": "snung"
+    "fade": "snung"
   },
   {
-    "COLORLESS": "odmo"
+    "colorless": "odmo"
   },
   {
-    "BLANCH": "snod"
+    "blanch": "snod"
   },
   {
-    "BLEACH": "snorb–"
+    "bleach": "snorb–"
   },
   {
-    "BLENCH": "osum"
+    "blench": "osum"
   },
   {
-    "FLINCH": "ƒstong"
+    "flinch": "ƒstong"
   },
   {
-    "APPEAR": "arur"
+    "appear": "arur"
   },
   {
-    "DISAPPEAR": "slole"
+    "disappear": "slole"
   },
   {
-    "DISSOLVE": "gasm"
+    "dissolve": "gasm"
   },
   {
-    "DULL": "ngest"
+    "dull": "ngest"
   },
   {
-    "EVAPORATE": "alum"
+    "evaporate": "alum"
   },
   {
-    "LUSTER": "gen"
+    "luster": "gen"
   },
   {
-    "TONE": "zuk†x"
+    "tone": "zuk†x"
   },
   {
-    "VANISH": "spastrum"
+    "vanish": "spastrum"
   },
   {
-    "WASH": "lulo"
+    "wash": "lulo"
   },
   {
-    "ABATE": "xubok"
+    "abate": "xubok"
   },
   {
-    "DECLINE": "slol"
+    "decline": "slol"
   },
   {
-    "DETERIORATE": "gesn”"
+    "deteriorate": "gesn”"
   },
   {
-    "DIMINISH": "l“m–"
+    "diminish": "l“m–"
   },
   {
-    "DISPERSE": "„gngu"
+    "disperse": "„gngu"
   },
   {
-    "DROOP": "zoslu"
+    "droop": "zoslu"
   },
   {
-    "DWINDLE": "dusp"
+    "dwindle": "dusp"
   },
   {
-    "KINDLE": "omngo"
+    "kindle": "omngo"
   },
   {
-    "STOKE": "orar"
+    "stoke": "orar"
   },
   {
-    "POKE": "rul"
+    "poke": "rul"
   },
   {
-    "STIR": "oga"
+    "stir": "oga"
   },
   {
-    "FEED": "“ngtum"
+    "feed": "“ngtum"
   },
   {
-    "FAIL": "stul"
+    "fail": "stul"
   },
   {
-    "LANGUISH": "slurob"
+    "languish": "slurob"
   },
   {
-    "LESSEN": "snokuz"
+    "lessen": "snokuz"
   },
   {
-    "LESSON": "stung"
+    "lesson": "stung"
   },
   {
-    "TEACH": "ungn“"
+    "teach": "ungn“"
   },
   {
-    "MASTERY": "ukoz"
+    "mastery": "ukoz"
   },
   {
-    "PERISH": "gusp–"
+    "perish": "gusp–"
   },
   {
-    "SHRIVEL": "kosto"
+    "shrivel": "kosto"
   },
   {
-    "SINK": "sposnu"
+    "sink": "sposnu"
   },
   {
-    "TAPER": "rol"
+    "taper": "rol"
   },
   {
-    "THIN": "spusm"
+    "thin": "spusm"
   },
   {
-    "TIRE": "urab"
+    "tire": "urab"
   },
   {
-    "WANE": "ulut"
+    "wane": "ulut"
   },
   {
-    "WEAK": "tosno"
+    "weak": "tosno"
   },
   {
-    "WILT": "ulta"
+    "wilt": "ulta"
   },
   {
-    "WITHER": "ngab"
+    "wither": "ngab"
   },
   {
-    "HONOR": "rum"
+    "honor": "rum"
   },
   {
-    "ADORE": "loma"
+    "adore": "loma"
   },
   {
-    "ADULATE": "ngag–s"
+    "adulate": "ngag–s"
   },
   {
-    "CELEBRATE": "axngu"
+    "celebrate": "axngu"
   },
   {
-    "CONFIDENT": "susus"
+    "confident": "susus"
   },
   {
-    "DEFERENCE": "spongku"
+    "deference": "spongku"
   },
   {
-    "DEITY": "alsmust"
+    "deity": "alsmust"
   },
   {
-    "DISTINCT": "snosm"
+    "distinct": "snosm"
   },
   {
-    "ELEVATE": "sn–snad"
+    "elevate": "sn–snad"
   },
   {
-    "ESTEEM": "usˆk"
+    "esteem": "usˆk"
   },
   {
-    "EXALT": "ozok"
+    "exalt": "ozok"
   },
   {
-    "FAME": "sluslu"
+    "fame": "sluslu"
   },
   {
-    "FEALTY": "stang"
+    "fealty": "stang"
   },
   {
-    "HOMAGE": "osmung"
+    "homage": "osmung"
   },
   {
-    "MORTAL": "aspdo"
+    "mortal": "aspdo"
   },
   {
-    "IMMORTAL": "ostsnot"
+    "immortal": "ostsnot"
   },
   {
-    "LAUD": "osla"
+    "laud": "osla"
   },
   {
-    "OBEISANCE": "ulbun"
+    "obeisance": "ulbun"
   },
   {
-    "PRAISE": "x“slo"
+    "praise": "x“slo"
   },
   {
-    "PRESTIGE": "tata"
+    "prestige": "tata"
   },
   {
-    "RENOWN": "oxƒsp"
+    "renown": "oxƒsp"
   },
   {
-    "REPUTATION": "sluk"
+    "reputation": "sluk"
   },
   {
-    "TRIBUTE": "erxut"
+    "tribute": "erxut"
   },
   {
-    "WORSHIP": "”r„"
+    "worship": "”r„"
   },
   {
-    "CHASTITY": "zole"
+    "chastity": "zole"
   },
   {
-    "COURAGE": "stobsa"
+    "courage": "stobsa"
   },
   {
-    "DECENT": "usna"
+    "decent": "usna"
   },
   {
-    "GOOD": "zos"
+    "good": "zos"
   },
   {
-    "INNOCENT": "m†sp"
+    "innocent": "m†sp"
   },
   {
-    "MODEST": "maspxen"
+    "modest": "maspxen"
   },
   {
-    "PRINCIPLE": "odsnusp"
+    "principle": "odsnusp"
   },
   {
-    "PURE": "rotsmam"
+    "pure": "rotsmam"
   },
   {
-    "RIGHTEOUSNESS": "osmob"
+    "righteousness": "osmob"
   },
   {
-    "TRUTH": "ustrul"
+    "truth": "ustrul"
   },
   {
-    "TRUTHFUL": "ospsos"
+    "truthful": "ospsos"
   },
   {
-    "VIRGIN": "zustun"
+    "virgin": "zustun"
   },
   {
-    "VIRGINITY": "nangaz"
+    "virginity": "nangaz"
   },
   {
-    "HOLD": "oxstrar"
+    "hold": "oxstrar"
   },
   {
-    "SCALD": "dusmud"
+    "scald": "dusmud"
   },
   {
-    "SCALE VERB": "–d"
+    "scale verb": "–d"
   },
   {
-    "SCALE SKIN": "reng"
+    "scale skin": "reng"
   },
   {
-    "CLAN": "osnog"
+    "clan": "osnog"
   },
   {
-    "LABYRINTH": "langul"
+    "labyrinth": "langul"
   },
   {
-    "MAZE": "kure"
+    "maze": "kure"
   },
   {
-    "WEB": "ngostong"
+    "web": "ngostong"
   },
   {
-    "CROWD": "okmo"
+    "crowd": "okmo"
   },
   {
-    "FAMILY": "asl”x"
+    "family": "asl”x"
   },
   {
-    "KIN": "orax"
+    "kin": "orax"
   },
   {
-    "MOB": "nerom"
+    "mob": "nerom"
   },
   {
-    "ORGAN": "baxxe"
+    "organ": "baxxe"
   },
   {
-    "ORGANIZE": "xaz"
+    "organize": "xaz"
   },
   {
-    "MESH": "zugu"
+    "mesh": "zugu"
   },
   {
-    "TANGLE": "uz“ng"
+    "tangle": "uz“ng"
   },
   {
-    "ENTANGLE": "oxang"
+    "entangle": "oxang"
   },
   {
-    "PUZZLE": "agak"
+    "puzzle": "agak"
   },
   {
-    "PERPLEX": "m„llu"
+    "perplex": "m„llu"
   },
   {
-    "QUANDARY": "nunlod"
+    "quandary": "nunlod"
   },
   {
-    "COMBINE": "bosu"
+    "combine": "bosu"
   },
   {
-    "FLICKER": "ngob"
+    "flicker": "ngob"
   },
   {
-    "BRAND": "uslot"
+    "brand": "uslot"
   },
   {
-    "SINGE": "stot"
+    "singe": "stot"
   },
   {
-    "SEAR": "slodse"
+    "sear": "slodse"
   },
   {
-    "SCORCH": "snumn”"
+    "scorch": "snumn”"
   },
   {
-    "ROAST": "uspen"
+    "roast": "uspen"
   },
   {
-    "PARCH": "lunguk"
+    "parch": "lunguk"
   },
   {
-    "IGNITE": "kustro"
+    "ignite": "kustro"
   },
   {
-    "INCINERATE": "baxstut"
+    "incinerate": "baxstut"
   },
   {
-    "GLOW": "sad"
+    "glow": "sad"
   },
   {
-    "CREMATE": "ukas"
+    "cremate": "ukas"
   },
   {
-    "FACTION": "osmrur"
+    "faction": "osmrur"
   },
   {
-    "CREW": "ezr–"
+    "crew": "ezr–"
   },
   {
-    "VESSEL": "ngur"
+    "vessel": "ngur"
   },
   {
-    "LEAGUE GROUP": "roso"
+    "league group": "roso"
   },
   {
-    "COOPERATE": "oknus"
+    "cooperate": "oknus"
   },
   {
-    "GROUP": "sn†d"
+    "group": "sn†d"
   },
   {
-    "GANG": "odot"
+    "gang": "odot"
   },
   {
-    "FELLOWSHIP": "xol"
+    "fellowship": "xol"
   },
   {
-    "PARTNER": "smuksmum"
+    "partner": "smuksmum"
   },
   {
-    "RIDDLE": "ng“rdax"
+    "riddle": "ng“rdax"
   },
   {
-    "ROUT": "remzu"
+    "rout": "remzu"
   },
   {
-    "SCRAPE": "odna"
+    "scrape": "odna"
   },
   {
-    "SCRAP": "smunok"
+    "scrap": "smunok"
   },
   {
-    "SCOUR": "„z"
+    "scour": "„z"
   },
   {
-    "SCRUB": "gata"
+    "scrub": "gata"
   },
   {
-    "SHAKE": "tuz"
+    "shake": "tuz"
   },
   {
-    "SOAP": "snubez"
+    "soap": "snubez"
   },
   {
-    "SPONGE": "gestrast"
+    "sponge": "gestrast"
   },
   {
-    "SWEEP": "osl”"
+    "sweep": "osl”"
   },
   {
-    "WHISKER": "aro"
+    "whisker": "aro"
   },
   {
-    "FASTEN": "rogux"
+    "fasten": "rogux"
   },
   {
-    "WINNOW": "spaspgul"
+    "winnow": "spaspgul"
   },
   {
-    "WIPE": "slolspo"
+    "wipe": "slolspo"
   },
   {
-    "CLENCH": "susn–"
+    "clench": "susn–"
   },
   {
-    "CLINCH": "n–ng"
+    "clinch": "n–ng"
   },
   {
-    "CLOUT": "snosstrosp"
+    "clout": "snosstrosp"
   },
   {
-    "CLUTCH": "kasta"
+    "clutch": "kasta"
   },
   {
-    "DOMINATE": "zuko"
+    "dominate": "zuko"
   },
   {
-    "DOMINION": "snumud"
+    "dominion": "snumud"
   },
   {
-    "GRASP": "spubta"
+    "grasp": "spubta"
   },
   {
-    "INFLUENCE": "sor"
+    "influence": "sor"
   },
   {
-    "OWN": "doxon"
+    "own": "doxon"
   },
   {
-    "OWNERSHIP": "esmen"
+    "ownership": "esmen"
   },
   {
-    "TENACITY": "st“rngut"
+    "tenacity": "st“rngut"
   },
   {
-    "BIND": "xedub"
+    "bind": "xedub"
   },
   {
-    "CARRY": "uta"
+    "carry": "uta"
   },
   {
-    "CATCH": "smabek"
+    "catch": "smabek"
   },
   {
-    "CONFINE": "otak"
+    "confine": "otak"
   },
   {
-    "CONTAIN": "ustˆx"
+    "contain": "ustˆx"
   },
   {
-    "CRADLE": "dusmun"
+    "cradle": "dusmun"
   },
   {
-    "EMBRACE": "rombu"
+    "embrace": "rombu"
   },
   {
-    "POOL": "tostgud"
+    "pool": "tostgud"
   },
   {
-    "SOCIETY": "ungsmol"
+    "society": "ungsmol"
   },
   {
-    "CIRCLE": "strox"
+    "circle": "strox"
   },
   {
-    "SQUARE": "olxo"
+    "square": "olxo"
   },
   {
-    "TRIANGLE": "gonga"
+    "triangle": "gonga"
   },
   {
-    "CONNECT": "„kon"
+    "connect": "„kon"
   },
   {
-    "MERGE": "zurdos"
+    "merge": "zurdos"
   },
   {
-    "CONFUSE": "stestrak"
+    "confuse": "stestrak"
   },
   {
-    "COMPLEX": "guspo"
+    "complex": "guspo"
   },
   {
-    "MEANDER": "tun"
+    "meander": "tun"
   },
   {
-    "MUDDLE": "ak„z"
+    "muddle": "ak„z"
   },
   {
-    "BEWILDER": "ostrug"
+    "bewilder": "ostrug"
   },
   {
-    "MORASS": "ebol"
+    "morass": "ebol"
   },
   {
-    "PROBLEM": "ngusmsta"
+    "problem": "ngusmsta"
   },
   {
-    "INTRICATE": "sermok"
+    "intricate": "sermok"
   },
   {
-    "FLUSH": "tango"
+    "flush": "tango"
   },
   {
-    "MOP": "exa"
+    "mop": "exa"
   },
   {
-    "POLISH": "lubam"
+    "polish": "lubam"
   },
   {
-    "PURGE": "dedge"
+    "purge": "dedge"
   },
   {
-    "RASP": "enga"
+    "rasp": "enga"
   },
   {
-    "RINSE": "uxmod"
+    "rinse": "uxmod"
   },
   {
-    "BAND OBJECT": "dozo"
+    "band object": "dozo"
   },
   {
-    "BAND GROUP": "anketh"
+    "band group": "anketh"
   },
   {
-    "TALL": "ƒs"
+    "tall": "ƒs"
   },
   {
-    "SHORT": "“bang"
+    "short": "“bang"
   },
   {
-    "BULBOUS": "usm"
+    "bulbous": "usm"
   },
   {
-    "BULB": "ulno"
+    "bulb": "ulno"
   },
   {
-    "ALLY": "oslem"
+    "ally": "oslem"
   },
   {
-    "ALLIANCE": "ongxa"
+    "alliance": "ongxa"
   },
   {
-    "ALLEGIANCE": "spamngasp"
+    "allegiance": "spamngasp"
   },
   {
-    "COALITION": "spubxu"
+    "coalition": "spubxu"
   },
   {
-    "COAL": "egkast"
+    "coal": "egkast"
   },
   {
-    "ENJOY": "sluz"
+    "enjoy": "sluz"
   },
   {
-    "FONDLE": "smur"
+    "fondle": "smur"
   },
   {
-    "HANDLE OBJECT": "bon"
+    "handle object": "bon"
   },
   {
-    "HANDLE VERB": "smor"
+    "handle verb": "smor"
   },
   {
-    "IMPRISON": "nogek"
+    "imprison": "nogek"
   },
   {
-    "NOURISH": "–mu"
+    "nourish": "–mu"
   },
   {
-    "SQUEEZE": "sukxusm"
+    "squeeze": "sukxusm"
   },
   {
-    "TRAMMEL": "ommul"
+    "trammel": "ommul"
   },
   {
-    "VICE": "ngoso"
+    "vice": "ngoso"
   },
   {
-    "VISE": "snol"
+    "vise": "snol"
   },
   {
-    "DEFECT FAULT": "nelo"
+    "defect fault": "nelo"
   },
   {
-    "PERFECT": "m”smlo"
+    "perfect": "m”smlo"
   },
   {
-    "GEM": "straza"
+    "gem": "straza"
   },
   {
-    "JEWEL": "etog"
+    "jewel": "etog"
   },
   {
-    "WIELD": "”l"
+    "wield": "”l"
   },
   {
-    "WRING": "azu"
+    "wring": "azu"
   },
   {
-    "CONJUNCTION": "ostrusm"
+    "conjunction": "ostrusm"
   },
   {
-    "BLOT": "goslust"
+    "blot": "goslust"
   },
   {
-    "BLOW": "d”k"
+    "blow": "d”k"
   },
   {
-    "BRUSH": "stato"
+    "brush": "stato"
   },
   {
-    "CLARIFY": "studu"
+    "clarify": "studu"
   },
   {
-    "CLEANSE": "dugut"
+    "cleanse": "dugut"
   },
   {
-    "DREDGE": "tulo"
+    "dredge": "tulo"
   },
   {
-    "ERASE": "ubosm"
+    "erase": "ubosm"
   },
   {
-    "MORSEL": "azr”sm"
+    "morsel": "azr”sm"
   },
   {
-    "MONGREL": "tusnom"
+    "mongrel": "tusnom"
   },
   {
-    "TENDER": "sp‰gspung"
+    "tender": "sp‰gspung"
   },
   {
-    "URGE": "smusla"
+    "urge": "smusla"
   },
   {
-    "MECHANISM": "amar"
+    "mechanism": "amar"
   },
   {
-    "SMEAR": "onxo"
+    "smear": "onxo"
   },
   {
-    "TATTOO": "stosm–"
+    "tattoo": "stosm–"
   },
   {
-    "WEATHER VERB": "ozu"
+    "weather verb": "ozu"
   },
   {
-    "CRUX": "xeso"
+    "crux": "xeso"
   },
   {
-    "PEEK": "snuzaz"
+    "peek": "snuzaz"
   },
   {
-    "SNEAK": "lozasp"
+    "sneak": "lozasp"
   },
   {
-    "ATTIC": "umsnosm"
+    "attic": "umsnosm"
   },
   {
-    "BASEMENT": "urust"
+    "basement": "urust"
   },
   {
-    "DEARTH": "laz"
+    "dearth": "laz"
   },
   {
-    "APEX": "stutus"
+    "apex": "stutus"
   },
   {
-    "NADIR": "kusnod"
+    "nadir": "kusnod"
   },
   {
-    "TUNNEL": "zut“sp"
+    "tunnel": "zut“sp"
   },
   {
-    "ENTRANCE VERB": "atngal"
+    "entrance verb": "atngal"
   },
   {
-    "DELIGHT": "z†n"
+    "delight": "z†n"
   },
   {
-    "JOY": "on“sm"
+    "joy": "on“sm"
   },
   {
-    "FRIGID": "kob"
+    "frigid": "kob"
   },
   {
-    "ANKLE": "xoru"
+    "ankle": "xoru"
   },
   {
-    "ELBOW": "espu"
+    "elbow": "espu"
   },
   {
-    "PASSION": "snukang"
+    "passion": "snukang"
   },
   {
-    "ARDENT": "stusang"
+    "ardent": "stusang"
   },
   {
-    "STREAM": "smangba"
+    "stream": "smangba"
   },
   {
-    "BOWEL GUT": "lospad"
+    "bowel gut": "lospad"
   },
   {
-    "BOWEL INTERIOR": "uspum"
+    "bowel interior": "uspum"
   },
   {
-    "DRILL BORE": "oslar"
+    "drill bore": "oslar"
   },
   {
-    "DRILL ROUTINE": "ruspzuz"
+    "drill routine": "ruspzuz"
   },
   {
-    "BORE DRILL": "edzum"
+    "bore drill": "edzum"
   },
   {
-    "BOREDOM": "nuslu"
+    "boredom": "nuslu"
   },
   {
-    "FLECK": "ungngo"
+    "fleck": "ungngo"
   },
   {
-    "SPOT": "spuspsot"
+    "spot": "spuspsot"
   },
   {
-    "DOT": "erosm"
+    "dot": "erosm"
   },
   {
-    "CREATE": "sluda"
+    "create": "sluda"
   },
   {
-    "POEM": "sam"
+    "poem": "sam"
   },
   {
-    "POETRY": "tastro"
+    "poetry": "tastro"
   },
   {
-    "POET": "toz–x"
+    "poet": "toz–x"
   },
   {
-    "SCRIBE": "gusno"
+    "scribe": "gusno"
   },
   {
-    "MONK": "oddosp"
+    "monk": "oddosp"
   },
   {
-    "HERMIT": "ongral"
+    "hermit": "ongral"
   },
   {
-    "RECLUSE": "„stspub"
+    "recluse": "„stspub"
   },
   {
-    "NAME": "osnuk"
+    "name": "osnuk"
   },
   {
-    "LANGUAGE": "xusplu"
+    "language": "xusplu"
   },
   {
-    "PHRASE": "obxog"
+    "phrase": "obxog"
   },
   {
-    "RHYME": "osnung"
+    "rhyme": "osnung"
   },
   {
-    "RHYTHM": "dost"
+    "rhythm": "dost"
   },
   {
-    "VERSE": "ospog"
+    "verse": "ospog"
   },
   {
-    "DRUM VERB": "smusmt„"
+    "drum verb": "smusmt„"
   },
   {
-    "CREATURE": "los"
+    "creature": "los"
   },
   {
-    "SNAIL": "snusl–"
+    "snail": "snusl–"
   },
   {
-    "VINE": "alba"
+    "vine": "alba"
   },
   {
-    "SQUASH": "assmo"
+    "squash": "assmo"
   },
   {
-    "NEVER": "ustab"
+    "never": "ustab"
   },
   {
-    "DWELL": "lustu"
+    "dwell": "lustu"
   },
   {
-    "HABIT": "snamusm"
+    "habit": "snamusm"
   },
   {
-    "CHEW": "smumub"
+    "chew": "smumub"
   },
   {
-    "SWALLOW": "nabok"
+    "swallow": "nabok"
   },
   {
-    "DISEMBOWEL": "spus"
+    "disembowel": "spus"
   },
   {
-    "EVISCERATE": "slospka"
+    "eviscerate": "slospka"
   },
   {
-    "RAPID": "sposlƒr"
+    "rapid": "sposlƒr"
   },
   {
-    "MEDICINE": "udam"
+    "medicine": "udam"
   },
   {
-    "HEAL": "nozam"
+    "heal": "nozam"
   },
   {
-    "SELL": "zongsmo"
+    "sell": "zongsmo"
   },
   {
-    "MARKET": "uxslux"
+    "market": "uxslux"
   },
   {
-    "SLOW": "agkud"
+    "slow": "agkud"
   },
   {
-    "MIRE": "zorsto"
+    "mire": "zorsto"
   },
   {
-    "ADMIRE": "agsm“ng"
+    "admire": "agsm“ng"
   },
   {
-    "DIRGE": "udbod"
+    "dirge": "udbod"
   },
   {
-    "LAMENT": "”spuk"
+    "lament": "”spuk"
   },
   {
-    "FUNERAL": "lat"
+    "funeral": "lat"
   },
   {
-    "QUEST": "osmod"
+    "quest": "osmod"
   },
   {
-    "ADVENTURE": "mus”r"
+    "adventure": "mus”r"
   },
   {
-    "MOURN": "“mo"
+    "mourn": "“mo"
   },
   {
-    "MORNING": "smungras"
+    "morning": "smungras"
   },
   {
-    "BULWARK": "ngolu"
+    "bulwark": "ngolu"
   },
   {
-    "COSMOS": "sostrot"
+    "cosmos": "sostrot"
   },
   {
-    "ANGUISH": "sasmok"
+    "anguish": "sasmok"
   },
   {
-    "TAUT": "solom"
+    "taut": "solom"
   },
   {
-    "DEIFY": "nul"
+    "deify": "nul"
   },
   {
-    "INFAMY": "konab"
+    "infamy": "konab"
   },
   {
-    "MORTALITY": "udun"
+    "mortality": "udun"
   },
   {
-    "IMMORTALITY": "buspmu"
+    "immortality": "buspmu"
   },
   {
-    "MORTIFY": "stus"
+    "mortify": "stus"
   },
   {
-    "OBEY": "ustog"
+    "obey": "ustog"
   },
   {
-    "WORSHIPPER": "ebe"
+    "worshipper": "ebe"
   },
   {
-    "RIDDLE HOLES": "ospgu"
+    "riddle holes": "ospgu"
   },
   {
-    "DWELLING": "musp"
+    "dwelling": "musp"
   },
   {
-    "DISEMBOWELMENT": "aspna"
+    "disembowelment": "aspna"
   },
   {
-    "EVISCERATION": "snosno"
+    "evisceration": "snosno"
   },
   {
-    "HEALING": "ospmuz"
+    "healing": "ospmuz"
   },
   {
-    "ADMIRATION": "uzsmu"
+    "admiration": "uzsmu"
   },
   {
-    "CONFLICT": "uzo"
+    "conflict": "uzo"
   },
   {
-    "ATTACK": "umuz"
+    "attack": "umuz"
   },
   {
-    "ONSLAUGHT": "utu"
+    "onslaught": "utu"
   },
   {
-    "TREE": "tonspe"
+    "tree": "tonspe"
   },
   {
-    "AMBER": "rud"
+    "amber": "rud"
   },
   {
-    "AMETHYST": "exost"
+    "amethyst": "exost"
   },
   {
-    "AQUA": "ngospngor"
+    "aqua": "ngospngor"
   },
   {
-    "AQUAMARINE": "ek–ng"
+    "aquamarine": "ek–ng"
   },
   {
-    "GRAY": "b”su"
+    "gray": "b”su"
   },
   {
-    "AUBURN": "xadel"
+    "auburn": "xadel"
   },
   {
-    "AZURE": "ongngu"
+    "azure": "ongngu"
   },
   {
-    "BEIGE": "uxgol"
+    "beige": "uxgol"
   },
   {
-    "BRASS": "orbuk"
+    "brass": "orbuk"
   },
   {
-    "BROWN": "urso"
+    "brown": "urso"
   },
   {
-    "BUFF": "nukso"
+    "buff": "nukso"
   },
   {
-    "SIENNA": "ugsmu"
+    "sienna": "ugsmu"
   },
   {
-    "UMBER": "aluz"
+    "umber": "aluz"
   },
   {
-    "CARDINAL_COLOR": "somspu"
+    "cardinal_color": "somspu"
   },
   {
-    "CARMINE": "suspot"
+    "carmine": "suspot"
   },
   {
-    "CERULEAN": "k“snag"
+    "cerulean": "k“snag"
   },
   {
-    "CHARCOAL": "stuza"
+    "charcoal": "stuza"
   },
   {
-    "CHARTREUSE": "“d"
+    "chartreuse": "“d"
   },
   {
-    "CHESTNUT": "ukad"
+    "chestnut": "ukad"
   },
   {
-    "CHOCOLATE": "slastda"
+    "chocolate": "slastda"
   },
   {
-    "CINNAMON": "luzso"
+    "cinnamon": "luzso"
   },
   {
-    "COBALT": "smun"
+    "cobalt": "smun"
   },
   {
-    "INDIGO": "mob“t"
+    "indigo": "mob“t"
   },
   {
-    "OLIVE": "dum"
+    "olive": "dum"
   },
   {
-    "PINK": "dokem"
+    "pink": "dokem"
   },
   {
-    "SCARLET": "elsmot"
+    "scarlet": "elsmot"
   },
   {
-    "TAN": "sak"
+    "tan": "sak"
   },
   {
-    "ECRU": "oxgu"
+    "ecru": "oxgu"
   },
   {
-    "EMERALD": "taxasm"
+    "emerald": "taxasm"
   },
   {
-    "FLAX": "non–"
+    "flax": "non–"
   },
   {
-    "FUCHSIA": "slokde"
+    "fuchsia": "slokde"
   },
   {
-    "GOLDENROD": "ostrum"
+    "goldenrod": "ostrum"
   },
   {
-    "HELIOTROPE": "“ko"
+    "heliotrope": "“ko"
   },
   {
-    "LAVENDER": "ume"
+    "lavender": "ume"
   },
   {
-    "BLUSH": "aslan"
+    "blush": "aslan"
   },
   {
-    "LEMON": "gokgo"
+    "lemon": "gokgo"
   },
   {
-    "LILAC": "dastbu"
+    "lilac": "dastbu"
   },
   {
-    "LIME": "xar"
+    "lime": "xar"
   },
   {
-    "MAHOGANY": "stusmex"
+    "mahogany": "stusmex"
   },
   {
-    "MAROON_COLOR": "st”tba"
+    "maroon_color": "st”tba"
   },
   {
-    "MAUVE": "soxor"
+    "mauve": "soxor"
   },
   {
-    "TAUPE": "stasna"
+    "taupe": "stasna"
   },
   {
-    "MINT": "nox"
+    "mint": "nox"
   },
   {
-    "MOSS": "ozosm"
+    "moss": "ozosm"
   },
   {
-    "OCHRE": "alro"
+    "ochre": "alro"
   },
   {
-    "ORANGE": "tustong"
+    "orange": "tustong"
   },
   {
-    "PERIWINKLE": "ngusna"
+    "periwinkle": "ngusna"
   },
   {
-    "PLUM": "sluspen"
+    "plum": "sluspen"
   },
   {
-    "PUCE": "omku"
+    "puce": "omku"
   },
   {
-    "PUMPKIN": "rezsput"
+    "pumpkin": "rezsput"
   },
   {
-    "RUSSET": "unum"
+    "russet": "unum"
   },
   {
-    "SAFFRON": "ongox"
+    "saffron": "ongox"
   },
   {
-    "SEPIA": "xutzest"
+    "sepia": "xutzest"
   },
   {
-    "TEAL": "astga"
+    "teal": "astga"
   },
   {
-    "TURQUOISE": "galu"
+    "turquoise": "galu"
   },
   {
-    "VERMILION": "ostrob"
+    "vermilion": "ostrob"
   },
   {
-    "PATH": "snust"
+    "path": "snust"
   },
   {
-    "THREAT": "olgo"
+    "threat": "olgo"
   },
   {
-    "WARNING": "nusta"
+    "warning": "nusta"
   },
   {
-    "FATE": "rustu"
+    "fate": "rustu"
   },
   {
-    "DESTINY": "lusmza"
+    "destiny": "lusmza"
   },
   {
-    "HORROR": "dang"
+    "horror": "dang"
   },
   {
-    "LITTLE": "elu"
+    "little": "elu"
   },
   {
-    "EARLY": "snexosp"
+    "early": "snexosp"
   },
   {
-    "LATE": "ukus"
+    "late": "ukus"
   },
   {
-    "LIFE": "st–m”"
+    "life": "st–m”"
   },
   {
-    "CHEESE": "ursus"
+    "cheese": "ursus"
   },
   {
-    "FIGURE_OBJECT": "spospra"
+    "figure_object": "spospra"
   },
   {
-    "HOPE": "osmost"
+    "hope": "osmost"
   },
   {
-    "BODY": "ured"
+    "body": "ured"
   },
   {
-    "WALK": "gobum"
+    "walk": "gobum"
   },
   {
-    "HOUR": "songob"
+    "hour": "songob"
   },
   {
-    "SIT": "kuklur"
+    "sit": "kuklur"
   },
   {
-    "MOMENT": "tuzngag"
+    "moment": "tuzngag"
   },
   {
-    "BEAUTY": "ukkar"
+    "beauty": "ukkar"
   },
   {
-    "JUDGE": "amul"
+    "judge": "amul"
   },
   {
-    "WISH": "xoku"
+    "wish": "xoku"
   },
   {
-    "RESPECT": "ozg‰l"
+    "respect": "ozg‰l"
   },
   {
-    "MARK": "stam"
+    "mark": "stam"
   },
   {
-    "HEAVY": "seg"
+    "heavy": "seg"
   },
   {
-    "TRIAL": "m”x"
+    "trial": "m”x"
   },
   {
-    "PRACTICE": "nosbu"
+    "practice": "nosbu"
   },
   {
-    "END": "xano"
+    "end": "xano"
   },
   {
-    "START": "aspngo"
+    "start": "aspngo"
   },
   {
-    "BEGIN": "usl“x"
+    "begin": "usl“x"
   },
   {
-    "BIRTH": "egu"
+    "birth": "egu"
   },
   {
-    "LEARN": "sobus"
+    "learn": "sobus"
   },
   {
-    "MISCHIEF": "xumxu"
+    "mischief": "xumxu"
   },
   {
-    "WISDOM": "zare"
+    "wisdom": "zare"
   },
   {
-    "KNOW": "strag"
+    "know": "strag"
   },
   {
-    "KNOWLEDGE": "amos"
+    "knowledge": "amos"
   },
   {
-    "CRACK": "kol"
+    "crack": "kol"
   },
   {
-    "SHATTER": "usnem"
+    "shatter": "usnem"
   },
   {
-    "LEAP": "stekug"
+    "leap": "stekug"
   },
   {
-    "JUMP": "stoxus"
+    "jump": "stoxus"
   },
   {
-    "DIVE": "lustot"
+    "dive": "lustot"
   },
   {
-    "VAULT VERB": "xagnom"
+    "vault verb": "xagnom"
   },
   {
-    "VAULT PLACE": "”tak"
+    "vault place": "”tak"
   },
   {
-    "TREASURY": "uzto"
+    "treasury": "uzto"
   },
   {
-    "BETRAY": "t“ng"
+    "betray": "t“ng"
   },
   {
-    "TREASON": "uluz"
+    "treason": "uluz"
   },
   {
-    "REASON": "xonzom"
+    "reason": "xonzom"
   },
   {
-    "SQUAT": "ebro"
+    "squat": "ebro"
   },
   {
-    "FESTIVAL": "ˆzslust"
+    "festival": "ˆzslust"
   }
 ]
