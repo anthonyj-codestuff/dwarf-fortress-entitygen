@@ -1,0 +1,6587 @@
+[
+  {
+    "abbey": "cebela"
+  },
+  {
+    "ace": "adi"
+  },
+  {
+    "act": "ar¢"
+  },
+  {
+    "after": "ifife"
+  },
+  {
+    "age": "eyo"
+  },
+  {
+    "ageless": "datha"
+  },
+  {
+    "ale": "warerš"
+  },
+  {
+    "ancient": "fathinu"
+  },
+  {
+    "angel": "thili"
+  },
+  {
+    "anger": "fomire"
+  },
+  {
+    "animal": "fela"
+  },
+  {
+    "ape": "aweme"
+  },
+  {
+    "apple": "fena"
+  },
+  {
+    "arch": "˜aniye"
+  },
+  {
+    "arm": "atho"
+  },
+  {
+    "armor": "datome"
+  },
+  {
+    "arrow": "lari"
+  },
+  {
+    "artifice": "aratha"
+  },
+  {
+    "ash": "imeri"
+  },
+  {
+    "aunt": "th—na"
+  },
+  {
+    "aura": "arazi"
+  },
+  {
+    "autumn": "fidale"
+  },
+  {
+    "awe-inspiring": "tarathe"
+  },
+  {
+    "axe": "cuthefi"
+  },
+  {
+    "back": "cede"
+  },
+  {
+    "bad": "otoga"
+  },
+  {
+    "bald": "dinade"
+  },
+  {
+    "bake": "cenopu"
+  },
+  {
+    "ball": "šle"
+  },
+  {
+    "bane": "timafi"
+  },
+  {
+    "bar": "emu"
+  },
+  {
+    "barb": "£pe"
+  },
+  {
+    "bath": "amama"
+  },
+  {
+    "battle": "thafatha"
+  },
+  {
+    "beak": "etini"
+  },
+  {
+    "beast": "le"
+  },
+  {
+    "bear": "atha"
+  },
+  {
+    "bear_verb": "alo"
+  },
+  {
+    "bee": "ave˜a"
+  },
+  {
+    "beer": "mafina"
+  },
+  {
+    "beetle": "pama"
+  },
+  {
+    "beguiler": "math£va"
+  },
+  {
+    "belch": "bulifo"
+  },
+  {
+    "berry": "ada"
+  },
+  {
+    "big": "mamo"
+  },
+  {
+    "bile": "icithi"
+  },
+  {
+    "bin": "masa"
+  },
+  {
+    "bird": "ar¡le"
+  },
+  {
+    "black": "opa"
+  },
+  {
+    "blade": "eli"
+  },
+  {
+    "blaze": "mifava"
+  },
+  {
+    "blind": "nanotha"
+  },
+  {
+    "blister": "licesi"
+  },
+  {
+    "bloat": "oma"
+  },
+  {
+    "blood": "cameda"
+  },
+  {
+    "bloody": "cida"
+  },
+  {
+    "blossom": "lolama"
+  },
+  {
+    "blue": "itho"
+  },
+  {
+    "boar": "lebeyu"
+  },
+  {
+    "boat": "efeye"
+  },
+  {
+    "bodice": "lemathe"
+  },
+  {
+    "bog": "abure"
+  },
+  {
+    "boil": "camaba"
+  },
+  {
+    "boil_v": "afatha"
+  },
+  {
+    "bold": "i˜e"
+  },
+  {
+    "bolt": "ene"
+  },
+  {
+    "bone": "one"
+  },
+  {
+    "book": "soya"
+  },
+  {
+    "boot": "emudi"
+  },
+  {
+    "bother": "bareca"
+  },
+  {
+    "bow": "ram¡"
+  },
+  {
+    "bow_verb": "thiwa"
+  },
+  {
+    "brain": "ereni"
+  },
+  {
+    "breach": "fecaci"
+  },
+  {
+    "breeches": "niriwa"
+  },
+  {
+    "bread": "medo"
+  },
+  {
+    "break": "rire"
+  },
+  {
+    "breakfast": "enele"
+  },
+  {
+    "breath": "larna"
+  },
+  {
+    "breed": "erise"
+  },
+  {
+    "brew": "uyira"
+  },
+  {
+    "bride": "awiri"
+  },
+  {
+    "bridle": "bimawa"
+  },
+  {
+    "bright": "cele"
+  },
+  {
+    "bristle": "femeli"
+  },
+  {
+    "brilliant": "v¡˜o"
+  },
+  {
+    "brim": "fita"
+  },
+  {
+    "broil": "facic‚"
+  },
+  {
+    "brother": "oleme"
+  },
+  {
+    "brunch": "fetili"
+  },
+  {
+    "buck": "futace"
+  },
+  {
+    "buckle": "lete"
+  },
+  {
+    "bunch": "med‚"
+  },
+  {
+    "burden": "curo"
+  },
+  {
+    "burn": "cilole"
+  },
+  {
+    "bury": "nula"
+  },
+  {
+    "bush": "alithi"
+  },
+  {
+    "bushel": "ifi"
+  },
+  {
+    "bust_noun": "sasifi"
+  },
+  {
+    "bust_verb": "thaba"
+  },
+  {
+    "business": "cuseni"
+  },
+  {
+    "busy": "yicethu"
+  },
+  {
+    "butcher": "uwale"
+  },
+  {
+    "butter": "necitho"
+  },
+  {
+    "butterfly": "ithithe"
+  },
+  {
+    "button": "vaca"
+  },
+  {
+    "buzzard": "acithe"
+  },
+  {
+    "cackle": "noca"
+  },
+  {
+    "cad": "beyafe"
+  },
+  {
+    "cage": "of£ru"
+  },
+  {
+    "cake": "cefira"
+  },
+  {
+    "call": "mivere"
+  },
+  {
+    "camp": "imen‚"
+  },
+  {
+    "cancer": "mavi"
+  },
+  {
+    "candle": "erela"
+  },
+  {
+    "candy": "lire"
+  },
+  {
+    "canker": "remofe"
+  },
+  {
+    "canyon": "gica"
+  },
+  {
+    "carnage": "fathiri"
+  },
+  {
+    "casket": "radi"
+  },
+  {
+    "castle": "tayo"
+  },
+  {
+    "cat": "lin"
+  },
+  {
+    "cave": "garetho"
+  },
+  {
+    "cell": "rufa"
+  },
+  {
+    "chain": "os‚fi"
+  },
+  {
+    "chant": "ayilo"
+  },
+  {
+    "chaos": "thevalo"
+  },
+  {
+    "chamber": "zole"
+  },
+  {
+    "char": "imida"
+  },
+  {
+    "charm": "methila"
+  },
+  {
+    "child": "imi"
+  },
+  {
+    "chill": "pini"
+  },
+  {
+    "chip_noun": "casi"
+  },
+  {
+    "chip_verb": "amir¡"
+  },
+  {
+    "chirp": "rira"
+  },
+  {
+    "choke": "oneca"
+  },
+  {
+    "chop": "riquethi"
+  },
+  {
+    "chuck": "ladatha"
+  },
+  {
+    "cinder": "wšme"
+  },
+  {
+    "clam": "vera"
+  },
+  {
+    "clap": "ora"
+  },
+  {
+    "clasp": "lama"
+  },
+  {
+    "claw": "ef‚"
+  },
+  {
+    "clear": "thema"
+  },
+  {
+    "clearing": "famime"
+  },
+  {
+    "cleave": "rath"
+  },
+  {
+    "cling": "nefu˜e"
+  },
+  {
+    "cloak": "newo"
+  },
+  {
+    "clobber": "naci"
+  },
+  {
+    "clock": "arice"
+  },
+  {
+    "clod": "idare"
+  },
+  {
+    "cloister": "nethale"
+  },
+  {
+    "closet": "madeci"
+  },
+  {
+    "club": "mepa"
+  },
+  {
+    "cluster": "nali"
+  },
+  {
+    "clutter": "ifeta"
+  },
+  {
+    "cobra": "vicira"
+  },
+  {
+    "coil": "yila"
+  },
+  {
+    "cold": "efil—"
+  },
+  {
+    "color": "mima"
+  },
+  {
+    "comet": "amizo"
+  },
+  {
+    "conqueror": "vacathi"
+  },
+  {
+    "cook": "othi"
+  },
+  {
+    "cover": "thefama"
+  },
+  {
+    "cotton": "ethe"
+  },
+  {
+    "couple": "ana"
+  },
+  {
+    "crab": "ditari"
+  },
+  {
+    "crawl": "awidi"
+  },
+  {
+    "craze": "amati"
+  },
+  {
+    "crazy": "mala˜—"
+  },
+  {
+    "cream": "yici"
+  },
+  {
+    "creek": "thime"
+  },
+  {
+    "creep": "coni"
+  },
+  {
+    "creepy": "cipone"
+  },
+  {
+    "crescent": "corire"
+  },
+  {
+    "cross_noun": "arifi"
+  },
+  {
+    "cross_verb": "cuna"
+  },
+  {
+    "cross_adj": "fafode"
+  },
+  {
+    "crow": "minaro"
+  },
+  {
+    "crown": "iminu"
+  },
+  {
+    "crucify": "afica"
+  },
+  {
+    "crumble": "celedo"
+  },
+  {
+    "crush": "utha"
+  },
+  {
+    "crusher": "athala"
+  },
+  {
+    "cry": "nunera"
+  },
+  {
+    "crypt": "l•mifo"
+  },
+  {
+    "crystal": "y¡lo"
+  },
+  {
+    "cuddle": "thefefe"
+  },
+  {
+    "cudgel": "mane"
+  },
+  {
+    "cup": "dima"
+  },
+  {
+    "curse": "birštha"
+  },
+  {
+    "cut": "raca"
+  },
+  {
+    "cyst": "miyufa"
+  },
+  {
+    "dance": "rimame"
+  },
+  {
+    "dangle": "fathe"
+  },
+  {
+    "dank": "nawona"
+  },
+  {
+    "dagger": "acita"
+  },
+  {
+    "dark": "mari"
+  },
+  {
+    "date_fruit": "i˜i"
+  },
+  {
+    "date_verb": "rale"
+  },
+  {
+    "dawn": "alino"
+  },
+  {
+    "day": "ira"
+  },
+  {
+    "dead": "ana˜a"
+  },
+  {
+    "dear": "rani"
+  },
+  {
+    "death": "rethi"
+  },
+  {
+    "decay": "veno"
+  },
+  {
+    "deceiver": "vemini"
+  },
+  {
+    "deep": "šna"
+  },
+  {
+    "deer": "liy˜i"
+  },
+  {
+    "demon": "slevina"
+  },
+  {
+    "despair": "nopo"
+  },
+  {
+    "destroyer": "carili"
+  },
+  {
+    "destruction": "lebatha"
+  },
+  {
+    "devil": "zecalo"
+  },
+  {
+    "devourer": "famolo"
+  },
+  {
+    "dine": "esi"
+  },
+  {
+    "dinner": "nabi"
+  },
+  {
+    "dirt": "orafi"
+  },
+  {
+    "ditch": "nili"
+  },
+  {
+    "dog": "macetha"
+  },
+  {
+    "domestic": "wotha"
+  },
+  {
+    "donkey": "ceriva"
+  },
+  {
+    "doom": "emura"
+  },
+  {
+    "door": "be˜a"
+  },
+  {
+    "dragon": "vutheni"
+  },
+  {
+    "drain": "fana"
+  },
+  {
+    "drawl": "paru"
+  },
+  {
+    "dreg": "ofetha"
+  },
+  {
+    "dress_clothing": "mimire"
+  },
+  {
+    "dress_general": "alame"
+  },
+  {
+    "drinker": "cime"
+  },
+  {
+    "drip": "c‚wi"
+  },
+  {
+    "drool": "efano"
+  },
+  {
+    "drowned": "i˜itho"
+  },
+  {
+    "drum": "maquaba"
+  },
+  {
+    "dry": "sari"
+  },
+  {
+    "dump": "catha"
+  },
+  {
+    "dumpling": "thinilu"
+  },
+  {
+    "dung": "dadi"
+  },
+  {
+    "dungeon": "nuwetha"
+  },
+  {
+    "dusk": "nidela"
+  },
+  {
+    "dust": "arani"
+  },
+  {
+    "duty": "ida"
+  },
+  {
+    "dye": "afithi"
+  },
+  {
+    "eagle": "osime"
+  },
+  {
+    "ear": "eta"
+  },
+  {
+    "east": "othana"
+  },
+  {
+    "eat": "mika"
+  },
+  {
+    "ecto": "anama"
+  },
+  {
+    "eel": "werima"
+  },
+  {
+    "eerie": "elotha"
+  },
+  {
+    "egg": "amira"
+  },
+  {
+    "elder": "aritha"
+  },
+  {
+    "entrails": "wšmini"
+  },
+  {
+    "eternal": "eme"
+  },
+  {
+    "ever": "ele"
+  },
+  {
+    "everlasting": "ema"
+  },
+  {
+    "everseeing": "nama"
+  },
+  {
+    "evil": "tharumi"
+  },
+  {
+    "execute": "quara"
+  },
+  {
+    "executioner": "thura"
+  },
+  {
+    "eye": "evi"
+  },
+  {
+    "face": "elin¡"
+  },
+  {
+    "fall": "enoth¢"
+  },
+  {
+    "false": "˜ethari"
+  },
+  {
+    "famine": "lenuse"
+  },
+  {
+    "fang": "afe"
+  },
+  {
+    "fat": "rine"
+  },
+  {
+    "fatal": "rofela"
+  },
+  {
+    "father": "ane"
+  },
+  {
+    "fear": "meraca"
+  },
+  {
+    "feast": "neli"
+  },
+  {
+    "fetid": "fa˜ithi"
+  },
+  {
+    "fiend": "menari"
+  },
+  {
+    "fierce": "kenoz"
+  },
+  {
+    "filth": "ciwa"
+  },
+  {
+    "fin": "tise"
+  },
+  {
+    "find": "ciri"
+  },
+  {
+    "finger": "elera"
+  },
+  {
+    "fire": "inira"
+  },
+  {
+    "first": "ala"
+  },
+  {
+    "fish_animal": "thaci"
+  },
+  {
+    "fish_verb": "nenit¡"
+  },
+  {
+    "fist": "cire"
+  },
+  {
+    "flame": "acathi"
+  },
+  {
+    "flank": "emero"
+  },
+  {
+    "flea": "lefe"
+  },
+  {
+    "flesh": "leci"
+  },
+  {
+    "fling": "•ciy"
+  },
+  {
+    "flood": "wikira"
+  },
+  {
+    "flower": "ima"
+  },
+  {
+    "flute": "nšmile"
+  },
+  {
+    "fly_animal": "yetine"
+  },
+  {
+    "fly_verb": "efili"
+  },
+  {
+    "focus": "en‚"
+  },
+  {
+    "fog": "oda"
+  },
+  {
+    "fool": "quinefa"
+  },
+  {
+    "foot": "aro"
+  },
+  {
+    "forest": "mina"
+  },
+  {
+    "fork": "iva"
+  },
+  {
+    "fortify": "acene"
+  },
+  {
+    "fortress": "abeco"
+  },
+  {
+    "fragile": "rimati"
+  },
+  {
+    "fragment": "thesa"
+  },
+  {
+    "frame": "c£cima"
+  },
+  {
+    "fray": "ithafe"
+  },
+  {
+    "free": "eth‚da"
+  },
+  {
+    "frenzy": "camo˜e"
+  },
+  {
+    "freeze": "thetif"
+  },
+  {
+    "frill": "mithidi"
+  },
+  {
+    "frog": "amim¢"
+  },
+  {
+    "fruit": "ile"
+  },
+  {
+    "fungus": "arari"
+  },
+  {
+    "fur": "narena"
+  },
+  {
+    "gall": "lefide"
+  },
+  {
+    "game": "mene"
+  },
+  {
+    "garish": "lifi"
+  },
+  {
+    "garlic": "nefefi"
+  },
+  {
+    "garnish": "fefa"
+  },
+  {
+    "gate": "i˜ema"
+  },
+  {
+    "gaunt": "foce"
+  },
+  {
+    "gaze": "temame"
+  },
+  {
+    "gear": "fathala"
+  },
+  {
+    "gerbil": "nithi"
+  },
+  {
+    "ghost": "oreme"
+  },
+  {
+    "ghoul": "fecawi"
+  },
+  {
+    "gift": "sema"
+  },
+  {
+    "gill": "dethe"
+  },
+  {
+    "girdle": "emitho"
+  },
+  {
+    "gland": "lolathe"
+  },
+  {
+    "glaze": "fif¡"
+  },
+  {
+    "glen": "idala"
+  },
+  {
+    "glide": "vari"
+  },
+  {
+    "glimmer": "pili"
+  },
+  {
+    "glisten": "ali"
+  },
+  {
+    "gloss": "nno"
+  },
+  {
+    "glove": "athida"
+  },
+  {
+    "glutton": "leweme"
+  },
+  {
+    "goat": "efafi"
+  },
+  {
+    "god": "ama"
+  },
+  {
+    "god-forsaken": "ulire"
+  },
+  {
+    "gold": "ithi"
+  },
+  {
+    "goose": "abime"
+  },
+  {
+    "gore": "racenu"
+  },
+  {
+    "gorge_noun": "acithi"
+  },
+  {
+    "gorge_verb": "etathu"
+  },
+  {
+    "grain": "eni"
+  },
+  {
+    "grand": "fafo"
+  },
+  {
+    "grape": "pocace"
+  },
+  {
+    "grass": "enena"
+  },
+  {
+    "grave": "rufithi"
+  },
+  {
+    "grease": "ware"
+  },
+  {
+    "great": "apaca"
+  },
+  {
+    "greed": "rofane"
+  },
+  {
+    "green": "liba"
+  },
+  {
+    "griffon": "sinaru"
+  },
+  {
+    "grill": "fentho"
+  },
+  {
+    "grim": "ucadi"
+  },
+  {
+    "grind": "lote"
+  },
+  {
+    "grip": "casena"
+  },
+  {
+    "gristle": "rin•we"
+  },
+  {
+    "grizzle": "caqui"
+  },
+  {
+    "grove": "alala"
+  },
+  {
+    "grow": "ame"
+  },
+  {
+    "growl": "ula"
+  },
+  {
+    "growth": "mame"
+  },
+  {
+    "grub": "cathe"
+  },
+  {
+    "guard": "ino"
+  },
+  {
+    "guile": "alece"
+  },
+  {
+    "guise": "nire"
+  },
+  {
+    "gut": "cetha"
+  },
+  {
+    "gutter": "cafafi"
+  },
+  {
+    "hag": "ciriko"
+  },
+  {
+    "hair": "rera"
+  },
+  {
+    "hairy": "leri"
+  },
+  {
+    "hame": "thifami"
+  },
+  {
+    "hammer": "˜eri"
+  },
+  {
+    "hammerer": "alara"
+  },
+  {
+    "hand": "raya"
+  },
+  {
+    "handy": "acethe"
+  },
+  {
+    "hare": "iri"
+  },
+  {
+    "harvest": "ika"
+  },
+  {
+    "harvest_verb": "civila"
+  },
+  {
+    "hatchet": "lece"
+  },
+  {
+    "hate": "efac"
+  },
+  {
+    "haunt": "momi"
+  },
+  {
+    "hawk": "senama"
+  },
+  {
+    "hay": "ayame"
+  },
+  {
+    "head": "¡ne"
+  },
+  {
+    "heart": "enira"
+  },
+  {
+    "hearth": "ibame"
+  },
+  {
+    "heather": "themiyi"
+  },
+  {
+    "hedge": "ralila"
+  },
+  {
+    "hell": "m‚fa˜o"
+  },
+  {
+    "helm": "came"
+  },
+  {
+    "hero": "arido"
+  },
+  {
+    "hex": "necate"
+  },
+  {
+    "hide": "c¢ce"
+  },
+  {
+    "hideous": "bri"
+  },
+  {
+    "high": "imama"
+  },
+  {
+    "hill": "lšma"
+  },
+  {
+    "hip": "amori"
+  },
+  {
+    "hoary": "fica"
+  },
+  {
+    "hobble": "epipe"
+  },
+  {
+    "hog": "˜ara"
+  },
+  {
+    "holy": "elo"
+  },
+  {
+    "hoist": "lar•"
+  },
+  {
+    "hole": "cona"
+  },
+  {
+    "home": "elomi"
+  },
+  {
+    "honey": "arifš"
+  },
+  {
+    "hood": "luthama"
+  },
+  {
+    "hoof": "fma"
+  },
+  {
+    "hop_noun": "lel‚"
+  },
+  {
+    "hop_verb": "ayefi"
+  },
+  {
+    "horn": "¡lime"
+  },
+  {
+    "horse": "remni"
+  },
+  {
+    "hound": "cami"
+  },
+  {
+    "howl": "ola"
+  },
+  {
+    "hug": "ina"
+  },
+  {
+    "hum": "vora"
+  },
+  {
+    "hunger": "ume"
+  },
+  {
+    "hustle": "narowi"
+  },
+  {
+    "ice": "ocima"
+  },
+  {
+    "idle": "newa"
+  },
+  {
+    "idol": "athaca"
+  },
+  {
+    "ill": "vawume"
+  },
+  {
+    "impure": "urila"
+  },
+  {
+    "incense": "thone"
+  },
+  {
+    "inch": "nipa"
+  },
+  {
+    "ink": "forile"
+  },
+  {
+    "inn": "ifisa"
+  },
+  {
+    "insanity": "˜aralo"
+  },
+  {
+    "invisible": "arali"
+  },
+  {
+    "iron": "icori"
+  },
+  {
+    "itch": "rithi"
+  },
+  {
+    "ivy": "sal¢"
+  },
+  {
+    "jack": "lati"
+  },
+  {
+    "jackal": "apufi"
+  },
+  {
+    "jaundice": "fesluyi"
+  },
+  {
+    "jaw": "nisa"
+  },
+  {
+    "jest": "tede"
+  },
+  {
+    "joke": "athini"
+  },
+  {
+    "juggle": "becaro"
+  },
+  {
+    "juice": "fiva"
+  },
+  {
+    "jungle": "covema"
+  },
+  {
+    "just": "le˜a"
+  },
+  {
+    "justify": "thepolu"
+  },
+  {
+    "keeper": "sinu"
+  },
+  {
+    "keg": "šbe"
+  },
+  {
+    "key": "ferame"
+  },
+  {
+    "kindness": "ileda"
+  },
+  {
+    "killer": "macofi"
+  },
+  {
+    "kiss": "tima"
+  },
+  {
+    "king": "afedo"
+  },
+  {
+    "knead": "yathi"
+  },
+  {
+    "knife": "ceta"
+  },
+  {
+    "knight": "cavšre"
+  },
+  {
+    "knit": "nanathe"
+  },
+  {
+    "knot": "cithasi"
+  },
+  {
+    "lace": "arane"
+  },
+  {
+    "lake": "˜onali"
+  },
+  {
+    "lard": "muthe"
+  },
+  {
+    "lark": "sidaya"
+  },
+  {
+    "larva": "boniti"
+  },
+  {
+    "last": "aba"
+  },
+  {
+    "law": "mera"
+  },
+  {
+    "lazy": "nere"
+  },
+  {
+    "leader": "raneci"
+  },
+  {
+    "leaf": "ale"
+  },
+  {
+    "leak": "šyile"
+  },
+  {
+    "lean": "eri"
+  },
+  {
+    "leech": "awathi"
+  },
+  {
+    "legend": "liceva"
+  },
+  {
+    "lens": "dena"
+  },
+  {
+    "leopard": "icem"
+  },
+  {
+    "leper": "emothe"
+  },
+  {
+    "leprosy": "˜acada"
+  },
+  {
+    "letter": "˜ora"
+  },
+  {
+    "lie": "lice˜i"
+  },
+  {
+    "light": "a˜eli"
+  },
+  {
+    "lightning": "thefra"
+  },
+  {
+    "limb": "il‚"
+  },
+  {
+    "lip": "eneya"
+  },
+  {
+    "listen": "edinu"
+  },
+  {
+    "lizard": "cimathi"
+  },
+  {
+    "lobster": "ru˜ava"
+  },
+  {
+    "lock": "icala"
+  },
+  {
+    "lone": "osi"
+  },
+  {
+    "long": "beresi"
+  },
+  {
+    "loot": "tireve"
+  },
+  {
+    "lord": "rete"
+  },
+  {
+    "lost": "lena"
+  },
+  {
+    "louse": "lenipe"
+  },
+  {
+    "love": "enela"
+  },
+  {
+    "low": "rafethe"
+  },
+  {
+    "lunch": "equelu"
+  },
+  {
+    "lung": "lave"
+  },
+  {
+    "lurid": "rali"
+  },
+  {
+    "lurch": "eth£ni"
+  },
+  {
+    "lurk": "moba"
+  },
+  {
+    "lush": "n¢queme"
+  },
+  {
+    "lust": "nthari"
+  },
+  {
+    "lute": "fale"
+  },
+  {
+    "lyric": "lapama"
+  },
+  {
+    "maggot": "ez‚li"
+  },
+  {
+    "magic": "isila"
+  },
+  {
+    "man": "onino"
+  },
+  {
+    "mange": "mathe"
+  },
+  {
+    "many": "eda"
+  },
+  {
+    "marsh": "im•la"
+  },
+  {
+    "martyr": "relmi"
+  },
+  {
+    "master": "ithera"
+  },
+  {
+    "maw": "iwo"
+  },
+  {
+    "mead": "tiwuthi"
+  },
+  {
+    "meadow": "pari"
+  },
+  {
+    "meal_dom": "cithi"
+  },
+  {
+    "meal_ground": "theth‚fa"
+  },
+  {
+    "meat": "lethiro"
+  },
+  {
+    "meditation": "neba"
+  },
+  {
+    "mellow": "nowo"
+  },
+  {
+    "menace": "sofip—"
+  },
+  {
+    "mess": "n¡letha"
+  },
+  {
+    "metal": "lethi"
+  },
+  {
+    "midnight": "mevena"
+  },
+  {
+    "mighty": "thiyira"
+  },
+  {
+    "mightiness": "avithe"
+  },
+  {
+    "mile": "ide"
+  },
+  {
+    "mince": "caca"
+  },
+  {
+    "mind": "sede"
+  },
+  {
+    "minion": "mafa"
+  },
+  {
+    "mirror": "opeya"
+  },
+  {
+    "misery": "mamica"
+  },
+  {
+    "mist": "enure"
+  },
+  {
+    "mite": "lotheye"
+  },
+  {
+    "mold": "edimi"
+  },
+  {
+    "mole": "seye"
+  },
+  {
+    "molten": "mesica"
+  },
+  {
+    "monkey": "rith‚"
+  },
+  {
+    "moon": "anaye"
+  },
+  {
+    "monger": "mirala"
+  },
+  {
+    "moth": "nevi"
+  },
+  {
+    "mother": "el‚de"
+  },
+  {
+    "mouse": "yali"
+  },
+  {
+    "mouth": "ela"
+  },
+  {
+    "muck": "corowa"
+  },
+  {
+    "mud": "salapa"
+  },
+  {
+    "muffin": "ilafe"
+  },
+  {
+    "mule": "efama"
+  },
+  {
+    "munch": "amafi"
+  },
+  {
+    "murder": "rathi"
+  },
+  {
+    "mush": "nathe"
+  },
+  {
+    "mushroom": "oba"
+  },
+  {
+    "music": "sanera"
+  },
+  {
+    "mystery": "vulo"
+  },
+  {
+    "myth": "mo˜o"
+  },
+  {
+    "nail": "thšdi"
+  },
+  {
+    "nasty": "rele"
+  },
+  {
+    "nature": "amala"
+  },
+  {
+    "necro": "athoma"
+  },
+  {
+    "negative": "mori"
+  },
+  {
+    "negate": "ocithe"
+  },
+  {
+    "neo": "ami"
+  },
+  {
+    "nest": "arima"
+  },
+  {
+    "nestle": "cina"
+  },
+  {
+    "net": "ecate"
+  },
+  {
+    "nettle": "finele"
+  },
+  {
+    "new": "lila"
+  },
+  {
+    "newt": "risemi"
+  },
+  {
+    "nibble": "yade"
+  },
+  {
+    "night": "lith‚me"
+  },
+  {
+    "nightmare": "oquar¡"
+  },
+  {
+    "noble": "ramu"
+  },
+  {
+    "noose": "marice"
+  },
+  {
+    "north": "‚mara"
+  },
+  {
+    "nose": "era"
+  },
+  {
+    "null": "nafa"
+  },
+  {
+    "number": "noletha"
+  },
+  {
+    "nurture": "una"
+  },
+  {
+    "nut": "apasi"
+  },
+  {
+    "oak": "lulo"
+  },
+  {
+    "oar": "aditha"
+  },
+  {
+    "oat": "rifu"
+  },
+  {
+    "oblivion": "taritha"
+  },
+  {
+    "ocean": "romi"
+  },
+  {
+    "old": "vado"
+  },
+  {
+    "omen": "oroni"
+  },
+  {
+    "one": "ena"
+  },
+  {
+    "one_pref": "ime"
+  },
+  {
+    "onion": "mecifa"
+  },
+  {
+    "ooze": "neca"
+  },
+  {
+    "open": "ba"
+  },
+  {
+    "orb": "niwora"
+  },
+  {
+    "over": "ani"
+  },
+  {
+    "owl": "necalo"
+  },
+  {
+    "ox": "cile"
+  },
+  {
+    "pack": "sethe"
+  },
+  {
+    "pad_noun": "lemi"
+  },
+  {
+    "pad_verb": "wani"
+  },
+  {
+    "page": "epe"
+  },
+  {
+    "pain": "l•cara"
+  },
+  {
+    "paint": "bila"
+  },
+  {
+    "pale": "yefiri"
+  },
+  {
+    "palm": "mimi"
+  },
+  {
+    "pant": "thifa"
+  },
+  {
+    "panther": "r‚nuna"
+  },
+  {
+    "pants": "nive"
+  },
+  {
+    "paper": "yane"
+  },
+  {
+    "peace": "ero"
+  },
+  {
+    "peach": "quemi"
+  },
+  {
+    "pepper": "tithithi"
+  },
+  {
+    "phlegm": "wothana"
+  },
+  {
+    "pig": "sano"
+  },
+  {
+    "pit": "nimo"
+  },
+  {
+    "pitch": "kecewa"
+  },
+  {
+    "plague": "weri"
+  },
+  {
+    "plant": "mana"
+  },
+  {
+    "planter": "eyeli"
+  },
+  {
+    "plot": "ranitha"
+  },
+  {
+    "pocket_noun": "nele"
+  },
+  {
+    "pocket_verb": "cimere"
+  },
+  {
+    "poison": "uthimi"
+  },
+  {
+    "portal": "cama"
+  },
+  {
+    "power": "an•va"
+  },
+  {
+    "prank": "lana"
+  },
+  {
+    "pregnant": "imeva"
+  },
+  {
+    "pride": "fene"
+  },
+  {
+    "priest": "melela"
+  },
+  {
+    "prim": "coquani"
+  },
+  {
+    "prime": "omi"
+  },
+  {
+    "primitive": "leru"
+  },
+  {
+    "profane": "f¡thaca"
+  },
+  {
+    "prophecy": "etha"
+  },
+  {
+    "prophet": "ethi"
+  },
+  {
+    "prowl": "covace"
+  },
+  {
+    "puke": "ra˜afa"
+  },
+  {
+    "pull": "yupe"
+  },
+  {
+    "pulley": "ureli"
+  },
+  {
+    "pulp": "rifi"
+  },
+  {
+    "punch": "cova"
+  },
+  {
+    "purple": "l•nethu"
+  },
+  {
+    "pus": "p¡ware"
+  },
+  {
+    "putrid": "letheca"
+  },
+  {
+    "quake": "ratha"
+  },
+  {
+    "queen": "evala"
+  },
+  {
+    "quick": "emi"
+  },
+  {
+    "quill": "asi"
+  },
+  {
+    "rabbit": "anale"
+  },
+  {
+    "rabble": "naquithe"
+  },
+  {
+    "race_group": "nina"
+  },
+  {
+    "race_verb": "šbire"
+  },
+  {
+    "rack": "memica"
+  },
+  {
+    "rag": "dema"
+  },
+  {
+    "rage": "ritho"
+  },
+  {
+    "rain": "imere"
+  },
+  {
+    "rake": "nafe"
+  },
+  {
+    "ram": "¡lathe"
+  },
+  {
+    "rampage": "baslata"
+  },
+  {
+    "random": "yšrefa"
+  },
+  {
+    "ransack": "ludš"
+  },
+  {
+    "raptor": "cethire"
+  },
+  {
+    "rat": "thapa"
+  },
+  {
+    "raunch": "ffema"
+  },
+  {
+    "ravager": "methi"
+  },
+  {
+    "raven": "ceca"
+  },
+  {
+    "raw": "yeque"
+  },
+  {
+    "razor": "avathe"
+  },
+  {
+    "red": "ni˜ira"
+  },
+  {
+    "regal": "lithi"
+  },
+  {
+    "reign": "vimeba"
+  },
+  {
+    "rein": "reli"
+  },
+  {
+    "rend": "feca"
+  },
+  {
+    "rider": "rile"
+  },
+  {
+    "rim": "niti"
+  },
+  {
+    "ring_object": "mithu"
+  },
+  {
+    "ring_sound": "rev‚"
+  },
+  {
+    "rip": "seca"
+  },
+  {
+    "ripe": "elu"
+  },
+  {
+    "ripper": "p—tha"
+  },
+  {
+    "rise": "evane"
+  },
+  {
+    "rite": "nepema"
+  },
+  {
+    "river": "mimale"
+  },
+  {
+    "rock": "athe"
+  },
+  {
+    "rogue": "birelo"
+  },
+  {
+    "romance": "lidava"
+  },
+  {
+    "room": "imira"
+  },
+  {
+    "roomy": "api"
+  },
+  {
+    "root": "nemo"
+  },
+  {
+    "rose": "sareve"
+  },
+  {
+    "rot": "feware"
+  },
+  {
+    "rough": "otha"
+  },
+  {
+    "royal": "ariyi"
+  },
+  {
+    "ruin": "sebeca"
+  },
+  {
+    "ruin_v": "cafu"
+  },
+  {
+    "ruler": "thšne"
+  },
+  {
+    "rumor": "gilafi"
+  },
+  {
+    "rust": "caqua"
+  },
+  {
+    "sabre": "siniti"
+  },
+  {
+    "sack": "fama"
+  },
+  {
+    "saint": "elale"
+  },
+  {
+    "salt": "cšro"
+  },
+  {
+    "salve": "olaca"
+  },
+  {
+    "sap": "fimere"
+  },
+  {
+    "satin": "lesana"
+  },
+  {
+    "savage": "cirethi"
+  },
+  {
+    "savagery": "fetho"
+  },
+  {
+    "savior": "mela"
+  },
+  {
+    "scab": "isalo"
+  },
+  {
+    "scar": "wami"
+  },
+  {
+    "scold": "thoci"
+  },
+  {
+    "scorpion": "nosaro"
+  },
+  {
+    "scratch": "timi"
+  },
+  {
+    "scourge": "f‚tha"
+  },
+  {
+    "scream": "fiweno"
+  },
+  {
+    "scum": "afetho"
+  },
+  {
+    "sea": "lene"
+  },
+  {
+    "seal_animal": "ricote"
+  },
+  {
+    "seal_art": "athi"
+  },
+  {
+    "seam": "alere"
+  },
+  {
+    "season": "ameli"
+  },
+  {
+    "secret": "sapi"
+  },
+  {
+    "seduce": "lerine"
+  },
+  {
+    "seducer": "li˜etha"
+  },
+  {
+    "seed": "are"
+  },
+  {
+    "seer": "ab¡mu"
+  },
+  {
+    "seize": "litho"
+  },
+  {
+    "serpent": "relira"
+  },
+  {
+    "servant": "cavemi"
+  },
+  {
+    "sever": "sici"
+  },
+  {
+    "sewer": "caretha"
+  },
+  {
+    "shadow": "obi"
+  },
+  {
+    "shaft": "isa"
+  },
+  {
+    "shank": "iz‚"
+  },
+  {
+    "shark": "cequova"
+  },
+  {
+    "shear": "inithi"
+  },
+  {
+    "sheen": "itha"
+  },
+  {
+    "shell": "caraca"
+  },
+  {
+    "shelter": "fera"
+  },
+  {
+    "shield": "veca"
+  },
+  {
+    "shimmer": "firi"
+  },
+  {
+    "ship": "otira"
+  },
+  {
+    "shoot": "sesi"
+  },
+  {
+    "show": "rara"
+  },
+  {
+    "shred": "rilovi"
+  },
+  {
+    "shriek": "bithili"
+  },
+  {
+    "shut": "abo"
+  },
+  {
+    "sick": "fethida"
+  },
+  {
+    "sickness": "macala"
+  },
+  {
+    "siege": "thima"
+  },
+  {
+    "silence": "inori"
+  },
+  {
+    "silk": "yarare"
+  },
+  {
+    "silky": "amane"
+  },
+  {
+    "silt": "rema"
+  },
+  {
+    "silver": "nelare"
+  },
+  {
+    "sin": "vathi"
+  },
+  {
+    "sinew": "tida"
+  },
+  {
+    "sing": "ova"
+  },
+  {
+    "sister": "betha"
+  },
+  {
+    "skirt_clothing": "ecafe"
+  },
+  {
+    "skirt_verb": "thecere"
+  },
+  {
+    "skunk": "dipane"
+  },
+  {
+    "skull": "ome"
+  },
+  {
+    "sky": "eliye"
+  },
+  {
+    "slaughter": "roresa"
+  },
+  {
+    "slave": "urepe"
+  },
+  {
+    "slayer": "mšcre"
+  },
+  {
+    "slim": "anesa"
+  },
+  {
+    "slime": "quathe"
+  },
+  {
+    "sling": "amate"
+  },
+  {
+    "slink": "ilethe"
+  },
+  {
+    "slit": "fi"
+  },
+  {
+    "slither": "mifali"
+  },
+  {
+    "sliver": "rili"
+  },
+  {
+    "sloth": "timeba"
+  },
+  {
+    "slug": "ralu"
+  },
+  {
+    "smash": "eremo"
+  },
+  {
+    "smile": "lali"
+  },
+  {
+    "smith": "macame"
+  },
+  {
+    "smoke": "thafa"
+  },
+  {
+    "smooth": "tane"
+  },
+  {
+    "smoulder": "ca‡e"
+  },
+  {
+    "snack": "selera"
+  },
+  {
+    "snake": "imaza"
+  },
+  {
+    "sneer": "ifada"
+  },
+  {
+    "snot": "esaga"
+  },
+  {
+    "snuggle": "meleye"
+  },
+  {
+    "soil": "avi"
+  },
+  {
+    "soldier": "ethare"
+  },
+  {
+    "soot": "sva"
+  },
+  {
+    "soothe": "lawa"
+  },
+  {
+    "sorrow": "nathi"
+  },
+  {
+    "soul": "mare"
+  },
+  {
+    "sound": "ca˜a"
+  },
+  {
+    "south": "liri"
+  },
+  {
+    "spasm": "erawi"
+  },
+  {
+    "spawn": "recile"
+  },
+  {
+    "spear": "iti"
+  },
+  {
+    "spell": "seneri"
+  },
+  {
+    "spice": "thithi"
+  },
+  {
+    "spider": "thepani"
+  },
+  {
+    "spidery": "terathi"
+  },
+  {
+    "spike": "ey"
+  },
+  {
+    "spin": "thitha"
+  },
+  {
+    "spine": "micaca"
+  },
+  {
+    "spirit": "ano"
+  },
+  {
+    "spit": "fefu"
+  },
+  {
+    "spittle": "belepi"
+  },
+  {
+    "spoil": "nimife"
+  },
+  {
+    "spoon": "theni"
+  },
+  {
+    "spring_noun": "˜elawe"
+  },
+  {
+    "spring_season": "amena"
+  },
+  {
+    "spring_verb": "inere"
+  },
+  {
+    "spry": "awiyi"
+  },
+  {
+    "spy": "namova"
+  },
+  {
+    "squid": "nethitha"
+  },
+  {
+    "squirm": "‚tha"
+  },
+  {
+    "stab": "ridi"
+  },
+  {
+    "staff": "sila"
+  },
+  {
+    "stalk": "nala"
+  },
+  {
+    "stand": "rino"
+  },
+  {
+    "star": "ila"
+  },
+  {
+    "steed": "irumo"
+  },
+  {
+    "starve": "theva"
+  },
+  {
+    "steal": "tafizš"
+  },
+  {
+    "steel": "inire"
+  },
+  {
+    "stench": "nithami"
+  },
+  {
+    "stern": "thani"
+  },
+  {
+    "stick_wood": "sanetha"
+  },
+  {
+    "stick_verb": "ith¢"
+  },
+  {
+    "sticky": "mebithi"
+  },
+  {
+    "stone": "queca"
+  },
+  {
+    "storm": "vinena"
+  },
+  {
+    "strange": "amomu"
+  },
+  {
+    "strap": "fepa"
+  },
+  {
+    "strapping_adj": "cale"
+  },
+  {
+    "straw": "a˜ife"
+  },
+  {
+    "stray": "šle"
+  },
+  {
+    "strength": "ecan¢"
+  },
+  {
+    "stretch": "fithithe"
+  },
+  {
+    "strike": "liwa"
+  },
+  {
+    "stroke": "lelu"
+  },
+  {
+    "stunt": "cuwiwe"
+  },
+  {
+    "stunted": "cecica"
+  },
+  {
+    "stupid": "bifi"
+  },
+  {
+    "stutter": "afibi"
+  },
+  {
+    "style": "kifino"
+  },
+  {
+    "subordinate": "ecani"
+  },
+  {
+    "suck": "pelese"
+  },
+  {
+    "suffering": "necimi"
+  },
+  {
+    "sugar": "fili"
+  },
+  {
+    "sully": "¡rede"
+  },
+  {
+    "sullen": "ciquo"
+  },
+  {
+    "summer": "imara"
+  },
+  {
+    "sun": "ami˜a"
+  },
+  {
+    "sunder": "rezici"
+  },
+  {
+    "supper": "enani"
+  },
+  {
+    "surprise": "ilicš"
+  },
+  {
+    "swamp": "calovi"
+  },
+  {
+    "sweat": "thelo"
+  },
+  {
+    "sweet": "tira"
+  },
+  {
+    "swift": "ilire"
+  },
+  {
+    "swim": "enolo"
+  },
+  {
+    "swine": "omala"
+  },
+  {
+    "sword": "ocade"
+  },
+  {
+    "syrup": "aru"
+  },
+  {
+    "taker": "nafi"
+  },
+  {
+    "tail": "yawo"
+  },
+  {
+    "talon": "cata"
+  },
+  {
+    "tar": "—mapi"
+  },
+  {
+    "tarnish": "malabu"
+  },
+  {
+    "tell": "s‚le"
+  },
+  {
+    "tempest": "rayali"
+  },
+  {
+    "tear": "mirise"
+  },
+  {
+    "terror": "asithi"
+  },
+  {
+    "thief": "urithi"
+  },
+  {
+    "thirst": "pacata"
+  },
+  {
+    "thorn": "iki"
+  },
+  {
+    "thrall": "nenu"
+  },
+  {
+    "three": "sara"
+  },
+  {
+    "throat": "cinili"
+  },
+  {
+    "throne": "toneri"
+  },
+  {
+    "thrower": "ireci"
+  },
+  {
+    "thunder": "eletha"
+  },
+  {
+    "tick_animal": "pamšne"
+  },
+  {
+    "tick_clock": "wele"
+  },
+  {
+    "tight": "febe"
+  },
+  {
+    "time": "nela"
+  },
+  {
+    "toad": "imadu"
+  },
+  {
+    "toe": "nani"
+  },
+  {
+    "tomb": "nelara"
+  },
+  {
+    "tome": "emora"
+  },
+  {
+    "tongue": "alotha"
+  },
+  {
+    "tooth": "vare"
+  },
+  {
+    "torment": "melici"
+  },
+  {
+    "touch": "mave"
+  },
+  {
+    "touchy": "fucali"
+  },
+  {
+    "tour": "rima"
+  },
+  {
+    "tower": "atheli"
+  },
+  {
+    "trail": "lanale"
+  },
+  {
+    "trance": "omina"
+  },
+  {
+    "trap": "abola"
+  },
+  {
+    "trash": "repefe"
+  },
+  {
+    "treasure": "bera˜i"
+  },
+  {
+    "treat": "ini"
+  },
+  {
+    "treaty": "liriva"
+  },
+  {
+    "trench": "wšweya"
+  },
+  {
+    "tribe": "emene"
+  },
+  {
+    "trick": "merame"
+  },
+  {
+    "trickery": "wawana"
+  },
+  {
+    "trim": "rene"
+  },
+  {
+    "trouble": "raliwo"
+  },
+  {
+    "tug": "ifa"
+  },
+  {
+    "tulip": "enina"
+  },
+  {
+    "tumble": "carethe"
+  },
+  {
+    "tumor": "ni˜eru"
+  },
+  {
+    "turmoil": "bedotha"
+  },
+  {
+    "tusk": "iferi"
+  },
+  {
+    "tweet": "pipe"
+  },
+  {
+    "twilight": "nawara"
+  },
+  {
+    "twine": "withe"
+  },
+  {
+    "twist": "relšpi"
+  },
+  {
+    "two": "teme"
+  },
+  {
+    "ugly": "n—madu"
+  },
+  {
+    "ulcer": "calethe"
+  },
+  {
+    "ultimate": "eno"
+  },
+  {
+    "ultra": "irani"
+  },
+  {
+    "unbridled": "ayafa"
+  },
+  {
+    "uncle": "ibi"
+  },
+  {
+    "ungodly": "thanetha"
+  },
+  {
+    "unholy": "nabethe"
+  },
+  {
+    "unkempt": "ethaci"
+  },
+  {
+    "unseen": "ne˜e"
+  },
+  {
+    "untoward": "laseca"
+  },
+  {
+    "unwelcome": "ycal‚"
+  },
+  {
+    "urn": "rupola"
+  },
+  {
+    "useless": "liva"
+  },
+  {
+    "vandal": "ir¢ci"
+  },
+  {
+    "vegetable": "ine"
+  },
+  {
+    "vegetate": "šnira"
+  },
+  {
+    "vegetation": "inale"
+  },
+  {
+    "velvet": "penopu"
+  },
+  {
+    "venom": "neleni"
+  },
+  {
+    "vermin": "nirica"
+  },
+  {
+    "vile": "r£fa"
+  },
+  {
+    "violator": "thatero"
+  },
+  {
+    "violence": "p¢bor¢"
+  },
+  {
+    "violet": "mira"
+  },
+  {
+    "viper": "lefari"
+  },
+  {
+    "voice": "l‚na"
+  },
+  {
+    "void": "ava"
+  },
+  {
+    "volcano": "amoya"
+  },
+  {
+    "vomit": "cemato"
+  },
+  {
+    "vulture": "rath¢na"
+  },
+  {
+    "wail": "omela"
+  },
+  {
+    "wander": "taveve"
+  },
+  {
+    "war": "athama"
+  },
+  {
+    "warrior": "ese"
+  },
+  {
+    "wasp": "avafi"
+  },
+  {
+    "waste": "tholatho"
+  },
+  {
+    "watch": "casatha"
+  },
+  {
+    "watchful": "aletha"
+  },
+  {
+    "wave": "iru"
+  },
+  {
+    "wavy": "rerela"
+  },
+  {
+    "wear": "ribe"
+  },
+  {
+    "weasel": "lethina"
+  },
+  {
+    "weaver": "namamo"
+  },
+  {
+    "weed": "mibi"
+  },
+  {
+    "weight": "eba"
+  },
+  {
+    "weird": "yemila"
+  },
+  {
+    "were": "rivi"
+  },
+  {
+    "west": "am£ra"
+  },
+  {
+    "wheat": "yafa"
+  },
+  {
+    "wheel": "rere"
+  },
+  {
+    "whip": "baci"
+  },
+  {
+    "whisk": "¢‡a"
+  },
+  {
+    "whisky": "nathaci"
+  },
+  {
+    "whisper": "ay¡ti"
+  },
+  {
+    "white": "alire"
+  },
+  {
+    "wicked": "rithesa"
+  },
+  {
+    "wild": "the˜ise"
+  },
+  {
+    "will": "cera"
+  },
+  {
+    "wing": "nine"
+  },
+  {
+    "winter": "olova"
+  },
+  {
+    "wisp": "ririli"
+  },
+  {
+    "witch": "lanami"
+  },
+  {
+    "wonder_noun": "adela"
+  },
+  {
+    "wonder_verb": "ibena"
+  },
+  {
+    "wood": "ave"
+  },
+  {
+    "work": "eyila"
+  },
+  {
+    "worm": "nema"
+  },
+  {
+    "wraith": "athara"
+  },
+  {
+    "wrath": "th•seri"
+  },
+  {
+    "wretch": "cicetha"
+  },
+  {
+    "yarn": "ire"
+  },
+  {
+    "year": "em‚ne"
+  },
+  {
+    "yearling": "a˜ara"
+  },
+  {
+    "yellow": "yame"
+  },
+  {
+    "yore": "lirena"
+  },
+  {
+    "young": "˜ce"
+  },
+  {
+    "youth": "capi"
+  },
+  {
+    "zeal": "careme"
+  },
+  {
+    "zealot": "gifama"
+  },
+  {
+    "zephyr": "defiyi"
+  },
+  {
+    "earth": "saba"
+  },
+  {
+    "artifact": "eth¢ca"
+  },
+  {
+    "bed": "sira"
+  },
+  {
+    "bud": "alisa"
+  },
+  {
+    "cavort": "liqui"
+  },
+  {
+    "common": "lade"
+  },
+  {
+    "daub": "wama"
+  },
+  {
+    "desert": "avetho"
+  },
+  {
+    "dessert": "laci"
+  },
+  {
+    "diamond": "akera"
+  },
+  {
+    "domain": "elathu"
+  },
+  {
+    "dream": "tharama"
+  },
+  {
+    "tin": "thono"
+  },
+  {
+    "copper": "can•"
+  },
+  {
+    "bronze": "dagi"
+  },
+  {
+    "granite": "bamo"
+  },
+  {
+    "fancy": "vipa"
+  },
+  {
+    "farm": "t•baf¡"
+  },
+  {
+    "field": "lora"
+  },
+  {
+    "froth": "laceci"
+  },
+  {
+    "genius": "ariva"
+  },
+  {
+    "glacier": "vaci"
+  },
+  {
+    "gurgle": "quadere"
+  },
+  {
+    "impale": "retha"
+  },
+  {
+    "join": "dala"
+  },
+  {
+    "jade": "anara"
+  },
+  {
+    "ivory": "ciquara"
+  },
+  {
+    "land": "lina"
+  },
+  {
+    "lather": "qu¡leli"
+  },
+  {
+    "limp": "binoli"
+  },
+  {
+    "lucid": "leni"
+  },
+  {
+    "mountain": "thele"
+  },
+  {
+    "mucus": "lathi"
+  },
+  {
+    "pattern": "lalala"
+  },
+  {
+    "pebble": "ata"
+  },
+  {
+    "boulder": "saro"
+  },
+  {
+    "petal": "l¡ceyi"
+  },
+  {
+    "droplet": "niri"
+  },
+  {
+    "pinnacle": "ilo"
+  },
+  {
+    "plain": "yeme"
+  },
+  {
+    "plainadj": "levo"
+  },
+  {
+    "point": "cila"
+  },
+  {
+    "pot": "momo"
+  },
+  {
+    "prairie": "elana"
+  },
+  {
+    "rush": "vime"
+  },
+  {
+    "slap": "laca"
+  },
+  {
+    "sleeve": "elema"
+  },
+  {
+    "speck": "idi"
+  },
+  {
+    "steppe": "ilare"
+  },
+  {
+    "tentacle": "vimara"
+  },
+  {
+    "test": "odata"
+  },
+  {
+    "trot": "adapi"
+  },
+  {
+    "tub": "onapu"
+  },
+  {
+    "tube": "cinami"
+  },
+  {
+    "tundra": "zepave"
+  },
+  {
+    "un": "seno"
+  },
+  {
+    "waddle": "nima"
+  },
+  {
+    "wealth": "rano"
+  },
+  {
+    "weevil": "sifina"
+  },
+  {
+    "whim": "cipi"
+  },
+  {
+    "whirl": "elira"
+  },
+  {
+    "world": "teyo"
+  },
+  {
+    "desertverb": "abita"
+  },
+  {
+    "fancyverb": "dita"
+  },
+  {
+    "limpverb": "fala"
+  },
+  {
+    "pointverb": "mipa"
+  },
+  {
+    "pantomime": "taviti"
+  },
+  {
+    "sludge": "paro"
+  },
+  {
+    "goo": "eyutho"
+  },
+  {
+    "realm": "camade"
+  },
+  {
+    "plane": "athira"
+  },
+  {
+    "dimension": "def¡ni"
+  },
+  {
+    "universe": "ecamo"
+  },
+  {
+    "planet": "anenu"
+  },
+  {
+    "livid": "yifi"
+  },
+  {
+    "tepid": "dewe"
+  },
+  {
+    "honest": "thana"
+  },
+  {
+    "kingdom": "araca"
+  },
+  {
+    "empire": "rasima"
+  },
+  {
+    "confederation": "rimara"
+  },
+  {
+    "simple": "delado"
+  },
+  {
+    "trooper": "ayero"
+  },
+  {
+    "crimson": "umola"
+  },
+  {
+    "dune": "vadane"
+  },
+  {
+    "direct": "aca"
+  },
+  {
+    "clash": "esala"
+  },
+  {
+    "forever": "yula"
+  },
+  {
+    "subtle": "raniya"
+  },
+  {
+    "puppet": "arepa"
+  },
+  {
+    "hegemon": "athelo"
+  },
+  {
+    "amaze": "vole"
+  },
+  {
+    "alchemy": "zamesi"
+  },
+  {
+    "insight": "nami"
+  },
+  {
+    "union": "eva"
+  },
+  {
+    "confederacy": "yed‚le"
+  },
+  {
+    "speak": "lelo"
+  },
+  {
+    "speaker": "lere"
+  },
+  {
+    "persuade": "amare"
+  },
+  {
+    "persuader": "theveme"
+  },
+  {
+    "control": "ade"
+  },
+  {
+    "controller": "darala"
+  },
+  {
+    "worker": "ipana"
+  },
+  {
+    "basic": "esame"
+  },
+  {
+    "system": "eritha"
+  },
+  {
+    "ray": "iya"
+  },
+  {
+    "target": "th•se"
+  },
+  {
+    "bank": "erani"
+  },
+  {
+    "clean": "reya"
+  },
+  {
+    "drive": "iyilo"
+  },
+  {
+    "soar": "aya"
+  },
+  {
+    "glory": "kara"
+  },
+  {
+    "dismal": "malatha"
+  },
+  {
+    "radiance": "irami"
+  },
+  {
+    "pine": "blalo"
+  },
+  {
+    "messiah": "leyara"
+  },
+  {
+    "craft": "nedu"
+  },
+  {
+    "labor": "equa"
+  },
+  {
+    "discover": "overe"
+  },
+  {
+    "proliferate": "irada"
+  },
+  {
+    "chunk": "niba"
+  },
+  {
+    "slip": "senawi"
+  },
+  {
+    "slide": "mabo"
+  },
+  {
+    "single": "afate"
+  },
+  {
+    "pick": "mubara"
+  },
+  {
+    "tongs": "aslef"
+  },
+  {
+    "permanency": "yara"
+  },
+  {
+    "responsible": "lithu"
+  },
+  {
+    "require": "enotho"
+  },
+  {
+    "rootverb": "dene"
+  },
+  {
+    "blizzard": "ethela"
+  },
+  {
+    "general": "carila"
+  },
+  {
+    "memory": "nšmetho"
+  },
+  {
+    "construct": "arabe"
+  },
+  {
+    "lamb": "milema"
+  },
+  {
+    "toast": "emafi"
+  },
+  {
+    "gross": "fitha"
+  },
+  {
+    "paddle": "apa"
+  },
+  {
+    "council": "¢lomi"
+  },
+  {
+    "counsel": "anomi"
+  },
+  {
+    "gnarled": "ruwire"
+  },
+  {
+    "stump": "m•fi"
+  },
+  {
+    "naughty": "ye‡a˜a"
+  },
+  {
+    "play fun": "mithe"
+  },
+  {
+    "play perform": "quathari"
+  },
+  {
+    "flimsy": "r‚ne"
+  },
+  {
+    "greater": "lale"
+  },
+  {
+    "greatest": "lira"
+  },
+  {
+    "lesser": "fime"
+  },
+  {
+    "least": "fumi"
+  },
+  {
+    "beard": "eslome"
+  },
+  {
+    "dread": "lutha˜š"
+  },
+  {
+    "wall": "ferale"
+  },
+  {
+    "wallow": "•nebe"
+  },
+  {
+    "tax": "fac¡"
+  },
+  {
+    "fragrance": "camela"
+  },
+  {
+    "lantern": "lepe"
+  },
+  {
+    "torch": "eti"
+  },
+  {
+    "water": "alu"
+  },
+  {
+    "wine": "ipivi"
+  },
+  {
+    "line": "inupi"
+  },
+  {
+    "mine": "cšthutha"
+  },
+  {
+    "wax": "imepe"
+  },
+  {
+    "shove": "amo"
+  },
+  {
+    "shovel": "n˜atha"
+  },
+  {
+    "melt": "cane"
+  },
+  {
+    "wrack": "yithe"
+  },
+  {
+    "glitter": "fecici"
+  },
+  {
+    "spark": "niweni"
+  },
+  {
+    "sparkle": "epeve"
+  },
+  {
+    "flash": "cayi"
+  },
+  {
+    "gleam": "e˜i"
+  },
+  {
+    "run": "ive"
+  },
+  {
+    "dash": "varano"
+  },
+  {
+    "savant": "mequema"
+  },
+  {
+    "roar": "omo"
+  },
+  {
+    "yell": "vafe"
+  },
+  {
+    "echo": "sanene"
+  },
+  {
+    "hollow": "omethu"
+  },
+  {
+    "full": "lema"
+  },
+  {
+    "empty": "cobesi"
+  },
+  {
+    "word": "elina"
+  },
+  {
+    "intense": "fava"
+  },
+  {
+    "sad": "¡la"
+  },
+  {
+    "glad": "˜ithi"
+  },
+  {
+    "tragedy": "n¢riwa"
+  },
+  {
+    "bell": "ere"
+  },
+  {
+    "belly": "feta"
+  },
+  {
+    "tummy": "miga"
+  },
+  {
+    "shock": "riqui"
+  },
+  {
+    "ponder": "meco"
+  },
+  {
+    "ponderous": "ceth‚da"
+  },
+  {
+    "heaven": "pacila"
+  },
+  {
+    "round": "thanemo"
+  },
+  {
+    "rounded": "thinere"
+  },
+  {
+    "unspeakable": "nini"
+  },
+  {
+    "unthinkable": "nife"
+  },
+  {
+    "unnameable": "nica"
+  },
+  {
+    "calamity": "carena"
+  },
+  {
+    "cyclopean": "sethere"
+  },
+  {
+    "tame": "bibawe"
+  },
+  {
+    "untamed": "etho"
+  },
+  {
+    "burst": "ivatha"
+  },
+  {
+    "meteor": "aleni"
+  },
+  {
+    "trite": "mitif"
+  },
+  {
+    "trifle": "faqua"
+  },
+  {
+    "rank": "—ba"
+  },
+  {
+    "rancor": "ofe"
+  },
+  {
+    "bitter": "ufithe"
+  },
+  {
+    "sour": "alecu"
+  },
+  {
+    "danger": "eduma"
+  },
+  {
+    "impervious": "derle"
+  },
+  {
+    "unswerving": "inime"
+  },
+  {
+    "sway": "ceye"
+  },
+  {
+    "luxury": "salore"
+  },
+  {
+    "euphoria": "ar¡"
+  },
+  {
+    "scintillate": "thineli"
+  },
+  {
+    "divine": "mecala"
+  },
+  {
+    "divide": "acira"
+  },
+  {
+    "taint": "poyife"
+  },
+  {
+    "corrupt": "fadethe"
+  },
+  {
+    "malign slander v": "mimamu"
+  },
+  {
+    "malign adj": "yeri"
+  },
+  {
+    "malignant": "umathi"
+  },
+  {
+    "trust": "thebe"
+  },
+  {
+    "distrust": "paca"
+  },
+  {
+    "trustworthy": "eyi"
+  },
+  {
+    "untrustworthy": "manali"
+  },
+  {
+    "dishonest": "enav‚"
+  },
+  {
+    "blight": "voma"
+  },
+  {
+    "cunning": "afi"
+  },
+  {
+    "sly": "wat¢tho"
+  },
+  {
+    "rustic": "thatheci"
+  },
+  {
+    "homely": "ayibi"
+  },
+  {
+    "lonely": "geme"
+  },
+  {
+    "lonesome": "lepi"
+  },
+  {
+    "close": "eru"
+  },
+  {
+    "ford": "romimi"
+  },
+  {
+    "way": "abi"
+  },
+  {
+    "wayward": "elen£"
+  },
+  {
+    "bandit": "veyico"
+  },
+  {
+    "brigand": "tathe"
+  },
+  {
+    "monster": "nane"
+  },
+  {
+    "sense": "cereni"
+  },
+  {
+    "insensitive": "nemama"
+  },
+  {
+    "sensual": "alana"
+  },
+  {
+    "odor": "miceli"
+  },
+  {
+    "malodorous": "thato"
+  },
+  {
+    "ignorant": "‚ceti"
+  },
+  {
+    "ignoble": "ise"
+  },
+  {
+    "humble": "rava"
+  },
+  {
+    "moral": "nayi"
+  },
+  {
+    "immoral": "nowe"
+  },
+  {
+    "superior": "erifi"
+  },
+  {
+    "inferior": "ecide"
+  },
+  {
+    "infinite": "cerete"
+  },
+  {
+    "sable color": "tuthi"
+  },
+  {
+    "fell cruel": "malethe"
+  },
+  {
+    "fell hide": "inefa"
+  },
+  {
+    "pelt hide": "cacame"
+  },
+  {
+    "dignity": "iyane"
+  },
+  {
+    "undignified": "nice˜i"
+  },
+  {
+    "indignation": "wiyi"
+  },
+  {
+    "right better": "enore"
+  },
+  {
+    "absolute": "atle"
+  },
+  {
+    "fair even": "ode"
+  },
+  {
+    "fair color": "ewiwi"
+  },
+  {
+    "snarl": "thithu"
+  },
+  {
+    "loyal": "oy‚le"
+  },
+  {
+    "disloyal": "ori"
+  },
+  {
+    "help": "pavi"
+  },
+  {
+    "friend": "ramana"
+  },
+  {
+    "courtesy": "mirathi"
+  },
+  {
+    "cheerful": "firil"
+  },
+  {
+    "thrift": "¡˜¡mo"
+  },
+  {
+    "bravery": "imase"
+  },
+  {
+    "revere": "fiya"
+  },
+  {
+    "venerate": "obe"
+  },
+  {
+    "salute": "risa"
+  },
+  {
+    "nation": "mememi"
+  },
+  {
+    "drink": "vafice"
+  },
+  {
+    "considerate": "icifa"
+  },
+  {
+    "convenient": "aqueve"
+  },
+  {
+    "inconsiderate": "f¡mu"
+  },
+  {
+    "inconvenient": "¡neri"
+  },
+  {
+    "continent": "fev¡la"
+  },
+  {
+    "flight": "ilama"
+  },
+  {
+    "flighty": "thethi"
+  },
+  {
+    "gild": "caci"
+  },
+  {
+    "guild": "refi"
+  },
+  {
+    "merchant": "ficemi"
+  },
+  {
+    "trade": "lath"
+  },
+  {
+    "plait": "erare"
+  },
+  {
+    "braid": "quali"
+  },
+  {
+    "pleat": "tefe"
+  },
+  {
+    "fold": "ofa"
+  },
+  {
+    "bunion": "betava"
+  },
+  {
+    "uncommon": "ileca"
+  },
+  {
+    "rare": "cicane"
+  },
+  {
+    "scarce": "‚fi"
+  },
+  {
+    "remarkable": "vemi"
+  },
+  {
+    "unremarkable": "if¢"
+  },
+  {
+    "solitary": "themi"
+  },
+  {
+    "bend": "thiyo"
+  },
+  {
+    "blame": "abama"
+  },
+  {
+    "blameless": "nanina"
+  },
+  {
+    "twig": "aye"
+  },
+  {
+    "girder": "ceni"
+  },
+  {
+    "truss": "irecu"
+  },
+  {
+    "skewer": "viye"
+  },
+  {
+    "sculpt": "cerethe"
+  },
+  {
+    "tress": "mimi"
+  },
+  {
+    "lock hair": "athina"
+  },
+  {
+    "curl": "ewirš"
+  },
+  {
+    "tuft": "thal£"
+  },
+  {
+    "mean nasty": "osata"
+  },
+  {
+    "mean low": "n‚tho"
+  },
+  {
+    "shame": "yatha"
+  },
+  {
+    "ashamed": "nulas¢"
+  },
+  {
+    "steam": "tayol¡"
+  },
+  {
+    "fern": "ithith¡"
+  },
+  {
+    "ferry": "litha"
+  },
+  {
+    "gully": "˜emeni"
+  },
+  {
+    "worry": "letha"
+  },
+  {
+    "lion": "alatha"
+  },
+  {
+    "cactus": "masami"
+  },
+  {
+    "desk": "th‚mi"
+  },
+  {
+    "bottle": "ithe"
+  },
+  {
+    "shingle": "oco"
+  },
+  {
+    "blanket": "there"
+  },
+  {
+    "cloud": "atera"
+  },
+  {
+    "plate": "lethine"
+  },
+  {
+    "road": "fatha"
+  },
+  {
+    "house": "feretha"
+  },
+  {
+    "bean": "mawada"
+  },
+  {
+    "block defend": "canara"
+  },
+  {
+    "block square": "epuba"
+  },
+  {
+    "fountain": "ivi"
+  },
+  {
+    "pearl": "amayi"
+  },
+  {
+    "pear": "¡le"
+  },
+  {
+    "thimble": "ocathu"
+  },
+  {
+    "bunny": "nede"
+  },
+  {
+    "rope": "imiwš"
+  },
+  {
+    "string": "nale"
+  },
+  {
+    "wire": "mopi"
+  },
+  {
+    "lash": "thepa"
+  },
+  {
+    "sorcery": "ifu"
+  },
+  {
+    "sorcerer": "ifo"
+  },
+  {
+    "ensorcel": "icibe"
+  },
+  {
+    "bewitch": "efa˜i"
+  },
+  {
+    "magician": "rimi"
+  },
+  {
+    "conjure": "nera"
+  },
+  {
+    "conjurer": "macati"
+  },
+  {
+    "enchant": "ewš"
+  },
+  {
+    "enchanter": "cen¢pi"
+  },
+  {
+    "lance": "thebi"
+  },
+  {
+    "lancer": "reri"
+  },
+  {
+    "stink": "ifalo"
+  },
+  {
+    "freckle": "thimi"
+  },
+  {
+    "pimple": "˜itana"
+  },
+  {
+    "wart": "wi˜eve"
+  },
+  {
+    "blotch": "redo"
+  },
+  {
+    "callus": "¡ci"
+  },
+  {
+    "wind storm": "ametha"
+  },
+  {
+    "wind clock": "‚litho"
+  },
+  {
+    "haze": "wetholi"
+  },
+  {
+    "skin": "tipi"
+  },
+  {
+    "shin": "cana"
+  },
+  {
+    "torture": "umethe"
+  },
+  {
+    "tool": "wanala"
+  },
+  {
+    "scholar": "naquina"
+  },
+  {
+    "weep": "cedi"
+  },
+  {
+    "massive": "‚ra"
+  },
+  {
+    "large": "lacifa"
+  },
+  {
+    "small": "lifela"
+  },
+  {
+    "loaf": "nedš"
+  },
+  {
+    "tile": "‡ile"
+  },
+  {
+    "sport": "lima"
+  },
+  {
+    "search": "sali"
+  },
+  {
+    "stale": "i‡i"
+  },
+  {
+    "fresh": "tha˜ebo"
+  },
+  {
+    "rub": "er¡"
+  },
+  {
+    "worthy": "cira"
+  },
+  {
+    "worthless": "nafamo"
+  },
+  {
+    "fright": "n¡yo"
+  },
+  {
+    "revolting": "rurame"
+  },
+  {
+    "disgust": "quema"
+  },
+  {
+    "outrage": "namice"
+  },
+  {
+    "cruel": "mino"
+  },
+  {
+    "deviant": "thayama"
+  },
+  {
+    "devious": "nitha"
+  },
+  {
+    "fabulous": "elethi"
+  },
+  {
+    "morality": "cetele"
+  },
+  {
+    "immorality": "wumaya"
+  },
+  {
+    "skin verb": "feceve"
+  },
+  {
+    "skinny": "lini"
+  },
+  {
+    "narrow": "renire"
+  },
+  {
+    "grief": "comewi"
+  },
+  {
+    "belt": "thfi"
+  },
+  {
+    "sandal": "thazi"
+  },
+  {
+    "future": "nithara"
+  },
+  {
+    "past": "todi"
+  },
+  {
+    "present": "ayu"
+  },
+  {
+    "bite": "imici"
+  },
+  {
+    "split": "fenefe"
+  },
+  {
+    "brash": "bara"
+  },
+  {
+    "brazen": "nath¢de"
+  },
+  {
+    "strangle": "wareci"
+  },
+  {
+    "gallows": "bitafe"
+  },
+  {
+    "muscle": "dana"
+  },
+  {
+    "dim": "ethili"
+  },
+  {
+    "spurt": "fafire"
+  },
+  {
+    "gravel": "niye"
+  },
+  {
+    "risk": "semili"
+  },
+  {
+    "chance": "ce˜eca"
+  },
+  {
+    "channel": "teze"
+  },
+  {
+    "mirth": "ale˜a"
+  },
+  {
+    "glee": "a˜epa"
+  },
+  {
+    "victim": "nafalo"
+  },
+  {
+    "stranger": "wanara"
+  },
+  {
+    "drab": "elafa"
+  },
+  {
+    "vision": "asada"
+  },
+  {
+    "visionary": "ilaya"
+  },
+  {
+    "oracle": "anetha"
+  },
+  {
+    "utter": "ipo"
+  },
+  {
+    "decide": "thira"
+  },
+  {
+    "decisive": "ralo"
+  },
+  {
+    "special": "pelina"
+  },
+  {
+    "author": "cofari"
+  },
+  {
+    "authority": "všlami"
+  },
+  {
+    "portent": "inala"
+  },
+  {
+    "momentous": "alabe"
+  },
+  {
+    "infallible": "aciso"
+  },
+  {
+    "ambiguous": "˜a˜ura"
+  },
+  {
+    "curious": "inena"
+  },
+  {
+    "obscure": "˜nathi"
+  },
+  {
+    "obscene": "fethene"
+  },
+  {
+    "obstacle": "ladino"
+  },
+  {
+    "vulgar": "wumamo"
+  },
+  {
+    "ominous": "sathus¡"
+  },
+  {
+    "island": "elifa"
+  },
+  {
+    "church": "fi˜opi"
+  },
+  {
+    "temple": "fothi"
+  },
+  {
+    "cult": "ro˜ere"
+  },
+  {
+    "coven": "neslane"
+  },
+  {
+    "sect": "nalet¡"
+  },
+  {
+    "order group": "feri"
+  },
+  {
+    "creed": "d‚veli"
+  },
+  {
+    "communion": "enš"
+  },
+  {
+    "doctrine": "loruca"
+  },
+  {
+    "faith": "awa"
+  },
+  {
+    "denomination": "ofara"
+  },
+  {
+    "temple head": "odi˜a"
+  },
+  {
+    "occult": "neyamo"
+  },
+  {
+    "order concept": "cadame"
+  },
+  {
+    "faith loyalty": "thari"
+  },
+  {
+    "guilt": "wirethi"
+  },
+  {
+    "baby": "cema"
+  },
+  {
+    "bleed": "vathe"
+  },
+  {
+    "girl": "pamata"
+  },
+  {
+    "boy": "¢nowe"
+  },
+  {
+    "woman": "˜ariwi"
+  },
+  {
+    "flag": "redari"
+  },
+  {
+    "banner": "nawo"
+  },
+  {
+    "wreath": "canira"
+  },
+  {
+    "standard flag": "falone"
+  },
+  {
+    "trumpet": "palara"
+  },
+  {
+    "goal": "ciba"
+  },
+  {
+    "jail": "lezitha"
+  },
+  {
+    "prison": "recethi"
+  },
+  {
+    "library": "dethara"
+  },
+  {
+    "avalanche": "˜ud•"
+  },
+  {
+    "stigma": "vadi"
+  },
+  {
+    "slick": "eyaza"
+  },
+  {
+    "talk": "mowe"
+  },
+  {
+    "jailer": "lithate"
+  },
+  {
+    "still unmoving": "a‡šya"
+  },
+  {
+    "calm": "valo"
+  },
+  {
+    "hush": "sori"
+  },
+  {
+    "laconic": "elathi"
+  },
+  {
+    "lull": "ibo"
+  },
+  {
+    "mute": "emino"
+  },
+  {
+    "noiseless": "afa"
+  },
+  {
+    "quiescent": "£le"
+  },
+  {
+    "quiet": "seni"
+  },
+  {
+    "reticent": "tosace"
+  },
+  {
+    "saturnine": "mokathi"
+  },
+  {
+    "speechless": "‡iri"
+  },
+  {
+    "taciturn": "rer‚thi"
+  },
+  {
+    "fortune luck": "favane"
+  },
+  {
+    "fortune wealth": "fawara"
+  },
+  {
+    "accident": "matirš"
+  },
+  {
+    "circumstance": "thici"
+  },
+  {
+    "contingent": "lunaba"
+  },
+  {
+    "contingency": "toli"
+  },
+  {
+    "coincidence": "a˜ifi"
+  },
+  {
+    "fluke": "fimaca"
+  },
+  {
+    "luck": "icaye"
+  },
+  {
+    "certain": "lata"
+  },
+  {
+    "uncertain": "feferi"
+  },
+  {
+    "fortuitous": "layu"
+  },
+  {
+    "incidental": "fucovo"
+  },
+  {
+    "amuse": "mase"
+  },
+  {
+    "pastime": "asibi"
+  },
+  {
+    "distract annoy": "riraci"
+  },
+  {
+    "distraction game": "arola"
+  },
+  {
+    "diversion game": "athame"
+  },
+  {
+    "divert detour": "mfo"
+  },
+  {
+    "recreation game": "cipame"
+  },
+  {
+    "compete": "iwe"
+  },
+  {
+    "contest": "ita"
+  },
+  {
+    "match contest": "pare"
+  },
+  {
+    "match equal": "limili"
+  },
+  {
+    "tournament": "dethimi"
+  },
+  {
+    "plan": "nemathe"
+  },
+  {
+    "scenario": "finfa"
+  },
+  {
+    "strategy": "tiveyš"
+  },
+  {
+    "tactic": "ti˜ipo"
+  },
+  {
+    "autonomy": "atara"
+  },
+  {
+    "emancipate": "thimire"
+  },
+  {
+    "extricate": "lasi"
+  },
+  {
+    "impunity": "mothani"
+  },
+  {
+    "liberate": "rama"
+  },
+  {
+    "liberty": "ari"
+  },
+  {
+    "release": "ad‚ma"
+  },
+  {
+    "relieve": "cere"
+  },
+  {
+    "even": "nila"
+  },
+  {
+    "balance": "rame"
+  },
+  {
+    "equity": "aline"
+  },
+  {
+    "equivalence": "elime"
+  },
+  {
+    "parity": "e˜o"
+  },
+  {
+    "stasis": "moduve"
+  },
+  {
+    "symmetry": "rarami"
+  },
+  {
+    "equal": "laco"
+  },
+  {
+    "harmony": "oyomo"
+  },
+  {
+    "neutralize": "tithefa"
+  },
+  {
+    "neutral": "rise"
+  },
+  {
+    "stable unchanging": "uyane"
+  },
+  {
+    "lull mislead": "civeri"
+  },
+  {
+    "dour": "vafo"
+  },
+  {
+    "gloom": "vama"
+  },
+  {
+    "severe": "febi"
+  },
+  {
+    "glum": "lethathi"
+  },
+  {
+    "image": "ilami"
+  },
+  {
+    "shrine": "dama"
+  },
+  {
+    "sanctuary": "ralimi"
+  },
+  {
+    "monastery": "iritha"
+  },
+  {
+    "convent": "rithini"
+  },
+  {
+    "cathedral": "erane"
+  },
+  {
+    "chapel": "alitha"
+  },
+  {
+    "sanctum": "athave"
+  },
+  {
+    "inferno": "radavi"
+  },
+  {
+    "conflagration": "bath¢re"
+  },
+  {
+    "flare": "lirina"
+  },
+  {
+    "heat": "thasa"
+  },
+  {
+    "sand": "polefa"
+  },
+  {
+    "pillar": "¡cati"
+  },
+  {
+    "column": "esaca"
+  },
+  {
+    "arch noun": "fis£"
+  },
+  {
+    "grotto": "dimati"
+  },
+  {
+    "cavern": "nun•re"
+  },
+  {
+    "depth": "cuthabe"
+  },
+  {
+    "shade": "fere"
+  },
+  {
+    "veil": "fiso"
+  },
+  {
+    "relic": "omoka"
+  },
+  {
+    "umbra": "iquila"
+  },
+  {
+    "phantom": "vilela"
+  },
+  {
+    "murk": "meli"
+  },
+  {
+    "faint intensity": "ac¡"
+  },
+  {
+    "faint verb": "webana"
+  },
+  {
+    "somber": "fomi"
+  },
+  {
+    "tenebrous": "thadaro"
+  },
+  {
+    "morose": "wamo"
+  },
+  {
+    "lover": "nelime"
+  },
+  {
+    "beloved": "icamo"
+  },
+  {
+    "escort": "rala"
+  },
+  {
+    "suitor": "riramo"
+  },
+  {
+    "pungent": "vofa"
+  },
+  {
+    "musty": "mocena"
+  },
+  {
+    "infect": "vima˜i"
+  },
+  {
+    "lesion": "suthe"
+  },
+  {
+    "afflict": "eca"
+  },
+  {
+    "ache": "balane"
+  },
+  {
+    "epidemic": "fisifo"
+  },
+  {
+    "fight": "uri"
+  },
+  {
+    "scuffle": "thethe"
+  },
+  {
+    "yawn": "eya"
+  },
+  {
+    "action": "nš˜"
+  },
+  {
+    "assault": "irafe"
+  },
+  {
+    "carnal": "l•ni"
+  },
+  {
+    "strife": "nawiri"
+  },
+  {
+    "combat": "mo˜ira"
+  },
+  {
+    "citadel": "ciniro"
+  },
+  {
+    "city": "nele˜e"
+  },
+  {
+    "town": "irive"
+  },
+  {
+    "village": "enathi"
+  },
+  {
+    "manor": "aslefa"
+  },
+  {
+    "mansion": "deri"
+  },
+  {
+    "palace": "silera"
+  },
+  {
+    "cottage": "roce"
+  },
+  {
+    "shack": "ethabo"
+  },
+  {
+    "hut": "pepana"
+  },
+  {
+    "hovel": "etewo"
+  },
+  {
+    "bastion": "quemera"
+  },
+  {
+    "furnace": "lethari"
+  },
+  {
+    "anvil": "othala"
+  },
+  {
+    "bridge": "val¢na"
+  },
+  {
+    "safe": "eci"
+  },
+  {
+    "goad": "rathe"
+  },
+  {
+    "machine": "faci"
+  },
+  {
+    "flay": "teca"
+  },
+  {
+    "oil": "˜ivu"
+  },
+  {
+    "suicide": "parida"
+  },
+  {
+    "marble ball": "šri"
+  },
+  {
+    "bait": "ey¢"
+  },
+  {
+    "lure": "lanebe"
+  },
+  {
+    "reward": "rethu"
+  },
+  {
+    "ward": "semabe"
+  },
+  {
+    "price": "ica"
+  },
+  {
+    "prince": "ithiri"
+  },
+  {
+    "princess": "lothena"
+  },
+  {
+    "tempt": "š˜e"
+  },
+  {
+    "spurn": "larota"
+  },
+  {
+    "scorn": "nefethi"
+  },
+  {
+    "contempt": "carima"
+  },
+  {
+    "affection": "papewa"
+  },
+  {
+    "compassion": "eleni"
+  },
+  {
+    "sacrifice": "ficeri"
+  },
+  {
+    "charity": "tethe"
+  },
+  {
+    "cherish": "‡•me"
+  },
+  {
+    "trample": "talefi"
+  },
+  {
+    "malice": "anaro"
+  },
+  {
+    "hatred": "esathi"
+  },
+  {
+    "spite": "thufi"
+  },
+  {
+    "shore": "thilri"
+  },
+  {
+    "beach": "rofa"
+  },
+  {
+    "coast": "conibo"
+  },
+  {
+    "insect": "themita"
+  },
+  {
+    "bug": "fotha"
+  },
+  {
+    "critter": "a˜e"
+  },
+  {
+    "brute": "i˜ami"
+  },
+  {
+    "pet": "querete"
+  },
+  {
+    "barbarian": "ršfa"
+  },
+  {
+    "harsh": "fef‚f¡"
+  },
+  {
+    "pristine": "liquena"
+  },
+  {
+    "ferocity": "lefu"
+  },
+  {
+    "barbarity": "metava"
+  },
+  {
+    "feral": "o˜if¢"
+  },
+  {
+    "fury": "fivi"
+  },
+  {
+    "ruthless": "rafov"
+  },
+  {
+    "gore noun": "wive"
+  },
+  {
+    "champion": "atafo"
+  },
+  {
+    "virtue": "lathoce"
+  },
+  {
+    "scandal": "natha"
+  },
+  {
+    "apogee": "leme"
+  },
+  {
+    "spire": "necere"
+  },
+  {
+    "spiral": "ireri"
+  },
+  {
+    "climax": "wulema"
+  },
+  {
+    "climate": "eslo"
+  },
+  {
+    "weather": "dafo"
+  },
+  {
+    "crest": "thami"
+  },
+  {
+    "culminate": "•ne"
+  },
+  {
+    "cusp": "siraya"
+  },
+  {
+    "most": "vic"
+  },
+  {
+    "peak": "erena"
+  },
+  {
+    "blunt": "thiruri"
+  },
+  {
+    "roof": "šfa"
+  },
+  {
+    "ceiling": "afo"
+  },
+  {
+    "floor": "mere"
+  },
+  {
+    "summit": "weneve"
+  },
+  {
+    "tip": "suda"
+  },
+  {
+    "top": "athathi"
+  },
+  {
+    "bottom": "befale"
+  },
+  {
+    "side": "imu"
+  },
+  {
+    "zenith": "cadedi"
+  },
+  {
+    "flank verb": "tala"
+  },
+  {
+    "pass mountain": "nelo"
+  },
+  {
+    "pass verb": "rane"
+  },
+  {
+    "passage": "vin¡th•"
+  },
+  {
+    "corridor": "rol¢"
+  },
+  {
+    "hall": "pani"
+  },
+  {
+    "gallery": "cimi"
+  },
+  {
+    "galley": "ca˜ilu"
+  },
+  {
+    "arena": "thadi"
+  },
+  {
+    "armory": "darame"
+  },
+  {
+    "assemble": "wemathš"
+  },
+  {
+    "meet": "awi˜o"
+  },
+  {
+    "theater": "¢ne"
+  },
+  {
+    "entrance": "mona"
+  },
+  {
+    "exit": "quabif‚"
+  },
+  {
+    "entry": "eco"
+  },
+  {
+    "vestibule": "am"
+  },
+  {
+    "frost": "seyec‚"
+  },
+  {
+    "fever": "bi‡athi"
+  },
+  {
+    "humid": "eslefa"
+  },
+  {
+    "humor": "kavena"
+  },
+  {
+    "comedy": "idaba"
+  },
+  {
+    "sizzle": "ofi"
+  },
+  {
+    "swelter": "tot•"
+  },
+  {
+    "warm": "lawe"
+  },
+  {
+    "torrid": "icu"
+  },
+  {
+    "acrid": "rela"
+  },
+  {
+    "dale": "štile"
+  },
+  {
+    "dell": "irene"
+  },
+  {
+    "glade": "rifafa"
+  },
+  {
+    "vale": "laf¢"
+  },
+  {
+    "basin": "iyathi"
+  },
+  {
+    "bowl": "mefa"
+  },
+  {
+    "cavity": "larore"
+  },
+  {
+    "crater": "ocina"
+  },
+  {
+    "den": "ecu"
+  },
+  {
+    "dent": "mothida"
+  },
+  {
+    "depress sad": "eyuca"
+  },
+  {
+    "depression low": "iquisi"
+  },
+  {
+    "dimple": "thace"
+  },
+  {
+    "dip": "icitha"
+  },
+  {
+    "dish": "thilama"
+  },
+  {
+    "excavate": "in¢"
+  },
+  {
+    "groove": "racalu"
+  },
+  {
+    "gulf sea": "emma"
+  },
+  {
+    "gulf pit": "efara"
+  },
+  {
+    "gulf distance": "aku"
+  },
+  {
+    "distance": "cifa"
+  },
+  {
+    "notch": "niya"
+  },
+  {
+    "sag": "araci"
+  },
+  {
+    "scoop": "narayi"
+  },
+  {
+    "socket": "nececa"
+  },
+  {
+    "trough": "e˜otha"
+  },
+  {
+    "valley": "disa"
+  },
+  {
+    "fence": "lero"
+  },
+  {
+    "barricade": "iwa"
+  },
+  {
+    "blockade": "yathine"
+  },
+  {
+    "board plank": "bathiti"
+  },
+  {
+    "board get on": "celi"
+  },
+  {
+    "plank": "thiva"
+  },
+  {
+    "defend": "apal"
+  },
+  {
+    "defense": "obeni"
+  },
+  {
+    "dike": "quaba"
+  },
+  {
+    "palisade": "oyoli"
+  },
+  {
+    "post": "thawathi"
+  },
+  {
+    "rampart": "icam¡"
+  },
+  {
+    "stake": "naca"
+  },
+  {
+    "stop": "ca˜i"
+  },
+  {
+    "stockade": "mawate"
+  },
+  {
+    "abyss": "ayanu"
+  },
+  {
+    "chasm": "nimi"
+  },
+  {
+    "crevice": "tof"
+  },
+  {
+    "rift": "moma"
+  },
+  {
+    "fissure": "buna"
+  },
+  {
+    "under": "tari"
+  },
+  {
+    "abysmal": "˜upa"
+  },
+  {
+    "submerge": "tape"
+  },
+  {
+    "cyclone": "quico"
+  },
+  {
+    "typhoon": "m£ya"
+  },
+  {
+    "hurricane": "iwethi"
+  },
+  {
+    "gale": "imiwa"
+  },
+  {
+    "tornado": "ereyi"
+  },
+  {
+    "hail greet": "bili"
+  },
+  {
+    "hail ice": "eri˜a"
+  },
+  {
+    "hale": "ilimi"
+  },
+  {
+    "robust": "milafe"
+  },
+  {
+    "hardy": "otheta"
+  },
+  {
+    "vigor": "le"
+  },
+  {
+    "air": "im"
+  },
+  {
+    "splash": "wara"
+  },
+  {
+    "dabble": "aquane"
+  },
+  {
+    "douse": "refa"
+  },
+  {
+    "drench": "cedo"
+  },
+  {
+    "moist": "oci"
+  },
+  {
+    "plunge": "calathi"
+  },
+  {
+    "shower": "bali"
+  },
+  {
+    "slop": "fuvi"
+  },
+  {
+    "slosh": "eye"
+  },
+  {
+    "soak": "lafo"
+  },
+  {
+    "spatter": "aci"
+  },
+  {
+    "splatter": "idata"
+  },
+  {
+    "spray": "cirono"
+  },
+  {
+    "spread": "fa˜ile"
+  },
+  {
+    "sprinkle": "omula"
+  },
+  {
+    "twinkle": "icica"
+  },
+  {
+    "squirt": "f•ri"
+  },
+  {
+    "wad": "bithemi"
+  },
+  {
+    "wade": "ethefa"
+  },
+  {
+    "wet": "bamefa"
+  },
+  {
+    "fade": "mšfi"
+  },
+  {
+    "colorless": "ace"
+  },
+  {
+    "blanch": "cepe"
+  },
+  {
+    "bleach": "fataba"
+  },
+  {
+    "blench": "wiritha"
+  },
+  {
+    "flinch": "—ce˜i"
+  },
+  {
+    "appear": "uli"
+  },
+  {
+    "disappear": "‚faf£"
+  },
+  {
+    "dissolve": "etawe"
+  },
+  {
+    "dull": "esa"
+  },
+  {
+    "evaporate": "šla"
+  },
+  {
+    "luster": "lor‚"
+  },
+  {
+    "tone": "wamiwi"
+  },
+  {
+    "vanish": "tathali"
+  },
+  {
+    "wash": "lebovo"
+  },
+  {
+    "abate": "vithi"
+  },
+  {
+    "decline": "tona"
+  },
+  {
+    "deteriorate": "femiy¢"
+  },
+  {
+    "diminish": "ike"
+  },
+  {
+    "disperse": "ivire"
+  },
+  {
+    "droop": "e˜i"
+  },
+  {
+    "dwindle": "˜ofe"
+  },
+  {
+    "kindle": "mocuri"
+  },
+  {
+    "stoke": "ici"
+  },
+  {
+    "poke": "ricowe"
+  },
+  {
+    "stir": "‡ara"
+  },
+  {
+    "feed": "nawi"
+  },
+  {
+    "fail": "owe"
+  },
+  {
+    "languish": "amafe"
+  },
+  {
+    "lessen": "ethere"
+  },
+  {
+    "lesson": "e˜eyo"
+  },
+  {
+    "teach": "maci"
+  },
+  {
+    "mastery": "˜amoru"
+  },
+  {
+    "perish": "more"
+  },
+  {
+    "shrivel": "cice"
+  },
+  {
+    "sink": "gife"
+  },
+  {
+    "taper": "mivoc"
+  },
+  {
+    "thin": "rini"
+  },
+  {
+    "tire": "coru"
+  },
+  {
+    "wane": "iyic"
+  },
+  {
+    "weak": "eneme"
+  },
+  {
+    "wilt": "r¢nira"
+  },
+  {
+    "wither": "uthe"
+  },
+  {
+    "honor": "fidi"
+  },
+  {
+    "adore": "emofe"
+  },
+  {
+    "adulate": "arare"
+  },
+  {
+    "celebrate": "yipi"
+  },
+  {
+    "confident": "emepe"
+  },
+  {
+    "deference": "šci"
+  },
+  {
+    "deity": "ricafa"
+  },
+  {
+    "distinct": "leneli"
+  },
+  {
+    "elevate": "madi"
+  },
+  {
+    "esteem": "ayi"
+  },
+  {
+    "exalt": "˜iwere"
+  },
+  {
+    "fame": "icite"
+  },
+  {
+    "fealty": "felefa"
+  },
+  {
+    "homage": "bilire"
+  },
+  {
+    "mortal": "metha"
+  },
+  {
+    "immortal": "mon¡"
+  },
+  {
+    "laud": "f‚mava"
+  },
+  {
+    "obeisance": "linifa"
+  },
+  {
+    "praise": "rafici"
+  },
+  {
+    "prestige": "ithe˜i"
+  },
+  {
+    "renown": "fepiri"
+  },
+  {
+    "reputation": "casowi"
+  },
+  {
+    "tribute": "fivo"
+  },
+  {
+    "worship": "cili"
+  },
+  {
+    "chastity": "uni"
+  },
+  {
+    "courage": "¡fatha"
+  },
+  {
+    "decent": "ceci"
+  },
+  {
+    "good": "ethana"
+  },
+  {
+    "innocent": "theta"
+  },
+  {
+    "modest": "themu"
+  },
+  {
+    "principle": "olesi"
+  },
+  {
+    "pure": "elufi"
+  },
+  {
+    "righteousness": "aliwe"
+  },
+  {
+    "truth": "rena"
+  },
+  {
+    "truthful": "š˜ida"
+  },
+  {
+    "virgin": "elica"
+  },
+  {
+    "virginity": "rireni"
+  },
+  {
+    "hold": "e˜a"
+  },
+  {
+    "scald": "ethera"
+  },
+  {
+    "scale verb": "et‚we"
+  },
+  {
+    "scale skin": "mafi"
+  },
+  {
+    "clan": "polef—"
+  },
+  {
+    "labyrinth": "w¡thona"
+  },
+  {
+    "maze": "aco"
+  },
+  {
+    "web": "ilu"
+  },
+  {
+    "crowd": "deca"
+  },
+  {
+    "family": "larami"
+  },
+  {
+    "kin": "pima"
+  },
+  {
+    "mob": "efiva"
+  },
+  {
+    "organ": "eth—"
+  },
+  {
+    "organize": "efe"
+  },
+  {
+    "mesh": "ma˜ithe"
+  },
+  {
+    "tangle": "fol¡"
+  },
+  {
+    "entangle": "n¡cawe"
+  },
+  {
+    "puzzle": "cuquimo"
+  },
+  {
+    "perplex": "ili"
+  },
+  {
+    "quandary": "nona"
+  },
+  {
+    "combine": "menadi"
+  },
+  {
+    "flicker": "fed¡"
+  },
+  {
+    "brand": "thali"
+  },
+  {
+    "singe": "watha"
+  },
+  {
+    "sear": "fevu"
+  },
+  {
+    "scorch": "dip¡"
+  },
+  {
+    "roast": "refe"
+  },
+  {
+    "parch": "¡ro"
+  },
+  {
+    "ignite": "quala"
+  },
+  {
+    "incinerate": "corape"
+  },
+  {
+    "glow": "fone"
+  },
+  {
+    "cremate": "enafe"
+  },
+  {
+    "faction": "anoni"
+  },
+  {
+    "crew": "nonu"
+  },
+  {
+    "vessel": "careci"
+  },
+  {
+    "league group": "cuwo"
+  },
+  {
+    "cooperate": "lace"
+  },
+  {
+    "group": "melara"
+  },
+  {
+    "gang": "ciya"
+  },
+  {
+    "fellowship": "diri"
+  },
+  {
+    "partner": "cani"
+  },
+  {
+    "riddle": "pife"
+  },
+  {
+    "rout": "lanisi"
+  },
+  {
+    "scrape": "af¡"
+  },
+  {
+    "scrap": "sama"
+  },
+  {
+    "scour": "rfi"
+  },
+  {
+    "scrub": "varoli"
+  },
+  {
+    "shake": "nurami"
+  },
+  {
+    "soap": "dathe"
+  },
+  {
+    "sponge": "meca"
+  },
+  {
+    "sweep": "oro"
+  },
+  {
+    "whisker": "nithe"
+  },
+  {
+    "fasten": "thuca"
+  },
+  {
+    "winnow": "reyine"
+  },
+  {
+    "wipe": "niro"
+  },
+  {
+    "clench": "fare"
+  },
+  {
+    "clinch": "lothe"
+  },
+  {
+    "clout": "naco"
+  },
+  {
+    "clutch": "afedi"
+  },
+  {
+    "dominate": "rayathi"
+  },
+  {
+    "dominion": "thase"
+  },
+  {
+    "grasp": "‡omo"
+  },
+  {
+    "influence": "rede"
+  },
+  {
+    "own": "ath•fe"
+  },
+  {
+    "ownership": "enara"
+  },
+  {
+    "tenacity": "•nale"
+  },
+  {
+    "bind": "avera"
+  },
+  {
+    "carry": "elaye"
+  },
+  {
+    "catch": "ewi"
+  },
+  {
+    "confine": "cara"
+  },
+  {
+    "contain": "thale"
+  },
+  {
+    "cradle": "mapi"
+  },
+  {
+    "embrace": "thilu"
+  },
+  {
+    "pool": "pati"
+  },
+  {
+    "society": "tharale"
+  },
+  {
+    "circle": "zocisa"
+  },
+  {
+    "square": "rana"
+  },
+  {
+    "triangle": "oneni"
+  },
+  {
+    "connect": "cam•re"
+  },
+  {
+    "merge": "˜aba"
+  },
+  {
+    "confuse": "ifebo"
+  },
+  {
+    "complex": "thini"
+  },
+  {
+    "meander": "thefaro"
+  },
+  {
+    "muddle": "memefi"
+  },
+  {
+    "bewilder": "i˜e"
+  },
+  {
+    "morass": "fethavo"
+  },
+  {
+    "problem": "dithi"
+  },
+  {
+    "intricate": "lida"
+  },
+  {
+    "flush": "ececi"
+  },
+  {
+    "mop": "recathu"
+  },
+  {
+    "polish": "canene"
+  },
+  {
+    "purge": "ebeca"
+  },
+  {
+    "rasp": "laba"
+  },
+  {
+    "rinse": "ithaya"
+  },
+  {
+    "band object": "isi"
+  },
+  {
+    "band group": "ebe"
+  },
+  {
+    "tall": "a˜eva"
+  },
+  {
+    "short": "coci"
+  },
+  {
+    "bulbous": "enate"
+  },
+  {
+    "bulb": "pev¢"
+  },
+  {
+    "ally": "‡uthš"
+  },
+  {
+    "alliance": "iline"
+  },
+  {
+    "allegiance": "laci˜a"
+  },
+  {
+    "coalition": "niciba"
+  },
+  {
+    "coal": "ipa"
+  },
+  {
+    "enjoy": "niceci"
+  },
+  {
+    "fondle": "fora"
+  },
+  {
+    "handle object": "mithi"
+  },
+  {
+    "handle verb": "thawa"
+  },
+  {
+    "imprison": "loyara"
+  },
+  {
+    "nourish": "mem¢thi"
+  },
+  {
+    "squeeze": "ribi"
+  },
+  {
+    "trammel": "thilini"
+  },
+  {
+    "vice": "ni˜a"
+  },
+  {
+    "vise": "mideb¡"
+  },
+  {
+    "defect fault": "muce"
+  },
+  {
+    "perfect": "equuyi"
+  },
+  {
+    "gem": "eruwa"
+  },
+  {
+    "jewel": "nifi"
+  },
+  {
+    "wield": "mazadi"
+  },
+  {
+    "wring": "šni"
+  },
+  {
+    "conjunction": "malafo"
+  },
+  {
+    "blot": "enade"
+  },
+  {
+    "blow": "futhile"
+  },
+  {
+    "brush": "ec‚na"
+  },
+  {
+    "clarify": "icila"
+  },
+  {
+    "cleanse": "nemine"
+  },
+  {
+    "dredge": "nevele"
+  },
+  {
+    "erase": "emefe"
+  },
+  {
+    "morsel": "reci"
+  },
+  {
+    "mongrel": "efi"
+  },
+  {
+    "tender": "coli"
+  },
+  {
+    "urge": "itheca"
+  },
+  {
+    "mechanism": "cere˜a"
+  },
+  {
+    "smear": "‚˜ome"
+  },
+  {
+    "tattoo": "ilifi"
+  },
+  {
+    "weather verb": "ecemu"
+  },
+  {
+    "crux": "ate"
+  },
+  {
+    "peek": "lera"
+  },
+  {
+    "sneak": "tabami"
+  },
+  {
+    "attic": "sefi"
+  },
+  {
+    "basement": "neci"
+  },
+  {
+    "dearth": "relinu"
+  },
+  {
+    "apex": "thicivi"
+  },
+  {
+    "nadir": "aneca"
+  },
+  {
+    "tunnel": "thateme"
+  },
+  {
+    "entrance verb": "afaya"
+  },
+  {
+    "delight": "be"
+  },
+  {
+    "joy": "i˜aso"
+  },
+  {
+    "frigid": "raci"
+  },
+  {
+    "ankle": "feretu"
+  },
+  {
+    "elbow": "šna"
+  },
+  {
+    "passion": "siva"
+  },
+  {
+    "ardent": "¡ni"
+  },
+  {
+    "stream": "nef•la"
+  },
+  {
+    "bowel gut": "iye"
+  },
+  {
+    "bowel interior": "awi"
+  },
+  {
+    "drill bore": "weni"
+  },
+  {
+    "drill routine": "ecefe"
+  },
+  {
+    "bore drill": "ewe"
+  },
+  {
+    "boredom": "fife"
+  },
+  {
+    "fleck": "edi"
+  },
+  {
+    "spot": "ase"
+  },
+  {
+    "dot": "¡ce"
+  },
+  {
+    "create": "wene"
+  },
+  {
+    "poem": "rathš"
+  },
+  {
+    "poetry": "pila"
+  },
+  {
+    "poet": "athifi"
+  },
+  {
+    "scribe": "kema"
+  },
+  {
+    "monk": "ete"
+  },
+  {
+    "hermit": "fari"
+  },
+  {
+    "recluse": "‚niri"
+  },
+  {
+    "name": "sofi"
+  },
+  {
+    "language": "yifa"
+  },
+  {
+    "phrase": "etani"
+  },
+  {
+    "rhyme": "ezo"
+  },
+  {
+    "rhythm": "th‚ce"
+  },
+  {
+    "verse": "nicana"
+  },
+  {
+    "drum verb": "ilila"
+  },
+  {
+    "creature": "amu"
+  },
+  {
+    "snail": "limi"
+  },
+  {
+    "vine": "fewetha"
+  },
+  {
+    "squash": "thafe"
+  },
+  {
+    "never": "eramu"
+  },
+  {
+    "dwell": "icice"
+  },
+  {
+    "habit": "lathiru"
+  },
+  {
+    "chew": "elethe"
+  },
+  {
+    "swallow": "thicera"
+  },
+  {
+    "disembowel": "eleri"
+  },
+  {
+    "eviscerate": "eve"
+  },
+  {
+    "rapid": "ucuco"
+  },
+  {
+    "medicine": "ifere"
+  },
+  {
+    "heal": "ipiro"
+  },
+  {
+    "sell": "navise"
+  },
+  {
+    "market": "omu"
+  },
+  {
+    "slow": "cathine"
+  },
+  {
+    "mire": "mipo"
+  },
+  {
+    "admire": "thitathi"
+  },
+  {
+    "dirge": "šfeni"
+  },
+  {
+    "lament": "manari"
+  },
+  {
+    "funeral": "ufalo"
+  },
+  {
+    "quest": "elabe"
+  },
+  {
+    "adventure": "thela"
+  },
+  {
+    "mourn": "al‚thi"
+  },
+  {
+    "morning": "rifa"
+  },
+  {
+    "bulwark": "wina"
+  },
+  {
+    "cosmos": "nora"
+  },
+  {
+    "anguish": "cifano"
+  },
+  {
+    "taut": "ma˜u"
+  },
+  {
+    "deify": "sefa"
+  },
+  {
+    "infamy": "le˜e"
+  },
+  {
+    "mortality": "omiri"
+  },
+  {
+    "immortality": "liwere"
+  },
+  {
+    "mortify": "minetha"
+  },
+  {
+    "obey": "visela"
+  },
+  {
+    "worshipper": "lofi"
+  },
+  {
+    "riddle holes": "wile"
+  },
+  {
+    "dwelling": "yir¢"
+  },
+  {
+    "disembowelment": "thine"
+  },
+  {
+    "evisceration": "abecu"
+  },
+  {
+    "healing": "reni"
+  },
+  {
+    "admiration": "awe"
+  },
+  {
+    "conflict": "vesifa"
+  },
+  {
+    "attack": "irithe"
+  },
+  {
+    "onslaught": "pal¢thi"
+  },
+  {
+    "tree": "thelire"
+  },
+  {
+    "amber": "il¡"
+  },
+  {
+    "amethyst": "fece"
+  },
+  {
+    "aqua": "nayidi"
+  },
+  {
+    "aquamarine": "˜al—mi"
+  },
+  {
+    "gray": "aso"
+  },
+  {
+    "auburn": "‚do"
+  },
+  {
+    "azure": "naquifa"
+  },
+  {
+    "beige": "queci"
+  },
+  {
+    "brass": "irci"
+  },
+  {
+    "brown": "bide˜e"
+  },
+  {
+    "buff": "mitho"
+  },
+  {
+    "sienna": "licele"
+  },
+  {
+    "umber": "rabe"
+  },
+  {
+    "cardinal_color": "leyo"
+  },
+  {
+    "carmine": "venevu"
+  },
+  {
+    "cerulean": "ife"
+  },
+  {
+    "charcoal": "što"
+  },
+  {
+    "chartreuse": "etthi"
+  },
+  {
+    "chestnut": "bisi"
+  },
+  {
+    "chocolate": "lifu"
+  },
+  {
+    "cinnamon": "titha"
+  },
+  {
+    "cobalt": "mepu"
+  },
+  {
+    "indigo": "tici"
+  },
+  {
+    "olive": "naye"
+  },
+  {
+    "pink": "divama"
+  },
+  {
+    "scarlet": "ecira"
+  },
+  {
+    "tan": "esleci"
+  },
+  {
+    "ecru": "mibeni"
+  },
+  {
+    "emerald": "thofala"
+  },
+  {
+    "flax": "quithe"
+  },
+  {
+    "fuchsia": "eceri"
+  },
+  {
+    "goldenrod": "diwi"
+  },
+  {
+    "heliotrope": "aniso"
+  },
+  {
+    "lavender": "inile"
+  },
+  {
+    "blush": "veri"
+  },
+  {
+    "lemon": "thicawe"
+  },
+  {
+    "lilac": "me˜i"
+  },
+  {
+    "lime": "quidole"
+  },
+  {
+    "mahogany": "enefi"
+  },
+  {
+    "maroon_color": "fanem¡"
+  },
+  {
+    "mauve": "thavetha"
+  },
+  {
+    "taupe": "‡efetha"
+  },
+  {
+    "mint": "mithama"
+  },
+  {
+    "moss": "vema"
+  },
+  {
+    "ochre": "acath¢"
+  },
+  {
+    "orange": "˜are"
+  },
+  {
+    "periwinkle": "fira"
+  },
+  {
+    "plum": "bele"
+  },
+  {
+    "puce": "eveta"
+  },
+  {
+    "pumpkin": "peve"
+  },
+  {
+    "russet": "c¡vira"
+  },
+  {
+    "saffron": "ethithi"
+  },
+  {
+    "sepia": "osume"
+  },
+  {
+    "teal": "wimo"
+  },
+  {
+    "turquoise": "anice"
+  },
+  {
+    "vermilion": "asšle"
+  },
+  {
+    "path": "al¡"
+  },
+  {
+    "threat": "uce"
+  },
+  {
+    "warning": "seti"
+  },
+  {
+    "fate": "aquiya"
+  },
+  {
+    "destiny": "cadeni"
+  },
+  {
+    "horror": "nesšne"
+  },
+  {
+    "little": "‡oka"
+  },
+  {
+    "early": "anafa"
+  },
+  {
+    "late": "c£thete"
+  },
+  {
+    "life": "eniwa"
+  },
+  {
+    "cheese": "fetha"
+  },
+  {
+    "figure_object": "icaro"
+  },
+  {
+    "hope": "bef¡tha"
+  },
+  {
+    "body": "thite"
+  },
+  {
+    "walk": "b¡rare"
+  },
+  {
+    "hour": "ece"
+  },
+  {
+    "sit": "direbo"
+  },
+  {
+    "moment": "tharo"
+  },
+  {
+    "beauty": "alathš"
+  },
+  {
+    "judge": "afuni"
+  },
+  {
+    "wish": "ilifa"
+  },
+  {
+    "respect": "mil—"
+  },
+  {
+    "mark": "ilefi"
+  },
+  {
+    "heavy": "themeno"
+  },
+  {
+    "trial": "f¢lšthi"
+  },
+  {
+    "practice": "mefeye"
+  },
+  {
+    "end": "bicana"
+  },
+  {
+    "start": "nesa"
+  },
+  {
+    "begin": "ric"
+  },
+  {
+    "birth": "˜emi"
+  },
+  {
+    "learn": "ridethe"
+  },
+  {
+    "mischief": "masi"
+  },
+  {
+    "wisdom": "thadayi"
+  },
+  {
+    "know": "¡cena"
+  },
+  {
+    "knowledge": "ipe˜a"
+  },
+  {
+    "crack": "f¡ra"
+  },
+  {
+    "shatter": "wabe"
+  },
+  {
+    "leap": "thit¡"
+  },
+  {
+    "jump": "efami"
+  },
+  {
+    "dive": "fayoba"
+  },
+  {
+    "vault verb": "e˜e"
+  },
+  {
+    "vault place": "thenaca"
+  },
+  {
+    "treasury": "thenel"
+  },
+  {
+    "betray": "slerima"
+  },
+  {
+    "treason": "p¢mila"
+  },
+  {
+    "reason": "rayo"
+  },
+  {
+    "squat": "quequava"
+  },
+  {
+    "festival": "om¡va"
+  }
+]

@@ -1,0 +1,6587 @@
+[
+  {
+    "abbey": "xenmu"
+  },
+  {
+    "ace": "ogo"
+  },
+  {
+    "act": "lƒsm"
+  },
+  {
+    "after": "l–bu"
+  },
+  {
+    "age": "abo"
+  },
+  {
+    "ageless": "usnusp"
+  },
+  {
+    "ale": "ngub"
+  },
+  {
+    "ancient": "ekxox"
+  },
+  {
+    "angel": "asmuk"
+  },
+  {
+    "anger": "ok"
+  },
+  {
+    "animal": "slulasp"
+  },
+  {
+    "ape": "ozse"
+  },
+  {
+    "apple": "slusna"
+  },
+  {
+    "arch": "sasne"
+  },
+  {
+    "arm": "odu"
+  },
+  {
+    "armor": "nuklat"
+  },
+  {
+    "arrow": "ost"
+  },
+  {
+    "artifice": "urdu"
+  },
+  {
+    "ash": "usmdas"
+  },
+  {
+    "aunt": "uto"
+  },
+  {
+    "aura": "nol"
+  },
+  {
+    "autumn": "dab"
+  },
+  {
+    "awe-inspiring": "nolsmu"
+  },
+  {
+    "axe": "agun"
+  },
+  {
+    "back": "ung"
+  },
+  {
+    "bad": "stotho"
+  },
+  {
+    "bald": "bor"
+  },
+  {
+    "bake": "osm"
+  },
+  {
+    "ball": "enu"
+  },
+  {
+    "bane": "st”l"
+  },
+  {
+    "bar": "zak"
+  },
+  {
+    "barb": "tuxxu"
+  },
+  {
+    "bath": "ugas"
+  },
+  {
+    "battle": "ustrok"
+  },
+  {
+    "beak": "gosma"
+  },
+  {
+    "beast": "k†bu"
+  },
+  {
+    "bear": "ron"
+  },
+  {
+    "bear_verb": "zud”l"
+  },
+  {
+    "bee": "zaxo"
+  },
+  {
+    "beer": "ospo"
+  },
+  {
+    "beetle": "strog"
+  },
+  {
+    "beguiler": "osmze"
+  },
+  {
+    "belch": "ulu"
+  },
+  {
+    "berry": "smug"
+  },
+  {
+    "big": "t”bog"
+  },
+  {
+    "bile": "stran"
+  },
+  {
+    "bin": "sputo"
+  },
+  {
+    "bird": "umung"
+  },
+  {
+    "black": "ogur"
+  },
+  {
+    "blade": "roz"
+  },
+  {
+    "blaze": "uxzo"
+  },
+  {
+    "blind": "ostad"
+  },
+  {
+    "blister": "z–spo"
+  },
+  {
+    "bloat": "mosl”"
+  },
+  {
+    "blood": "ogom"
+  },
+  {
+    "bloody": "dotom"
+  },
+  {
+    "blossom": "z”slu"
+  },
+  {
+    "blue": "oxsa"
+  },
+  {
+    "boar": "oke"
+  },
+  {
+    "boat": "usasp"
+  },
+  {
+    "bodice": "obxo"
+  },
+  {
+    "bog": "onu"
+  },
+  {
+    "boil": "nguzo"
+  },
+  {
+    "boil_v": "asttu"
+  },
+  {
+    "bold": "oz"
+  },
+  {
+    "bolt": "okom"
+  },
+  {
+    "bone": "mudo"
+  },
+  {
+    "book": "zosto"
+  },
+  {
+    "boot": "stokko"
+  },
+  {
+    "bother": "asa"
+  },
+  {
+    "bow": "uneg"
+  },
+  {
+    "bow_verb": "uku"
+  },
+  {
+    "brain": "ulux"
+  },
+  {
+    "breach": "stratƒb"
+  },
+  {
+    "breeches": "olu"
+  },
+  {
+    "bread": "goso"
+  },
+  {
+    "break": "astrum"
+  },
+  {
+    "breakfast": "sod"
+  },
+  {
+    "breath": "kug"
+  },
+  {
+    "breed": "smusm"
+  },
+  {
+    "brew": "um"
+  },
+  {
+    "bride": "snonggom"
+  },
+  {
+    "bridle": "ol“t"
+  },
+  {
+    "bright": "ur"
+  },
+  {
+    "bristle": "gorno"
+  },
+  {
+    "brilliant": "snuko"
+  },
+  {
+    "brim": "nguxur"
+  },
+  {
+    "broil": "kusmke"
+  },
+  {
+    "brother": "osnu"
+  },
+  {
+    "brunch": "uxa"
+  },
+  {
+    "buck": "sl“bo"
+  },
+  {
+    "buckle": "ast"
+  },
+  {
+    "bunch": "gosp"
+  },
+  {
+    "burden": "stok"
+  },
+  {
+    "burn": "mugub"
+  },
+  {
+    "bury": "uno"
+  },
+  {
+    "bush": "ngontek"
+  },
+  {
+    "bushel": "ugstol"
+  },
+  {
+    "bust_noun": "dusnu"
+  },
+  {
+    "bust_verb": "star"
+  },
+  {
+    "business": "d”dong"
+  },
+  {
+    "busy": "umub"
+  },
+  {
+    "butcher": "slust"
+  },
+  {
+    "butter": "lel"
+  },
+  {
+    "butterfly": "nuxka"
+  },
+  {
+    "button": "uze"
+  },
+  {
+    "buzzard": "ƒng"
+  },
+  {
+    "cackle": "urog"
+  },
+  {
+    "cad": "an"
+  },
+  {
+    "cage": "obtux"
+  },
+  {
+    "cake": "bogzut"
+  },
+  {
+    "call": "nonu"
+  },
+  {
+    "camp": "ustthut"
+  },
+  {
+    "cancer": "gostat"
+  },
+  {
+    "candle": "gunsmom"
+  },
+  {
+    "candy": "kumo"
+  },
+  {
+    "canker": "nosmul"
+  },
+  {
+    "canyon": "naza"
+  },
+  {
+    "carnage": "uzet"
+  },
+  {
+    "casket": "ostre"
+  },
+  {
+    "castle": "zogast"
+  },
+  {
+    "cat": "sest"
+  },
+  {
+    "cave": "omo"
+  },
+  {
+    "cell": "un"
+  },
+  {
+    "chain": "ugo"
+  },
+  {
+    "chant": "slonu"
+  },
+  {
+    "chaos": "–d"
+  },
+  {
+    "chamber": "ngorug"
+  },
+  {
+    "char": "ustgu"
+  },
+  {
+    "charm": "d“ng"
+  },
+  {
+    "child": "tox"
+  },
+  {
+    "chill": "xama"
+  },
+  {
+    "chip_noun": "ngosmest"
+  },
+  {
+    "chip_verb": "ub"
+  },
+  {
+    "chirp": "nub"
+  },
+  {
+    "choke": "sl‰sla"
+  },
+  {
+    "chop": "eg"
+  },
+  {
+    "chuck": "dunosp"
+  },
+  {
+    "cinder": "uslo"
+  },
+  {
+    "clam": "ongkosm"
+  },
+  {
+    "clap": "kuda"
+  },
+  {
+    "clasp": "ozad"
+  },
+  {
+    "claw": "–r"
+  },
+  {
+    "clear": "ug"
+  },
+  {
+    "clearing": "ud"
+  },
+  {
+    "cleave": "ost“k"
+  },
+  {
+    "cling": "usno"
+  },
+  {
+    "cloak": "osmmuk"
+  },
+  {
+    "clobber": "–sp"
+  },
+  {
+    "clock": "ostron"
+  },
+  {
+    "clod": "zusmob"
+  },
+  {
+    "cloister": "r”tstong"
+  },
+  {
+    "closet": "snusnu"
+  },
+  {
+    "club": "gan"
+  },
+  {
+    "cluster": "gadu"
+  },
+  {
+    "clutter": "ozma"
+  },
+  {
+    "cobra": "gusslax"
+  },
+  {
+    "coil": "ngosm"
+  },
+  {
+    "cold": "sumtu"
+  },
+  {
+    "color": "zon"
+  },
+  {
+    "comet": "ngost“z"
+  },
+  {
+    "conqueror": "uzod"
+  },
+  {
+    "cook": "kengku"
+  },
+  {
+    "cover": "oslu"
+  },
+  {
+    "cotton": "ongu"
+  },
+  {
+    "couple": "ot–st"
+  },
+  {
+    "crab": "slalsto"
+  },
+  {
+    "crawl": "olo"
+  },
+  {
+    "craze": "mogoz"
+  },
+  {
+    "crazy": "kagus"
+  },
+  {
+    "cream": "spost"
+  },
+  {
+    "creek": "aspak"
+  },
+  {
+    "creep": "gudo"
+  },
+  {
+    "creepy": "noke"
+  },
+  {
+    "crescent": "otuz"
+  },
+  {
+    "cross_noun": "sakor"
+  },
+  {
+    "cross_verb": "aruz"
+  },
+  {
+    "cross_adj": "ram"
+  },
+  {
+    "crow": "osok"
+  },
+  {
+    "crown": "tello"
+  },
+  {
+    "crucify": "stun"
+  },
+  {
+    "crumble": "dasnur"
+  },
+  {
+    "crush": "†d"
+  },
+  {
+    "crusher": "abu"
+  },
+  {
+    "cry": "nobde"
+  },
+  {
+    "crypt": "uktang"
+  },
+  {
+    "crystal": "snusnud"
+  },
+  {
+    "cuddle": "sledsmuz"
+  },
+  {
+    "cudgel": "usu"
+  },
+  {
+    "cup": "kux"
+  },
+  {
+    "curse": "ngokang"
+  },
+  {
+    "cut": "ostro"
+  },
+  {
+    "cyst": "abesp"
+  },
+  {
+    "dance": "mutog"
+  },
+  {
+    "dangle": "speslu"
+  },
+  {
+    "dank": "nassmu"
+  },
+  {
+    "dagger": "ulspa"
+  },
+  {
+    "dark": "ustro"
+  },
+  {
+    "date_fruit": "xenak"
+  },
+  {
+    "date_verb": "rusnung"
+  },
+  {
+    "dawn": "sagus"
+  },
+  {
+    "day": "zordas"
+  },
+  {
+    "dead": "–stru"
+  },
+  {
+    "dear": "umust"
+  },
+  {
+    "death": "os"
+  },
+  {
+    "decay": "namo"
+  },
+  {
+    "deceiver": "damsto"
+  },
+  {
+    "deep": "sodor"
+  },
+  {
+    "deer": "unes"
+  },
+  {
+    "demon": "arstruk"
+  },
+  {
+    "despair": "natong"
+  },
+  {
+    "destroyer": "dutsmon"
+  },
+  {
+    "destruction": "kud"
+  },
+  {
+    "devil": "azstrog"
+  },
+  {
+    "devourer": "usmka"
+  },
+  {
+    "dine": "ngubung"
+  },
+  {
+    "dinner": "stebo"
+  },
+  {
+    "dirt": "z”t"
+  },
+  {
+    "ditch": "umu"
+  },
+  {
+    "dog": "anot"
+  },
+  {
+    "domestic": "ongob"
+  },
+  {
+    "donkey": "usnog"
+  },
+  {
+    "doom": "ngom"
+  },
+  {
+    "door": "sustgo"
+  },
+  {
+    "dragon": "kusnath"
+  },
+  {
+    "drain": "rost"
+  },
+  {
+    "drawl": "strubu"
+  },
+  {
+    "dreg": "umstrux"
+  },
+  {
+    "dress_clothing": "gur“r"
+  },
+  {
+    "dress_general": "utgub"
+  },
+  {
+    "drinker": "asto"
+  },
+  {
+    "drip": "storur"
+  },
+  {
+    "drool": "xukong"
+  },
+  {
+    "drowned": "xek"
+  },
+  {
+    "drum": "kun"
+  },
+  {
+    "dry": "otsta"
+  },
+  {
+    "dump": "korar"
+  },
+  {
+    "dumpling": "sud"
+  },
+  {
+    "dung": "emxa"
+  },
+  {
+    "dungeon": "bosa"
+  },
+  {
+    "dusk": "zesmstum"
+  },
+  {
+    "dust": "lozu"
+  },
+  {
+    "duty": "ngumost"
+  },
+  {
+    "dye": "osmu"
+  },
+  {
+    "eagle": "kedusm"
+  },
+  {
+    "ear": "slusmbu"
+  },
+  {
+    "east": "zusle"
+  },
+  {
+    "eat": "susmat"
+  },
+  {
+    "ecto": "reku"
+  },
+  {
+    "eel": "usnos"
+  },
+  {
+    "eerie": "“l"
+  },
+  {
+    "egg": "donsmok"
+  },
+  {
+    "elder": "zur"
+  },
+  {
+    "entrails": "dosmar"
+  },
+  {
+    "eternal": "rusp"
+  },
+  {
+    "ever": "aslu"
+  },
+  {
+    "everlasting": "or"
+  },
+  {
+    "everseeing": "xesor"
+  },
+  {
+    "evil": "–sbu"
+  },
+  {
+    "execute": "komsto"
+  },
+  {
+    "executioner": "nestro"
+  },
+  {
+    "eye": "mangdu"
+  },
+  {
+    "face": "esed"
+  },
+  {
+    "fall": "osku"
+  },
+  {
+    "false": "gusm"
+  },
+  {
+    "famine": "rong"
+  },
+  {
+    "fang": "omot"
+  },
+  {
+    "fat": "dusmxu"
+  },
+  {
+    "fatal": "stosp"
+  },
+  {
+    "father": "ng“g"
+  },
+  {
+    "fear": "dub"
+  },
+  {
+    "feast": "–z"
+  },
+  {
+    "fetid": "sospu"
+  },
+  {
+    "fiend": "zom"
+  },
+  {
+    "fierce": "saspspus"
+  },
+  {
+    "filth": "reko"
+  },
+  {
+    "fin": "stuzang"
+  },
+  {
+    "find": "”tda"
+  },
+  {
+    "finger": "zugstrux"
+  },
+  {
+    "fire": "zedan"
+  },
+  {
+    "first": "”t"
+  },
+  {
+    "fish_animal": "otu"
+  },
+  {
+    "fish_verb": "sposm"
+  },
+  {
+    "fist": "ror"
+  },
+  {
+    "flame": "slakga"
+  },
+  {
+    "flank": "bosda"
+  },
+  {
+    "flea": "ango"
+  },
+  {
+    "flesh": "etk–k"
+  },
+  {
+    "fling": "zoslo"
+  },
+  {
+    "flood": "oda"
+  },
+  {
+    "flower": "resm"
+  },
+  {
+    "flute": "ongum"
+  },
+  {
+    "fly_animal": "atu"
+  },
+  {
+    "fly_verb": "–n"
+  },
+  {
+    "focus": "rosmnu"
+  },
+  {
+    "fog": "xob"
+  },
+  {
+    "fool": "ustrƒ"
+  },
+  {
+    "foot": "ostrul"
+  },
+  {
+    "forest": "udast"
+  },
+  {
+    "fork": "tolto"
+  },
+  {
+    "fortify": "osma"
+  },
+  {
+    "fortress": "snusp"
+  },
+  {
+    "fragile": "ngosud"
+  },
+  {
+    "fragment": "ustba"
+  },
+  {
+    "frame": "ob"
+  },
+  {
+    "fray": "„s"
+  },
+  {
+    "free": "sostu"
+  },
+  {
+    "frenzy": "roslast"
+  },
+  {
+    "freeze": "gam"
+  },
+  {
+    "frill": "renus"
+  },
+  {
+    "frog": "uxus"
+  },
+  {
+    "fruit": "utmak"
+  },
+  {
+    "fungus": "‰smor"
+  },
+  {
+    "fur": "mot"
+  },
+  {
+    "gall": "engg“"
+  },
+  {
+    "game": "zadxe"
+  },
+  {
+    "garish": "luslul"
+  },
+  {
+    "garlic": "ot"
+  },
+  {
+    "garnish": "kast"
+  },
+  {
+    "gate": "d–nguk"
+  },
+  {
+    "gaunt": "az"
+  },
+  {
+    "gaze": "spoxom"
+  },
+  {
+    "gear": "sosleng"
+  },
+  {
+    "gerbil": "goksta"
+  },
+  {
+    "ghost": "engror"
+  },
+  {
+    "ghoul": "osnun"
+  },
+  {
+    "gift": "espo"
+  },
+  {
+    "gill": "stongun"
+  },
+  {
+    "girdle": "oxoz"
+  },
+  {
+    "gland": "gosmsex"
+  },
+  {
+    "glaze": "ul"
+  },
+  {
+    "glen": "asnur"
+  },
+  {
+    "glide": "ora"
+  },
+  {
+    "glimmer": "ong"
+  },
+  {
+    "glisten": "odstron"
+  },
+  {
+    "gloss": "uram"
+  },
+  {
+    "glove": "deng"
+  },
+  {
+    "glutton": "rusm"
+  },
+  {
+    "goat": "orang"
+  },
+  {
+    "god": "usp"
+  },
+  {
+    "god-forsaken": "togu"
+  },
+  {
+    "gold": "ongong"
+  },
+  {
+    "goose": "us"
+  },
+  {
+    "gore": "oddo"
+  },
+  {
+    "gorge_noun": "ezung"
+  },
+  {
+    "gorge_verb": "nolsto"
+  },
+  {
+    "grain": "noto"
+  },
+  {
+    "grand": "spostza"
+  },
+  {
+    "grape": "tat"
+  },
+  {
+    "grass": "struxe"
+  },
+  {
+    "grave": "orgu"
+  },
+  {
+    "grease": "mukong"
+  },
+  {
+    "great": "snuz"
+  },
+  {
+    "greed": "zuspzeb"
+  },
+  {
+    "green": "astru"
+  },
+  {
+    "griffon": "oxdu"
+  },
+  {
+    "grill": "zot"
+  },
+  {
+    "grim": "ux"
+  },
+  {
+    "grind": "nˆsnub"
+  },
+  {
+    "grip": "slon"
+  },
+  {
+    "gristle": "smaspest"
+  },
+  {
+    "grizzle": "utux"
+  },
+  {
+    "grove": "guzel"
+  },
+  {
+    "grow": "„n"
+  },
+  {
+    "growl": "kudo"
+  },
+  {
+    "growth": "ngon"
+  },
+  {
+    "grub": "oxosp"
+  },
+  {
+    "guard": "totsnost"
+  },
+  {
+    "guile": "kaza"
+  },
+  {
+    "guise": "ummu"
+  },
+  {
+    "gut": "zumzust"
+  },
+  {
+    "gutter": "on"
+  },
+  {
+    "hag": "zastrur"
+  },
+  {
+    "hair": "esmast"
+  },
+  {
+    "hairy": "nosno"
+  },
+  {
+    "hame": "oru"
+  },
+  {
+    "hammer": "ospum"
+  },
+  {
+    "hammerer": "spar"
+  },
+  {
+    "hand": "ngam"
+  },
+  {
+    "handy": "lose"
+  },
+  {
+    "hare": "sluto"
+  },
+  {
+    "harvest": "†st"
+  },
+  {
+    "harvest_verb": "oso"
+  },
+  {
+    "hatchet": "ono"
+  },
+  {
+    "hate": "stosb–b"
+  },
+  {
+    "haunt": "smumxu"
+  },
+  {
+    "hawk": "smuga"
+  },
+  {
+    "hay": "uga"
+  },
+  {
+    "head": "ostam"
+  },
+  {
+    "heart": "osmat"
+  },
+  {
+    "hearth": "ad"
+  },
+  {
+    "heather": "nganuz"
+  },
+  {
+    "hedge": "sl‰su"
+  },
+  {
+    "hell": "gozru"
+  },
+  {
+    "helm": "zuslo"
+  },
+  {
+    "hero": "spunog"
+  },
+  {
+    "hex": "aslot"
+  },
+  {
+    "hide": "obruk"
+  },
+  {
+    "hideous": "streras"
+  },
+  {
+    "high": "aku"
+  },
+  {
+    "hill": "bostu"
+  },
+  {
+    "hip": "kad"
+  },
+  {
+    "hoary": "otbu"
+  },
+  {
+    "hobble": "ngut"
+  },
+  {
+    "hog": "snam"
+  },
+  {
+    "holy": "luxam"
+  },
+  {
+    "hoist": "aspung"
+  },
+  {
+    "hole": "ana"
+  },
+  {
+    "home": "udung"
+  },
+  {
+    "honey": "stoz"
+  },
+  {
+    "hood": "setu"
+  },
+  {
+    "hoof": "slum"
+  },
+  {
+    "hop_noun": "asm"
+  },
+  {
+    "hop_verb": "angnu"
+  },
+  {
+    "horn": "era"
+  },
+  {
+    "horse": "smuz"
+  },
+  {
+    "hound": "on‰s"
+  },
+  {
+    "howl": "nosost"
+  },
+  {
+    "hug": "susp"
+  },
+  {
+    "hum": "utnu"
+  },
+  {
+    "hunger": "esno"
+  },
+  {
+    "hustle": "umo"
+  },
+  {
+    "ice": "uslang"
+  },
+  {
+    "idle": "esrox"
+  },
+  {
+    "idol": "rur"
+  },
+  {
+    "ill": "†t“z"
+  },
+  {
+    "impure": "uxom"
+  },
+  {
+    "incense": "ungo"
+  },
+  {
+    "inch": "ngust–"
+  },
+  {
+    "ink": "ng–lo"
+  },
+  {
+    "inn": "okaz"
+  },
+  {
+    "insanity": "naslo"
+  },
+  {
+    "invisible": "slug"
+  },
+  {
+    "iron": "dusna"
+  },
+  {
+    "itch": "mut"
+  },
+  {
+    "ivy": "st‰tso"
+  },
+  {
+    "jack": "uro"
+  },
+  {
+    "jackal": "em"
+  },
+  {
+    "jaundice": "stroso"
+  },
+  {
+    "jaw": "zureng"
+  },
+  {
+    "jest": "†smum"
+  },
+  {
+    "joke": "ule"
+  },
+  {
+    "juggle": "gex"
+  },
+  {
+    "juice": "usnar"
+  },
+  {
+    "jungle": "rƒbab"
+  },
+  {
+    "just": "aka"
+  },
+  {
+    "justify": "uspax"
+  },
+  {
+    "keeper": "ol"
+  },
+  {
+    "keg": "‰slun"
+  },
+  {
+    "key": "exzas"
+  },
+  {
+    "kindness": "slusne"
+  },
+  {
+    "killer": "ngosnud"
+  },
+  {
+    "kiss": "snong"
+  },
+  {
+    "king": "zozlo"
+  },
+  {
+    "knead": "sot"
+  },
+  {
+    "knife": "ngesosp"
+  },
+  {
+    "knight": "kod"
+  },
+  {
+    "knit": "strosnu"
+  },
+  {
+    "knot": "–st"
+  },
+  {
+    "lace": "ngok"
+  },
+  {
+    "lake": "smespu"
+  },
+  {
+    "lard": "g”sp"
+  },
+  {
+    "lark": "baspu"
+  },
+  {
+    "larva": "ustru"
+  },
+  {
+    "last": "asmba"
+  },
+  {
+    "law": "stod"
+  },
+  {
+    "lazy": "umr“k"
+  },
+  {
+    "leader": "”la"
+  },
+  {
+    "leaf": "uko"
+  },
+  {
+    "leak": "susm"
+  },
+  {
+    "lean": "smuspzu"
+  },
+  {
+    "leech": "axson"
+  },
+  {
+    "legend": "olzul"
+  },
+  {
+    "lens": "ez"
+  },
+  {
+    "leopard": "utol"
+  },
+  {
+    "leper": "ostrasm"
+  },
+  {
+    "leprosy": "kuza"
+  },
+  {
+    "letter": "engo"
+  },
+  {
+    "lie": "smunstu"
+  },
+  {
+    "light": "asne"
+  },
+  {
+    "lightning": "uslu"
+  },
+  {
+    "limb": "otos"
+  },
+  {
+    "lip": "ubon"
+  },
+  {
+    "listen": "otsmo"
+  },
+  {
+    "lizard": "asp"
+  },
+  {
+    "lobster": "ospun"
+  },
+  {
+    "lock": "sposmo"
+  },
+  {
+    "lone": "gangox"
+  },
+  {
+    "long": "xom"
+  },
+  {
+    "loot": "aspo"
+  },
+  {
+    "lord": "tormuk"
+  },
+  {
+    "lost": "mak"
+  },
+  {
+    "louse": "baru"
+  },
+  {
+    "love": "rato"
+  },
+  {
+    "low": "omag"
+  },
+  {
+    "lunch": "spakzo"
+  },
+  {
+    "lung": "bostra"
+  },
+  {
+    "lurid": "snospu"
+  },
+  {
+    "lurch": "kuk"
+  },
+  {
+    "lurk": "spunngu"
+  },
+  {
+    "lush": "spad"
+  },
+  {
+    "lust": "sulud"
+  },
+  {
+    "lute": "nusgoz"
+  },
+  {
+    "lyric": "lomno"
+  },
+  {
+    "maggot": "stug"
+  },
+  {
+    "magic": "sl”l"
+  },
+  {
+    "man": "ngor–g"
+  },
+  {
+    "mange": "aru"
+  },
+  {
+    "many": "ek"
+  },
+  {
+    "marsh": "kest"
+  },
+  {
+    "martyr": "mutku"
+  },
+  {
+    "master": "ƒs"
+  },
+  {
+    "maw": "ozuz"
+  },
+  {
+    "mead": "ger"
+  },
+  {
+    "meadow": "stobux"
+  },
+  {
+    "meal_dom": "lule"
+  },
+  {
+    "meal_ground": "xan‰"
+  },
+  {
+    "meat": "smoz–"
+  },
+  {
+    "meditation": "gotkol"
+  },
+  {
+    "mellow": "zusmuz"
+  },
+  {
+    "menace": "kutsmob"
+  },
+  {
+    "mess": "smodu"
+  },
+  {
+    "metal": "snusm"
+  },
+  {
+    "midnight": "estrur"
+  },
+  {
+    "mighty": "ostost"
+  },
+  {
+    "mightiness": "rustrom"
+  },
+  {
+    "mile": "ngustuk"
+  },
+  {
+    "mince": "bosm"
+  },
+  {
+    "mind": "ugsmez"
+  },
+  {
+    "minion": "snanspex"
+  },
+  {
+    "mirror": "„tkust"
+  },
+  {
+    "misery": "uksox"
+  },
+  {
+    "mist": "guslo"
+  },
+  {
+    "mite": "en"
+  },
+  {
+    "mold": "totƒs"
+  },
+  {
+    "mole": "ut“st"
+  },
+  {
+    "molten": "odes"
+  },
+  {
+    "monkey": "lam"
+  },
+  {
+    "moon": "zusla"
+  },
+  {
+    "monger": "mostrosp"
+  },
+  {
+    "moth": "atan"
+  },
+  {
+    "mother": "ozod"
+  },
+  {
+    "mouse": "nexed"
+  },
+  {
+    "mouth": "osl”t"
+  },
+  {
+    "muck": "nokast"
+  },
+  {
+    "mud": "gob"
+  },
+  {
+    "muffin": "ostu"
+  },
+  {
+    "mule": "ner"
+  },
+  {
+    "munch": "zut"
+  },
+  {
+    "murder": "ustol"
+  },
+  {
+    "mush": "smozuz"
+  },
+  {
+    "mushroom": "smul"
+  },
+  {
+    "music": "bagost"
+  },
+  {
+    "mystery": "as"
+  },
+  {
+    "myth": "angstur"
+  },
+  {
+    "nail": "olnge"
+  },
+  {
+    "nasty": "gunzo"
+  },
+  {
+    "nature": "busm"
+  },
+  {
+    "necro": "got"
+  },
+  {
+    "negative": "snuto"
+  },
+  {
+    "negate": "osu"
+  },
+  {
+    "neo": "solu"
+  },
+  {
+    "nest": "smugsasp"
+  },
+  {
+    "nestle": "boz"
+  },
+  {
+    "net": "strugu"
+  },
+  {
+    "nettle": "ngudgu"
+  },
+  {
+    "new": "nodluz"
+  },
+  {
+    "newt": "oge"
+  },
+  {
+    "nibble": "kog"
+  },
+  {
+    "night": "anu"
+  },
+  {
+    "nightmare": "b†x"
+  },
+  {
+    "noble": "d”sta"
+  },
+  {
+    "noose": "ube"
+  },
+  {
+    "north": "oslo"
+  },
+  {
+    "nose": "atog"
+  },
+  {
+    "null": "smast"
+  },
+  {
+    "number": "rusnut"
+  },
+  {
+    "nurture": "uxrosp"
+  },
+  {
+    "nut": "stasoz"
+  },
+  {
+    "oak": "os“"
+  },
+  {
+    "oar": "akusm"
+  },
+  {
+    "oat": "dalag"
+  },
+  {
+    "oblivion": "xan"
+  },
+  {
+    "ocean": "strabo"
+  },
+  {
+    "old": "tokxe"
+  },
+  {
+    "omen": "slospu"
+  },
+  {
+    "one": "toxu"
+  },
+  {
+    "one_pref": "obngot"
+  },
+  {
+    "onion": "nubkam"
+  },
+  {
+    "ooze": "ak"
+  },
+  {
+    "open": "uxnu"
+  },
+  {
+    "orb": "uka"
+  },
+  {
+    "over": "ox"
+  },
+  {
+    "owl": "„do"
+  },
+  {
+    "ox": "ustspu"
+  },
+  {
+    "pack": "slux"
+  },
+  {
+    "pad_noun": "ostˆ"
+  },
+  {
+    "pad_verb": "nud"
+  },
+  {
+    "page": "smox"
+  },
+  {
+    "pain": "omur"
+  },
+  {
+    "paint": "estu"
+  },
+  {
+    "pale": "ngorub"
+  },
+  {
+    "palm": "lub”m"
+  },
+  {
+    "pant": "zol"
+  },
+  {
+    "panther": "spuzsux"
+  },
+  {
+    "pants": "buse"
+  },
+  {
+    "paper": "eru"
+  },
+  {
+    "peace": "zub"
+  },
+  {
+    "peach": "musnu"
+  },
+  {
+    "pepper": "ugud"
+  },
+  {
+    "phlegm": "xest"
+  },
+  {
+    "pig": "dul"
+  },
+  {
+    "pit": "sl”mod"
+  },
+  {
+    "pitch": "uxun"
+  },
+  {
+    "plague": "snodub"
+  },
+  {
+    "plant": "tusnas"
+  },
+  {
+    "planter": "og”"
+  },
+  {
+    "plot": "ngunga"
+  },
+  {
+    "pocket_noun": "kunsme"
+  },
+  {
+    "pocket_verb": "”z"
+  },
+  {
+    "poison": "stozu"
+  },
+  {
+    "portal": "aslo"
+  },
+  {
+    "power": "slatsu"
+  },
+  {
+    "prank": "lub"
+  },
+  {
+    "pregnant": "dumo"
+  },
+  {
+    "pride": "nog"
+  },
+  {
+    "priest": "xunox"
+  },
+  {
+    "prim": "ossnus"
+  },
+  {
+    "prime": "ngospa"
+  },
+  {
+    "primitive": "goslol"
+  },
+  {
+    "profane": "ukge"
+  },
+  {
+    "prophecy": "s–ttu"
+  },
+  {
+    "prophet": "ala"
+  },
+  {
+    "prowl": "susla"
+  },
+  {
+    "puke": "xung“"
+  },
+  {
+    "pull": "xosno"
+  },
+  {
+    "pulley": "ust“t"
+  },
+  {
+    "pulp": "gugo"
+  },
+  {
+    "punch": "s„sp"
+  },
+  {
+    "purple": "xus"
+  },
+  {
+    "pus": "ostr”t"
+  },
+  {
+    "putrid": "snut"
+  },
+  {
+    "quake": "ngaxa"
+  },
+  {
+    "queen": "odgas"
+  },
+  {
+    "quick": "slonƒn"
+  },
+  {
+    "quill": "kuxngul"
+  },
+  {
+    "rabbit": "badan"
+  },
+  {
+    "rabble": "xug"
+  },
+  {
+    "race_group": "ozlu"
+  },
+  {
+    "race_verb": "smoza"
+  },
+  {
+    "rack": "smas"
+  },
+  {
+    "rag": "uzor"
+  },
+  {
+    "rage": "ospu"
+  },
+  {
+    "rain": "ugok"
+  },
+  {
+    "rake": "smuslo"
+  },
+  {
+    "ram": "ngukez"
+  },
+  {
+    "rampage": "snos"
+  },
+  {
+    "random": "smorusp"
+  },
+  {
+    "ransack": "smoslu"
+  },
+  {
+    "raptor": "x–ku"
+  },
+  {
+    "rat": "sp”dg“z"
+  },
+  {
+    "raunch": "“m"
+  },
+  {
+    "ravager": "ubest"
+  },
+  {
+    "raven": "rosp"
+  },
+  {
+    "raw": "tuxum"
+  },
+  {
+    "razor": "lusspu"
+  },
+  {
+    "red": "tur"
+  },
+  {
+    "regal": "duka"
+  },
+  {
+    "reign": "kus–n"
+  },
+  {
+    "rein": "nusnost"
+  },
+  {
+    "rend": "usmzug"
+  },
+  {
+    "rider": "ng”n"
+  },
+  {
+    "rim": "ukung"
+  },
+  {
+    "ring_object": "utok"
+  },
+  {
+    "ring_sound": "ungong"
+  },
+  {
+    "rip": "sasmar"
+  },
+  {
+    "ripe": "odo"
+  },
+  {
+    "ripper": "smosp"
+  },
+  {
+    "rise": "or–sp"
+  },
+  {
+    "rite": "zurusp"
+  },
+  {
+    "river": "”btasp"
+  },
+  {
+    "rock": "ereg"
+  },
+  {
+    "rogue": "snazog"
+  },
+  {
+    "romance": "luru"
+  },
+  {
+    "room": "xustxu"
+  },
+  {
+    "roomy": "dungnoz"
+  },
+  {
+    "root": "lobok"
+  },
+  {
+    "rose": "umstos"
+  },
+  {
+    "rot": "nom"
+  },
+  {
+    "rough": "basnung"
+  },
+  {
+    "royal": "xasnos"
+  },
+  {
+    "ruin": "ng–tdo"
+  },
+  {
+    "ruin_v": "steg"
+  },
+  {
+    "ruler": "ongno"
+  },
+  {
+    "rumor": "ludosm"
+  },
+  {
+    "rust": "snab"
+  },
+  {
+    "sabre": "sat"
+  },
+  {
+    "sack": "stror"
+  },
+  {
+    "saint": "s†kno"
+  },
+  {
+    "salt": "kosmdasp"
+  },
+  {
+    "salve": "spug"
+  },
+  {
+    "sap": "at"
+  },
+  {
+    "satin": "ungxa"
+  },
+  {
+    "savage": "smoxut"
+  },
+  {
+    "savagery": "zulast"
+  },
+  {
+    "savior": "spospo"
+  },
+  {
+    "scab": "boslut"
+  },
+  {
+    "scar": "loz"
+  },
+  {
+    "scold": "ura"
+  },
+  {
+    "scorpion": "strodno"
+  },
+  {
+    "scratch": "nutxox"
+  },
+  {
+    "scourge": "song"
+  },
+  {
+    "scream": "slag"
+  },
+  {
+    "scum": "”g"
+  },
+  {
+    "sea": "ozob"
+  },
+  {
+    "seal_animal": "uzbad"
+  },
+  {
+    "seal_art": "momnux"
+  },
+  {
+    "seam": "nomu"
+  },
+  {
+    "season": "meslu"
+  },
+  {
+    "secret": "smoxspu"
+  },
+  {
+    "seduce": "amxu"
+  },
+  {
+    "seducer": "asno"
+  },
+  {
+    "seed": "”smosp"
+  },
+  {
+    "seer": "z“n†"
+  },
+  {
+    "seize": "tosnak"
+  },
+  {
+    "serpent": "olsmu"
+  },
+  {
+    "servant": "nguk"
+  },
+  {
+    "sever": "koxstas"
+  },
+  {
+    "sewer": "oxxo"
+  },
+  {
+    "shadow": "akon"
+  },
+  {
+    "shaft": "„b"
+  },
+  {
+    "shank": "uk"
+  },
+  {
+    "shark": "sl†ngo"
+  },
+  {
+    "shear": "rungdo"
+  },
+  {
+    "sheen": "oko"
+  },
+  {
+    "shell": "†tsnusm"
+  },
+  {
+    "shelter": "strolu"
+  },
+  {
+    "shield": "ulsa"
+  },
+  {
+    "shimmer": "lom"
+  },
+  {
+    "ship": "aste"
+  },
+  {
+    "shoot": "sloxuk"
+  },
+  {
+    "show": "stongnub"
+  },
+  {
+    "shred": "ogmong"
+  },
+  {
+    "shriek": "ubstusp"
+  },
+  {
+    "shut": "esm"
+  },
+  {
+    "sick": "n‰b"
+  },
+  {
+    "sickness": "slok"
+  },
+  {
+    "siege": "etosp"
+  },
+  {
+    "silence": "rut"
+  },
+  {
+    "silk": "egod"
+  },
+  {
+    "silky": "ogna"
+  },
+  {
+    "silt": "omub"
+  },
+  {
+    "silver": "one"
+  },
+  {
+    "sin": "zolak"
+  },
+  {
+    "sinew": "sloslub"
+  },
+  {
+    "sing": "okum"
+  },
+  {
+    "sister": "b‰xo"
+  },
+  {
+    "skirt_clothing": "ar"
+  },
+  {
+    "skirt_verb": "ukong"
+  },
+  {
+    "skunk": "masn„m"
+  },
+  {
+    "skull": "unu"
+  },
+  {
+    "sky": "oslak"
+  },
+  {
+    "slaughter": "arspun"
+  },
+  {
+    "slave": "smanges"
+  },
+  {
+    "slayer": "stuz”g"
+  },
+  {
+    "slim": "mubo"
+  },
+  {
+    "slime": "slesnan"
+  },
+  {
+    "sling": "ug‰"
+  },
+  {
+    "slink": "nadog"
+  },
+  {
+    "slit": "xud"
+  },
+  {
+    "slither": "sangnosm"
+  },
+  {
+    "sliver": "uz"
+  },
+  {
+    "sloth": "ongo"
+  },
+  {
+    "slug": "omu"
+  },
+  {
+    "smash": "uzest"
+  },
+  {
+    "smile": "uspuk"
+  },
+  {
+    "smith": "am"
+  },
+  {
+    "smoke": "uspsast"
+  },
+  {
+    "smooth": "spugkad"
+  },
+  {
+    "smoulder": "xubu"
+  },
+  {
+    "snack": "gud"
+  },
+  {
+    "snake": "slorust"
+  },
+  {
+    "sneer": "ostrur"
+  },
+  {
+    "snot": "kosmz†"
+  },
+  {
+    "snuggle": "smum"
+  },
+  {
+    "soil": "snustrok"
+  },
+  {
+    "soldier": "oxo"
+  },
+  {
+    "soot": "aton"
+  },
+  {
+    "soothe": "ormo"
+  },
+  {
+    "sorrow": "†kru"
+  },
+  {
+    "soul": "ud”"
+  },
+  {
+    "sound": "ngoslun"
+  },
+  {
+    "south": "zuslust"
+  },
+  {
+    "spasm": "bodod"
+  },
+  {
+    "spawn": "sm“nge"
+  },
+  {
+    "spear": "bukza"
+  },
+  {
+    "spell": "spespo"
+  },
+  {
+    "spice": "tux"
+  },
+  {
+    "spider": "utes"
+  },
+  {
+    "spidery": "osm”sp"
+  },
+  {
+    "spike": "gugol"
+  },
+  {
+    "spin": "osput"
+  },
+  {
+    "spine": "slesat"
+  },
+  {
+    "spirit": "stusnu"
+  },
+  {
+    "spit": "gusmul"
+  },
+  {
+    "spittle": "stospdab"
+  },
+  {
+    "spoil": "bur"
+  },
+  {
+    "spoon": "somug"
+  },
+  {
+    "spring_noun": "xestor"
+  },
+  {
+    "spring_season": "gaspa"
+  },
+  {
+    "spring_verb": "non"
+  },
+  {
+    "spry": "slulo"
+  },
+  {
+    "spy": "espe"
+  },
+  {
+    "squid": "ozstag"
+  },
+  {
+    "squirm": "xunggob"
+  },
+  {
+    "stab": "gostus"
+  },
+  {
+    "staff": "ukod"
+  },
+  {
+    "stalk": "astol"
+  },
+  {
+    "stand": "axod"
+  },
+  {
+    "star": "ex"
+  },
+  {
+    "steed": "ngustut"
+  },
+  {
+    "starve": "okal"
+  },
+  {
+    "steal": "uksos"
+  },
+  {
+    "steel": "zodsto"
+  },
+  {
+    "stench": "osnusm"
+  },
+  {
+    "stern": "tux–g"
+  },
+  {
+    "stick_wood": "xortu"
+  },
+  {
+    "stick_verb": "ulo"
+  },
+  {
+    "sticky": "zut“"
+  },
+  {
+    "stone": "ngomstu"
+  },
+  {
+    "storm": "ozo"
+  },
+  {
+    "strange": "gut"
+  },
+  {
+    "strap": "ust†"
+  },
+  {
+    "strapping_adj": "obstu"
+  },
+  {
+    "straw": "slatspu"
+  },
+  {
+    "stray": "sux"
+  },
+  {
+    "strength": "sokr”x"
+  },
+  {
+    "stretch": "osmum"
+  },
+  {
+    "strike": "sang”sm"
+  },
+  {
+    "stroke": "smumu"
+  },
+  {
+    "stunt": "”lku"
+  },
+  {
+    "stunted": "ed"
+  },
+  {
+    "stupid": "”sna"
+  },
+  {
+    "stutter": "sebo"
+  },
+  {
+    "style": "ustgast"
+  },
+  {
+    "subordinate": "lon"
+  },
+  {
+    "suck": "oson"
+  },
+  {
+    "suffering": "usmraz"
+  },
+  {
+    "sugar": "langom"
+  },
+  {
+    "sully": "ungust"
+  },
+  {
+    "sullen": "esme"
+  },
+  {
+    "summer": "“ng"
+  },
+  {
+    "sun": "xogak"
+  },
+  {
+    "sunder": "ozspu"
+  },
+  {
+    "supper": "arad"
+  },
+  {
+    "surprise": "bunok"
+  },
+  {
+    "swamp": "slexsmul"
+  },
+  {
+    "sweat": "uxu"
+  },
+  {
+    "sweet": "xospo"
+  },
+  {
+    "swift": "xungbu"
+  },
+  {
+    "swim": "ato"
+  },
+  {
+    "swine": "rudslas"
+  },
+  {
+    "sword": "oxox"
+  },
+  {
+    "syrup": "gok"
+  },
+  {
+    "taker": "xok"
+  },
+  {
+    "tail": "ostusm"
+  },
+  {
+    "talon": "ngedlu"
+  },
+  {
+    "tar": "zorad"
+  },
+  {
+    "tarnish": "ˆbung"
+  },
+  {
+    "tell": "osnol"
+  },
+  {
+    "tempest": "ebno"
+  },
+  {
+    "tear": "mosl‰x"
+  },
+  {
+    "terror": "nguslu"
+  },
+  {
+    "thief": "snang"
+  },
+  {
+    "thirst": "strabtom"
+  },
+  {
+    "thorn": "spuspo"
+  },
+  {
+    "thrall": "snuslok"
+  },
+  {
+    "three": "rugol"
+  },
+  {
+    "throat": "gaspgud"
+  },
+  {
+    "throne": "zongosp"
+  },
+  {
+    "thrower": "slobu"
+  },
+  {
+    "thunder": "nust"
+  },
+  {
+    "tick_animal": "stƒsost"
+  },
+  {
+    "tick_clock": "gug"
+  },
+  {
+    "tight": "gutu"
+  },
+  {
+    "time": "aspsa"
+  },
+  {
+    "toad": "ngusnog"
+  },
+  {
+    "toe": "osmnog"
+  },
+  {
+    "tomb": "zakosp"
+  },
+  {
+    "tome": "bossu"
+  },
+  {
+    "tongue": "asnam"
+  },
+  {
+    "tooth": "tad"
+  },
+  {
+    "torment": "nako"
+  },
+  {
+    "touch": "sled†s"
+  },
+  {
+    "touchy": "tet"
+  },
+  {
+    "tour": "otuk"
+  },
+  {
+    "tower": "sp”stro"
+  },
+  {
+    "trail": "olgost"
+  },
+  {
+    "trance": "stangdo"
+  },
+  {
+    "trap": "stoslo"
+  },
+  {
+    "trash": "toslug"
+  },
+  {
+    "treasure": "osna"
+  },
+  {
+    "treat": "zastuz"
+  },
+  {
+    "treaty": "xuststu"
+  },
+  {
+    "trench": "ngustrang"
+  },
+  {
+    "tribe": "sesnum"
+  },
+  {
+    "trick": "adsta"
+  },
+  {
+    "trickery": "ozzeb"
+  },
+  {
+    "trim": "oro"
+  },
+  {
+    "trouble": "osnon"
+  },
+  {
+    "tug": "ursnag"
+  },
+  {
+    "tulip": "tusm"
+  },
+  {
+    "tumble": "asmon"
+  },
+  {
+    "tumor": "smesp"
+  },
+  {
+    "turmoil": "moslol"
+  },
+  {
+    "tusk": "lurngu"
+  },
+  {
+    "tweet": "oxung"
+  },
+  {
+    "twilight": "zomus"
+  },
+  {
+    "twine": "b„stza"
+  },
+  {
+    "twist": "xost"
+  },
+  {
+    "two": "stazgud"
+  },
+  {
+    "ugly": "uzob"
+  },
+  {
+    "ulcer": "spadngo"
+  },
+  {
+    "ultimate": "ungsma"
+  },
+  {
+    "ultra": "alt”g"
+  },
+  {
+    "unbridled": "bongu"
+  },
+  {
+    "uncle": "ngudem"
+  },
+  {
+    "ungodly": "sum"
+  },
+  {
+    "unholy": "kuga"
+  },
+  {
+    "unkempt": "ngogosm"
+  },
+  {
+    "unseen": "uxdu"
+  },
+  {
+    "untoward": "bamngu"
+  },
+  {
+    "unwelcome": "obo"
+  },
+  {
+    "urn": "egngun"
+  },
+  {
+    "useless": "asl‰"
+  },
+  {
+    "vandal": "‰b"
+  },
+  {
+    "vegetable": "malar"
+  },
+  {
+    "vegetate": "ngusat"
+  },
+  {
+    "vegetation": "sostux"
+  },
+  {
+    "velvet": "r–xu"
+  },
+  {
+    "venom": "luskon"
+  },
+  {
+    "vermin": "otod"
+  },
+  {
+    "vile": "omosp"
+  },
+  {
+    "violator": "kozzo"
+  },
+  {
+    "violence": "ado"
+  },
+  {
+    "violet": "gox"
+  },
+  {
+    "viper": "rengzu"
+  },
+  {
+    "voice": "dod"
+  },
+  {
+    "void": "ngosto"
+  },
+  {
+    "volcano": "uru"
+  },
+  {
+    "vomit": "strastnas"
+  },
+  {
+    "vulture": "uzun"
+  },
+  {
+    "wail": "ngonos"
+  },
+  {
+    "wander": "snus"
+  },
+  {
+    "war": "aslez"
+  },
+  {
+    "warrior": "slod"
+  },
+  {
+    "wasp": "“nu"
+  },
+  {
+    "waste": "dˆsmo"
+  },
+  {
+    "watch": "suru"
+  },
+  {
+    "watchful": "ngustr‰k"
+  },
+  {
+    "wave": "ustxu"
+  },
+  {
+    "wavy": "usnob"
+  },
+  {
+    "wear": "kasprax"
+  },
+  {
+    "weasel": "balu"
+  },
+  {
+    "weaver": "utsmƒ"
+  },
+  {
+    "weed": "sp†lu"
+  },
+  {
+    "weight": "deslo"
+  },
+  {
+    "weird": "slosmrez"
+  },
+  {
+    "were": "bem"
+  },
+  {
+    "west": "obslon"
+  },
+  {
+    "wheat": "snasm"
+  },
+  {
+    "wheel": "sost"
+  },
+  {
+    "whip": "sox"
+  },
+  {
+    "whisk": "smosuk"
+  },
+  {
+    "whisky": "m†ststu"
+  },
+  {
+    "whisper": "ugsnor"
+  },
+  {
+    "white": "uslun"
+  },
+  {
+    "wicked": "ngerxung"
+  },
+  {
+    "wild": "muso"
+  },
+  {
+    "will": "udu"
+  },
+  {
+    "wing": "bustusm"
+  },
+  {
+    "winter": "ostub"
+  },
+  {
+    "wisp": "xor"
+  },
+  {
+    "witch": "osta"
+  },
+  {
+    "wonder_noun": "bagsnub"
+  },
+  {
+    "wonder_verb": "xomu"
+  },
+  {
+    "wood": "d“r"
+  },
+  {
+    "work": "ngebo"
+  },
+  {
+    "worm": "osle"
+  },
+  {
+    "wraith": "mato"
+  },
+  {
+    "wrath": "ƒro"
+  },
+  {
+    "wretch": "aglo"
+  },
+  {
+    "yarn": "nasˆ"
+  },
+  {
+    "year": "usle"
+  },
+  {
+    "yearling": "otub"
+  },
+  {
+    "yellow": "stoko"
+  },
+  {
+    "yore": "stusto"
+  },
+  {
+    "young": "xoxo"
+  },
+  {
+    "youth": "uznuk"
+  },
+  {
+    "zeal": "otst‰"
+  },
+  {
+    "zealot": "noslong"
+  },
+  {
+    "zephyr": "umxox"
+  },
+  {
+    "earth": "usluk"
+  },
+  {
+    "artifact": "anust"
+  },
+  {
+    "bed": "zozax"
+  },
+  {
+    "bud": "slospo"
+  },
+  {
+    "cavort": "smal"
+  },
+  {
+    "common": "ngozo"
+  },
+  {
+    "daub": "ogzu"
+  },
+  {
+    "desert": "slosno"
+  },
+  {
+    "dessert": "umsest"
+  },
+  {
+    "diamond": "tusnung"
+  },
+  {
+    "domain": "z–za"
+  },
+  {
+    "dream": "ongas"
+  },
+  {
+    "tin": "unst“"
+  },
+  {
+    "copper": "saxo"
+  },
+  {
+    "bronze": "sus„l"
+  },
+  {
+    "granite": "orux"
+  },
+  {
+    "fancy": "sm”rtuk"
+  },
+  {
+    "farm": "got†m"
+  },
+  {
+    "field": "xunust"
+  },
+  {
+    "froth": "stuxul"
+  },
+  {
+    "genius": "spukom"
+  },
+  {
+    "glacier": "t–beb"
+  },
+  {
+    "gurgle": "zok"
+  },
+  {
+    "impale": "nokud"
+  },
+  {
+    "join": "ebrog"
+  },
+  {
+    "jade": "toslu"
+  },
+  {
+    "ivory": "stuz"
+  },
+  {
+    "land": "smaksmo"
+  },
+  {
+    "lather": "osno"
+  },
+  {
+    "limp": "eng"
+  },
+  {
+    "lucid": "emgon"
+  },
+  {
+    "mountain": "ngosla"
+  },
+  {
+    "mucus": "osnong"
+  },
+  {
+    "pattern": "sp”sp"
+  },
+  {
+    "pebble": "aba"
+  },
+  {
+    "boulder": "stob"
+  },
+  {
+    "petal": "suslem"
+  },
+  {
+    "droplet": "snex†"
+  },
+  {
+    "pinnacle": "engon"
+  },
+  {
+    "plain": "keng"
+  },
+  {
+    "plainadj": "og"
+  },
+  {
+    "point": "spumnod"
+  },
+  {
+    "pot": "ag"
+  },
+  {
+    "prairie": "strogag"
+  },
+  {
+    "rush": "udat"
+  },
+  {
+    "slap": "odom"
+  },
+  {
+    "sleeve": "lodsusm"
+  },
+  {
+    "speck": "ngobo"
+  },
+  {
+    "steppe": "egun"
+  },
+  {
+    "tentacle": "spun"
+  },
+  {
+    "test": "”x"
+  },
+  {
+    "trot": "anusp"
+  },
+  {
+    "tub": "onoz"
+  },
+  {
+    "tube": "ospe"
+  },
+  {
+    "tundra": "strasnu"
+  },
+  {
+    "un": "rot"
+  },
+  {
+    "waddle": "ukuz"
+  },
+  {
+    "wealth": "sloron"
+  },
+  {
+    "weevil": "smunxaz"
+  },
+  {
+    "whim": "arug"
+  },
+  {
+    "whirl": "tud"
+  },
+  {
+    "world": "buzong"
+  },
+  {
+    "desertverb": "kul"
+  },
+  {
+    "fancyverb": "r‰kusm"
+  },
+  {
+    "limpverb": "snar"
+  },
+  {
+    "pointverb": "snuddu"
+  },
+  {
+    "pantomime": "olax"
+  },
+  {
+    "sludge": "mesle"
+  },
+  {
+    "goo": "stokgor"
+  },
+  {
+    "realm": "smata"
+  },
+  {
+    "plane": "mon"
+  },
+  {
+    "dimension": "osmlo"
+  },
+  {
+    "universe": "slozgo"
+  },
+  {
+    "planet": "strasp"
+  },
+  {
+    "livid": "ranum"
+  },
+  {
+    "tepid": "usplo"
+  },
+  {
+    "honest": "lobug"
+  },
+  {
+    "kingdom": "bonrosp"
+  },
+  {
+    "empire": "mul"
+  },
+  {
+    "confederation": "aslod"
+  },
+  {
+    "simple": "sm„sta"
+  },
+  {
+    "trooper": "ost“ng"
+  },
+  {
+    "crimson": "tuku"
+  },
+  {
+    "dune": "aslud"
+  },
+  {
+    "direct": "sog"
+  },
+  {
+    "clash": "exuz"
+  },
+  {
+    "forever": "ustra"
+  },
+  {
+    "subtle": "daz"
+  },
+  {
+    "puppet": "ungu"
+  },
+  {
+    "hegemon": "rog–t"
+  },
+  {
+    "amaze": "kangsu"
+  },
+  {
+    "alchemy": "esnu"
+  },
+  {
+    "insight": "zodod"
+  },
+  {
+    "union": "bongnguk"
+  },
+  {
+    "confederacy": "dukxong"
+  },
+  {
+    "speak": "astom"
+  },
+  {
+    "speaker": "rumux"
+  },
+  {
+    "persuade": "otar"
+  },
+  {
+    "persuader": "gerthu"
+  },
+  {
+    "control": "ngure"
+  },
+  {
+    "controller": "”d"
+  },
+  {
+    "worker": "otut"
+  },
+  {
+    "basic": "kugme"
+  },
+  {
+    "system": "obs†r"
+  },
+  {
+    "ray": "zozusp"
+  },
+  {
+    "target": "s–tu"
+  },
+  {
+    "bank": "tuntust"
+  },
+  {
+    "clean": "ustu"
+  },
+  {
+    "drive": "dospo"
+  },
+  {
+    "soar": "aksput"
+  },
+  {
+    "glory": "omuk"
+  },
+  {
+    "dismal": "ruz"
+  },
+  {
+    "radiance": "elo"
+  },
+  {
+    "pine": "bog"
+  },
+  {
+    "messiah": "mudob"
+  },
+  {
+    "craft": "odan"
+  },
+  {
+    "labor": "akul"
+  },
+  {
+    "discover": "omzom"
+  },
+  {
+    "proliferate": "ngasad"
+  },
+  {
+    "chunk": "osme"
+  },
+  {
+    "slip": "sluro"
+  },
+  {
+    "slide": "oxstrum"
+  },
+  {
+    "single": "spez"
+  },
+  {
+    "pick": "otez"
+  },
+  {
+    "tongs": "smad"
+  },
+  {
+    "permanency": "uzur"
+  },
+  {
+    "responsible": "obuz"
+  },
+  {
+    "require": "eted"
+  },
+  {
+    "rootverb": "ostosp"
+  },
+  {
+    "blizzard": "xodu"
+  },
+  {
+    "general": "turu"
+  },
+  {
+    "memory": "tok"
+  },
+  {
+    "construct": "rom"
+  },
+  {
+    "lamb": "tol"
+  },
+  {
+    "toast": "tul"
+  },
+  {
+    "gross": "sp„stngux"
+  },
+  {
+    "paddle": "dak"
+  },
+  {
+    "council": "sp†s"
+  },
+  {
+    "counsel": "raslost"
+  },
+  {
+    "gnarled": "damuz"
+  },
+  {
+    "stump": "spung"
+  },
+  {
+    "naughty": "emo"
+  },
+  {
+    "play fun": "lungo"
+  },
+  {
+    "play perform": "osles"
+  },
+  {
+    "flimsy": "xosp"
+  },
+  {
+    "greater": "osmosm"
+  },
+  {
+    "greatest": "obe"
+  },
+  {
+    "lesser": "smox†"
+  },
+  {
+    "least": "spub"
+  },
+  {
+    "beard": "xubngesp"
+  },
+  {
+    "dread": "ngebzo"
+  },
+  {
+    "wall": "umƒ"
+  },
+  {
+    "wallow": "nokut"
+  },
+  {
+    "tax": "angot"
+  },
+  {
+    "fragrance": "m–ra"
+  },
+  {
+    "lantern": "snog“ng"
+  },
+  {
+    "torch": "lasut"
+  },
+  {
+    "water": "esp"
+  },
+  {
+    "wine": "“lsmu"
+  },
+  {
+    "line": "tamsmu"
+  },
+  {
+    "mine": "ngogngo"
+  },
+  {
+    "wax": "tung–"
+  },
+  {
+    "shove": "ngasmuk"
+  },
+  {
+    "shovel": "ospa"
+  },
+  {
+    "melt": "luzo"
+  },
+  {
+    "wrack": "tamo"
+  },
+  {
+    "glitter": "dadu"
+  },
+  {
+    "spark": "olsmo"
+  },
+  {
+    "sparkle": "smaz"
+  },
+  {
+    "flash": "lesmnast"
+  },
+  {
+    "gleam": "unlo"
+  },
+  {
+    "run": "duba"
+  },
+  {
+    "dash": "umkost"
+  },
+  {
+    "savant": "strusnu"
+  },
+  {
+    "roar": "oza"
+  },
+  {
+    "yell": "osmoz"
+  },
+  {
+    "echo": "rusmo"
+  },
+  {
+    "hollow": "esnust"
+  },
+  {
+    "full": "mus"
+  },
+  {
+    "empty": "atob"
+  },
+  {
+    "word": "sotuk"
+  },
+  {
+    "intense": "ukust"
+  },
+  {
+    "sad": "snelo"
+  },
+  {
+    "glad": "kose"
+  },
+  {
+    "tragedy": "nozb„b"
+  },
+  {
+    "bell": "mube"
+  },
+  {
+    "belly": "ozsta"
+  },
+  {
+    "tummy": "sluso"
+  },
+  {
+    "shock": "malduz"
+  },
+  {
+    "ponder": "uztob"
+  },
+  {
+    "ponderous": "z†r"
+  },
+  {
+    "heaven": "osp”z"
+  },
+  {
+    "round": "onla"
+  },
+  {
+    "rounded": "nasp"
+  },
+  {
+    "unspeakable": "rosm"
+  },
+  {
+    "unthinkable": "ulog"
+  },
+  {
+    "unnameable": "xaslod"
+  },
+  {
+    "calamity": "okust"
+  },
+  {
+    "cyclopean": "”tstux"
+  },
+  {
+    "tame": "ab"
+  },
+  {
+    "untamed": "ongnor"
+  },
+  {
+    "burst": "om"
+  },
+  {
+    "meteor": "onsmost"
+  },
+  {
+    "trite": "ngozong"
+  },
+  {
+    "trifle": "et"
+  },
+  {
+    "rank": "ezak"
+  },
+  {
+    "rancor": "oxas"
+  },
+  {
+    "bitter": "zuspu"
+  },
+  {
+    "sour": "osa"
+  },
+  {
+    "danger": "ugot"
+  },
+  {
+    "impervious": "tunar"
+  },
+  {
+    "unswerving": "asnut"
+  },
+  {
+    "sway": "ustub"
+  },
+  {
+    "luxury": "slusa"
+  },
+  {
+    "euphoria": "stost"
+  },
+  {
+    "scintillate": "spasnom"
+  },
+  {
+    "divine": "ngungdub"
+  },
+  {
+    "divide": "gƒmasm"
+  },
+  {
+    "taint": "–sud"
+  },
+  {
+    "corrupt": "ngot"
+  },
+  {
+    "malign slander v": "urar"
+  },
+  {
+    "malign adj": "dosmu"
+  },
+  {
+    "malignant": "tog"
+  },
+  {
+    "trust": "zukod"
+  },
+  {
+    "distrust": "snadbo"
+  },
+  {
+    "trustworthy": "ubo"
+  },
+  {
+    "untrustworthy": "oma"
+  },
+  {
+    "dishonest": "musla"
+  },
+  {
+    "blight": "stungo"
+  },
+  {
+    "cunning": "smosto"
+  },
+  {
+    "sly": "gor"
+  },
+  {
+    "rustic": "zungspu"
+  },
+  {
+    "homely": "k”ngan"
+  },
+  {
+    "lonely": "lezos"
+  },
+  {
+    "lonesome": "osmgu"
+  },
+  {
+    "close": "er"
+  },
+  {
+    "ford": "ongslun"
+  },
+  {
+    "way": "smastre"
+  },
+  {
+    "wayward": "saz"
+  },
+  {
+    "bandit": "oz”"
+  },
+  {
+    "brigand": "“sma"
+  },
+  {
+    "monster": "olng”"
+  },
+  {
+    "sense": "zozo"
+  },
+  {
+    "insensitive": "ut"
+  },
+  {
+    "sensual": "oz„"
+  },
+  {
+    "odor": "nusnak"
+  },
+  {
+    "malodorous": "usngong"
+  },
+  {
+    "ignorant": "snuzo"
+  },
+  {
+    "ignoble": "lune"
+  },
+  {
+    "humble": "sogo"
+  },
+  {
+    "moral": "rodaz"
+  },
+  {
+    "immoral": "usmstor"
+  },
+  {
+    "superior": "rasm‰sp"
+  },
+  {
+    "inferior": "strambe"
+  },
+  {
+    "infinite": "oruk"
+  },
+  {
+    "sable color": "obosp"
+  },
+  {
+    "fell cruel": "slaxu"
+  },
+  {
+    "fell hide": "nuspu"
+  },
+  {
+    "pelt hide": "uxo"
+  },
+  {
+    "dignity": "ralu"
+  },
+  {
+    "undignified": "ostge"
+  },
+  {
+    "indignation": "ostzu"
+  },
+  {
+    "right better": "nongnob"
+  },
+  {
+    "absolute": "bok"
+  },
+  {
+    "fair even": "gaduz"
+  },
+  {
+    "fair color": "snustro"
+  },
+  {
+    "snarl": "ar“sp"
+  },
+  {
+    "loyal": "ezusp"
+  },
+  {
+    "disloyal": "tode"
+  },
+  {
+    "help": "xusp"
+  },
+  {
+    "friend": "usnub"
+  },
+  {
+    "courtesy": "–n"
+  },
+  {
+    "cheerful": "–st"
+  },
+  {
+    "thrift": "lubsem"
+  },
+  {
+    "bravery": "rukku"
+  },
+  {
+    "revere": "espbo"
+  },
+  {
+    "venerate": "oka"
+  },
+  {
+    "salute": "dungo"
+  },
+  {
+    "nation": "ust"
+  },
+  {
+    "drink": "d“rku"
+  },
+  {
+    "considerate": "–xo"
+  },
+  {
+    "convenient": "gol"
+  },
+  {
+    "inconsiderate": "od"
+  },
+  {
+    "inconvenient": "sturo"
+  },
+  {
+    "continent": "slaku"
+  },
+  {
+    "flight": "xusmasm"
+  },
+  {
+    "flighty": "umsma"
+  },
+  {
+    "gild": "xosna"
+  },
+  {
+    "guild": "„t"
+  },
+  {
+    "merchant": "muk"
+  },
+  {
+    "trade": "otsmor"
+  },
+  {
+    "plait": "gon"
+  },
+  {
+    "braid": "b–ku"
+  },
+  {
+    "pleat": "ngasm„"
+  },
+  {
+    "fold": "logu"
+  },
+  {
+    "bunion": "snosnu"
+  },
+  {
+    "uncommon": "okung"
+  },
+  {
+    "rare": "zoslasp"
+  },
+  {
+    "scarce": "espuz"
+  },
+  {
+    "remarkable": "usto"
+  },
+  {
+    "unremarkable": "botu"
+  },
+  {
+    "solitary": "ostuz"
+  },
+  {
+    "bend": "asu"
+  },
+  {
+    "blame": "ragu"
+  },
+  {
+    "blameless": "zam–"
+  },
+  {
+    "twig": "use"
+  },
+  {
+    "girder": "omkut"
+  },
+  {
+    "truss": "ngotoz"
+  },
+  {
+    "skewer": "asmu"
+  },
+  {
+    "sculpt": "osplu"
+  },
+  {
+    "tress": "tudo"
+  },
+  {
+    "lock hair": "mulu"
+  },
+  {
+    "curl": "ose"
+  },
+  {
+    "tuft": "stez"
+  },
+  {
+    "mean nasty": "alor"
+  },
+  {
+    "mean low": "ozub"
+  },
+  {
+    "shame": "tosp"
+  },
+  {
+    "ashamed": "nanggo"
+  },
+  {
+    "steam": "gomux"
+  },
+  {
+    "fern": "slusl”r"
+  },
+  {
+    "ferry": "xosmreb"
+  },
+  {
+    "gully": "urut"
+  },
+  {
+    "worry": "omstu"
+  },
+  {
+    "lion": "dostom"
+  },
+  {
+    "cactus": "smudo"
+  },
+  {
+    "desk": "s†x"
+  },
+  {
+    "bottle": "ostox"
+  },
+  {
+    "shingle": "uddo"
+  },
+  {
+    "blanket": "uspƒb"
+  },
+  {
+    "cloud": "‰straz"
+  },
+  {
+    "plate": "ustug"
+  },
+  {
+    "road": "lunzor"
+  },
+  {
+    "house": "usnu"
+  },
+  {
+    "bean": "dugu"
+  },
+  {
+    "block defend": "zemkom"
+  },
+  {
+    "block square": "zobo"
+  },
+  {
+    "fountain": "osp"
+  },
+  {
+    "pearl": "obasp"
+  },
+  {
+    "pear": "gurmus"
+  },
+  {
+    "thimble": "mek"
+  },
+  {
+    "bunny": "koz"
+  },
+  {
+    "rope": "slusp"
+  },
+  {
+    "string": "slongu"
+  },
+  {
+    "wire": "snug"
+  },
+  {
+    "lash": "asmrar"
+  },
+  {
+    "sorcery": "spusp"
+  },
+  {
+    "sorcerer": "stronol"
+  },
+  {
+    "ensorcel": "uslog"
+  },
+  {
+    "bewitch": "sner"
+  },
+  {
+    "magician": "tusma"
+  },
+  {
+    "conjure": "smob"
+  },
+  {
+    "conjurer": "spabse"
+  },
+  {
+    "enchant": "xestsu"
+  },
+  {
+    "enchanter": "stuk"
+  },
+  {
+    "lance": "ƒxstut"
+  },
+  {
+    "lancer": "spoku"
+  },
+  {
+    "stink": "geng"
+  },
+  {
+    "freckle": "smoz"
+  },
+  {
+    "pimple": "otus"
+  },
+  {
+    "wart": "tomom"
+  },
+  {
+    "blotch": "amxo"
+  },
+  {
+    "callus": "xun"
+  },
+  {
+    "wind storm": "ospaz"
+  },
+  {
+    "wind clock": "esmˆn"
+  },
+  {
+    "haze": "rugo"
+  },
+  {
+    "skin": "duspbu"
+  },
+  {
+    "shin": "omrab"
+  },
+  {
+    "torture": "goxa"
+  },
+  {
+    "tool": "ˆngan"
+  },
+  {
+    "scholar": "mol"
+  },
+  {
+    "weep": "odgu"
+  },
+  {
+    "massive": "r–kest"
+  },
+  {
+    "large": "sted"
+  },
+  {
+    "small": "“st"
+  },
+  {
+    "loaf": "xusm"
+  },
+  {
+    "tile": "garspo"
+  },
+  {
+    "sport": "slet"
+  },
+  {
+    "search": "snungo"
+  },
+  {
+    "stale": "gung"
+  },
+  {
+    "fresh": "okok"
+  },
+  {
+    "rub": "b‰bro"
+  },
+  {
+    "worthy": "ospasm"
+  },
+  {
+    "worthless": "obsto"
+  },
+  {
+    "fright": "rosusm"
+  },
+  {
+    "revolting": "udstrum"
+  },
+  {
+    "disgust": "eblak"
+  },
+  {
+    "outrage": "ongor"
+  },
+  {
+    "cruel": "dostngosp"
+  },
+  {
+    "deviant": "dakus"
+  },
+  {
+    "devious": "ostob"
+  },
+  {
+    "fabulous": "ukke"
+  },
+  {
+    "morality": "spux"
+  },
+  {
+    "immorality": "ago"
+  },
+  {
+    "skin verb": "olang"
+  },
+  {
+    "skinny": "nugusm"
+  },
+  {
+    "narrow": "zesm"
+  },
+  {
+    "grief": "„gu"
+  },
+  {
+    "belt": "ˆngus"
+  },
+  {
+    "sandal": "angkasp"
+  },
+  {
+    "future": "exsmox"
+  },
+  {
+    "past": "snospda"
+  },
+  {
+    "present": "totsmab"
+  },
+  {
+    "bite": "ngul"
+  },
+  {
+    "split": "stutom"
+  },
+  {
+    "brash": "snogspo"
+  },
+  {
+    "brazen": "at“r"
+  },
+  {
+    "strangle": "sunga"
+  },
+  {
+    "gallows": "ungod"
+  },
+  {
+    "muscle": "rulasm"
+  },
+  {
+    "dim": "sloslud"
+  },
+  {
+    "spurt": "xosun"
+  },
+  {
+    "gravel": "asten"
+  },
+  {
+    "risk": "gonguk"
+  },
+  {
+    "chance": "onga"
+  },
+  {
+    "channel": "osnaz"
+  },
+  {
+    "mirth": "kunam"
+  },
+  {
+    "glee": "taslo"
+  },
+  {
+    "victim": "zubar"
+  },
+  {
+    "stranger": "uslosm"
+  },
+  {
+    "drab": "obmu"
+  },
+  {
+    "vision": "xƒgu"
+  },
+  {
+    "visionary": "tokla"
+  },
+  {
+    "oracle": "sn–n"
+  },
+  {
+    "utter": "utong"
+  },
+  {
+    "decide": "rosmat"
+  },
+  {
+    "decisive": "udob"
+  },
+  {
+    "special": "bostong"
+  },
+  {
+    "author": "ulxe"
+  },
+  {
+    "authority": "spƒb"
+  },
+  {
+    "portent": "ogusp"
+  },
+  {
+    "momentous": "zuspoz"
+  },
+  {
+    "infallible": "stalk“l"
+  },
+  {
+    "ambiguous": "murox"
+  },
+  {
+    "curious": "malla"
+  },
+  {
+    "obscure": "snun"
+  },
+  {
+    "obscene": "utlad"
+  },
+  {
+    "obstacle": "sosma"
+  },
+  {
+    "vulgar": "ega"
+  },
+  {
+    "ominous": "slus"
+  },
+  {
+    "island": "bungmo"
+  },
+  {
+    "church": "unom"
+  },
+  {
+    "temple": "sp“gmuk"
+  },
+  {
+    "cult": "ngobte"
+  },
+  {
+    "coven": "kus"
+  },
+  {
+    "sect": "spango"
+  },
+  {
+    "order group": "axusp"
+  },
+  {
+    "creed": "oxam"
+  },
+  {
+    "communion": "osluk"
+  },
+  {
+    "doctrine": "osnem"
+  },
+  {
+    "faith": "usmbaz"
+  },
+  {
+    "denomination": "kas"
+  },
+  {
+    "temple head": "guslen"
+  },
+  {
+    "occult": "slax"
+  },
+  {
+    "order concept": "spakmuz"
+  },
+  {
+    "faith loyalty": "tastor"
+  },
+  {
+    "guilt": "lostƒ"
+  },
+  {
+    "baby": "orspusm"
+  },
+  {
+    "bleed": "stonu"
+  },
+  {
+    "girl": "ostdu"
+  },
+  {
+    "boy": "nux"
+  },
+  {
+    "woman": "zusmusm"
+  },
+  {
+    "flag": "kunga"
+  },
+  {
+    "banner": "oslˆ"
+  },
+  {
+    "wreath": "lasla"
+  },
+  {
+    "standard flag": "b”kur"
+  },
+  {
+    "trumpet": "ob“"
+  },
+  {
+    "goal": "tud“sp"
+  },
+  {
+    "jail": "ax"
+  },
+  {
+    "prison": "zosla"
+  },
+  {
+    "library": "ruspdo"
+  },
+  {
+    "avalanche": "lonsust"
+  },
+  {
+    "stigma": "spen"
+  },
+  {
+    "slick": "xosten"
+  },
+  {
+    "talk": "zosbag"
+  },
+  {
+    "jailer": "ozos"
+  },
+  {
+    "still unmoving": "ola"
+  },
+  {
+    "calm": "spet"
+  },
+  {
+    "hush": "stut"
+  },
+  {
+    "laconic": "ostra"
+  },
+  {
+    "lull": "g“gust"
+  },
+  {
+    "mute": "gasnasp"
+  },
+  {
+    "noiseless": "toton"
+  },
+  {
+    "quiescent": "uspuz"
+  },
+  {
+    "quiet": "slosax"
+  },
+  {
+    "reticent": "aspu"
+  },
+  {
+    "saturnine": "”sle"
+  },
+  {
+    "speechless": "st–lul"
+  },
+  {
+    "taciturn": "sodsosm"
+  },
+  {
+    "fortune luck": "snuna"
+  },
+  {
+    "fortune wealth": "zangu"
+  },
+  {
+    "accident": "smaxa"
+  },
+  {
+    "circumstance": "xudlub"
+  },
+  {
+    "contingent": "–xag"
+  },
+  {
+    "contingency": "rospgum"
+  },
+  {
+    "coincidence": "zutul"
+  },
+  {
+    "fluke": "uxum"
+  },
+  {
+    "luck": "losno"
+  },
+  {
+    "certain": "smospe"
+  },
+  {
+    "uncertain": "oxa"
+  },
+  {
+    "fortuitous": "bubed"
+  },
+  {
+    "incidental": "ust”sp"
+  },
+  {
+    "amuse": "odsnun"
+  },
+  {
+    "pastime": "eb"
+  },
+  {
+    "distract annoy": "nan†"
+  },
+  {
+    "distraction game": "“sm"
+  },
+  {
+    "diversion game": "xono"
+  },
+  {
+    "divert detour": "gorost"
+  },
+  {
+    "recreation game": "adno"
+  },
+  {
+    "compete": "zex"
+  },
+  {
+    "contest": "ugu"
+  },
+  {
+    "match contest": "bosteb"
+  },
+  {
+    "match equal": "uspra"
+  },
+  {
+    "tournament": "zod"
+  },
+  {
+    "plan": "buru"
+  },
+  {
+    "scenario": "smodkod"
+  },
+  {
+    "strategy": "ngosteb"
+  },
+  {
+    "tactic": "omab"
+  },
+  {
+    "autonomy": "mong"
+  },
+  {
+    "emancipate": "sledsa"
+  },
+  {
+    "extricate": "takuk"
+  },
+  {
+    "impunity": "num"
+  },
+  {
+    "liberate": "angos"
+  },
+  {
+    "liberty": "spomu"
+  },
+  {
+    "release": "smosm"
+  },
+  {
+    "relieve": "mole"
+  },
+  {
+    "even": "kango"
+  },
+  {
+    "balance": "olos"
+  },
+  {
+    "equity": "eslo"
+  },
+  {
+    "equivalence": "osmo"
+  },
+  {
+    "parity": "besmor"
+  },
+  {
+    "stasis": "kastrag"
+  },
+  {
+    "symmetry": "urlut"
+  },
+  {
+    "equal": "x–ngu"
+  },
+  {
+    "harmony": "„lo"
+  },
+  {
+    "neutralize": "ospsƒs"
+  },
+  {
+    "neutral": "oxtu"
+  },
+  {
+    "stable unchanging": "snulut"
+  },
+  {
+    "lull mislead": "suxut"
+  },
+  {
+    "dour": "olok"
+  },
+  {
+    "gloom": "mado"
+  },
+  {
+    "severe": "obngut"
+  },
+  {
+    "glum": "asub"
+  },
+  {
+    "image": "nguslosp"
+  },
+  {
+    "shrine": "stodrus"
+  },
+  {
+    "sanctuary": "usper"
+  },
+  {
+    "monastery": "spol"
+  },
+  {
+    "convent": "m“sp"
+  },
+  {
+    "cathedral": "ozsosm"
+  },
+  {
+    "chapel": "rugbun"
+  },
+  {
+    "sanctum": "zong"
+  },
+  {
+    "inferno": "snok"
+  },
+  {
+    "conflagration": "spogu"
+  },
+  {
+    "flare": "lusnub"
+  },
+  {
+    "heat": "ronux"
+  },
+  {
+    "sand": "anga"
+  },
+  {
+    "pillar": "smomku"
+  },
+  {
+    "column": "rokub"
+  },
+  {
+    "arch noun": "rusmu"
+  },
+  {
+    "grotto": "nos"
+  },
+  {
+    "cavern": "aspƒd"
+  },
+  {
+    "depth": "gened"
+  },
+  {
+    "shade": "ozran"
+  },
+  {
+    "veil": "tongmul"
+  },
+  {
+    "relic": "snuk"
+  },
+  {
+    "umbra": "zospu"
+  },
+  {
+    "phantom": "kung"
+  },
+  {
+    "murk": "ebr†"
+  },
+  {
+    "faint intensity": "ˆl"
+  },
+  {
+    "faint verb": "zumu"
+  },
+  {
+    "somber": "tar"
+  },
+  {
+    "tenebrous": "bozur"
+  },
+  {
+    "morose": "ulom"
+  },
+  {
+    "lover": "ruspkes"
+  },
+  {
+    "beloved": "oxu"
+  },
+  {
+    "escort": "astu"
+  },
+  {
+    "suitor": "omzust"
+  },
+  {
+    "pungent": "ngurda"
+  },
+  {
+    "musty": "slud"
+  },
+  {
+    "infect": "snulmo"
+  },
+  {
+    "lesion": "uspo"
+  },
+  {
+    "afflict": "smestre"
+  },
+  {
+    "ache": "m“klo"
+  },
+  {
+    "epidemic": "nastu"
+  },
+  {
+    "fight": "asnu"
+  },
+  {
+    "scuffle": "rukam"
+  },
+  {
+    "yawn": "r”snus"
+  },
+  {
+    "action": "odlug"
+  },
+  {
+    "assault": "k”k"
+  },
+  {
+    "carnal": "unzos"
+  },
+  {
+    "strife": "tospas"
+  },
+  {
+    "combat": "nur"
+  },
+  {
+    "citadel": "kunur"
+  },
+  {
+    "city": "snog"
+  },
+  {
+    "town": "kabu"
+  },
+  {
+    "village": "masp"
+  },
+  {
+    "manor": "smusat"
+  },
+  {
+    "mansion": "odux"
+  },
+  {
+    "palace": "mosp"
+  },
+  {
+    "cottage": "„g"
+  },
+  {
+    "shack": "kareb"
+  },
+  {
+    "hut": "uxuz"
+  },
+  {
+    "hovel": "xosong"
+  },
+  {
+    "bastion": "sasal"
+  },
+  {
+    "furnace": "usmza"
+  },
+  {
+    "anvil": "umas"
+  },
+  {
+    "bridge": "romnu"
+  },
+  {
+    "safe": "uspung"
+  },
+  {
+    "goad": "asesm"
+  },
+  {
+    "machine": "osmust"
+  },
+  {
+    "flay": "zus"
+  },
+  {
+    "oil": "smatspo"
+  },
+  {
+    "suicide": "slexu"
+  },
+  {
+    "marble ball": "†bduz"
+  },
+  {
+    "bait": "zestto"
+  },
+  {
+    "lure": "ser"
+  },
+  {
+    "reward": "es"
+  },
+  {
+    "ward": "duzob"
+  },
+  {
+    "price": "uspsl“l"
+  },
+  {
+    "prince": "ngos"
+  },
+  {
+    "princess": "rasm"
+  },
+  {
+    "tempt": "uk”"
+  },
+  {
+    "spurn": "zusto"
+  },
+  {
+    "scorn": "kaslusp"
+  },
+  {
+    "contempt": "stras"
+  },
+  {
+    "affection": "kusnu"
+  },
+  {
+    "compassion": "usku"
+  },
+  {
+    "sacrifice": "ungel"
+  },
+  {
+    "charity": "okluk"
+  },
+  {
+    "cherish": "komu"
+  },
+  {
+    "trample": "ngusa"
+  },
+  {
+    "malice": "xuspgas"
+  },
+  {
+    "hatred": "snamoz"
+  },
+  {
+    "spite": "sletbu"
+  },
+  {
+    "shore": "omus"
+  },
+  {
+    "beach": "stasno"
+  },
+  {
+    "coast": "asngek"
+  },
+  {
+    "insect": "basusm"
+  },
+  {
+    "bug": "dongdu"
+  },
+  {
+    "critter": "spostoz"
+  },
+  {
+    "brute": "entust"
+  },
+  {
+    "pet": "amro"
+  },
+  {
+    "barbarian": "zursmu"
+  },
+  {
+    "harsh": "unsnuk"
+  },
+  {
+    "pristine": "b“nes"
+  },
+  {
+    "ferocity": "tast"
+  },
+  {
+    "barbarity": "ber"
+  },
+  {
+    "feral": "domo"
+  },
+  {
+    "fury": "lak‰"
+  },
+  {
+    "ruthless": "ozud"
+  },
+  {
+    "gore noun": "unƒm"
+  },
+  {
+    "champion": "umal"
+  },
+  {
+    "virtue": "ulug"
+  },
+  {
+    "scandal": "smunet"
+  },
+  {
+    "apogee": "ngonu"
+  },
+  {
+    "spire": "m‰zspog"
+  },
+  {
+    "spiral": "studam"
+  },
+  {
+    "climax": "moguk"
+  },
+  {
+    "climate": "lang"
+  },
+  {
+    "weather": "strobnod"
+  },
+  {
+    "crest": "ubspu"
+  },
+  {
+    "culminate": "koro"
+  },
+  {
+    "cusp": "suxo"
+  },
+  {
+    "most": "nusm"
+  },
+  {
+    "peak": "smustum"
+  },
+  {
+    "blunt": "ulxa"
+  },
+  {
+    "roof": "lud"
+  },
+  {
+    "ceiling": "berut"
+  },
+  {
+    "floor": "ublu"
+  },
+  {
+    "summit": "bamud"
+  },
+  {
+    "tip": "uled"
+  },
+  {
+    "top": "oxno"
+  },
+  {
+    "bottom": "odsnˆn"
+  },
+  {
+    "side": "negon"
+  },
+  {
+    "zenith": "dat"
+  },
+  {
+    "flank verb": "spodsta"
+  },
+  {
+    "pass mountain": "rorngal"
+  },
+  {
+    "pass verb": "”xo"
+  },
+  {
+    "passage": "sƒsm"
+  },
+  {
+    "corridor": "zadkel"
+  },
+  {
+    "hall": "ngug"
+  },
+  {
+    "gallery": "ngasmspo"
+  },
+  {
+    "galley": "uzgob"
+  },
+  {
+    "arena": "sponsm”st"
+  },
+  {
+    "armory": "lumab"
+  },
+  {
+    "assemble": "ngod"
+  },
+  {
+    "meet": "ugar"
+  },
+  {
+    "theater": "zuro"
+  },
+  {
+    "entrance": "str–b"
+  },
+  {
+    "exit": "osnor"
+  },
+  {
+    "entry": "spƒspo"
+  },
+  {
+    "vestibule": "uk†"
+  },
+  {
+    "frost": "snebgo"
+  },
+  {
+    "fever": "nunno"
+  },
+  {
+    "humid": "spang"
+  },
+  {
+    "humor": "strurku"
+  },
+  {
+    "comedy": "guz"
+  },
+  {
+    "sizzle": "nosmu"
+  },
+  {
+    "swelter": "sulo"
+  },
+  {
+    "warm": "obraz"
+  },
+  {
+    "torrid": "oslol"
+  },
+  {
+    "acrid": "l–spuz"
+  },
+  {
+    "dale": "aml–"
+  },
+  {
+    "dell": "kuspmosp"
+  },
+  {
+    "glade": "oslˆ"
+  },
+  {
+    "vale": "ngud"
+  },
+  {
+    "basin": "abusp"
+  },
+  {
+    "bowl": "xal"
+  },
+  {
+    "cavity": "struku"
+  },
+  {
+    "crater": "–sm–ng"
+  },
+  {
+    "den": "xolang"
+  },
+  {
+    "dent": "saslu"
+  },
+  {
+    "depress sad": "ostest"
+  },
+  {
+    "depression low": "tomo"
+  },
+  {
+    "dimple": "nor"
+  },
+  {
+    "dip": "spamo"
+  },
+  {
+    "dish": "ubu"
+  },
+  {
+    "excavate": "dudspung"
+  },
+  {
+    "groove": "loxsnosm"
+  },
+  {
+    "gulf sea": "ƒt"
+  },
+  {
+    "gulf pit": "nug"
+  },
+  {
+    "gulf distance": "stulu"
+  },
+  {
+    "distance": "mam"
+  },
+  {
+    "notch": "nozut"
+  },
+  {
+    "sag": "smust"
+  },
+  {
+    "scoop": "uspa"
+  },
+  {
+    "socket": "usma"
+  },
+  {
+    "trough": "ngadu"
+  },
+  {
+    "valley": "sm”xog"
+  },
+  {
+    "fence": "ama"
+  },
+  {
+    "barricade": "uros"
+  },
+  {
+    "blockade": "slos"
+  },
+  {
+    "board plank": "l„go"
+  },
+  {
+    "board get on": "slongus"
+  },
+  {
+    "plank": "xut"
+  },
+  {
+    "defend": "stexusm"
+  },
+  {
+    "defense": "oslox"
+  },
+  {
+    "dike": "mog"
+  },
+  {
+    "palisade": "ngospur"
+  },
+  {
+    "post": "ngoru"
+  },
+  {
+    "rampart": "stangu"
+  },
+  {
+    "stake": "adu"
+  },
+  {
+    "stop": "al"
+  },
+  {
+    "stockade": "slostest"
+  },
+  {
+    "abyss": "spos"
+  },
+  {
+    "chasm": "smatru"
+  },
+  {
+    "crevice": "‰sru"
+  },
+  {
+    "rift": "stoslug"
+  },
+  {
+    "fissure": "tosmstong"
+  },
+  {
+    "under": "sumspa"
+  },
+  {
+    "abysmal": "rosl”"
+  },
+  {
+    "submerge": "tomsu"
+  },
+  {
+    "cyclone": "tosnung"
+  },
+  {
+    "typhoon": "x”mlox"
+  },
+  {
+    "hurricane": "tosm"
+  },
+  {
+    "gale": "odmu"
+  },
+  {
+    "tornado": "muko"
+  },
+  {
+    "hail greet": "obu"
+  },
+  {
+    "hail ice": "spostnal"
+  },
+  {
+    "hale": "lˆzen"
+  },
+  {
+    "robust": "ospong"
+  },
+  {
+    "hardy": "slong"
+  },
+  {
+    "vigor": "botun"
+  },
+  {
+    "air": "xusmz–k"
+  },
+  {
+    "splash": "ath"
+  },
+  {
+    "dabble": "nax“b"
+  },
+  {
+    "douse": "spudta"
+  },
+  {
+    "drench": "oslosm"
+  },
+  {
+    "moist": "–rer"
+  },
+  {
+    "plunge": "bod"
+  },
+  {
+    "shower": "gƒxu"
+  },
+  {
+    "slop": "bul"
+  },
+  {
+    "slosh": "ozstur"
+  },
+  {
+    "soak": "lod"
+  },
+  {
+    "spatter": "otkel"
+  },
+  {
+    "splatter": "slaz"
+  },
+  {
+    "spray": "tostra"
+  },
+  {
+    "spread": "unug"
+  },
+  {
+    "sprinkle": "usl–r"
+  },
+  {
+    "twinkle": "tod"
+  },
+  {
+    "squirt": "sur"
+  },
+  {
+    "wad": "stroxzak"
+  },
+  {
+    "wade": "muspbo"
+  },
+  {
+    "wet": "ugust"
+  },
+  {
+    "fade": "snung"
+  },
+  {
+    "colorless": "odmo"
+  },
+  {
+    "blanch": "snod"
+  },
+  {
+    "bleach": "snorb–"
+  },
+  {
+    "blench": "osum"
+  },
+  {
+    "flinch": "ƒstong"
+  },
+  {
+    "appear": "arur"
+  },
+  {
+    "disappear": "slole"
+  },
+  {
+    "dissolve": "gasm"
+  },
+  {
+    "dull": "ngest"
+  },
+  {
+    "evaporate": "alum"
+  },
+  {
+    "luster": "gen"
+  },
+  {
+    "tone": "zuk†x"
+  },
+  {
+    "vanish": "spastrum"
+  },
+  {
+    "wash": "lulo"
+  },
+  {
+    "abate": "xubok"
+  },
+  {
+    "decline": "slol"
+  },
+  {
+    "deteriorate": "gesn”"
+  },
+  {
+    "diminish": "l“m–"
+  },
+  {
+    "disperse": "„gngu"
+  },
+  {
+    "droop": "zoslu"
+  },
+  {
+    "dwindle": "dusp"
+  },
+  {
+    "kindle": "omngo"
+  },
+  {
+    "stoke": "orar"
+  },
+  {
+    "poke": "rul"
+  },
+  {
+    "stir": "oga"
+  },
+  {
+    "feed": "“ngtum"
+  },
+  {
+    "fail": "stul"
+  },
+  {
+    "languish": "slurob"
+  },
+  {
+    "lessen": "snokuz"
+  },
+  {
+    "lesson": "stung"
+  },
+  {
+    "teach": "ungn“"
+  },
+  {
+    "mastery": "ukoz"
+  },
+  {
+    "perish": "gusp–"
+  },
+  {
+    "shrivel": "kosto"
+  },
+  {
+    "sink": "sposnu"
+  },
+  {
+    "taper": "rol"
+  },
+  {
+    "thin": "spusm"
+  },
+  {
+    "tire": "urab"
+  },
+  {
+    "wane": "ulut"
+  },
+  {
+    "weak": "tosno"
+  },
+  {
+    "wilt": "ulta"
+  },
+  {
+    "wither": "ngab"
+  },
+  {
+    "honor": "rum"
+  },
+  {
+    "adore": "loma"
+  },
+  {
+    "adulate": "ngag–s"
+  },
+  {
+    "celebrate": "axngu"
+  },
+  {
+    "confident": "susus"
+  },
+  {
+    "deference": "spongku"
+  },
+  {
+    "deity": "alsmust"
+  },
+  {
+    "distinct": "snosm"
+  },
+  {
+    "elevate": "sn–snad"
+  },
+  {
+    "esteem": "usˆk"
+  },
+  {
+    "exalt": "ozok"
+  },
+  {
+    "fame": "sluslu"
+  },
+  {
+    "fealty": "stang"
+  },
+  {
+    "homage": "osmung"
+  },
+  {
+    "mortal": "aspdo"
+  },
+  {
+    "immortal": "ostsnot"
+  },
+  {
+    "laud": "osla"
+  },
+  {
+    "obeisance": "ulbun"
+  },
+  {
+    "praise": "x“slo"
+  },
+  {
+    "prestige": "tata"
+  },
+  {
+    "renown": "oxƒsp"
+  },
+  {
+    "reputation": "sluk"
+  },
+  {
+    "tribute": "erxut"
+  },
+  {
+    "worship": "”r„"
+  },
+  {
+    "chastity": "zole"
+  },
+  {
+    "courage": "stobsa"
+  },
+  {
+    "decent": "usna"
+  },
+  {
+    "good": "zos"
+  },
+  {
+    "innocent": "m†sp"
+  },
+  {
+    "modest": "maspxen"
+  },
+  {
+    "principle": "odsnusp"
+  },
+  {
+    "pure": "rotsmam"
+  },
+  {
+    "righteousness": "osmob"
+  },
+  {
+    "truth": "ustrul"
+  },
+  {
+    "truthful": "ospsos"
+  },
+  {
+    "virgin": "zustun"
+  },
+  {
+    "virginity": "nangaz"
+  },
+  {
+    "hold": "oxstrar"
+  },
+  {
+    "scald": "dusmud"
+  },
+  {
+    "scale verb": "–d"
+  },
+  {
+    "scale skin": "reng"
+  },
+  {
+    "clan": "osnog"
+  },
+  {
+    "labyrinth": "langul"
+  },
+  {
+    "maze": "kure"
+  },
+  {
+    "web": "ngostong"
+  },
+  {
+    "crowd": "okmo"
+  },
+  {
+    "family": "asl”x"
+  },
+  {
+    "kin": "orax"
+  },
+  {
+    "mob": "nerom"
+  },
+  {
+    "organ": "baxxe"
+  },
+  {
+    "organize": "xaz"
+  },
+  {
+    "mesh": "zugu"
+  },
+  {
+    "tangle": "uz“ng"
+  },
+  {
+    "entangle": "oxang"
+  },
+  {
+    "puzzle": "agak"
+  },
+  {
+    "perplex": "m„llu"
+  },
+  {
+    "quandary": "nunlod"
+  },
+  {
+    "combine": "bosu"
+  },
+  {
+    "flicker": "ngob"
+  },
+  {
+    "brand": "uslot"
+  },
+  {
+    "singe": "stot"
+  },
+  {
+    "sear": "slodse"
+  },
+  {
+    "scorch": "snumn”"
+  },
+  {
+    "roast": "uspen"
+  },
+  {
+    "parch": "lunguk"
+  },
+  {
+    "ignite": "kustro"
+  },
+  {
+    "incinerate": "baxstut"
+  },
+  {
+    "glow": "sad"
+  },
+  {
+    "cremate": "ukas"
+  },
+  {
+    "faction": "osmrur"
+  },
+  {
+    "crew": "ezr–"
+  },
+  {
+    "vessel": "ngur"
+  },
+  {
+    "league group": "roso"
+  },
+  {
+    "cooperate": "oknus"
+  },
+  {
+    "group": "sn†d"
+  },
+  {
+    "gang": "odot"
+  },
+  {
+    "fellowship": "xol"
+  },
+  {
+    "partner": "smuksmum"
+  },
+  {
+    "riddle": "ng“rdax"
+  },
+  {
+    "rout": "remzu"
+  },
+  {
+    "scrape": "odna"
+  },
+  {
+    "scrap": "smunok"
+  },
+  {
+    "scour": "„z"
+  },
+  {
+    "scrub": "gata"
+  },
+  {
+    "shake": "tuz"
+  },
+  {
+    "soap": "snubez"
+  },
+  {
+    "sponge": "gestrast"
+  },
+  {
+    "sweep": "osl”"
+  },
+  {
+    "whisker": "aro"
+  },
+  {
+    "fasten": "rogux"
+  },
+  {
+    "winnow": "spaspgul"
+  },
+  {
+    "wipe": "slolspo"
+  },
+  {
+    "clench": "susn–"
+  },
+  {
+    "clinch": "n–ng"
+  },
+  {
+    "clout": "snosstrosp"
+  },
+  {
+    "clutch": "kasta"
+  },
+  {
+    "dominate": "zuko"
+  },
+  {
+    "dominion": "snumud"
+  },
+  {
+    "grasp": "spubta"
+  },
+  {
+    "influence": "sor"
+  },
+  {
+    "own": "doxon"
+  },
+  {
+    "ownership": "esmen"
+  },
+  {
+    "tenacity": "st“rngut"
+  },
+  {
+    "bind": "xedub"
+  },
+  {
+    "carry": "uta"
+  },
+  {
+    "catch": "smabek"
+  },
+  {
+    "confine": "otak"
+  },
+  {
+    "contain": "ustˆx"
+  },
+  {
+    "cradle": "dusmun"
+  },
+  {
+    "embrace": "rombu"
+  },
+  {
+    "pool": "tostgud"
+  },
+  {
+    "society": "ungsmol"
+  },
+  {
+    "circle": "strox"
+  },
+  {
+    "square": "olxo"
+  },
+  {
+    "triangle": "gonga"
+  },
+  {
+    "connect": "„kon"
+  },
+  {
+    "merge": "zurdos"
+  },
+  {
+    "confuse": "stestrak"
+  },
+  {
+    "complex": "guspo"
+  },
+  {
+    "meander": "tun"
+  },
+  {
+    "muddle": "ak„z"
+  },
+  {
+    "bewilder": "ostrug"
+  },
+  {
+    "morass": "ebol"
+  },
+  {
+    "problem": "ngusmsta"
+  },
+  {
+    "intricate": "sermok"
+  },
+  {
+    "flush": "tango"
+  },
+  {
+    "mop": "exa"
+  },
+  {
+    "polish": "lubam"
+  },
+  {
+    "purge": "dedge"
+  },
+  {
+    "rasp": "enga"
+  },
+  {
+    "rinse": "uxmod"
+  },
+  {
+    "band object": "dozo"
+  },
+  {
+    "band group": "anketh"
+  },
+  {
+    "tall": "ƒs"
+  },
+  {
+    "short": "“bang"
+  },
+  {
+    "bulbous": "usm"
+  },
+  {
+    "bulb": "ulno"
+  },
+  {
+    "ally": "oslem"
+  },
+  {
+    "alliance": "ongxa"
+  },
+  {
+    "allegiance": "spamngasp"
+  },
+  {
+    "coalition": "spubxu"
+  },
+  {
+    "coal": "egkast"
+  },
+  {
+    "enjoy": "sluz"
+  },
+  {
+    "fondle": "smur"
+  },
+  {
+    "handle object": "bon"
+  },
+  {
+    "handle verb": "smor"
+  },
+  {
+    "imprison": "nogek"
+  },
+  {
+    "nourish": "–mu"
+  },
+  {
+    "squeeze": "sukxusm"
+  },
+  {
+    "trammel": "ommul"
+  },
+  {
+    "vice": "ngoso"
+  },
+  {
+    "vise": "snol"
+  },
+  {
+    "defect fault": "nelo"
+  },
+  {
+    "perfect": "m”smlo"
+  },
+  {
+    "gem": "straza"
+  },
+  {
+    "jewel": "etog"
+  },
+  {
+    "wield": "”l"
+  },
+  {
+    "wring": "azu"
+  },
+  {
+    "conjunction": "ostrusm"
+  },
+  {
+    "blot": "goslust"
+  },
+  {
+    "blow": "d”k"
+  },
+  {
+    "brush": "stato"
+  },
+  {
+    "clarify": "studu"
+  },
+  {
+    "cleanse": "dugut"
+  },
+  {
+    "dredge": "tulo"
+  },
+  {
+    "erase": "ubosm"
+  },
+  {
+    "morsel": "azr”sm"
+  },
+  {
+    "mongrel": "tusnom"
+  },
+  {
+    "tender": "sp‰gspung"
+  },
+  {
+    "urge": "smusla"
+  },
+  {
+    "mechanism": "amar"
+  },
+  {
+    "smear": "onxo"
+  },
+  {
+    "tattoo": "stosm–"
+  },
+  {
+    "weather verb": "ozu"
+  },
+  {
+    "crux": "xeso"
+  },
+  {
+    "peek": "snuzaz"
+  },
+  {
+    "sneak": "lozasp"
+  },
+  {
+    "attic": "umsnosm"
+  },
+  {
+    "basement": "urust"
+  },
+  {
+    "dearth": "laz"
+  },
+  {
+    "apex": "stutus"
+  },
+  {
+    "nadir": "kusnod"
+  },
+  {
+    "tunnel": "zut“sp"
+  },
+  {
+    "entrance verb": "atngal"
+  },
+  {
+    "delight": "z†n"
+  },
+  {
+    "joy": "on“sm"
+  },
+  {
+    "frigid": "kob"
+  },
+  {
+    "ankle": "xoru"
+  },
+  {
+    "elbow": "espu"
+  },
+  {
+    "passion": "snukang"
+  },
+  {
+    "ardent": "stusang"
+  },
+  {
+    "stream": "smangba"
+  },
+  {
+    "bowel gut": "lospad"
+  },
+  {
+    "bowel interior": "uspum"
+  },
+  {
+    "drill bore": "oslar"
+  },
+  {
+    "drill routine": "ruspzuz"
+  },
+  {
+    "bore drill": "edzum"
+  },
+  {
+    "boredom": "nuslu"
+  },
+  {
+    "fleck": "ungngo"
+  },
+  {
+    "spot": "spuspsot"
+  },
+  {
+    "dot": "erosm"
+  },
+  {
+    "create": "sluda"
+  },
+  {
+    "poem": "sam"
+  },
+  {
+    "poetry": "tastro"
+  },
+  {
+    "poet": "toz–x"
+  },
+  {
+    "scribe": "gusno"
+  },
+  {
+    "monk": "oddosp"
+  },
+  {
+    "hermit": "ongral"
+  },
+  {
+    "recluse": "„stspub"
+  },
+  {
+    "name": "osnuk"
+  },
+  {
+    "language": "xusplu"
+  },
+  {
+    "phrase": "obxog"
+  },
+  {
+    "rhyme": "osnung"
+  },
+  {
+    "rhythm": "dost"
+  },
+  {
+    "verse": "ospog"
+  },
+  {
+    "drum verb": "smusmt„"
+  },
+  {
+    "creature": "los"
+  },
+  {
+    "snail": "snusl–"
+  },
+  {
+    "vine": "alba"
+  },
+  {
+    "squash": "assmo"
+  },
+  {
+    "never": "ustab"
+  },
+  {
+    "dwell": "lustu"
+  },
+  {
+    "habit": "snamusm"
+  },
+  {
+    "chew": "smumub"
+  },
+  {
+    "swallow": "nabok"
+  },
+  {
+    "disembowel": "spus"
+  },
+  {
+    "eviscerate": "slospka"
+  },
+  {
+    "rapid": "sposlƒr"
+  },
+  {
+    "medicine": "udam"
+  },
+  {
+    "heal": "nozam"
+  },
+  {
+    "sell": "zongsmo"
+  },
+  {
+    "market": "uxslux"
+  },
+  {
+    "slow": "agkud"
+  },
+  {
+    "mire": "zorsto"
+  },
+  {
+    "admire": "agsm“ng"
+  },
+  {
+    "dirge": "udbod"
+  },
+  {
+    "lament": "”spuk"
+  },
+  {
+    "funeral": "lat"
+  },
+  {
+    "quest": "osmod"
+  },
+  {
+    "adventure": "mus”r"
+  },
+  {
+    "mourn": "“mo"
+  },
+  {
+    "morning": "smungras"
+  },
+  {
+    "bulwark": "ngolu"
+  },
+  {
+    "cosmos": "sostrot"
+  },
+  {
+    "anguish": "sasmok"
+  },
+  {
+    "taut": "solom"
+  },
+  {
+    "deify": "nul"
+  },
+  {
+    "infamy": "konab"
+  },
+  {
+    "mortality": "udun"
+  },
+  {
+    "immortality": "buspmu"
+  },
+  {
+    "mortify": "stus"
+  },
+  {
+    "obey": "ustog"
+  },
+  {
+    "worshipper": "ebe"
+  },
+  {
+    "riddle holes": "ospgu"
+  },
+  {
+    "dwelling": "musp"
+  },
+  {
+    "disembowelment": "aspna"
+  },
+  {
+    "evisceration": "snosno"
+  },
+  {
+    "healing": "ospmuz"
+  },
+  {
+    "admiration": "uzsmu"
+  },
+  {
+    "conflict": "uzo"
+  },
+  {
+    "attack": "umuz"
+  },
+  {
+    "onslaught": "utu"
+  },
+  {
+    "tree": "tonspe"
+  },
+  {
+    "amber": "rud"
+  },
+  {
+    "amethyst": "exost"
+  },
+  {
+    "aqua": "ngospngor"
+  },
+  {
+    "aquamarine": "ek–ng"
+  },
+  {
+    "gray": "b”su"
+  },
+  {
+    "auburn": "xadel"
+  },
+  {
+    "azure": "ongngu"
+  },
+  {
+    "beige": "uxgol"
+  },
+  {
+    "brass": "orbuk"
+  },
+  {
+    "brown": "urso"
+  },
+  {
+    "buff": "nukso"
+  },
+  {
+    "sienna": "ugsmu"
+  },
+  {
+    "umber": "aluz"
+  },
+  {
+    "cardinal_color": "somspu"
+  },
+  {
+    "carmine": "suspot"
+  },
+  {
+    "cerulean": "k“snag"
+  },
+  {
+    "charcoal": "stuza"
+  },
+  {
+    "chartreuse": "“d"
+  },
+  {
+    "chestnut": "ukad"
+  },
+  {
+    "chocolate": "slastda"
+  },
+  {
+    "cinnamon": "luzso"
+  },
+  {
+    "cobalt": "smun"
+  },
+  {
+    "indigo": "mob“t"
+  },
+  {
+    "olive": "dum"
+  },
+  {
+    "pink": "dokem"
+  },
+  {
+    "scarlet": "elsmot"
+  },
+  {
+    "tan": "sak"
+  },
+  {
+    "ecru": "oxgu"
+  },
+  {
+    "emerald": "taxasm"
+  },
+  {
+    "flax": "non–"
+  },
+  {
+    "fuchsia": "slokde"
+  },
+  {
+    "goldenrod": "ostrum"
+  },
+  {
+    "heliotrope": "“ko"
+  },
+  {
+    "lavender": "ume"
+  },
+  {
+    "blush": "aslan"
+  },
+  {
+    "lemon": "gokgo"
+  },
+  {
+    "lilac": "dastbu"
+  },
+  {
+    "lime": "xar"
+  },
+  {
+    "mahogany": "stusmex"
+  },
+  {
+    "maroon_color": "st”tba"
+  },
+  {
+    "mauve": "soxor"
+  },
+  {
+    "taupe": "stasna"
+  },
+  {
+    "mint": "nox"
+  },
+  {
+    "moss": "ozosm"
+  },
+  {
+    "ochre": "alro"
+  },
+  {
+    "orange": "tustong"
+  },
+  {
+    "periwinkle": "ngusna"
+  },
+  {
+    "plum": "sluspen"
+  },
+  {
+    "puce": "omku"
+  },
+  {
+    "pumpkin": "rezsput"
+  },
+  {
+    "russet": "unum"
+  },
+  {
+    "saffron": "ongox"
+  },
+  {
+    "sepia": "xutzest"
+  },
+  {
+    "teal": "astga"
+  },
+  {
+    "turquoise": "galu"
+  },
+  {
+    "vermilion": "ostrob"
+  },
+  {
+    "path": "snust"
+  },
+  {
+    "threat": "olgo"
+  },
+  {
+    "warning": "nusta"
+  },
+  {
+    "fate": "rustu"
+  },
+  {
+    "destiny": "lusmza"
+  },
+  {
+    "horror": "dang"
+  },
+  {
+    "little": "elu"
+  },
+  {
+    "early": "snexosp"
+  },
+  {
+    "late": "ukus"
+  },
+  {
+    "life": "st–m”"
+  },
+  {
+    "cheese": "ursus"
+  },
+  {
+    "figure_object": "spospra"
+  },
+  {
+    "hope": "osmost"
+  },
+  {
+    "body": "ured"
+  },
+  {
+    "walk": "gobum"
+  },
+  {
+    "hour": "songob"
+  },
+  {
+    "sit": "kuklur"
+  },
+  {
+    "moment": "tuzngag"
+  },
+  {
+    "beauty": "ukkar"
+  },
+  {
+    "judge": "amul"
+  },
+  {
+    "wish": "xoku"
+  },
+  {
+    "respect": "ozg‰l"
+  },
+  {
+    "mark": "stam"
+  },
+  {
+    "heavy": "seg"
+  },
+  {
+    "trial": "m”x"
+  },
+  {
+    "practice": "nosbu"
+  },
+  {
+    "end": "xano"
+  },
+  {
+    "start": "aspngo"
+  },
+  {
+    "begin": "usl“x"
+  },
+  {
+    "birth": "egu"
+  },
+  {
+    "learn": "sobus"
+  },
+  {
+    "mischief": "xumxu"
+  },
+  {
+    "wisdom": "zare"
+  },
+  {
+    "know": "strag"
+  },
+  {
+    "knowledge": "amos"
+  },
+  {
+    "crack": "kol"
+  },
+  {
+    "shatter": "usnem"
+  },
+  {
+    "leap": "stekug"
+  },
+  {
+    "jump": "stoxus"
+  },
+  {
+    "dive": "lustot"
+  },
+  {
+    "vault verb": "xagnom"
+  },
+  {
+    "vault place": "”tak"
+  },
+  {
+    "treasury": "uzto"
+  },
+  {
+    "betray": "t“ng"
+  },
+  {
+    "treason": "uluz"
+  },
+  {
+    "reason": "xonzom"
+  },
+  {
+    "squat": "ebro"
+  },
+  {
+    "festival": "ˆzslust"
+  }
+]
