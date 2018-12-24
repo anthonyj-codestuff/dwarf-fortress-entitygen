@@ -1,0 +1,8782 @@
+[
+  {
+    "original": "abbey",
+    "translated": "cebela"
+  },
+  {
+    "original": "ace",
+    "translated": "adi"
+  },
+  {
+    "original": "act",
+    "translated": "ar¢"
+  },
+  {
+    "original": "after",
+    "translated": "ifife"
+  },
+  {
+    "original": "age",
+    "translated": "eyo"
+  },
+  {
+    "original": "ageless",
+    "translated": "datha"
+  },
+  {
+    "original": "ale",
+    "translated": "warerš"
+  },
+  {
+    "original": "ancient",
+    "translated": "fathinu"
+  },
+  {
+    "original": "angel",
+    "translated": "thili"
+  },
+  {
+    "original": "anger",
+    "translated": "fomire"
+  },
+  {
+    "original": "animal",
+    "translated": "fela"
+  },
+  {
+    "original": "ape",
+    "translated": "aweme"
+  },
+  {
+    "original": "apple",
+    "translated": "fena"
+  },
+  {
+    "original": "arch",
+    "translated": "˜aniye"
+  },
+  {
+    "original": "arm",
+    "translated": "atho"
+  },
+  {
+    "original": "armor",
+    "translated": "datome"
+  },
+  {
+    "original": "arrow",
+    "translated": "lari"
+  },
+  {
+    "original": "artifice",
+    "translated": "aratha"
+  },
+  {
+    "original": "ash",
+    "translated": "imeri"
+  },
+  {
+    "original": "aunt",
+    "translated": "th—na"
+  },
+  {
+    "original": "aura",
+    "translated": "arazi"
+  },
+  {
+    "original": "autumn",
+    "translated": "fidale"
+  },
+  {
+    "original": "awe-inspiring",
+    "translated": "tarathe"
+  },
+  {
+    "original": "axe",
+    "translated": "cuthefi"
+  },
+  {
+    "original": "back",
+    "translated": "cede"
+  },
+  {
+    "original": "bad",
+    "translated": "otoga"
+  },
+  {
+    "original": "bald",
+    "translated": "dinade"
+  },
+  {
+    "original": "bake",
+    "translated": "cenopu"
+  },
+  {
+    "original": "ball",
+    "translated": "šle"
+  },
+  {
+    "original": "bane",
+    "translated": "timafi"
+  },
+  {
+    "original": "bar",
+    "translated": "emu"
+  },
+  {
+    "original": "barb",
+    "translated": "£pe"
+  },
+  {
+    "original": "bath",
+    "translated": "amama"
+  },
+  {
+    "original": "battle",
+    "translated": "thafatha"
+  },
+  {
+    "original": "beak",
+    "translated": "etini"
+  },
+  {
+    "original": "beast",
+    "translated": "le"
+  },
+  {
+    "original": "bear",
+    "translated": "atha"
+  },
+  {
+    "original": "bear_verb",
+    "translated": "alo"
+  },
+  {
+    "original": "bee",
+    "translated": "ave˜a"
+  },
+  {
+    "original": "beer",
+    "translated": "mafina"
+  },
+  {
+    "original": "beetle",
+    "translated": "pama"
+  },
+  {
+    "original": "beguiler",
+    "translated": "math£va"
+  },
+  {
+    "original": "belch",
+    "translated": "bulifo"
+  },
+  {
+    "original": "berry",
+    "translated": "ada"
+  },
+  {
+    "original": "big",
+    "translated": "mamo"
+  },
+  {
+    "original": "bile",
+    "translated": "icithi"
+  },
+  {
+    "original": "bin",
+    "translated": "masa"
+  },
+  {
+    "original": "bird",
+    "translated": "ar¡le"
+  },
+  {
+    "original": "black",
+    "translated": "opa"
+  },
+  {
+    "original": "blade",
+    "translated": "eli"
+  },
+  {
+    "original": "blaze",
+    "translated": "mifava"
+  },
+  {
+    "original": "blind",
+    "translated": "nanotha"
+  },
+  {
+    "original": "blister",
+    "translated": "licesi"
+  },
+  {
+    "original": "bloat",
+    "translated": "oma"
+  },
+  {
+    "original": "blood",
+    "translated": "cameda"
+  },
+  {
+    "original": "bloody",
+    "translated": "cida"
+  },
+  {
+    "original": "blossom",
+    "translated": "lolama"
+  },
+  {
+    "original": "blue",
+    "translated": "itho"
+  },
+  {
+    "original": "boar",
+    "translated": "lebeyu"
+  },
+  {
+    "original": "boat",
+    "translated": "efeye"
+  },
+  {
+    "original": "bodice",
+    "translated": "lemathe"
+  },
+  {
+    "original": "bog",
+    "translated": "abure"
+  },
+  {
+    "original": "boil",
+    "translated": "camaba"
+  },
+  {
+    "original": "boil_v",
+    "translated": "afatha"
+  },
+  {
+    "original": "bold",
+    "translated": "i˜e"
+  },
+  {
+    "original": "bolt",
+    "translated": "ene"
+  },
+  {
+    "original": "bone",
+    "translated": "one"
+  },
+  {
+    "original": "book",
+    "translated": "soya"
+  },
+  {
+    "original": "boot",
+    "translated": "emudi"
+  },
+  {
+    "original": "bother",
+    "translated": "bareca"
+  },
+  {
+    "original": "bow",
+    "translated": "ram¡"
+  },
+  {
+    "original": "bow_verb",
+    "translated": "thiwa"
+  },
+  {
+    "original": "brain",
+    "translated": "ereni"
+  },
+  {
+    "original": "breach",
+    "translated": "fecaci"
+  },
+  {
+    "original": "breeches",
+    "translated": "niriwa"
+  },
+  {
+    "original": "bread",
+    "translated": "medo"
+  },
+  {
+    "original": "break",
+    "translated": "rire"
+  },
+  {
+    "original": "breakfast",
+    "translated": "enele"
+  },
+  {
+    "original": "breath",
+    "translated": "larna"
+  },
+  {
+    "original": "breed",
+    "translated": "erise"
+  },
+  {
+    "original": "brew",
+    "translated": "uyira"
+  },
+  {
+    "original": "bride",
+    "translated": "awiri"
+  },
+  {
+    "original": "bridle",
+    "translated": "bimawa"
+  },
+  {
+    "original": "bright",
+    "translated": "cele"
+  },
+  {
+    "original": "bristle",
+    "translated": "femeli"
+  },
+  {
+    "original": "brilliant",
+    "translated": "v¡˜o"
+  },
+  {
+    "original": "brim",
+    "translated": "fita"
+  },
+  {
+    "original": "broil",
+    "translated": "facic‚"
+  },
+  {
+    "original": "brother",
+    "translated": "oleme"
+  },
+  {
+    "original": "brunch",
+    "translated": "fetili"
+  },
+  {
+    "original": "buck",
+    "translated": "futace"
+  },
+  {
+    "original": "buckle",
+    "translated": "lete"
+  },
+  {
+    "original": "bunch",
+    "translated": "med‚"
+  },
+  {
+    "original": "burden",
+    "translated": "curo"
+  },
+  {
+    "original": "burn",
+    "translated": "cilole"
+  },
+  {
+    "original": "bury",
+    "translated": "nula"
+  },
+  {
+    "original": "bush",
+    "translated": "alithi"
+  },
+  {
+    "original": "bushel",
+    "translated": "ifi"
+  },
+  {
+    "original": "bust_noun",
+    "translated": "sasifi"
+  },
+  {
+    "original": "bust_verb",
+    "translated": "thaba"
+  },
+  {
+    "original": "business",
+    "translated": "cuseni"
+  },
+  {
+    "original": "busy",
+    "translated": "yicethu"
+  },
+  {
+    "original": "butcher",
+    "translated": "uwale"
+  },
+  {
+    "original": "butter",
+    "translated": "necitho"
+  },
+  {
+    "original": "butterfly",
+    "translated": "ithithe"
+  },
+  {
+    "original": "button",
+    "translated": "vaca"
+  },
+  {
+    "original": "buzzard",
+    "translated": "acithe"
+  },
+  {
+    "original": "cackle",
+    "translated": "noca"
+  },
+  {
+    "original": "cad",
+    "translated": "beyafe"
+  },
+  {
+    "original": "cage",
+    "translated": "of£ru"
+  },
+  {
+    "original": "cake",
+    "translated": "cefira"
+  },
+  {
+    "original": "call",
+    "translated": "mivere"
+  },
+  {
+    "original": "camp",
+    "translated": "imen‚"
+  },
+  {
+    "original": "cancer",
+    "translated": "mavi"
+  },
+  {
+    "original": "candle",
+    "translated": "erela"
+  },
+  {
+    "original": "candy",
+    "translated": "lire"
+  },
+  {
+    "original": "canker",
+    "translated": "remofe"
+  },
+  {
+    "original": "canyon",
+    "translated": "gica"
+  },
+  {
+    "original": "carnage",
+    "translated": "fathiri"
+  },
+  {
+    "original": "casket",
+    "translated": "radi"
+  },
+  {
+    "original": "castle",
+    "translated": "tayo"
+  },
+  {
+    "original": "cat",
+    "translated": "lin"
+  },
+  {
+    "original": "cave",
+    "translated": "garetho"
+  },
+  {
+    "original": "cell",
+    "translated": "rufa"
+  },
+  {
+    "original": "chain",
+    "translated": "os‚fi"
+  },
+  {
+    "original": "chant",
+    "translated": "ayilo"
+  },
+  {
+    "original": "chaos",
+    "translated": "thevalo"
+  },
+  {
+    "original": "chamber",
+    "translated": "zole"
+  },
+  {
+    "original": "char",
+    "translated": "imida"
+  },
+  {
+    "original": "charm",
+    "translated": "methila"
+  },
+  {
+    "original": "child",
+    "translated": "imi"
+  },
+  {
+    "original": "chill",
+    "translated": "pini"
+  },
+  {
+    "original": "chip_noun",
+    "translated": "casi"
+  },
+  {
+    "original": "chip_verb",
+    "translated": "amir¡"
+  },
+  {
+    "original": "chirp",
+    "translated": "rira"
+  },
+  {
+    "original": "choke",
+    "translated": "oneca"
+  },
+  {
+    "original": "chop",
+    "translated": "riquethi"
+  },
+  {
+    "original": "chuck",
+    "translated": "ladatha"
+  },
+  {
+    "original": "cinder",
+    "translated": "wšme"
+  },
+  {
+    "original": "clam",
+    "translated": "vera"
+  },
+  {
+    "original": "clap",
+    "translated": "ora"
+  },
+  {
+    "original": "clasp",
+    "translated": "lama"
+  },
+  {
+    "original": "claw",
+    "translated": "ef‚"
+  },
+  {
+    "original": "clear",
+    "translated": "thema"
+  },
+  {
+    "original": "clearing",
+    "translated": "famime"
+  },
+  {
+    "original": "cleave",
+    "translated": "rath"
+  },
+  {
+    "original": "cling",
+    "translated": "nefu˜e"
+  },
+  {
+    "original": "cloak",
+    "translated": "newo"
+  },
+  {
+    "original": "clobber",
+    "translated": "naci"
+  },
+  {
+    "original": "clock",
+    "translated": "arice"
+  },
+  {
+    "original": "clod",
+    "translated": "idare"
+  },
+  {
+    "original": "cloister",
+    "translated": "nethale"
+  },
+  {
+    "original": "closet",
+    "translated": "madeci"
+  },
+  {
+    "original": "club",
+    "translated": "mepa"
+  },
+  {
+    "original": "cluster",
+    "translated": "nali"
+  },
+  {
+    "original": "clutter",
+    "translated": "ifeta"
+  },
+  {
+    "original": "cobra",
+    "translated": "vicira"
+  },
+  {
+    "original": "coil",
+    "translated": "yila"
+  },
+  {
+    "original": "cold",
+    "translated": "efil—"
+  },
+  {
+    "original": "color",
+    "translated": "mima"
+  },
+  {
+    "original": "comet",
+    "translated": "amizo"
+  },
+  {
+    "original": "conqueror",
+    "translated": "vacathi"
+  },
+  {
+    "original": "cook",
+    "translated": "othi"
+  },
+  {
+    "original": "cover",
+    "translated": "thefama"
+  },
+  {
+    "original": "cotton",
+    "translated": "ethe"
+  },
+  {
+    "original": "couple",
+    "translated": "ana"
+  },
+  {
+    "original": "crab",
+    "translated": "ditari"
+  },
+  {
+    "original": "crawl",
+    "translated": "awidi"
+  },
+  {
+    "original": "craze",
+    "translated": "amati"
+  },
+  {
+    "original": "crazy",
+    "translated": "mala˜—"
+  },
+  {
+    "original": "cream",
+    "translated": "yici"
+  },
+  {
+    "original": "creek",
+    "translated": "thime"
+  },
+  {
+    "original": "creep",
+    "translated": "coni"
+  },
+  {
+    "original": "creepy",
+    "translated": "cipone"
+  },
+  {
+    "original": "crescent",
+    "translated": "corire"
+  },
+  {
+    "original": "cross_noun",
+    "translated": "arifi"
+  },
+  {
+    "original": "cross_verb",
+    "translated": "cuna"
+  },
+  {
+    "original": "cross_adj",
+    "translated": "fafode"
+  },
+  {
+    "original": "crow",
+    "translated": "minaro"
+  },
+  {
+    "original": "crown",
+    "translated": "iminu"
+  },
+  {
+    "original": "crucify",
+    "translated": "afica"
+  },
+  {
+    "original": "crumble",
+    "translated": "celedo"
+  },
+  {
+    "original": "crush",
+    "translated": "utha"
+  },
+  {
+    "original": "crusher",
+    "translated": "athala"
+  },
+  {
+    "original": "cry",
+    "translated": "nunera"
+  },
+  {
+    "original": "crypt",
+    "translated": "l•mifo"
+  },
+  {
+    "original": "crystal",
+    "translated": "y¡lo"
+  },
+  {
+    "original": "cuddle",
+    "translated": "thefefe"
+  },
+  {
+    "original": "cudgel",
+    "translated": "mane"
+  },
+  {
+    "original": "cup",
+    "translated": "dima"
+  },
+  {
+    "original": "curse",
+    "translated": "birštha"
+  },
+  {
+    "original": "cut",
+    "translated": "raca"
+  },
+  {
+    "original": "cyst",
+    "translated": "miyufa"
+  },
+  {
+    "original": "dance",
+    "translated": "rimame"
+  },
+  {
+    "original": "dangle",
+    "translated": "fathe"
+  },
+  {
+    "original": "dank",
+    "translated": "nawona"
+  },
+  {
+    "original": "dagger",
+    "translated": "acita"
+  },
+  {
+    "original": "dark",
+    "translated": "mari"
+  },
+  {
+    "original": "date_fruit",
+    "translated": "i˜i"
+  },
+  {
+    "original": "date_verb",
+    "translated": "rale"
+  },
+  {
+    "original": "dawn",
+    "translated": "alino"
+  },
+  {
+    "original": "day",
+    "translated": "ira"
+  },
+  {
+    "original": "dead",
+    "translated": "ana˜a"
+  },
+  {
+    "original": "dear",
+    "translated": "rani"
+  },
+  {
+    "original": "death",
+    "translated": "rethi"
+  },
+  {
+    "original": "decay",
+    "translated": "veno"
+  },
+  {
+    "original": "deceiver",
+    "translated": "vemini"
+  },
+  {
+    "original": "deep",
+    "translated": "šna"
+  },
+  {
+    "original": "deer",
+    "translated": "liy˜i"
+  },
+  {
+    "original": "demon",
+    "translated": "slevina"
+  },
+  {
+    "original": "despair",
+    "translated": "nopo"
+  },
+  {
+    "original": "destroyer",
+    "translated": "carili"
+  },
+  {
+    "original": "destruction",
+    "translated": "lebatha"
+  },
+  {
+    "original": "devil",
+    "translated": "zecalo"
+  },
+  {
+    "original": "devourer",
+    "translated": "famolo"
+  },
+  {
+    "original": "dine",
+    "translated": "esi"
+  },
+  {
+    "original": "dinner",
+    "translated": "nabi"
+  },
+  {
+    "original": "dirt",
+    "translated": "orafi"
+  },
+  {
+    "original": "ditch",
+    "translated": "nili"
+  },
+  {
+    "original": "dog",
+    "translated": "macetha"
+  },
+  {
+    "original": "domestic",
+    "translated": "wotha"
+  },
+  {
+    "original": "donkey",
+    "translated": "ceriva"
+  },
+  {
+    "original": "doom",
+    "translated": "emura"
+  },
+  {
+    "original": "door",
+    "translated": "be˜a"
+  },
+  {
+    "original": "dragon",
+    "translated": "vutheni"
+  },
+  {
+    "original": "drain",
+    "translated": "fana"
+  },
+  {
+    "original": "drawl",
+    "translated": "paru"
+  },
+  {
+    "original": "dreg",
+    "translated": "ofetha"
+  },
+  {
+    "original": "dress_clothing",
+    "translated": "mimire"
+  },
+  {
+    "original": "dress_general",
+    "translated": "alame"
+  },
+  {
+    "original": "drinker",
+    "translated": "cime"
+  },
+  {
+    "original": "drip",
+    "translated": "c‚wi"
+  },
+  {
+    "original": "drool",
+    "translated": "efano"
+  },
+  {
+    "original": "drowned",
+    "translated": "i˜itho"
+  },
+  {
+    "original": "drum",
+    "translated": "maquaba"
+  },
+  {
+    "original": "dry",
+    "translated": "sari"
+  },
+  {
+    "original": "dump",
+    "translated": "catha"
+  },
+  {
+    "original": "dumpling",
+    "translated": "thinilu"
+  },
+  {
+    "original": "dung",
+    "translated": "dadi"
+  },
+  {
+    "original": "dungeon",
+    "translated": "nuwetha"
+  },
+  {
+    "original": "dusk",
+    "translated": "nidela"
+  },
+  {
+    "original": "dust",
+    "translated": "arani"
+  },
+  {
+    "original": "duty",
+    "translated": "ida"
+  },
+  {
+    "original": "dye",
+    "translated": "afithi"
+  },
+  {
+    "original": "eagle",
+    "translated": "osime"
+  },
+  {
+    "original": "ear",
+    "translated": "eta"
+  },
+  {
+    "original": "east",
+    "translated": "othana"
+  },
+  {
+    "original": "eat",
+    "translated": "mika"
+  },
+  {
+    "original": "ecto",
+    "translated": "anama"
+  },
+  {
+    "original": "eel",
+    "translated": "werima"
+  },
+  {
+    "original": "eerie",
+    "translated": "elotha"
+  },
+  {
+    "original": "egg",
+    "translated": "amira"
+  },
+  {
+    "original": "elder",
+    "translated": "aritha"
+  },
+  {
+    "original": "entrails",
+    "translated": "wšmini"
+  },
+  {
+    "original": "eternal",
+    "translated": "eme"
+  },
+  {
+    "original": "ever",
+    "translated": "ele"
+  },
+  {
+    "original": "everlasting",
+    "translated": "ema"
+  },
+  {
+    "original": "everseeing",
+    "translated": "nama"
+  },
+  {
+    "original": "evil",
+    "translated": "tharumi"
+  },
+  {
+    "original": "execute",
+    "translated": "quara"
+  },
+  {
+    "original": "executioner",
+    "translated": "thura"
+  },
+  {
+    "original": "eye",
+    "translated": "evi"
+  },
+  {
+    "original": "face",
+    "translated": "elin¡"
+  },
+  {
+    "original": "fall",
+    "translated": "enoth¢"
+  },
+  {
+    "original": "false",
+    "translated": "˜ethari"
+  },
+  {
+    "original": "famine",
+    "translated": "lenuse"
+  },
+  {
+    "original": "fang",
+    "translated": "afe"
+  },
+  {
+    "original": "fat",
+    "translated": "rine"
+  },
+  {
+    "original": "fatal",
+    "translated": "rofela"
+  },
+  {
+    "original": "father",
+    "translated": "ane"
+  },
+  {
+    "original": "fear",
+    "translated": "meraca"
+  },
+  {
+    "original": "feast",
+    "translated": "neli"
+  },
+  {
+    "original": "fetid",
+    "translated": "fa˜ithi"
+  },
+  {
+    "original": "fiend",
+    "translated": "menari"
+  },
+  {
+    "original": "fierce",
+    "translated": "kenoz"
+  },
+  {
+    "original": "filth",
+    "translated": "ciwa"
+  },
+  {
+    "original": "fin",
+    "translated": "tise"
+  },
+  {
+    "original": "find",
+    "translated": "ciri"
+  },
+  {
+    "original": "finger",
+    "translated": "elera"
+  },
+  {
+    "original": "fire",
+    "translated": "inira"
+  },
+  {
+    "original": "first",
+    "translated": "ala"
+  },
+  {
+    "original": "fish_animal",
+    "translated": "thaci"
+  },
+  {
+    "original": "fish_verb",
+    "translated": "nenit¡"
+  },
+  {
+    "original": "fist",
+    "translated": "cire"
+  },
+  {
+    "original": "flame",
+    "translated": "acathi"
+  },
+  {
+    "original": "flank",
+    "translated": "emero"
+  },
+  {
+    "original": "flea",
+    "translated": "lefe"
+  },
+  {
+    "original": "flesh",
+    "translated": "leci"
+  },
+  {
+    "original": "fling",
+    "translated": "•ciy"
+  },
+  {
+    "original": "flood",
+    "translated": "wikira"
+  },
+  {
+    "original": "flower",
+    "translated": "ima"
+  },
+  {
+    "original": "flute",
+    "translated": "nšmile"
+  },
+  {
+    "original": "fly_animal",
+    "translated": "yetine"
+  },
+  {
+    "original": "fly_verb",
+    "translated": "efili"
+  },
+  {
+    "original": "focus",
+    "translated": "en‚"
+  },
+  {
+    "original": "fog",
+    "translated": "oda"
+  },
+  {
+    "original": "fool",
+    "translated": "quinefa"
+  },
+  {
+    "original": "foot",
+    "translated": "aro"
+  },
+  {
+    "original": "forest",
+    "translated": "mina"
+  },
+  {
+    "original": "fork",
+    "translated": "iva"
+  },
+  {
+    "original": "fortify",
+    "translated": "acene"
+  },
+  {
+    "original": "fortress",
+    "translated": "abeco"
+  },
+  {
+    "original": "fragile",
+    "translated": "rimati"
+  },
+  {
+    "original": "fragment",
+    "translated": "thesa"
+  },
+  {
+    "original": "frame",
+    "translated": "c£cima"
+  },
+  {
+    "original": "fray",
+    "translated": "ithafe"
+  },
+  {
+    "original": "free",
+    "translated": "eth‚da"
+  },
+  {
+    "original": "frenzy",
+    "translated": "camo˜e"
+  },
+  {
+    "original": "freeze",
+    "translated": "thetif"
+  },
+  {
+    "original": "frill",
+    "translated": "mithidi"
+  },
+  {
+    "original": "frog",
+    "translated": "amim¢"
+  },
+  {
+    "original": "fruit",
+    "translated": "ile"
+  },
+  {
+    "original": "fungus",
+    "translated": "arari"
+  },
+  {
+    "original": "fur",
+    "translated": "narena"
+  },
+  {
+    "original": "gall",
+    "translated": "lefide"
+  },
+  {
+    "original": "game",
+    "translated": "mene"
+  },
+  {
+    "original": "garish",
+    "translated": "lifi"
+  },
+  {
+    "original": "garlic",
+    "translated": "nefefi"
+  },
+  {
+    "original": "garnish",
+    "translated": "fefa"
+  },
+  {
+    "original": "gate",
+    "translated": "i˜ema"
+  },
+  {
+    "original": "gaunt",
+    "translated": "foce"
+  },
+  {
+    "original": "gaze",
+    "translated": "temame"
+  },
+  {
+    "original": "gear",
+    "translated": "fathala"
+  },
+  {
+    "original": "gerbil",
+    "translated": "nithi"
+  },
+  {
+    "original": "ghost",
+    "translated": "oreme"
+  },
+  {
+    "original": "ghoul",
+    "translated": "fecawi"
+  },
+  {
+    "original": "gift",
+    "translated": "sema"
+  },
+  {
+    "original": "gill",
+    "translated": "dethe"
+  },
+  {
+    "original": "girdle",
+    "translated": "emitho"
+  },
+  {
+    "original": "gland",
+    "translated": "lolathe"
+  },
+  {
+    "original": "glaze",
+    "translated": "fif¡"
+  },
+  {
+    "original": "glen",
+    "translated": "idala"
+  },
+  {
+    "original": "glide",
+    "translated": "vari"
+  },
+  {
+    "original": "glimmer",
+    "translated": "pili"
+  },
+  {
+    "original": "glisten",
+    "translated": "ali"
+  },
+  {
+    "original": "gloss",
+    "translated": "nno"
+  },
+  {
+    "original": "glove",
+    "translated": "athida"
+  },
+  {
+    "original": "glutton",
+    "translated": "leweme"
+  },
+  {
+    "original": "goat",
+    "translated": "efafi"
+  },
+  {
+    "original": "god",
+    "translated": "ama"
+  },
+  {
+    "original": "god-forsaken",
+    "translated": "ulire"
+  },
+  {
+    "original": "gold",
+    "translated": "ithi"
+  },
+  {
+    "original": "goose",
+    "translated": "abime"
+  },
+  {
+    "original": "gore",
+    "translated": "racenu"
+  },
+  {
+    "original": "gorge_noun",
+    "translated": "acithi"
+  },
+  {
+    "original": "gorge_verb",
+    "translated": "etathu"
+  },
+  {
+    "original": "grain",
+    "translated": "eni"
+  },
+  {
+    "original": "grand",
+    "translated": "fafo"
+  },
+  {
+    "original": "grape",
+    "translated": "pocace"
+  },
+  {
+    "original": "grass",
+    "translated": "enena"
+  },
+  {
+    "original": "grave",
+    "translated": "rufithi"
+  },
+  {
+    "original": "grease",
+    "translated": "ware"
+  },
+  {
+    "original": "great",
+    "translated": "apaca"
+  },
+  {
+    "original": "greed",
+    "translated": "rofane"
+  },
+  {
+    "original": "green",
+    "translated": "liba"
+  },
+  {
+    "original": "griffon",
+    "translated": "sinaru"
+  },
+  {
+    "original": "grill",
+    "translated": "fentho"
+  },
+  {
+    "original": "grim",
+    "translated": "ucadi"
+  },
+  {
+    "original": "grind",
+    "translated": "lote"
+  },
+  {
+    "original": "grip",
+    "translated": "casena"
+  },
+  {
+    "original": "gristle",
+    "translated": "rin•we"
+  },
+  {
+    "original": "grizzle",
+    "translated": "caqui"
+  },
+  {
+    "original": "grove",
+    "translated": "alala"
+  },
+  {
+    "original": "grow",
+    "translated": "ame"
+  },
+  {
+    "original": "growl",
+    "translated": "ula"
+  },
+  {
+    "original": "growth",
+    "translated": "mame"
+  },
+  {
+    "original": "grub",
+    "translated": "cathe"
+  },
+  {
+    "original": "guard",
+    "translated": "ino"
+  },
+  {
+    "original": "guile",
+    "translated": "alece"
+  },
+  {
+    "original": "guise",
+    "translated": "nire"
+  },
+  {
+    "original": "gut",
+    "translated": "cetha"
+  },
+  {
+    "original": "gutter",
+    "translated": "cafafi"
+  },
+  {
+    "original": "hag",
+    "translated": "ciriko"
+  },
+  {
+    "original": "hair",
+    "translated": "rera"
+  },
+  {
+    "original": "hairy",
+    "translated": "leri"
+  },
+  {
+    "original": "hame",
+    "translated": "thifami"
+  },
+  {
+    "original": "hammer",
+    "translated": "˜eri"
+  },
+  {
+    "original": "hammerer",
+    "translated": "alara"
+  },
+  {
+    "original": "hand",
+    "translated": "raya"
+  },
+  {
+    "original": "handy",
+    "translated": "acethe"
+  },
+  {
+    "original": "hare",
+    "translated": "iri"
+  },
+  {
+    "original": "harvest",
+    "translated": "ika"
+  },
+  {
+    "original": "harvest_verb",
+    "translated": "civila"
+  },
+  {
+    "original": "hatchet",
+    "translated": "lece"
+  },
+  {
+    "original": "hate",
+    "translated": "efac"
+  },
+  {
+    "original": "haunt",
+    "translated": "momi"
+  },
+  {
+    "original": "hawk",
+    "translated": "senama"
+  },
+  {
+    "original": "hay",
+    "translated": "ayame"
+  },
+  {
+    "original": "head",
+    "translated": "¡ne"
+  },
+  {
+    "original": "heart",
+    "translated": "enira"
+  },
+  {
+    "original": "hearth",
+    "translated": "ibame"
+  },
+  {
+    "original": "heather",
+    "translated": "themiyi"
+  },
+  {
+    "original": "hedge",
+    "translated": "ralila"
+  },
+  {
+    "original": "hell",
+    "translated": "m‚fa˜o"
+  },
+  {
+    "original": "helm",
+    "translated": "came"
+  },
+  {
+    "original": "hero",
+    "translated": "arido"
+  },
+  {
+    "original": "hex",
+    "translated": "necate"
+  },
+  {
+    "original": "hide",
+    "translated": "c¢ce"
+  },
+  {
+    "original": "hideous",
+    "translated": "bri"
+  },
+  {
+    "original": "high",
+    "translated": "imama"
+  },
+  {
+    "original": "hill",
+    "translated": "lšma"
+  },
+  {
+    "original": "hip",
+    "translated": "amori"
+  },
+  {
+    "original": "hoary",
+    "translated": "fica"
+  },
+  {
+    "original": "hobble",
+    "translated": "epipe"
+  },
+  {
+    "original": "hog",
+    "translated": "˜ara"
+  },
+  {
+    "original": "holy",
+    "translated": "elo"
+  },
+  {
+    "original": "hoist",
+    "translated": "lar•"
+  },
+  {
+    "original": "hole",
+    "translated": "cona"
+  },
+  {
+    "original": "home",
+    "translated": "elomi"
+  },
+  {
+    "original": "honey",
+    "translated": "arifš"
+  },
+  {
+    "original": "hood",
+    "translated": "luthama"
+  },
+  {
+    "original": "hoof",
+    "translated": "fma"
+  },
+  {
+    "original": "hop_noun",
+    "translated": "lel‚"
+  },
+  {
+    "original": "hop_verb",
+    "translated": "ayefi"
+  },
+  {
+    "original": "horn",
+    "translated": "¡lime"
+  },
+  {
+    "original": "horse",
+    "translated": "remni"
+  },
+  {
+    "original": "hound",
+    "translated": "cami"
+  },
+  {
+    "original": "howl",
+    "translated": "ola"
+  },
+  {
+    "original": "hug",
+    "translated": "ina"
+  },
+  {
+    "original": "hum",
+    "translated": "vora"
+  },
+  {
+    "original": "hunger",
+    "translated": "ume"
+  },
+  {
+    "original": "hustle",
+    "translated": "narowi"
+  },
+  {
+    "original": "ice",
+    "translated": "ocima"
+  },
+  {
+    "original": "idle",
+    "translated": "newa"
+  },
+  {
+    "original": "idol",
+    "translated": "athaca"
+  },
+  {
+    "original": "ill",
+    "translated": "vawume"
+  },
+  {
+    "original": "impure",
+    "translated": "urila"
+  },
+  {
+    "original": "incense",
+    "translated": "thone"
+  },
+  {
+    "original": "inch",
+    "translated": "nipa"
+  },
+  {
+    "original": "ink",
+    "translated": "forile"
+  },
+  {
+    "original": "inn",
+    "translated": "ifisa"
+  },
+  {
+    "original": "insanity",
+    "translated": "˜aralo"
+  },
+  {
+    "original": "invisible",
+    "translated": "arali"
+  },
+  {
+    "original": "iron",
+    "translated": "icori"
+  },
+  {
+    "original": "itch",
+    "translated": "rithi"
+  },
+  {
+    "original": "ivy",
+    "translated": "sal¢"
+  },
+  {
+    "original": "jack",
+    "translated": "lati"
+  },
+  {
+    "original": "jackal",
+    "translated": "apufi"
+  },
+  {
+    "original": "jaundice",
+    "translated": "fesluyi"
+  },
+  {
+    "original": "jaw",
+    "translated": "nisa"
+  },
+  {
+    "original": "jest",
+    "translated": "tede"
+  },
+  {
+    "original": "joke",
+    "translated": "athini"
+  },
+  {
+    "original": "juggle",
+    "translated": "becaro"
+  },
+  {
+    "original": "juice",
+    "translated": "fiva"
+  },
+  {
+    "original": "jungle",
+    "translated": "covema"
+  },
+  {
+    "original": "just",
+    "translated": "le˜a"
+  },
+  {
+    "original": "justify",
+    "translated": "thepolu"
+  },
+  {
+    "original": "keeper",
+    "translated": "sinu"
+  },
+  {
+    "original": "keg",
+    "translated": "šbe"
+  },
+  {
+    "original": "key",
+    "translated": "ferame"
+  },
+  {
+    "original": "kindness",
+    "translated": "ileda"
+  },
+  {
+    "original": "killer",
+    "translated": "macofi"
+  },
+  {
+    "original": "kiss",
+    "translated": "tima"
+  },
+  {
+    "original": "king",
+    "translated": "afedo"
+  },
+  {
+    "original": "knead",
+    "translated": "yathi"
+  },
+  {
+    "original": "knife",
+    "translated": "ceta"
+  },
+  {
+    "original": "knight",
+    "translated": "cavšre"
+  },
+  {
+    "original": "knit",
+    "translated": "nanathe"
+  },
+  {
+    "original": "knot",
+    "translated": "cithasi"
+  },
+  {
+    "original": "lace",
+    "translated": "arane"
+  },
+  {
+    "original": "lake",
+    "translated": "˜onali"
+  },
+  {
+    "original": "lard",
+    "translated": "muthe"
+  },
+  {
+    "original": "lark",
+    "translated": "sidaya"
+  },
+  {
+    "original": "larva",
+    "translated": "boniti"
+  },
+  {
+    "original": "last",
+    "translated": "aba"
+  },
+  {
+    "original": "law",
+    "translated": "mera"
+  },
+  {
+    "original": "lazy",
+    "translated": "nere"
+  },
+  {
+    "original": "leader",
+    "translated": "raneci"
+  },
+  {
+    "original": "leaf",
+    "translated": "ale"
+  },
+  {
+    "original": "leak",
+    "translated": "šyile"
+  },
+  {
+    "original": "lean",
+    "translated": "eri"
+  },
+  {
+    "original": "leech",
+    "translated": "awathi"
+  },
+  {
+    "original": "legend",
+    "translated": "liceva"
+  },
+  {
+    "original": "lens",
+    "translated": "dena"
+  },
+  {
+    "original": "leopard",
+    "translated": "icem"
+  },
+  {
+    "original": "leper",
+    "translated": "emothe"
+  },
+  {
+    "original": "leprosy",
+    "translated": "˜acada"
+  },
+  {
+    "original": "letter",
+    "translated": "˜ora"
+  },
+  {
+    "original": "lie",
+    "translated": "lice˜i"
+  },
+  {
+    "original": "light",
+    "translated": "a˜eli"
+  },
+  {
+    "original": "lightning",
+    "translated": "thefra"
+  },
+  {
+    "original": "limb",
+    "translated": "il‚"
+  },
+  {
+    "original": "lip",
+    "translated": "eneya"
+  },
+  {
+    "original": "listen",
+    "translated": "edinu"
+  },
+  {
+    "original": "lizard",
+    "translated": "cimathi"
+  },
+  {
+    "original": "lobster",
+    "translated": "ru˜ava"
+  },
+  {
+    "original": "lock",
+    "translated": "icala"
+  },
+  {
+    "original": "lone",
+    "translated": "osi"
+  },
+  {
+    "original": "long",
+    "translated": "beresi"
+  },
+  {
+    "original": "loot",
+    "translated": "tireve"
+  },
+  {
+    "original": "lord",
+    "translated": "rete"
+  },
+  {
+    "original": "lost",
+    "translated": "lena"
+  },
+  {
+    "original": "louse",
+    "translated": "lenipe"
+  },
+  {
+    "original": "love",
+    "translated": "enela"
+  },
+  {
+    "original": "low",
+    "translated": "rafethe"
+  },
+  {
+    "original": "lunch",
+    "translated": "equelu"
+  },
+  {
+    "original": "lung",
+    "translated": "lave"
+  },
+  {
+    "original": "lurid",
+    "translated": "rali"
+  },
+  {
+    "original": "lurch",
+    "translated": "eth£ni"
+  },
+  {
+    "original": "lurk",
+    "translated": "moba"
+  },
+  {
+    "original": "lush",
+    "translated": "n¢queme"
+  },
+  {
+    "original": "lust",
+    "translated": "nthari"
+  },
+  {
+    "original": "lute",
+    "translated": "fale"
+  },
+  {
+    "original": "lyric",
+    "translated": "lapama"
+  },
+  {
+    "original": "maggot",
+    "translated": "ez‚li"
+  },
+  {
+    "original": "magic",
+    "translated": "isila"
+  },
+  {
+    "original": "man",
+    "translated": "onino"
+  },
+  {
+    "original": "mange",
+    "translated": "mathe"
+  },
+  {
+    "original": "many",
+    "translated": "eda"
+  },
+  {
+    "original": "marsh",
+    "translated": "im•la"
+  },
+  {
+    "original": "martyr",
+    "translated": "relmi"
+  },
+  {
+    "original": "master",
+    "translated": "ithera"
+  },
+  {
+    "original": "maw",
+    "translated": "iwo"
+  },
+  {
+    "original": "mead",
+    "translated": "tiwuthi"
+  },
+  {
+    "original": "meadow",
+    "translated": "pari"
+  },
+  {
+    "original": "meal_dom",
+    "translated": "cithi"
+  },
+  {
+    "original": "meal_ground",
+    "translated": "theth‚fa"
+  },
+  {
+    "original": "meat",
+    "translated": "lethiro"
+  },
+  {
+    "original": "meditation",
+    "translated": "neba"
+  },
+  {
+    "original": "mellow",
+    "translated": "nowo"
+  },
+  {
+    "original": "menace",
+    "translated": "sofip—"
+  },
+  {
+    "original": "mess",
+    "translated": "n¡letha"
+  },
+  {
+    "original": "metal",
+    "translated": "lethi"
+  },
+  {
+    "original": "midnight",
+    "translated": "mevena"
+  },
+  {
+    "original": "mighty",
+    "translated": "thiyira"
+  },
+  {
+    "original": "mightiness",
+    "translated": "avithe"
+  },
+  {
+    "original": "mile",
+    "translated": "ide"
+  },
+  {
+    "original": "mince",
+    "translated": "caca"
+  },
+  {
+    "original": "mind",
+    "translated": "sede"
+  },
+  {
+    "original": "minion",
+    "translated": "mafa"
+  },
+  {
+    "original": "mirror",
+    "translated": "opeya"
+  },
+  {
+    "original": "misery",
+    "translated": "mamica"
+  },
+  {
+    "original": "mist",
+    "translated": "enure"
+  },
+  {
+    "original": "mite",
+    "translated": "lotheye"
+  },
+  {
+    "original": "mold",
+    "translated": "edimi"
+  },
+  {
+    "original": "mole",
+    "translated": "seye"
+  },
+  {
+    "original": "molten",
+    "translated": "mesica"
+  },
+  {
+    "original": "monkey",
+    "translated": "rith‚"
+  },
+  {
+    "original": "moon",
+    "translated": "anaye"
+  },
+  {
+    "original": "monger",
+    "translated": "mirala"
+  },
+  {
+    "original": "moth",
+    "translated": "nevi"
+  },
+  {
+    "original": "mother",
+    "translated": "el‚de"
+  },
+  {
+    "original": "mouse",
+    "translated": "yali"
+  },
+  {
+    "original": "mouth",
+    "translated": "ela"
+  },
+  {
+    "original": "muck",
+    "translated": "corowa"
+  },
+  {
+    "original": "mud",
+    "translated": "salapa"
+  },
+  {
+    "original": "muffin",
+    "translated": "ilafe"
+  },
+  {
+    "original": "mule",
+    "translated": "efama"
+  },
+  {
+    "original": "munch",
+    "translated": "amafi"
+  },
+  {
+    "original": "murder",
+    "translated": "rathi"
+  },
+  {
+    "original": "mush",
+    "translated": "nathe"
+  },
+  {
+    "original": "mushroom",
+    "translated": "oba"
+  },
+  {
+    "original": "music",
+    "translated": "sanera"
+  },
+  {
+    "original": "mystery",
+    "translated": "vulo"
+  },
+  {
+    "original": "myth",
+    "translated": "mo˜o"
+  },
+  {
+    "original": "nail",
+    "translated": "thšdi"
+  },
+  {
+    "original": "nasty",
+    "translated": "rele"
+  },
+  {
+    "original": "nature",
+    "translated": "amala"
+  },
+  {
+    "original": "necro",
+    "translated": "athoma"
+  },
+  {
+    "original": "negative",
+    "translated": "mori"
+  },
+  {
+    "original": "negate",
+    "translated": "ocithe"
+  },
+  {
+    "original": "neo",
+    "translated": "ami"
+  },
+  {
+    "original": "nest",
+    "translated": "arima"
+  },
+  {
+    "original": "nestle",
+    "translated": "cina"
+  },
+  {
+    "original": "net",
+    "translated": "ecate"
+  },
+  {
+    "original": "nettle",
+    "translated": "finele"
+  },
+  {
+    "original": "new",
+    "translated": "lila"
+  },
+  {
+    "original": "newt",
+    "translated": "risemi"
+  },
+  {
+    "original": "nibble",
+    "translated": "yade"
+  },
+  {
+    "original": "night",
+    "translated": "lith‚me"
+  },
+  {
+    "original": "nightmare",
+    "translated": "oquar¡"
+  },
+  {
+    "original": "noble",
+    "translated": "ramu"
+  },
+  {
+    "original": "noose",
+    "translated": "marice"
+  },
+  {
+    "original": "north",
+    "translated": "‚mara"
+  },
+  {
+    "original": "nose",
+    "translated": "era"
+  },
+  {
+    "original": "null",
+    "translated": "nafa"
+  },
+  {
+    "original": "number",
+    "translated": "noletha"
+  },
+  {
+    "original": "nurture",
+    "translated": "una"
+  },
+  {
+    "original": "nut",
+    "translated": "apasi"
+  },
+  {
+    "original": "oak",
+    "translated": "lulo"
+  },
+  {
+    "original": "oar",
+    "translated": "aditha"
+  },
+  {
+    "original": "oat",
+    "translated": "rifu"
+  },
+  {
+    "original": "oblivion",
+    "translated": "taritha"
+  },
+  {
+    "original": "ocean",
+    "translated": "romi"
+  },
+  {
+    "original": "old",
+    "translated": "vado"
+  },
+  {
+    "original": "omen",
+    "translated": "oroni"
+  },
+  {
+    "original": "one",
+    "translated": "ena"
+  },
+  {
+    "original": "one_pref",
+    "translated": "ime"
+  },
+  {
+    "original": "onion",
+    "translated": "mecifa"
+  },
+  {
+    "original": "ooze",
+    "translated": "neca"
+  },
+  {
+    "original": "open",
+    "translated": "ba"
+  },
+  {
+    "original": "orb",
+    "translated": "niwora"
+  },
+  {
+    "original": "over",
+    "translated": "ani"
+  },
+  {
+    "original": "owl",
+    "translated": "necalo"
+  },
+  {
+    "original": "ox",
+    "translated": "cile"
+  },
+  {
+    "original": "pack",
+    "translated": "sethe"
+  },
+  {
+    "original": "pad_noun",
+    "translated": "lemi"
+  },
+  {
+    "original": "pad_verb",
+    "translated": "wani"
+  },
+  {
+    "original": "page",
+    "translated": "epe"
+  },
+  {
+    "original": "pain",
+    "translated": "l•cara"
+  },
+  {
+    "original": "paint",
+    "translated": "bila"
+  },
+  {
+    "original": "pale",
+    "translated": "yefiri"
+  },
+  {
+    "original": "palm",
+    "translated": "mimi"
+  },
+  {
+    "original": "pant",
+    "translated": "thifa"
+  },
+  {
+    "original": "panther",
+    "translated": "r‚nuna"
+  },
+  {
+    "original": "pants",
+    "translated": "nive"
+  },
+  {
+    "original": "paper",
+    "translated": "yane"
+  },
+  {
+    "original": "peace",
+    "translated": "ero"
+  },
+  {
+    "original": "peach",
+    "translated": "quemi"
+  },
+  {
+    "original": "pepper",
+    "translated": "tithithi"
+  },
+  {
+    "original": "phlegm",
+    "translated": "wothana"
+  },
+  {
+    "original": "pig",
+    "translated": "sano"
+  },
+  {
+    "original": "pit",
+    "translated": "nimo"
+  },
+  {
+    "original": "pitch",
+    "translated": "kecewa"
+  },
+  {
+    "original": "plague",
+    "translated": "weri"
+  },
+  {
+    "original": "plant",
+    "translated": "mana"
+  },
+  {
+    "original": "planter",
+    "translated": "eyeli"
+  },
+  {
+    "original": "plot",
+    "translated": "ranitha"
+  },
+  {
+    "original": "pocket_noun",
+    "translated": "nele"
+  },
+  {
+    "original": "pocket_verb",
+    "translated": "cimere"
+  },
+  {
+    "original": "poison",
+    "translated": "uthimi"
+  },
+  {
+    "original": "portal",
+    "translated": "cama"
+  },
+  {
+    "original": "power",
+    "translated": "an•va"
+  },
+  {
+    "original": "prank",
+    "translated": "lana"
+  },
+  {
+    "original": "pregnant",
+    "translated": "imeva"
+  },
+  {
+    "original": "pride",
+    "translated": "fene"
+  },
+  {
+    "original": "priest",
+    "translated": "melela"
+  },
+  {
+    "original": "prim",
+    "translated": "coquani"
+  },
+  {
+    "original": "prime",
+    "translated": "omi"
+  },
+  {
+    "original": "primitive",
+    "translated": "leru"
+  },
+  {
+    "original": "profane",
+    "translated": "f¡thaca"
+  },
+  {
+    "original": "prophecy",
+    "translated": "etha"
+  },
+  {
+    "original": "prophet",
+    "translated": "ethi"
+  },
+  {
+    "original": "prowl",
+    "translated": "covace"
+  },
+  {
+    "original": "puke",
+    "translated": "ra˜afa"
+  },
+  {
+    "original": "pull",
+    "translated": "yupe"
+  },
+  {
+    "original": "pulley",
+    "translated": "ureli"
+  },
+  {
+    "original": "pulp",
+    "translated": "rifi"
+  },
+  {
+    "original": "punch",
+    "translated": "cova"
+  },
+  {
+    "original": "purple",
+    "translated": "l•nethu"
+  },
+  {
+    "original": "pus",
+    "translated": "p¡ware"
+  },
+  {
+    "original": "putrid",
+    "translated": "letheca"
+  },
+  {
+    "original": "quake",
+    "translated": "ratha"
+  },
+  {
+    "original": "queen",
+    "translated": "evala"
+  },
+  {
+    "original": "quick",
+    "translated": "emi"
+  },
+  {
+    "original": "quill",
+    "translated": "asi"
+  },
+  {
+    "original": "rabbit",
+    "translated": "anale"
+  },
+  {
+    "original": "rabble",
+    "translated": "naquithe"
+  },
+  {
+    "original": "race_group",
+    "translated": "nina"
+  },
+  {
+    "original": "race_verb",
+    "translated": "šbire"
+  },
+  {
+    "original": "rack",
+    "translated": "memica"
+  },
+  {
+    "original": "rag",
+    "translated": "dema"
+  },
+  {
+    "original": "rage",
+    "translated": "ritho"
+  },
+  {
+    "original": "rain",
+    "translated": "imere"
+  },
+  {
+    "original": "rake",
+    "translated": "nafe"
+  },
+  {
+    "original": "ram",
+    "translated": "¡lathe"
+  },
+  {
+    "original": "rampage",
+    "translated": "baslata"
+  },
+  {
+    "original": "random",
+    "translated": "yšrefa"
+  },
+  {
+    "original": "ransack",
+    "translated": "ludš"
+  },
+  {
+    "original": "raptor",
+    "translated": "cethire"
+  },
+  {
+    "original": "rat",
+    "translated": "thapa"
+  },
+  {
+    "original": "raunch",
+    "translated": "ffema"
+  },
+  {
+    "original": "ravager",
+    "translated": "methi"
+  },
+  {
+    "original": "raven",
+    "translated": "ceca"
+  },
+  {
+    "original": "raw",
+    "translated": "yeque"
+  },
+  {
+    "original": "razor",
+    "translated": "avathe"
+  },
+  {
+    "original": "red",
+    "translated": "ni˜ira"
+  },
+  {
+    "original": "regal",
+    "translated": "lithi"
+  },
+  {
+    "original": "reign",
+    "translated": "vimeba"
+  },
+  {
+    "original": "rein",
+    "translated": "reli"
+  },
+  {
+    "original": "rend",
+    "translated": "feca"
+  },
+  {
+    "original": "rider",
+    "translated": "rile"
+  },
+  {
+    "original": "rim",
+    "translated": "niti"
+  },
+  {
+    "original": "ring_object",
+    "translated": "mithu"
+  },
+  {
+    "original": "ring_sound",
+    "translated": "rev‚"
+  },
+  {
+    "original": "rip",
+    "translated": "seca"
+  },
+  {
+    "original": "ripe",
+    "translated": "elu"
+  },
+  {
+    "original": "ripper",
+    "translated": "p—tha"
+  },
+  {
+    "original": "rise",
+    "translated": "evane"
+  },
+  {
+    "original": "rite",
+    "translated": "nepema"
+  },
+  {
+    "original": "river",
+    "translated": "mimale"
+  },
+  {
+    "original": "rock",
+    "translated": "athe"
+  },
+  {
+    "original": "rogue",
+    "translated": "birelo"
+  },
+  {
+    "original": "romance",
+    "translated": "lidava"
+  },
+  {
+    "original": "room",
+    "translated": "imira"
+  },
+  {
+    "original": "roomy",
+    "translated": "api"
+  },
+  {
+    "original": "root",
+    "translated": "nemo"
+  },
+  {
+    "original": "rose",
+    "translated": "sareve"
+  },
+  {
+    "original": "rot",
+    "translated": "feware"
+  },
+  {
+    "original": "rough",
+    "translated": "otha"
+  },
+  {
+    "original": "royal",
+    "translated": "ariyi"
+  },
+  {
+    "original": "ruin",
+    "translated": "sebeca"
+  },
+  {
+    "original": "ruin_v",
+    "translated": "cafu"
+  },
+  {
+    "original": "ruler",
+    "translated": "thšne"
+  },
+  {
+    "original": "rumor",
+    "translated": "gilafi"
+  },
+  {
+    "original": "rust",
+    "translated": "caqua"
+  },
+  {
+    "original": "sabre",
+    "translated": "siniti"
+  },
+  {
+    "original": "sack",
+    "translated": "fama"
+  },
+  {
+    "original": "saint",
+    "translated": "elale"
+  },
+  {
+    "original": "salt",
+    "translated": "cšro"
+  },
+  {
+    "original": "salve",
+    "translated": "olaca"
+  },
+  {
+    "original": "sap",
+    "translated": "fimere"
+  },
+  {
+    "original": "satin",
+    "translated": "lesana"
+  },
+  {
+    "original": "savage",
+    "translated": "cirethi"
+  },
+  {
+    "original": "savagery",
+    "translated": "fetho"
+  },
+  {
+    "original": "savior",
+    "translated": "mela"
+  },
+  {
+    "original": "scab",
+    "translated": "isalo"
+  },
+  {
+    "original": "scar",
+    "translated": "wami"
+  },
+  {
+    "original": "scold",
+    "translated": "thoci"
+  },
+  {
+    "original": "scorpion",
+    "translated": "nosaro"
+  },
+  {
+    "original": "scratch",
+    "translated": "timi"
+  },
+  {
+    "original": "scourge",
+    "translated": "f‚tha"
+  },
+  {
+    "original": "scream",
+    "translated": "fiweno"
+  },
+  {
+    "original": "scum",
+    "translated": "afetho"
+  },
+  {
+    "original": "sea",
+    "translated": "lene"
+  },
+  {
+    "original": "seal_animal",
+    "translated": "ricote"
+  },
+  {
+    "original": "seal_art",
+    "translated": "athi"
+  },
+  {
+    "original": "seam",
+    "translated": "alere"
+  },
+  {
+    "original": "season",
+    "translated": "ameli"
+  },
+  {
+    "original": "secret",
+    "translated": "sapi"
+  },
+  {
+    "original": "seduce",
+    "translated": "lerine"
+  },
+  {
+    "original": "seducer",
+    "translated": "li˜etha"
+  },
+  {
+    "original": "seed",
+    "translated": "are"
+  },
+  {
+    "original": "seer",
+    "translated": "ab¡mu"
+  },
+  {
+    "original": "seize",
+    "translated": "litho"
+  },
+  {
+    "original": "serpent",
+    "translated": "relira"
+  },
+  {
+    "original": "servant",
+    "translated": "cavemi"
+  },
+  {
+    "original": "sever",
+    "translated": "sici"
+  },
+  {
+    "original": "sewer",
+    "translated": "caretha"
+  },
+  {
+    "original": "shadow",
+    "translated": "obi"
+  },
+  {
+    "original": "shaft",
+    "translated": "isa"
+  },
+  {
+    "original": "shank",
+    "translated": "iz‚"
+  },
+  {
+    "original": "shark",
+    "translated": "cequova"
+  },
+  {
+    "original": "shear",
+    "translated": "inithi"
+  },
+  {
+    "original": "sheen",
+    "translated": "itha"
+  },
+  {
+    "original": "shell",
+    "translated": "caraca"
+  },
+  {
+    "original": "shelter",
+    "translated": "fera"
+  },
+  {
+    "original": "shield",
+    "translated": "veca"
+  },
+  {
+    "original": "shimmer",
+    "translated": "firi"
+  },
+  {
+    "original": "ship",
+    "translated": "otira"
+  },
+  {
+    "original": "shoot",
+    "translated": "sesi"
+  },
+  {
+    "original": "show",
+    "translated": "rara"
+  },
+  {
+    "original": "shred",
+    "translated": "rilovi"
+  },
+  {
+    "original": "shriek",
+    "translated": "bithili"
+  },
+  {
+    "original": "shut",
+    "translated": "abo"
+  },
+  {
+    "original": "sick",
+    "translated": "fethida"
+  },
+  {
+    "original": "sickness",
+    "translated": "macala"
+  },
+  {
+    "original": "siege",
+    "translated": "thima"
+  },
+  {
+    "original": "silence",
+    "translated": "inori"
+  },
+  {
+    "original": "silk",
+    "translated": "yarare"
+  },
+  {
+    "original": "silky",
+    "translated": "amane"
+  },
+  {
+    "original": "silt",
+    "translated": "rema"
+  },
+  {
+    "original": "silver",
+    "translated": "nelare"
+  },
+  {
+    "original": "sin",
+    "translated": "vathi"
+  },
+  {
+    "original": "sinew",
+    "translated": "tida"
+  },
+  {
+    "original": "sing",
+    "translated": "ova"
+  },
+  {
+    "original": "sister",
+    "translated": "betha"
+  },
+  {
+    "original": "skirt_clothing",
+    "translated": "ecafe"
+  },
+  {
+    "original": "skirt_verb",
+    "translated": "thecere"
+  },
+  {
+    "original": "skunk",
+    "translated": "dipane"
+  },
+  {
+    "original": "skull",
+    "translated": "ome"
+  },
+  {
+    "original": "sky",
+    "translated": "eliye"
+  },
+  {
+    "original": "slaughter",
+    "translated": "roresa"
+  },
+  {
+    "original": "slave",
+    "translated": "urepe"
+  },
+  {
+    "original": "slayer",
+    "translated": "mšcre"
+  },
+  {
+    "original": "slim",
+    "translated": "anesa"
+  },
+  {
+    "original": "slime",
+    "translated": "quathe"
+  },
+  {
+    "original": "sling",
+    "translated": "amate"
+  },
+  {
+    "original": "slink",
+    "translated": "ilethe"
+  },
+  {
+    "original": "slit",
+    "translated": "fi"
+  },
+  {
+    "original": "slither",
+    "translated": "mifali"
+  },
+  {
+    "original": "sliver",
+    "translated": "rili"
+  },
+  {
+    "original": "sloth",
+    "translated": "timeba"
+  },
+  {
+    "original": "slug",
+    "translated": "ralu"
+  },
+  {
+    "original": "smash",
+    "translated": "eremo"
+  },
+  {
+    "original": "smile",
+    "translated": "lali"
+  },
+  {
+    "original": "smith",
+    "translated": "macame"
+  },
+  {
+    "original": "smoke",
+    "translated": "thafa"
+  },
+  {
+    "original": "smooth",
+    "translated": "tane"
+  },
+  {
+    "original": "smoulder",
+    "translated": "ca‡e"
+  },
+  {
+    "original": "snack",
+    "translated": "selera"
+  },
+  {
+    "original": "snake",
+    "translated": "imaza"
+  },
+  {
+    "original": "sneer",
+    "translated": "ifada"
+  },
+  {
+    "original": "snot",
+    "translated": "esaga"
+  },
+  {
+    "original": "snuggle",
+    "translated": "meleye"
+  },
+  {
+    "original": "soil",
+    "translated": "avi"
+  },
+  {
+    "original": "soldier",
+    "translated": "ethare"
+  },
+  {
+    "original": "soot",
+    "translated": "sva"
+  },
+  {
+    "original": "soothe",
+    "translated": "lawa"
+  },
+  {
+    "original": "sorrow",
+    "translated": "nathi"
+  },
+  {
+    "original": "soul",
+    "translated": "mare"
+  },
+  {
+    "original": "sound",
+    "translated": "ca˜a"
+  },
+  {
+    "original": "south",
+    "translated": "liri"
+  },
+  {
+    "original": "spasm",
+    "translated": "erawi"
+  },
+  {
+    "original": "spawn",
+    "translated": "recile"
+  },
+  {
+    "original": "spear",
+    "translated": "iti"
+  },
+  {
+    "original": "spell",
+    "translated": "seneri"
+  },
+  {
+    "original": "spice",
+    "translated": "thithi"
+  },
+  {
+    "original": "spider",
+    "translated": "thepani"
+  },
+  {
+    "original": "spidery",
+    "translated": "terathi"
+  },
+  {
+    "original": "spike",
+    "translated": "ey"
+  },
+  {
+    "original": "spin",
+    "translated": "thitha"
+  },
+  {
+    "original": "spine",
+    "translated": "micaca"
+  },
+  {
+    "original": "spirit",
+    "translated": "ano"
+  },
+  {
+    "original": "spit",
+    "translated": "fefu"
+  },
+  {
+    "original": "spittle",
+    "translated": "belepi"
+  },
+  {
+    "original": "spoil",
+    "translated": "nimife"
+  },
+  {
+    "original": "spoon",
+    "translated": "theni"
+  },
+  {
+    "original": "spring_noun",
+    "translated": "˜elawe"
+  },
+  {
+    "original": "spring_season",
+    "translated": "amena"
+  },
+  {
+    "original": "spring_verb",
+    "translated": "inere"
+  },
+  {
+    "original": "spry",
+    "translated": "awiyi"
+  },
+  {
+    "original": "spy",
+    "translated": "namova"
+  },
+  {
+    "original": "squid",
+    "translated": "nethitha"
+  },
+  {
+    "original": "squirm",
+    "translated": "‚tha"
+  },
+  {
+    "original": "stab",
+    "translated": "ridi"
+  },
+  {
+    "original": "staff",
+    "translated": "sila"
+  },
+  {
+    "original": "stalk",
+    "translated": "nala"
+  },
+  {
+    "original": "stand",
+    "translated": "rino"
+  },
+  {
+    "original": "star",
+    "translated": "ila"
+  },
+  {
+    "original": "steed",
+    "translated": "irumo"
+  },
+  {
+    "original": "starve",
+    "translated": "theva"
+  },
+  {
+    "original": "steal",
+    "translated": "tafizš"
+  },
+  {
+    "original": "steel",
+    "translated": "inire"
+  },
+  {
+    "original": "stench",
+    "translated": "nithami"
+  },
+  {
+    "original": "stern",
+    "translated": "thani"
+  },
+  {
+    "original": "stick_wood",
+    "translated": "sanetha"
+  },
+  {
+    "original": "stick_verb",
+    "translated": "ith¢"
+  },
+  {
+    "original": "sticky",
+    "translated": "mebithi"
+  },
+  {
+    "original": "stone",
+    "translated": "queca"
+  },
+  {
+    "original": "storm",
+    "translated": "vinena"
+  },
+  {
+    "original": "strange",
+    "translated": "amomu"
+  },
+  {
+    "original": "strap",
+    "translated": "fepa"
+  },
+  {
+    "original": "strapping_adj",
+    "translated": "cale"
+  },
+  {
+    "original": "straw",
+    "translated": "a˜ife"
+  },
+  {
+    "original": "stray",
+    "translated": "šle"
+  },
+  {
+    "original": "strength",
+    "translated": "ecan¢"
+  },
+  {
+    "original": "stretch",
+    "translated": "fithithe"
+  },
+  {
+    "original": "strike",
+    "translated": "liwa"
+  },
+  {
+    "original": "stroke",
+    "translated": "lelu"
+  },
+  {
+    "original": "stunt",
+    "translated": "cuwiwe"
+  },
+  {
+    "original": "stunted",
+    "translated": "cecica"
+  },
+  {
+    "original": "stupid",
+    "translated": "bifi"
+  },
+  {
+    "original": "stutter",
+    "translated": "afibi"
+  },
+  {
+    "original": "style",
+    "translated": "kifino"
+  },
+  {
+    "original": "subordinate",
+    "translated": "ecani"
+  },
+  {
+    "original": "suck",
+    "translated": "pelese"
+  },
+  {
+    "original": "suffering",
+    "translated": "necimi"
+  },
+  {
+    "original": "sugar",
+    "translated": "fili"
+  },
+  {
+    "original": "sully",
+    "translated": "¡rede"
+  },
+  {
+    "original": "sullen",
+    "translated": "ciquo"
+  },
+  {
+    "original": "summer",
+    "translated": "imara"
+  },
+  {
+    "original": "sun",
+    "translated": "ami˜a"
+  },
+  {
+    "original": "sunder",
+    "translated": "rezici"
+  },
+  {
+    "original": "supper",
+    "translated": "enani"
+  },
+  {
+    "original": "surprise",
+    "translated": "ilicš"
+  },
+  {
+    "original": "swamp",
+    "translated": "calovi"
+  },
+  {
+    "original": "sweat",
+    "translated": "thelo"
+  },
+  {
+    "original": "sweet",
+    "translated": "tira"
+  },
+  {
+    "original": "swift",
+    "translated": "ilire"
+  },
+  {
+    "original": "swim",
+    "translated": "enolo"
+  },
+  {
+    "original": "swine",
+    "translated": "omala"
+  },
+  {
+    "original": "sword",
+    "translated": "ocade"
+  },
+  {
+    "original": "syrup",
+    "translated": "aru"
+  },
+  {
+    "original": "taker",
+    "translated": "nafi"
+  },
+  {
+    "original": "tail",
+    "translated": "yawo"
+  },
+  {
+    "original": "talon",
+    "translated": "cata"
+  },
+  {
+    "original": "tar",
+    "translated": "—mapi"
+  },
+  {
+    "original": "tarnish",
+    "translated": "malabu"
+  },
+  {
+    "original": "tell",
+    "translated": "s‚le"
+  },
+  {
+    "original": "tempest",
+    "translated": "rayali"
+  },
+  {
+    "original": "tear",
+    "translated": "mirise"
+  },
+  {
+    "original": "terror",
+    "translated": "asithi"
+  },
+  {
+    "original": "thief",
+    "translated": "urithi"
+  },
+  {
+    "original": "thirst",
+    "translated": "pacata"
+  },
+  {
+    "original": "thorn",
+    "translated": "iki"
+  },
+  {
+    "original": "thrall",
+    "translated": "nenu"
+  },
+  {
+    "original": "three",
+    "translated": "sara"
+  },
+  {
+    "original": "throat",
+    "translated": "cinili"
+  },
+  {
+    "original": "throne",
+    "translated": "toneri"
+  },
+  {
+    "original": "thrower",
+    "translated": "ireci"
+  },
+  {
+    "original": "thunder",
+    "translated": "eletha"
+  },
+  {
+    "original": "tick_animal",
+    "translated": "pamšne"
+  },
+  {
+    "original": "tick_clock",
+    "translated": "wele"
+  },
+  {
+    "original": "tight",
+    "translated": "febe"
+  },
+  {
+    "original": "time",
+    "translated": "nela"
+  },
+  {
+    "original": "toad",
+    "translated": "imadu"
+  },
+  {
+    "original": "toe",
+    "translated": "nani"
+  },
+  {
+    "original": "tomb",
+    "translated": "nelara"
+  },
+  {
+    "original": "tome",
+    "translated": "emora"
+  },
+  {
+    "original": "tongue",
+    "translated": "alotha"
+  },
+  {
+    "original": "tooth",
+    "translated": "vare"
+  },
+  {
+    "original": "torment",
+    "translated": "melici"
+  },
+  {
+    "original": "touch",
+    "translated": "mave"
+  },
+  {
+    "original": "touchy",
+    "translated": "fucali"
+  },
+  {
+    "original": "tour",
+    "translated": "rima"
+  },
+  {
+    "original": "tower",
+    "translated": "atheli"
+  },
+  {
+    "original": "trail",
+    "translated": "lanale"
+  },
+  {
+    "original": "trance",
+    "translated": "omina"
+  },
+  {
+    "original": "trap",
+    "translated": "abola"
+  },
+  {
+    "original": "trash",
+    "translated": "repefe"
+  },
+  {
+    "original": "treasure",
+    "translated": "bera˜i"
+  },
+  {
+    "original": "treat",
+    "translated": "ini"
+  },
+  {
+    "original": "treaty",
+    "translated": "liriva"
+  },
+  {
+    "original": "trench",
+    "translated": "wšweya"
+  },
+  {
+    "original": "tribe",
+    "translated": "emene"
+  },
+  {
+    "original": "trick",
+    "translated": "merame"
+  },
+  {
+    "original": "trickery",
+    "translated": "wawana"
+  },
+  {
+    "original": "trim",
+    "translated": "rene"
+  },
+  {
+    "original": "trouble",
+    "translated": "raliwo"
+  },
+  {
+    "original": "tug",
+    "translated": "ifa"
+  },
+  {
+    "original": "tulip",
+    "translated": "enina"
+  },
+  {
+    "original": "tumble",
+    "translated": "carethe"
+  },
+  {
+    "original": "tumor",
+    "translated": "ni˜eru"
+  },
+  {
+    "original": "turmoil",
+    "translated": "bedotha"
+  },
+  {
+    "original": "tusk",
+    "translated": "iferi"
+  },
+  {
+    "original": "tweet",
+    "translated": "pipe"
+  },
+  {
+    "original": "twilight",
+    "translated": "nawara"
+  },
+  {
+    "original": "twine",
+    "translated": "withe"
+  },
+  {
+    "original": "twist",
+    "translated": "relšpi"
+  },
+  {
+    "original": "two",
+    "translated": "teme"
+  },
+  {
+    "original": "ugly",
+    "translated": "n—madu"
+  },
+  {
+    "original": "ulcer",
+    "translated": "calethe"
+  },
+  {
+    "original": "ultimate",
+    "translated": "eno"
+  },
+  {
+    "original": "ultra",
+    "translated": "irani"
+  },
+  {
+    "original": "unbridled",
+    "translated": "ayafa"
+  },
+  {
+    "original": "uncle",
+    "translated": "ibi"
+  },
+  {
+    "original": "ungodly",
+    "translated": "thanetha"
+  },
+  {
+    "original": "unholy",
+    "translated": "nabethe"
+  },
+  {
+    "original": "unkempt",
+    "translated": "ethaci"
+  },
+  {
+    "original": "unseen",
+    "translated": "ne˜e"
+  },
+  {
+    "original": "untoward",
+    "translated": "laseca"
+  },
+  {
+    "original": "unwelcome",
+    "translated": "ycal‚"
+  },
+  {
+    "original": "urn",
+    "translated": "rupola"
+  },
+  {
+    "original": "useless",
+    "translated": "liva"
+  },
+  {
+    "original": "vandal",
+    "translated": "ir¢ci"
+  },
+  {
+    "original": "vegetable",
+    "translated": "ine"
+  },
+  {
+    "original": "vegetate",
+    "translated": "šnira"
+  },
+  {
+    "original": "vegetation",
+    "translated": "inale"
+  },
+  {
+    "original": "velvet",
+    "translated": "penopu"
+  },
+  {
+    "original": "venom",
+    "translated": "neleni"
+  },
+  {
+    "original": "vermin",
+    "translated": "nirica"
+  },
+  {
+    "original": "vile",
+    "translated": "r£fa"
+  },
+  {
+    "original": "violator",
+    "translated": "thatero"
+  },
+  {
+    "original": "violence",
+    "translated": "p¢bor¢"
+  },
+  {
+    "original": "violet",
+    "translated": "mira"
+  },
+  {
+    "original": "viper",
+    "translated": "lefari"
+  },
+  {
+    "original": "voice",
+    "translated": "l‚na"
+  },
+  {
+    "original": "void",
+    "translated": "ava"
+  },
+  {
+    "original": "volcano",
+    "translated": "amoya"
+  },
+  {
+    "original": "vomit",
+    "translated": "cemato"
+  },
+  {
+    "original": "vulture",
+    "translated": "rath¢na"
+  },
+  {
+    "original": "wail",
+    "translated": "omela"
+  },
+  {
+    "original": "wander",
+    "translated": "taveve"
+  },
+  {
+    "original": "war",
+    "translated": "athama"
+  },
+  {
+    "original": "warrior",
+    "translated": "ese"
+  },
+  {
+    "original": "wasp",
+    "translated": "avafi"
+  },
+  {
+    "original": "waste",
+    "translated": "tholatho"
+  },
+  {
+    "original": "watch",
+    "translated": "casatha"
+  },
+  {
+    "original": "watchful",
+    "translated": "aletha"
+  },
+  {
+    "original": "wave",
+    "translated": "iru"
+  },
+  {
+    "original": "wavy",
+    "translated": "rerela"
+  },
+  {
+    "original": "wear",
+    "translated": "ribe"
+  },
+  {
+    "original": "weasel",
+    "translated": "lethina"
+  },
+  {
+    "original": "weaver",
+    "translated": "namamo"
+  },
+  {
+    "original": "weed",
+    "translated": "mibi"
+  },
+  {
+    "original": "weight",
+    "translated": "eba"
+  },
+  {
+    "original": "weird",
+    "translated": "yemila"
+  },
+  {
+    "original": "were",
+    "translated": "rivi"
+  },
+  {
+    "original": "west",
+    "translated": "am£ra"
+  },
+  {
+    "original": "wheat",
+    "translated": "yafa"
+  },
+  {
+    "original": "wheel",
+    "translated": "rere"
+  },
+  {
+    "original": "whip",
+    "translated": "baci"
+  },
+  {
+    "original": "whisk",
+    "translated": "¢‡a"
+  },
+  {
+    "original": "whisky",
+    "translated": "nathaci"
+  },
+  {
+    "original": "whisper",
+    "translated": "ay¡ti"
+  },
+  {
+    "original": "white",
+    "translated": "alire"
+  },
+  {
+    "original": "wicked",
+    "translated": "rithesa"
+  },
+  {
+    "original": "wild",
+    "translated": "the˜ise"
+  },
+  {
+    "original": "will",
+    "translated": "cera"
+  },
+  {
+    "original": "wing",
+    "translated": "nine"
+  },
+  {
+    "original": "winter",
+    "translated": "olova"
+  },
+  {
+    "original": "wisp",
+    "translated": "ririli"
+  },
+  {
+    "original": "witch",
+    "translated": "lanami"
+  },
+  {
+    "original": "wonder_noun",
+    "translated": "adela"
+  },
+  {
+    "original": "wonder_verb",
+    "translated": "ibena"
+  },
+  {
+    "original": "wood",
+    "translated": "ave"
+  },
+  {
+    "original": "work",
+    "translated": "eyila"
+  },
+  {
+    "original": "worm",
+    "translated": "nema"
+  },
+  {
+    "original": "wraith",
+    "translated": "athara"
+  },
+  {
+    "original": "wrath",
+    "translated": "th•seri"
+  },
+  {
+    "original": "wretch",
+    "translated": "cicetha"
+  },
+  {
+    "original": "yarn",
+    "translated": "ire"
+  },
+  {
+    "original": "year",
+    "translated": "em‚ne"
+  },
+  {
+    "original": "yearling",
+    "translated": "a˜ara"
+  },
+  {
+    "original": "yellow",
+    "translated": "yame"
+  },
+  {
+    "original": "yore",
+    "translated": "lirena"
+  },
+  {
+    "original": "young",
+    "translated": "˜ce"
+  },
+  {
+    "original": "youth",
+    "translated": "capi"
+  },
+  {
+    "original": "zeal",
+    "translated": "careme"
+  },
+  {
+    "original": "zealot",
+    "translated": "gifama"
+  },
+  {
+    "original": "zephyr",
+    "translated": "defiyi"
+  },
+  {
+    "original": "earth",
+    "translated": "saba"
+  },
+  {
+    "original": "artifact",
+    "translated": "eth¢ca"
+  },
+  {
+    "original": "bed",
+    "translated": "sira"
+  },
+  {
+    "original": "bud",
+    "translated": "alisa"
+  },
+  {
+    "original": "cavort",
+    "translated": "liqui"
+  },
+  {
+    "original": "common",
+    "translated": "lade"
+  },
+  {
+    "original": "daub",
+    "translated": "wama"
+  },
+  {
+    "original": "desert",
+    "translated": "avetho"
+  },
+  {
+    "original": "dessert",
+    "translated": "laci"
+  },
+  {
+    "original": "diamond",
+    "translated": "akera"
+  },
+  {
+    "original": "domain",
+    "translated": "elathu"
+  },
+  {
+    "original": "dream",
+    "translated": "tharama"
+  },
+  {
+    "original": "tin",
+    "translated": "thono"
+  },
+  {
+    "original": "copper",
+    "translated": "can•"
+  },
+  {
+    "original": "bronze",
+    "translated": "dagi"
+  },
+  {
+    "original": "granite",
+    "translated": "bamo"
+  },
+  {
+    "original": "fancy",
+    "translated": "vipa"
+  },
+  {
+    "original": "farm",
+    "translated": "t•baf¡"
+  },
+  {
+    "original": "field",
+    "translated": "lora"
+  },
+  {
+    "original": "froth",
+    "translated": "laceci"
+  },
+  {
+    "original": "genius",
+    "translated": "ariva"
+  },
+  {
+    "original": "glacier",
+    "translated": "vaci"
+  },
+  {
+    "original": "gurgle",
+    "translated": "quadere"
+  },
+  {
+    "original": "impale",
+    "translated": "retha"
+  },
+  {
+    "original": "join",
+    "translated": "dala"
+  },
+  {
+    "original": "jade",
+    "translated": "anara"
+  },
+  {
+    "original": "ivory",
+    "translated": "ciquara"
+  },
+  {
+    "original": "land",
+    "translated": "lina"
+  },
+  {
+    "original": "lather",
+    "translated": "qu¡leli"
+  },
+  {
+    "original": "limp",
+    "translated": "binoli"
+  },
+  {
+    "original": "lucid",
+    "translated": "leni"
+  },
+  {
+    "original": "mountain",
+    "translated": "thele"
+  },
+  {
+    "original": "mucus",
+    "translated": "lathi"
+  },
+  {
+    "original": "pattern",
+    "translated": "lalala"
+  },
+  {
+    "original": "pebble",
+    "translated": "ata"
+  },
+  {
+    "original": "boulder",
+    "translated": "saro"
+  },
+  {
+    "original": "petal",
+    "translated": "l¡ceyi"
+  },
+  {
+    "original": "droplet",
+    "translated": "niri"
+  },
+  {
+    "original": "pinnacle",
+    "translated": "ilo"
+  },
+  {
+    "original": "plain",
+    "translated": "yeme"
+  },
+  {
+    "original": "plainadj",
+    "translated": "levo"
+  },
+  {
+    "original": "point",
+    "translated": "cila"
+  },
+  {
+    "original": "pot",
+    "translated": "momo"
+  },
+  {
+    "original": "prairie",
+    "translated": "elana"
+  },
+  {
+    "original": "rush",
+    "translated": "vime"
+  },
+  {
+    "original": "slap",
+    "translated": "laca"
+  },
+  {
+    "original": "sleeve",
+    "translated": "elema"
+  },
+  {
+    "original": "speck",
+    "translated": "idi"
+  },
+  {
+    "original": "steppe",
+    "translated": "ilare"
+  },
+  {
+    "original": "tentacle",
+    "translated": "vimara"
+  },
+  {
+    "original": "test",
+    "translated": "odata"
+  },
+  {
+    "original": "trot",
+    "translated": "adapi"
+  },
+  {
+    "original": "tub",
+    "translated": "onapu"
+  },
+  {
+    "original": "tube",
+    "translated": "cinami"
+  },
+  {
+    "original": "tundra",
+    "translated": "zepave"
+  },
+  {
+    "original": "un",
+    "translated": "seno"
+  },
+  {
+    "original": "waddle",
+    "translated": "nima"
+  },
+  {
+    "original": "wealth",
+    "translated": "rano"
+  },
+  {
+    "original": "weevil",
+    "translated": "sifina"
+  },
+  {
+    "original": "whim",
+    "translated": "cipi"
+  },
+  {
+    "original": "whirl",
+    "translated": "elira"
+  },
+  {
+    "original": "world",
+    "translated": "teyo"
+  },
+  {
+    "original": "desertverb",
+    "translated": "abita"
+  },
+  {
+    "original": "fancyverb",
+    "translated": "dita"
+  },
+  {
+    "original": "limpverb",
+    "translated": "fala"
+  },
+  {
+    "original": "pointverb",
+    "translated": "mipa"
+  },
+  {
+    "original": "pantomime",
+    "translated": "taviti"
+  },
+  {
+    "original": "sludge",
+    "translated": "paro"
+  },
+  {
+    "original": "goo",
+    "translated": "eyutho"
+  },
+  {
+    "original": "realm",
+    "translated": "camade"
+  },
+  {
+    "original": "plane",
+    "translated": "athira"
+  },
+  {
+    "original": "dimension",
+    "translated": "def¡ni"
+  },
+  {
+    "original": "universe",
+    "translated": "ecamo"
+  },
+  {
+    "original": "planet",
+    "translated": "anenu"
+  },
+  {
+    "original": "livid",
+    "translated": "yifi"
+  },
+  {
+    "original": "tepid",
+    "translated": "dewe"
+  },
+  {
+    "original": "honest",
+    "translated": "thana"
+  },
+  {
+    "original": "kingdom",
+    "translated": "araca"
+  },
+  {
+    "original": "empire",
+    "translated": "rasima"
+  },
+  {
+    "original": "confederation",
+    "translated": "rimara"
+  },
+  {
+    "original": "simple",
+    "translated": "delado"
+  },
+  {
+    "original": "trooper",
+    "translated": "ayero"
+  },
+  {
+    "original": "crimson",
+    "translated": "umola"
+  },
+  {
+    "original": "dune",
+    "translated": "vadane"
+  },
+  {
+    "original": "direct",
+    "translated": "aca"
+  },
+  {
+    "original": "clash",
+    "translated": "esala"
+  },
+  {
+    "original": "forever",
+    "translated": "yula"
+  },
+  {
+    "original": "subtle",
+    "translated": "raniya"
+  },
+  {
+    "original": "puppet",
+    "translated": "arepa"
+  },
+  {
+    "original": "hegemon",
+    "translated": "athelo"
+  },
+  {
+    "original": "amaze",
+    "translated": "vole"
+  },
+  {
+    "original": "alchemy",
+    "translated": "zamesi"
+  },
+  {
+    "original": "insight",
+    "translated": "nami"
+  },
+  {
+    "original": "union",
+    "translated": "eva"
+  },
+  {
+    "original": "confederacy",
+    "translated": "yed‚le"
+  },
+  {
+    "original": "speak",
+    "translated": "lelo"
+  },
+  {
+    "original": "speaker",
+    "translated": "lere"
+  },
+  {
+    "original": "persuade",
+    "translated": "amare"
+  },
+  {
+    "original": "persuader",
+    "translated": "theveme"
+  },
+  {
+    "original": "control",
+    "translated": "ade"
+  },
+  {
+    "original": "controller",
+    "translated": "darala"
+  },
+  {
+    "original": "worker",
+    "translated": "ipana"
+  },
+  {
+    "original": "basic",
+    "translated": "esame"
+  },
+  {
+    "original": "system",
+    "translated": "eritha"
+  },
+  {
+    "original": "ray",
+    "translated": "iya"
+  },
+  {
+    "original": "target",
+    "translated": "th•se"
+  },
+  {
+    "original": "bank",
+    "translated": "erani"
+  },
+  {
+    "original": "clean",
+    "translated": "reya"
+  },
+  {
+    "original": "drive",
+    "translated": "iyilo"
+  },
+  {
+    "original": "soar",
+    "translated": "aya"
+  },
+  {
+    "original": "glory",
+    "translated": "kara"
+  },
+  {
+    "original": "dismal",
+    "translated": "malatha"
+  },
+  {
+    "original": "radiance",
+    "translated": "irami"
+  },
+  {
+    "original": "pine",
+    "translated": "blalo"
+  },
+  {
+    "original": "messiah",
+    "translated": "leyara"
+  },
+  {
+    "original": "craft",
+    "translated": "nedu"
+  },
+  {
+    "original": "labor",
+    "translated": "equa"
+  },
+  {
+    "original": "discover",
+    "translated": "overe"
+  },
+  {
+    "original": "proliferate",
+    "translated": "irada"
+  },
+  {
+    "original": "chunk",
+    "translated": "niba"
+  },
+  {
+    "original": "slip",
+    "translated": "senawi"
+  },
+  {
+    "original": "slide",
+    "translated": "mabo"
+  },
+  {
+    "original": "single",
+    "translated": "afate"
+  },
+  {
+    "original": "pick",
+    "translated": "mubara"
+  },
+  {
+    "original": "tongs",
+    "translated": "aslef"
+  },
+  {
+    "original": "permanency",
+    "translated": "yara"
+  },
+  {
+    "original": "responsible",
+    "translated": "lithu"
+  },
+  {
+    "original": "require",
+    "translated": "enotho"
+  },
+  {
+    "original": "rootverb",
+    "translated": "dene"
+  },
+  {
+    "original": "blizzard",
+    "translated": "ethela"
+  },
+  {
+    "original": "general",
+    "translated": "carila"
+  },
+  {
+    "original": "memory",
+    "translated": "nšmetho"
+  },
+  {
+    "original": "construct",
+    "translated": "arabe"
+  },
+  {
+    "original": "lamb",
+    "translated": "milema"
+  },
+  {
+    "original": "toast",
+    "translated": "emafi"
+  },
+  {
+    "original": "gross",
+    "translated": "fitha"
+  },
+  {
+    "original": "paddle",
+    "translated": "apa"
+  },
+  {
+    "original": "council",
+    "translated": "¢lomi"
+  },
+  {
+    "original": "counsel",
+    "translated": "anomi"
+  },
+  {
+    "original": "gnarled",
+    "translated": "ruwire"
+  },
+  {
+    "original": "stump",
+    "translated": "m•fi"
+  },
+  {
+    "original": "naughty",
+    "translated": "ye‡a˜a"
+  },
+  {
+    "original": "play fun",
+    "translated": "mithe"
+  },
+  {
+    "original": "play perform",
+    "translated": "quathari"
+  },
+  {
+    "original": "flimsy",
+    "translated": "r‚ne"
+  },
+  {
+    "original": "greater",
+    "translated": "lale"
+  },
+  {
+    "original": "greatest",
+    "translated": "lira"
+  },
+  {
+    "original": "lesser",
+    "translated": "fime"
+  },
+  {
+    "original": "least",
+    "translated": "fumi"
+  },
+  {
+    "original": "beard",
+    "translated": "eslome"
+  },
+  {
+    "original": "dread",
+    "translated": "lutha˜š"
+  },
+  {
+    "original": "wall",
+    "translated": "ferale"
+  },
+  {
+    "original": "wallow",
+    "translated": "•nebe"
+  },
+  {
+    "original": "tax",
+    "translated": "fac¡"
+  },
+  {
+    "original": "fragrance",
+    "translated": "camela"
+  },
+  {
+    "original": "lantern",
+    "translated": "lepe"
+  },
+  {
+    "original": "torch",
+    "translated": "eti"
+  },
+  {
+    "original": "water",
+    "translated": "alu"
+  },
+  {
+    "original": "wine",
+    "translated": "ipivi"
+  },
+  {
+    "original": "line",
+    "translated": "inupi"
+  },
+  {
+    "original": "mine",
+    "translated": "cšthutha"
+  },
+  {
+    "original": "wax",
+    "translated": "imepe"
+  },
+  {
+    "original": "shove",
+    "translated": "amo"
+  },
+  {
+    "original": "shovel",
+    "translated": "n˜atha"
+  },
+  {
+    "original": "melt",
+    "translated": "cane"
+  },
+  {
+    "original": "wrack",
+    "translated": "yithe"
+  },
+  {
+    "original": "glitter",
+    "translated": "fecici"
+  },
+  {
+    "original": "spark",
+    "translated": "niweni"
+  },
+  {
+    "original": "sparkle",
+    "translated": "epeve"
+  },
+  {
+    "original": "flash",
+    "translated": "cayi"
+  },
+  {
+    "original": "gleam",
+    "translated": "e˜i"
+  },
+  {
+    "original": "run",
+    "translated": "ive"
+  },
+  {
+    "original": "dash",
+    "translated": "varano"
+  },
+  {
+    "original": "savant",
+    "translated": "mequema"
+  },
+  {
+    "original": "roar",
+    "translated": "omo"
+  },
+  {
+    "original": "yell",
+    "translated": "vafe"
+  },
+  {
+    "original": "echo",
+    "translated": "sanene"
+  },
+  {
+    "original": "hollow",
+    "translated": "omethu"
+  },
+  {
+    "original": "full",
+    "translated": "lema"
+  },
+  {
+    "original": "empty",
+    "translated": "cobesi"
+  },
+  {
+    "original": "word",
+    "translated": "elina"
+  },
+  {
+    "original": "intense",
+    "translated": "fava"
+  },
+  {
+    "original": "sad",
+    "translated": "¡la"
+  },
+  {
+    "original": "glad",
+    "translated": "˜ithi"
+  },
+  {
+    "original": "tragedy",
+    "translated": "n¢riwa"
+  },
+  {
+    "original": "bell",
+    "translated": "ere"
+  },
+  {
+    "original": "belly",
+    "translated": "feta"
+  },
+  {
+    "original": "tummy",
+    "translated": "miga"
+  },
+  {
+    "original": "shock",
+    "translated": "riqui"
+  },
+  {
+    "original": "ponder",
+    "translated": "meco"
+  },
+  {
+    "original": "ponderous",
+    "translated": "ceth‚da"
+  },
+  {
+    "original": "heaven",
+    "translated": "pacila"
+  },
+  {
+    "original": "round",
+    "translated": "thanemo"
+  },
+  {
+    "original": "rounded",
+    "translated": "thinere"
+  },
+  {
+    "original": "unspeakable",
+    "translated": "nini"
+  },
+  {
+    "original": "unthinkable",
+    "translated": "nife"
+  },
+  {
+    "original": "unnameable",
+    "translated": "nica"
+  },
+  {
+    "original": "calamity",
+    "translated": "carena"
+  },
+  {
+    "original": "cyclopean",
+    "translated": "sethere"
+  },
+  {
+    "original": "tame",
+    "translated": "bibawe"
+  },
+  {
+    "original": "untamed",
+    "translated": "etho"
+  },
+  {
+    "original": "burst",
+    "translated": "ivatha"
+  },
+  {
+    "original": "meteor",
+    "translated": "aleni"
+  },
+  {
+    "original": "trite",
+    "translated": "mitif"
+  },
+  {
+    "original": "trifle",
+    "translated": "faqua"
+  },
+  {
+    "original": "rank",
+    "translated": "—ba"
+  },
+  {
+    "original": "rancor",
+    "translated": "ofe"
+  },
+  {
+    "original": "bitter",
+    "translated": "ufithe"
+  },
+  {
+    "original": "sour",
+    "translated": "alecu"
+  },
+  {
+    "original": "danger",
+    "translated": "eduma"
+  },
+  {
+    "original": "impervious",
+    "translated": "derle"
+  },
+  {
+    "original": "unswerving",
+    "translated": "inime"
+  },
+  {
+    "original": "sway",
+    "translated": "ceye"
+  },
+  {
+    "original": "luxury",
+    "translated": "salore"
+  },
+  {
+    "original": "euphoria",
+    "translated": "ar¡"
+  },
+  {
+    "original": "scintillate",
+    "translated": "thineli"
+  },
+  {
+    "original": "divine",
+    "translated": "mecala"
+  },
+  {
+    "original": "divide",
+    "translated": "acira"
+  },
+  {
+    "original": "taint",
+    "translated": "poyife"
+  },
+  {
+    "original": "corrupt",
+    "translated": "fadethe"
+  },
+  {
+    "original": "malign slander v",
+    "translated": "mimamu"
+  },
+  {
+    "original": "malign adj",
+    "translated": "yeri"
+  },
+  {
+    "original": "malignant",
+    "translated": "umathi"
+  },
+  {
+    "original": "trust",
+    "translated": "thebe"
+  },
+  {
+    "original": "distrust",
+    "translated": "paca"
+  },
+  {
+    "original": "trustworthy",
+    "translated": "eyi"
+  },
+  {
+    "original": "untrustworthy",
+    "translated": "manali"
+  },
+  {
+    "original": "dishonest",
+    "translated": "enav‚"
+  },
+  {
+    "original": "blight",
+    "translated": "voma"
+  },
+  {
+    "original": "cunning",
+    "translated": "afi"
+  },
+  {
+    "original": "sly",
+    "translated": "wat¢tho"
+  },
+  {
+    "original": "rustic",
+    "translated": "thatheci"
+  },
+  {
+    "original": "homely",
+    "translated": "ayibi"
+  },
+  {
+    "original": "lonely",
+    "translated": "geme"
+  },
+  {
+    "original": "lonesome",
+    "translated": "lepi"
+  },
+  {
+    "original": "close",
+    "translated": "eru"
+  },
+  {
+    "original": "ford",
+    "translated": "romimi"
+  },
+  {
+    "original": "way",
+    "translated": "abi"
+  },
+  {
+    "original": "wayward",
+    "translated": "elen£"
+  },
+  {
+    "original": "bandit",
+    "translated": "veyico"
+  },
+  {
+    "original": "brigand",
+    "translated": "tathe"
+  },
+  {
+    "original": "monster",
+    "translated": "nane"
+  },
+  {
+    "original": "sense",
+    "translated": "cereni"
+  },
+  {
+    "original": "insensitive",
+    "translated": "nemama"
+  },
+  {
+    "original": "sensual",
+    "translated": "alana"
+  },
+  {
+    "original": "odor",
+    "translated": "miceli"
+  },
+  {
+    "original": "malodorous",
+    "translated": "thato"
+  },
+  {
+    "original": "ignorant",
+    "translated": "‚ceti"
+  },
+  {
+    "original": "ignoble",
+    "translated": "ise"
+  },
+  {
+    "original": "humble",
+    "translated": "rava"
+  },
+  {
+    "original": "moral",
+    "translated": "nayi"
+  },
+  {
+    "original": "immoral",
+    "translated": "nowe"
+  },
+  {
+    "original": "superior",
+    "translated": "erifi"
+  },
+  {
+    "original": "inferior",
+    "translated": "ecide"
+  },
+  {
+    "original": "infinite",
+    "translated": "cerete"
+  },
+  {
+    "original": "sable color",
+    "translated": "tuthi"
+  },
+  {
+    "original": "fell cruel",
+    "translated": "malethe"
+  },
+  {
+    "original": "fell hide",
+    "translated": "inefa"
+  },
+  {
+    "original": "pelt hide",
+    "translated": "cacame"
+  },
+  {
+    "original": "dignity",
+    "translated": "iyane"
+  },
+  {
+    "original": "undignified",
+    "translated": "nice˜i"
+  },
+  {
+    "original": "indignation",
+    "translated": "wiyi"
+  },
+  {
+    "original": "right better",
+    "translated": "enore"
+  },
+  {
+    "original": "absolute",
+    "translated": "atle"
+  },
+  {
+    "original": "fair even",
+    "translated": "ode"
+  },
+  {
+    "original": "fair color",
+    "translated": "ewiwi"
+  },
+  {
+    "original": "snarl",
+    "translated": "thithu"
+  },
+  {
+    "original": "loyal",
+    "translated": "oy‚le"
+  },
+  {
+    "original": "disloyal",
+    "translated": "ori"
+  },
+  {
+    "original": "help",
+    "translated": "pavi"
+  },
+  {
+    "original": "friend",
+    "translated": "ramana"
+  },
+  {
+    "original": "courtesy",
+    "translated": "mirathi"
+  },
+  {
+    "original": "cheerful",
+    "translated": "firil"
+  },
+  {
+    "original": "thrift",
+    "translated": "¡˜¡mo"
+  },
+  {
+    "original": "bravery",
+    "translated": "imase"
+  },
+  {
+    "original": "revere",
+    "translated": "fiya"
+  },
+  {
+    "original": "venerate",
+    "translated": "obe"
+  },
+  {
+    "original": "salute",
+    "translated": "risa"
+  },
+  {
+    "original": "nation",
+    "translated": "mememi"
+  },
+  {
+    "original": "drink",
+    "translated": "vafice"
+  },
+  {
+    "original": "considerate",
+    "translated": "icifa"
+  },
+  {
+    "original": "convenient",
+    "translated": "aqueve"
+  },
+  {
+    "original": "inconsiderate",
+    "translated": "f¡mu"
+  },
+  {
+    "original": "inconvenient",
+    "translated": "¡neri"
+  },
+  {
+    "original": "continent",
+    "translated": "fev¡la"
+  },
+  {
+    "original": "flight",
+    "translated": "ilama"
+  },
+  {
+    "original": "flighty",
+    "translated": "thethi"
+  },
+  {
+    "original": "gild",
+    "translated": "caci"
+  },
+  {
+    "original": "guild",
+    "translated": "refi"
+  },
+  {
+    "original": "merchant",
+    "translated": "ficemi"
+  },
+  {
+    "original": "trade",
+    "translated": "lath"
+  },
+  {
+    "original": "plait",
+    "translated": "erare"
+  },
+  {
+    "original": "braid",
+    "translated": "quali"
+  },
+  {
+    "original": "pleat",
+    "translated": "tefe"
+  },
+  {
+    "original": "fold",
+    "translated": "ofa"
+  },
+  {
+    "original": "bunion",
+    "translated": "betava"
+  },
+  {
+    "original": "uncommon",
+    "translated": "ileca"
+  },
+  {
+    "original": "rare",
+    "translated": "cicane"
+  },
+  {
+    "original": "scarce",
+    "translated": "‚fi"
+  },
+  {
+    "original": "remarkable",
+    "translated": "vemi"
+  },
+  {
+    "original": "unremarkable",
+    "translated": "if¢"
+  },
+  {
+    "original": "solitary",
+    "translated": "themi"
+  },
+  {
+    "original": "bend",
+    "translated": "thiyo"
+  },
+  {
+    "original": "blame",
+    "translated": "abama"
+  },
+  {
+    "original": "blameless",
+    "translated": "nanina"
+  },
+  {
+    "original": "twig",
+    "translated": "aye"
+  },
+  {
+    "original": "girder",
+    "translated": "ceni"
+  },
+  {
+    "original": "truss",
+    "translated": "irecu"
+  },
+  {
+    "original": "skewer",
+    "translated": "viye"
+  },
+  {
+    "original": "sculpt",
+    "translated": "cerethe"
+  },
+  {
+    "original": "tress",
+    "translated": "mimi"
+  },
+  {
+    "original": "lock hair",
+    "translated": "athina"
+  },
+  {
+    "original": "curl",
+    "translated": "ewirš"
+  },
+  {
+    "original": "tuft",
+    "translated": "thal£"
+  },
+  {
+    "original": "mean nasty",
+    "translated": "osata"
+  },
+  {
+    "original": "mean low",
+    "translated": "n‚tho"
+  },
+  {
+    "original": "shame",
+    "translated": "yatha"
+  },
+  {
+    "original": "ashamed",
+    "translated": "nulas¢"
+  },
+  {
+    "original": "steam",
+    "translated": "tayol¡"
+  },
+  {
+    "original": "fern",
+    "translated": "ithith¡"
+  },
+  {
+    "original": "ferry",
+    "translated": "litha"
+  },
+  {
+    "original": "gully",
+    "translated": "˜emeni"
+  },
+  {
+    "original": "worry",
+    "translated": "letha"
+  },
+  {
+    "original": "lion",
+    "translated": "alatha"
+  },
+  {
+    "original": "cactus",
+    "translated": "masami"
+  },
+  {
+    "original": "desk",
+    "translated": "th‚mi"
+  },
+  {
+    "original": "bottle",
+    "translated": "ithe"
+  },
+  {
+    "original": "shingle",
+    "translated": "oco"
+  },
+  {
+    "original": "blanket",
+    "translated": "there"
+  },
+  {
+    "original": "cloud",
+    "translated": "atera"
+  },
+  {
+    "original": "plate",
+    "translated": "lethine"
+  },
+  {
+    "original": "road",
+    "translated": "fatha"
+  },
+  {
+    "original": "house",
+    "translated": "feretha"
+  },
+  {
+    "original": "bean",
+    "translated": "mawada"
+  },
+  {
+    "original": "block defend",
+    "translated": "canara"
+  },
+  {
+    "original": "block square",
+    "translated": "epuba"
+  },
+  {
+    "original": "fountain",
+    "translated": "ivi"
+  },
+  {
+    "original": "pearl",
+    "translated": "amayi"
+  },
+  {
+    "original": "pear",
+    "translated": "¡le"
+  },
+  {
+    "original": "thimble",
+    "translated": "ocathu"
+  },
+  {
+    "original": "bunny",
+    "translated": "nede"
+  },
+  {
+    "original": "rope",
+    "translated": "imiwš"
+  },
+  {
+    "original": "string",
+    "translated": "nale"
+  },
+  {
+    "original": "wire",
+    "translated": "mopi"
+  },
+  {
+    "original": "lash",
+    "translated": "thepa"
+  },
+  {
+    "original": "sorcery",
+    "translated": "ifu"
+  },
+  {
+    "original": "sorcerer",
+    "translated": "ifo"
+  },
+  {
+    "original": "ensorcel",
+    "translated": "icibe"
+  },
+  {
+    "original": "bewitch",
+    "translated": "efa˜i"
+  },
+  {
+    "original": "magician",
+    "translated": "rimi"
+  },
+  {
+    "original": "conjure",
+    "translated": "nera"
+  },
+  {
+    "original": "conjurer",
+    "translated": "macati"
+  },
+  {
+    "original": "enchant",
+    "translated": "ewš"
+  },
+  {
+    "original": "enchanter",
+    "translated": "cen¢pi"
+  },
+  {
+    "original": "lance",
+    "translated": "thebi"
+  },
+  {
+    "original": "lancer",
+    "translated": "reri"
+  },
+  {
+    "original": "stink",
+    "translated": "ifalo"
+  },
+  {
+    "original": "freckle",
+    "translated": "thimi"
+  },
+  {
+    "original": "pimple",
+    "translated": "˜itana"
+  },
+  {
+    "original": "wart",
+    "translated": "wi˜eve"
+  },
+  {
+    "original": "blotch",
+    "translated": "redo"
+  },
+  {
+    "original": "callus",
+    "translated": "¡ci"
+  },
+  {
+    "original": "wind storm",
+    "translated": "ametha"
+  },
+  {
+    "original": "wind clock",
+    "translated": "‚litho"
+  },
+  {
+    "original": "haze",
+    "translated": "wetholi"
+  },
+  {
+    "original": "skin",
+    "translated": "tipi"
+  },
+  {
+    "original": "shin",
+    "translated": "cana"
+  },
+  {
+    "original": "torture",
+    "translated": "umethe"
+  },
+  {
+    "original": "tool",
+    "translated": "wanala"
+  },
+  {
+    "original": "scholar",
+    "translated": "naquina"
+  },
+  {
+    "original": "weep",
+    "translated": "cedi"
+  },
+  {
+    "original": "massive",
+    "translated": "‚ra"
+  },
+  {
+    "original": "large",
+    "translated": "lacifa"
+  },
+  {
+    "original": "small",
+    "translated": "lifela"
+  },
+  {
+    "original": "loaf",
+    "translated": "nedš"
+  },
+  {
+    "original": "tile",
+    "translated": "‡ile"
+  },
+  {
+    "original": "sport",
+    "translated": "lima"
+  },
+  {
+    "original": "search",
+    "translated": "sali"
+  },
+  {
+    "original": "stale",
+    "translated": "i‡i"
+  },
+  {
+    "original": "fresh",
+    "translated": "tha˜ebo"
+  },
+  {
+    "original": "rub",
+    "translated": "er¡"
+  },
+  {
+    "original": "worthy",
+    "translated": "cira"
+  },
+  {
+    "original": "worthless",
+    "translated": "nafamo"
+  },
+  {
+    "original": "fright",
+    "translated": "n¡yo"
+  },
+  {
+    "original": "revolting",
+    "translated": "rurame"
+  },
+  {
+    "original": "disgust",
+    "translated": "quema"
+  },
+  {
+    "original": "outrage",
+    "translated": "namice"
+  },
+  {
+    "original": "cruel",
+    "translated": "mino"
+  },
+  {
+    "original": "deviant",
+    "translated": "thayama"
+  },
+  {
+    "original": "devious",
+    "translated": "nitha"
+  },
+  {
+    "original": "fabulous",
+    "translated": "elethi"
+  },
+  {
+    "original": "morality",
+    "translated": "cetele"
+  },
+  {
+    "original": "immorality",
+    "translated": "wumaya"
+  },
+  {
+    "original": "skin verb",
+    "translated": "feceve"
+  },
+  {
+    "original": "skinny",
+    "translated": "lini"
+  },
+  {
+    "original": "narrow",
+    "translated": "renire"
+  },
+  {
+    "original": "grief",
+    "translated": "comewi"
+  },
+  {
+    "original": "belt",
+    "translated": "thfi"
+  },
+  {
+    "original": "sandal",
+    "translated": "thazi"
+  },
+  {
+    "original": "future",
+    "translated": "nithara"
+  },
+  {
+    "original": "past",
+    "translated": "todi"
+  },
+  {
+    "original": "present",
+    "translated": "ayu"
+  },
+  {
+    "original": "bite",
+    "translated": "imici"
+  },
+  {
+    "original": "split",
+    "translated": "fenefe"
+  },
+  {
+    "original": "brash",
+    "translated": "bara"
+  },
+  {
+    "original": "brazen",
+    "translated": "nath¢de"
+  },
+  {
+    "original": "strangle",
+    "translated": "wareci"
+  },
+  {
+    "original": "gallows",
+    "translated": "bitafe"
+  },
+  {
+    "original": "muscle",
+    "translated": "dana"
+  },
+  {
+    "original": "dim",
+    "translated": "ethili"
+  },
+  {
+    "original": "spurt",
+    "translated": "fafire"
+  },
+  {
+    "original": "gravel",
+    "translated": "niye"
+  },
+  {
+    "original": "risk",
+    "translated": "semili"
+  },
+  {
+    "original": "chance",
+    "translated": "ce˜eca"
+  },
+  {
+    "original": "channel",
+    "translated": "teze"
+  },
+  {
+    "original": "mirth",
+    "translated": "ale˜a"
+  },
+  {
+    "original": "glee",
+    "translated": "a˜epa"
+  },
+  {
+    "original": "victim",
+    "translated": "nafalo"
+  },
+  {
+    "original": "stranger",
+    "translated": "wanara"
+  },
+  {
+    "original": "drab",
+    "translated": "elafa"
+  },
+  {
+    "original": "vision",
+    "translated": "asada"
+  },
+  {
+    "original": "visionary",
+    "translated": "ilaya"
+  },
+  {
+    "original": "oracle",
+    "translated": "anetha"
+  },
+  {
+    "original": "utter",
+    "translated": "ipo"
+  },
+  {
+    "original": "decide",
+    "translated": "thira"
+  },
+  {
+    "original": "decisive",
+    "translated": "ralo"
+  },
+  {
+    "original": "special",
+    "translated": "pelina"
+  },
+  {
+    "original": "author",
+    "translated": "cofari"
+  },
+  {
+    "original": "authority",
+    "translated": "všlami"
+  },
+  {
+    "original": "portent",
+    "translated": "inala"
+  },
+  {
+    "original": "momentous",
+    "translated": "alabe"
+  },
+  {
+    "original": "infallible",
+    "translated": "aciso"
+  },
+  {
+    "original": "ambiguous",
+    "translated": "˜a˜ura"
+  },
+  {
+    "original": "curious",
+    "translated": "inena"
+  },
+  {
+    "original": "obscure",
+    "translated": "˜nathi"
+  },
+  {
+    "original": "obscene",
+    "translated": "fethene"
+  },
+  {
+    "original": "obstacle",
+    "translated": "ladino"
+  },
+  {
+    "original": "vulgar",
+    "translated": "wumamo"
+  },
+  {
+    "original": "ominous",
+    "translated": "sathus¡"
+  },
+  {
+    "original": "island",
+    "translated": "elifa"
+  },
+  {
+    "original": "church",
+    "translated": "fi˜opi"
+  },
+  {
+    "original": "temple",
+    "translated": "fothi"
+  },
+  {
+    "original": "cult",
+    "translated": "ro˜ere"
+  },
+  {
+    "original": "coven",
+    "translated": "neslane"
+  },
+  {
+    "original": "sect",
+    "translated": "nalet¡"
+  },
+  {
+    "original": "order group",
+    "translated": "feri"
+  },
+  {
+    "original": "creed",
+    "translated": "d‚veli"
+  },
+  {
+    "original": "communion",
+    "translated": "enš"
+  },
+  {
+    "original": "doctrine",
+    "translated": "loruca"
+  },
+  {
+    "original": "faith",
+    "translated": "awa"
+  },
+  {
+    "original": "denomination",
+    "translated": "ofara"
+  },
+  {
+    "original": "temple head",
+    "translated": "odi˜a"
+  },
+  {
+    "original": "occult",
+    "translated": "neyamo"
+  },
+  {
+    "original": "order concept",
+    "translated": "cadame"
+  },
+  {
+    "original": "faith loyalty",
+    "translated": "thari"
+  },
+  {
+    "original": "guilt",
+    "translated": "wirethi"
+  },
+  {
+    "original": "baby",
+    "translated": "cema"
+  },
+  {
+    "original": "bleed",
+    "translated": "vathe"
+  },
+  {
+    "original": "girl",
+    "translated": "pamata"
+  },
+  {
+    "original": "boy",
+    "translated": "¢nowe"
+  },
+  {
+    "original": "woman",
+    "translated": "˜ariwi"
+  },
+  {
+    "original": "flag",
+    "translated": "redari"
+  },
+  {
+    "original": "banner",
+    "translated": "nawo"
+  },
+  {
+    "original": "wreath",
+    "translated": "canira"
+  },
+  {
+    "original": "standard flag",
+    "translated": "falone"
+  },
+  {
+    "original": "trumpet",
+    "translated": "palara"
+  },
+  {
+    "original": "goal",
+    "translated": "ciba"
+  },
+  {
+    "original": "jail",
+    "translated": "lezitha"
+  },
+  {
+    "original": "prison",
+    "translated": "recethi"
+  },
+  {
+    "original": "library",
+    "translated": "dethara"
+  },
+  {
+    "original": "avalanche",
+    "translated": "˜ud•"
+  },
+  {
+    "original": "stigma",
+    "translated": "vadi"
+  },
+  {
+    "original": "slick",
+    "translated": "eyaza"
+  },
+  {
+    "original": "talk",
+    "translated": "mowe"
+  },
+  {
+    "original": "jailer",
+    "translated": "lithate"
+  },
+  {
+    "original": "still unmoving",
+    "translated": "a‡šya"
+  },
+  {
+    "original": "calm",
+    "translated": "valo"
+  },
+  {
+    "original": "hush",
+    "translated": "sori"
+  },
+  {
+    "original": "laconic",
+    "translated": "elathi"
+  },
+  {
+    "original": "lull",
+    "translated": "ibo"
+  },
+  {
+    "original": "mute",
+    "translated": "emino"
+  },
+  {
+    "original": "noiseless",
+    "translated": "afa"
+  },
+  {
+    "original": "quiescent",
+    "translated": "£le"
+  },
+  {
+    "original": "quiet",
+    "translated": "seni"
+  },
+  {
+    "original": "reticent",
+    "translated": "tosace"
+  },
+  {
+    "original": "saturnine",
+    "translated": "mokathi"
+  },
+  {
+    "original": "speechless",
+    "translated": "‡iri"
+  },
+  {
+    "original": "taciturn",
+    "translated": "rer‚thi"
+  },
+  {
+    "original": "fortune luck",
+    "translated": "favane"
+  },
+  {
+    "original": "fortune wealth",
+    "translated": "fawara"
+  },
+  {
+    "original": "accident",
+    "translated": "matirš"
+  },
+  {
+    "original": "circumstance",
+    "translated": "thici"
+  },
+  {
+    "original": "contingent",
+    "translated": "lunaba"
+  },
+  {
+    "original": "contingency",
+    "translated": "toli"
+  },
+  {
+    "original": "coincidence",
+    "translated": "a˜ifi"
+  },
+  {
+    "original": "fluke",
+    "translated": "fimaca"
+  },
+  {
+    "original": "luck",
+    "translated": "icaye"
+  },
+  {
+    "original": "certain",
+    "translated": "lata"
+  },
+  {
+    "original": "uncertain",
+    "translated": "feferi"
+  },
+  {
+    "original": "fortuitous",
+    "translated": "layu"
+  },
+  {
+    "original": "incidental",
+    "translated": "fucovo"
+  },
+  {
+    "original": "amuse",
+    "translated": "mase"
+  },
+  {
+    "original": "pastime",
+    "translated": "asibi"
+  },
+  {
+    "original": "distract annoy",
+    "translated": "riraci"
+  },
+  {
+    "original": "distraction game",
+    "translated": "arola"
+  },
+  {
+    "original": "diversion game",
+    "translated": "athame"
+  },
+  {
+    "original": "divert detour",
+    "translated": "mfo"
+  },
+  {
+    "original": "recreation game",
+    "translated": "cipame"
+  },
+  {
+    "original": "compete",
+    "translated": "iwe"
+  },
+  {
+    "original": "contest",
+    "translated": "ita"
+  },
+  {
+    "original": "match contest",
+    "translated": "pare"
+  },
+  {
+    "original": "match equal",
+    "translated": "limili"
+  },
+  {
+    "original": "tournament",
+    "translated": "dethimi"
+  },
+  {
+    "original": "plan",
+    "translated": "nemathe"
+  },
+  {
+    "original": "scenario",
+    "translated": "finfa"
+  },
+  {
+    "original": "strategy",
+    "translated": "tiveyš"
+  },
+  {
+    "original": "tactic",
+    "translated": "ti˜ipo"
+  },
+  {
+    "original": "autonomy",
+    "translated": "atara"
+  },
+  {
+    "original": "emancipate",
+    "translated": "thimire"
+  },
+  {
+    "original": "extricate",
+    "translated": "lasi"
+  },
+  {
+    "original": "impunity",
+    "translated": "mothani"
+  },
+  {
+    "original": "liberate",
+    "translated": "rama"
+  },
+  {
+    "original": "liberty",
+    "translated": "ari"
+  },
+  {
+    "original": "release",
+    "translated": "ad‚ma"
+  },
+  {
+    "original": "relieve",
+    "translated": "cere"
+  },
+  {
+    "original": "even",
+    "translated": "nila"
+  },
+  {
+    "original": "balance",
+    "translated": "rame"
+  },
+  {
+    "original": "equity",
+    "translated": "aline"
+  },
+  {
+    "original": "equivalence",
+    "translated": "elime"
+  },
+  {
+    "original": "parity",
+    "translated": "e˜o"
+  },
+  {
+    "original": "stasis",
+    "translated": "moduve"
+  },
+  {
+    "original": "symmetry",
+    "translated": "rarami"
+  },
+  {
+    "original": "equal",
+    "translated": "laco"
+  },
+  {
+    "original": "harmony",
+    "translated": "oyomo"
+  },
+  {
+    "original": "neutralize",
+    "translated": "tithefa"
+  },
+  {
+    "original": "neutral",
+    "translated": "rise"
+  },
+  {
+    "original": "stable unchanging",
+    "translated": "uyane"
+  },
+  {
+    "original": "lull mislead",
+    "translated": "civeri"
+  },
+  {
+    "original": "dour",
+    "translated": "vafo"
+  },
+  {
+    "original": "gloom",
+    "translated": "vama"
+  },
+  {
+    "original": "severe",
+    "translated": "febi"
+  },
+  {
+    "original": "glum",
+    "translated": "lethathi"
+  },
+  {
+    "original": "image",
+    "translated": "ilami"
+  },
+  {
+    "original": "shrine",
+    "translated": "dama"
+  },
+  {
+    "original": "sanctuary",
+    "translated": "ralimi"
+  },
+  {
+    "original": "monastery",
+    "translated": "iritha"
+  },
+  {
+    "original": "convent",
+    "translated": "rithini"
+  },
+  {
+    "original": "cathedral",
+    "translated": "erane"
+  },
+  {
+    "original": "chapel",
+    "translated": "alitha"
+  },
+  {
+    "original": "sanctum",
+    "translated": "athave"
+  },
+  {
+    "original": "inferno",
+    "translated": "radavi"
+  },
+  {
+    "original": "conflagration",
+    "translated": "bath¢re"
+  },
+  {
+    "original": "flare",
+    "translated": "lirina"
+  },
+  {
+    "original": "heat",
+    "translated": "thasa"
+  },
+  {
+    "original": "sand",
+    "translated": "polefa"
+  },
+  {
+    "original": "pillar",
+    "translated": "¡cati"
+  },
+  {
+    "original": "column",
+    "translated": "esaca"
+  },
+  {
+    "original": "arch noun",
+    "translated": "fis£"
+  },
+  {
+    "original": "grotto",
+    "translated": "dimati"
+  },
+  {
+    "original": "cavern",
+    "translated": "nun•re"
+  },
+  {
+    "original": "depth",
+    "translated": "cuthabe"
+  },
+  {
+    "original": "shade",
+    "translated": "fere"
+  },
+  {
+    "original": "veil",
+    "translated": "fiso"
+  },
+  {
+    "original": "relic",
+    "translated": "omoka"
+  },
+  {
+    "original": "umbra",
+    "translated": "iquila"
+  },
+  {
+    "original": "phantom",
+    "translated": "vilela"
+  },
+  {
+    "original": "murk",
+    "translated": "meli"
+  },
+  {
+    "original": "faint intensity",
+    "translated": "ac¡"
+  },
+  {
+    "original": "faint verb",
+    "translated": "webana"
+  },
+  {
+    "original": "somber",
+    "translated": "fomi"
+  },
+  {
+    "original": "tenebrous",
+    "translated": "thadaro"
+  },
+  {
+    "original": "morose",
+    "translated": "wamo"
+  },
+  {
+    "original": "lover",
+    "translated": "nelime"
+  },
+  {
+    "original": "beloved",
+    "translated": "icamo"
+  },
+  {
+    "original": "escort",
+    "translated": "rala"
+  },
+  {
+    "original": "suitor",
+    "translated": "riramo"
+  },
+  {
+    "original": "pungent",
+    "translated": "vofa"
+  },
+  {
+    "original": "musty",
+    "translated": "mocena"
+  },
+  {
+    "original": "infect",
+    "translated": "vima˜i"
+  },
+  {
+    "original": "lesion",
+    "translated": "suthe"
+  },
+  {
+    "original": "afflict",
+    "translated": "eca"
+  },
+  {
+    "original": "ache",
+    "translated": "balane"
+  },
+  {
+    "original": "epidemic",
+    "translated": "fisifo"
+  },
+  {
+    "original": "fight",
+    "translated": "uri"
+  },
+  {
+    "original": "scuffle",
+    "translated": "thethe"
+  },
+  {
+    "original": "yawn",
+    "translated": "eya"
+  },
+  {
+    "original": "action",
+    "translated": "nš˜"
+  },
+  {
+    "original": "assault",
+    "translated": "irafe"
+  },
+  {
+    "original": "carnal",
+    "translated": "l•ni"
+  },
+  {
+    "original": "strife",
+    "translated": "nawiri"
+  },
+  {
+    "original": "combat",
+    "translated": "mo˜ira"
+  },
+  {
+    "original": "citadel",
+    "translated": "ciniro"
+  },
+  {
+    "original": "city",
+    "translated": "nele˜e"
+  },
+  {
+    "original": "town",
+    "translated": "irive"
+  },
+  {
+    "original": "village",
+    "translated": "enathi"
+  },
+  {
+    "original": "manor",
+    "translated": "aslefa"
+  },
+  {
+    "original": "mansion",
+    "translated": "deri"
+  },
+  {
+    "original": "palace",
+    "translated": "silera"
+  },
+  {
+    "original": "cottage",
+    "translated": "roce"
+  },
+  {
+    "original": "shack",
+    "translated": "ethabo"
+  },
+  {
+    "original": "hut",
+    "translated": "pepana"
+  },
+  {
+    "original": "hovel",
+    "translated": "etewo"
+  },
+  {
+    "original": "bastion",
+    "translated": "quemera"
+  },
+  {
+    "original": "furnace",
+    "translated": "lethari"
+  },
+  {
+    "original": "anvil",
+    "translated": "othala"
+  },
+  {
+    "original": "bridge",
+    "translated": "val¢na"
+  },
+  {
+    "original": "safe",
+    "translated": "eci"
+  },
+  {
+    "original": "goad",
+    "translated": "rathe"
+  },
+  {
+    "original": "machine",
+    "translated": "faci"
+  },
+  {
+    "original": "flay",
+    "translated": "teca"
+  },
+  {
+    "original": "oil",
+    "translated": "˜ivu"
+  },
+  {
+    "original": "suicide",
+    "translated": "parida"
+  },
+  {
+    "original": "marble ball",
+    "translated": "šri"
+  },
+  {
+    "original": "bait",
+    "translated": "ey¢"
+  },
+  {
+    "original": "lure",
+    "translated": "lanebe"
+  },
+  {
+    "original": "reward",
+    "translated": "rethu"
+  },
+  {
+    "original": "ward",
+    "translated": "semabe"
+  },
+  {
+    "original": "price",
+    "translated": "ica"
+  },
+  {
+    "original": "prince",
+    "translated": "ithiri"
+  },
+  {
+    "original": "princess",
+    "translated": "lothena"
+  },
+  {
+    "original": "tempt",
+    "translated": "š˜e"
+  },
+  {
+    "original": "spurn",
+    "translated": "larota"
+  },
+  {
+    "original": "scorn",
+    "translated": "nefethi"
+  },
+  {
+    "original": "contempt",
+    "translated": "carima"
+  },
+  {
+    "original": "affection",
+    "translated": "papewa"
+  },
+  {
+    "original": "compassion",
+    "translated": "eleni"
+  },
+  {
+    "original": "sacrifice",
+    "translated": "ficeri"
+  },
+  {
+    "original": "charity",
+    "translated": "tethe"
+  },
+  {
+    "original": "cherish",
+    "translated": "‡•me"
+  },
+  {
+    "original": "trample",
+    "translated": "talefi"
+  },
+  {
+    "original": "malice",
+    "translated": "anaro"
+  },
+  {
+    "original": "hatred",
+    "translated": "esathi"
+  },
+  {
+    "original": "spite",
+    "translated": "thufi"
+  },
+  {
+    "original": "shore",
+    "translated": "thilri"
+  },
+  {
+    "original": "beach",
+    "translated": "rofa"
+  },
+  {
+    "original": "coast",
+    "translated": "conibo"
+  },
+  {
+    "original": "insect",
+    "translated": "themita"
+  },
+  {
+    "original": "bug",
+    "translated": "fotha"
+  },
+  {
+    "original": "critter",
+    "translated": "a˜e"
+  },
+  {
+    "original": "brute",
+    "translated": "i˜ami"
+  },
+  {
+    "original": "pet",
+    "translated": "querete"
+  },
+  {
+    "original": "barbarian",
+    "translated": "ršfa"
+  },
+  {
+    "original": "harsh",
+    "translated": "fef‚f¡"
+  },
+  {
+    "original": "pristine",
+    "translated": "liquena"
+  },
+  {
+    "original": "ferocity",
+    "translated": "lefu"
+  },
+  {
+    "original": "barbarity",
+    "translated": "metava"
+  },
+  {
+    "original": "feral",
+    "translated": "o˜if¢"
+  },
+  {
+    "original": "fury",
+    "translated": "fivi"
+  },
+  {
+    "original": "ruthless",
+    "translated": "rafov"
+  },
+  {
+    "original": "gore noun",
+    "translated": "wive"
+  },
+  {
+    "original": "champion",
+    "translated": "atafo"
+  },
+  {
+    "original": "virtue",
+    "translated": "lathoce"
+  },
+  {
+    "original": "scandal",
+    "translated": "natha"
+  },
+  {
+    "original": "apogee",
+    "translated": "leme"
+  },
+  {
+    "original": "spire",
+    "translated": "necere"
+  },
+  {
+    "original": "spiral",
+    "translated": "ireri"
+  },
+  {
+    "original": "climax",
+    "translated": "wulema"
+  },
+  {
+    "original": "climate",
+    "translated": "eslo"
+  },
+  {
+    "original": "weather",
+    "translated": "dafo"
+  },
+  {
+    "original": "crest",
+    "translated": "thami"
+  },
+  {
+    "original": "culminate",
+    "translated": "•ne"
+  },
+  {
+    "original": "cusp",
+    "translated": "siraya"
+  },
+  {
+    "original": "most",
+    "translated": "vic"
+  },
+  {
+    "original": "peak",
+    "translated": "erena"
+  },
+  {
+    "original": "blunt",
+    "translated": "thiruri"
+  },
+  {
+    "original": "roof",
+    "translated": "šfa"
+  },
+  {
+    "original": "ceiling",
+    "translated": "afo"
+  },
+  {
+    "original": "floor",
+    "translated": "mere"
+  },
+  {
+    "original": "summit",
+    "translated": "weneve"
+  },
+  {
+    "original": "tip",
+    "translated": "suda"
+  },
+  {
+    "original": "top",
+    "translated": "athathi"
+  },
+  {
+    "original": "bottom",
+    "translated": "befale"
+  },
+  {
+    "original": "side",
+    "translated": "imu"
+  },
+  {
+    "original": "zenith",
+    "translated": "cadedi"
+  },
+  {
+    "original": "flank verb",
+    "translated": "tala"
+  },
+  {
+    "original": "pass mountain",
+    "translated": "nelo"
+  },
+  {
+    "original": "pass verb",
+    "translated": "rane"
+  },
+  {
+    "original": "passage",
+    "translated": "vin¡th•"
+  },
+  {
+    "original": "corridor",
+    "translated": "rol¢"
+  },
+  {
+    "original": "hall",
+    "translated": "pani"
+  },
+  {
+    "original": "gallery",
+    "translated": "cimi"
+  },
+  {
+    "original": "galley",
+    "translated": "ca˜ilu"
+  },
+  {
+    "original": "arena",
+    "translated": "thadi"
+  },
+  {
+    "original": "armory",
+    "translated": "darame"
+  },
+  {
+    "original": "assemble",
+    "translated": "wemathš"
+  },
+  {
+    "original": "meet",
+    "translated": "awi˜o"
+  },
+  {
+    "original": "theater",
+    "translated": "¢ne"
+  },
+  {
+    "original": "entrance",
+    "translated": "mona"
+  },
+  {
+    "original": "exit",
+    "translated": "quabif‚"
+  },
+  {
+    "original": "entry",
+    "translated": "eco"
+  },
+  {
+    "original": "vestibule",
+    "translated": "am"
+  },
+  {
+    "original": "frost",
+    "translated": "seyec‚"
+  },
+  {
+    "original": "fever",
+    "translated": "bi‡athi"
+  },
+  {
+    "original": "humid",
+    "translated": "eslefa"
+  },
+  {
+    "original": "humor",
+    "translated": "kavena"
+  },
+  {
+    "original": "comedy",
+    "translated": "idaba"
+  },
+  {
+    "original": "sizzle",
+    "translated": "ofi"
+  },
+  {
+    "original": "swelter",
+    "translated": "tot•"
+  },
+  {
+    "original": "warm",
+    "translated": "lawe"
+  },
+  {
+    "original": "torrid",
+    "translated": "icu"
+  },
+  {
+    "original": "acrid",
+    "translated": "rela"
+  },
+  {
+    "original": "dale",
+    "translated": "štile"
+  },
+  {
+    "original": "dell",
+    "translated": "irene"
+  },
+  {
+    "original": "glade",
+    "translated": "rifafa"
+  },
+  {
+    "original": "vale",
+    "translated": "laf¢"
+  },
+  {
+    "original": "basin",
+    "translated": "iyathi"
+  },
+  {
+    "original": "bowl",
+    "translated": "mefa"
+  },
+  {
+    "original": "cavity",
+    "translated": "larore"
+  },
+  {
+    "original": "crater",
+    "translated": "ocina"
+  },
+  {
+    "original": "den",
+    "translated": "ecu"
+  },
+  {
+    "original": "dent",
+    "translated": "mothida"
+  },
+  {
+    "original": "depress sad",
+    "translated": "eyuca"
+  },
+  {
+    "original": "depression low",
+    "translated": "iquisi"
+  },
+  {
+    "original": "dimple",
+    "translated": "thace"
+  },
+  {
+    "original": "dip",
+    "translated": "icitha"
+  },
+  {
+    "original": "dish",
+    "translated": "thilama"
+  },
+  {
+    "original": "excavate",
+    "translated": "in¢"
+  },
+  {
+    "original": "groove",
+    "translated": "racalu"
+  },
+  {
+    "original": "gulf sea",
+    "translated": "emma"
+  },
+  {
+    "original": "gulf pit",
+    "translated": "efara"
+  },
+  {
+    "original": "gulf distance",
+    "translated": "aku"
+  },
+  {
+    "original": "distance",
+    "translated": "cifa"
+  },
+  {
+    "original": "notch",
+    "translated": "niya"
+  },
+  {
+    "original": "sag",
+    "translated": "araci"
+  },
+  {
+    "original": "scoop",
+    "translated": "narayi"
+  },
+  {
+    "original": "socket",
+    "translated": "nececa"
+  },
+  {
+    "original": "trough",
+    "translated": "e˜otha"
+  },
+  {
+    "original": "valley",
+    "translated": "disa"
+  },
+  {
+    "original": "fence",
+    "translated": "lero"
+  },
+  {
+    "original": "barricade",
+    "translated": "iwa"
+  },
+  {
+    "original": "blockade",
+    "translated": "yathine"
+  },
+  {
+    "original": "board plank",
+    "translated": "bathiti"
+  },
+  {
+    "original": "board get on",
+    "translated": "celi"
+  },
+  {
+    "original": "plank",
+    "translated": "thiva"
+  },
+  {
+    "original": "defend",
+    "translated": "apal"
+  },
+  {
+    "original": "defense",
+    "translated": "obeni"
+  },
+  {
+    "original": "dike",
+    "translated": "quaba"
+  },
+  {
+    "original": "palisade",
+    "translated": "oyoli"
+  },
+  {
+    "original": "post",
+    "translated": "thawathi"
+  },
+  {
+    "original": "rampart",
+    "translated": "icam¡"
+  },
+  {
+    "original": "stake",
+    "translated": "naca"
+  },
+  {
+    "original": "stop",
+    "translated": "ca˜i"
+  },
+  {
+    "original": "stockade",
+    "translated": "mawate"
+  },
+  {
+    "original": "abyss",
+    "translated": "ayanu"
+  },
+  {
+    "original": "chasm",
+    "translated": "nimi"
+  },
+  {
+    "original": "crevice",
+    "translated": "tof"
+  },
+  {
+    "original": "rift",
+    "translated": "moma"
+  },
+  {
+    "original": "fissure",
+    "translated": "buna"
+  },
+  {
+    "original": "under",
+    "translated": "tari"
+  },
+  {
+    "original": "abysmal",
+    "translated": "˜upa"
+  },
+  {
+    "original": "submerge",
+    "translated": "tape"
+  },
+  {
+    "original": "cyclone",
+    "translated": "quico"
+  },
+  {
+    "original": "typhoon",
+    "translated": "m£ya"
+  },
+  {
+    "original": "hurricane",
+    "translated": "iwethi"
+  },
+  {
+    "original": "gale",
+    "translated": "imiwa"
+  },
+  {
+    "original": "tornado",
+    "translated": "ereyi"
+  },
+  {
+    "original": "hail greet",
+    "translated": "bili"
+  },
+  {
+    "original": "hail ice",
+    "translated": "eri˜a"
+  },
+  {
+    "original": "hale",
+    "translated": "ilimi"
+  },
+  {
+    "original": "robust",
+    "translated": "milafe"
+  },
+  {
+    "original": "hardy",
+    "translated": "otheta"
+  },
+  {
+    "original": "vigor",
+    "translated": "le"
+  },
+  {
+    "original": "air",
+    "translated": "im"
+  },
+  {
+    "original": "splash",
+    "translated": "wara"
+  },
+  {
+    "original": "dabble",
+    "translated": "aquane"
+  },
+  {
+    "original": "douse",
+    "translated": "refa"
+  },
+  {
+    "original": "drench",
+    "translated": "cedo"
+  },
+  {
+    "original": "moist",
+    "translated": "oci"
+  },
+  {
+    "original": "plunge",
+    "translated": "calathi"
+  },
+  {
+    "original": "shower",
+    "translated": "bali"
+  },
+  {
+    "original": "slop",
+    "translated": "fuvi"
+  },
+  {
+    "original": "slosh",
+    "translated": "eye"
+  },
+  {
+    "original": "soak",
+    "translated": "lafo"
+  },
+  {
+    "original": "spatter",
+    "translated": "aci"
+  },
+  {
+    "original": "splatter",
+    "translated": "idata"
+  },
+  {
+    "original": "spray",
+    "translated": "cirono"
+  },
+  {
+    "original": "spread",
+    "translated": "fa˜ile"
+  },
+  {
+    "original": "sprinkle",
+    "translated": "omula"
+  },
+  {
+    "original": "twinkle",
+    "translated": "icica"
+  },
+  {
+    "original": "squirt",
+    "translated": "f•ri"
+  },
+  {
+    "original": "wad",
+    "translated": "bithemi"
+  },
+  {
+    "original": "wade",
+    "translated": "ethefa"
+  },
+  {
+    "original": "wet",
+    "translated": "bamefa"
+  },
+  {
+    "original": "fade",
+    "translated": "mšfi"
+  },
+  {
+    "original": "colorless",
+    "translated": "ace"
+  },
+  {
+    "original": "blanch",
+    "translated": "cepe"
+  },
+  {
+    "original": "bleach",
+    "translated": "fataba"
+  },
+  {
+    "original": "blench",
+    "translated": "wiritha"
+  },
+  {
+    "original": "flinch",
+    "translated": "—ce˜i"
+  },
+  {
+    "original": "appear",
+    "translated": "uli"
+  },
+  {
+    "original": "disappear",
+    "translated": "‚faf£"
+  },
+  {
+    "original": "dissolve",
+    "translated": "etawe"
+  },
+  {
+    "original": "dull",
+    "translated": "esa"
+  },
+  {
+    "original": "evaporate",
+    "translated": "šla"
+  },
+  {
+    "original": "luster",
+    "translated": "lor‚"
+  },
+  {
+    "original": "tone",
+    "translated": "wamiwi"
+  },
+  {
+    "original": "vanish",
+    "translated": "tathali"
+  },
+  {
+    "original": "wash",
+    "translated": "lebovo"
+  },
+  {
+    "original": "abate",
+    "translated": "vithi"
+  },
+  {
+    "original": "decline",
+    "translated": "tona"
+  },
+  {
+    "original": "deteriorate",
+    "translated": "femiy¢"
+  },
+  {
+    "original": "diminish",
+    "translated": "ike"
+  },
+  {
+    "original": "disperse",
+    "translated": "ivire"
+  },
+  {
+    "original": "droop",
+    "translated": "e˜i"
+  },
+  {
+    "original": "dwindle",
+    "translated": "˜ofe"
+  },
+  {
+    "original": "kindle",
+    "translated": "mocuri"
+  },
+  {
+    "original": "stoke",
+    "translated": "ici"
+  },
+  {
+    "original": "poke",
+    "translated": "ricowe"
+  },
+  {
+    "original": "stir",
+    "translated": "‡ara"
+  },
+  {
+    "original": "feed",
+    "translated": "nawi"
+  },
+  {
+    "original": "fail",
+    "translated": "owe"
+  },
+  {
+    "original": "languish",
+    "translated": "amafe"
+  },
+  {
+    "original": "lessen",
+    "translated": "ethere"
+  },
+  {
+    "original": "lesson",
+    "translated": "e˜eyo"
+  },
+  {
+    "original": "teach",
+    "translated": "maci"
+  },
+  {
+    "original": "mastery",
+    "translated": "˜amoru"
+  },
+  {
+    "original": "perish",
+    "translated": "more"
+  },
+  {
+    "original": "shrivel",
+    "translated": "cice"
+  },
+  {
+    "original": "sink",
+    "translated": "gife"
+  },
+  {
+    "original": "taper",
+    "translated": "mivoc"
+  },
+  {
+    "original": "thin",
+    "translated": "rini"
+  },
+  {
+    "original": "tire",
+    "translated": "coru"
+  },
+  {
+    "original": "wane",
+    "translated": "iyic"
+  },
+  {
+    "original": "weak",
+    "translated": "eneme"
+  },
+  {
+    "original": "wilt",
+    "translated": "r¢nira"
+  },
+  {
+    "original": "wither",
+    "translated": "uthe"
+  },
+  {
+    "original": "honor",
+    "translated": "fidi"
+  },
+  {
+    "original": "adore",
+    "translated": "emofe"
+  },
+  {
+    "original": "adulate",
+    "translated": "arare"
+  },
+  {
+    "original": "celebrate",
+    "translated": "yipi"
+  },
+  {
+    "original": "confident",
+    "translated": "emepe"
+  },
+  {
+    "original": "deference",
+    "translated": "šci"
+  },
+  {
+    "original": "deity",
+    "translated": "ricafa"
+  },
+  {
+    "original": "distinct",
+    "translated": "leneli"
+  },
+  {
+    "original": "elevate",
+    "translated": "madi"
+  },
+  {
+    "original": "esteem",
+    "translated": "ayi"
+  },
+  {
+    "original": "exalt",
+    "translated": "˜iwere"
+  },
+  {
+    "original": "fame",
+    "translated": "icite"
+  },
+  {
+    "original": "fealty",
+    "translated": "felefa"
+  },
+  {
+    "original": "homage",
+    "translated": "bilire"
+  },
+  {
+    "original": "mortal",
+    "translated": "metha"
+  },
+  {
+    "original": "immortal",
+    "translated": "mon¡"
+  },
+  {
+    "original": "laud",
+    "translated": "f‚mava"
+  },
+  {
+    "original": "obeisance",
+    "translated": "linifa"
+  },
+  {
+    "original": "praise",
+    "translated": "rafici"
+  },
+  {
+    "original": "prestige",
+    "translated": "ithe˜i"
+  },
+  {
+    "original": "renown",
+    "translated": "fepiri"
+  },
+  {
+    "original": "reputation",
+    "translated": "casowi"
+  },
+  {
+    "original": "tribute",
+    "translated": "fivo"
+  },
+  {
+    "original": "worship",
+    "translated": "cili"
+  },
+  {
+    "original": "chastity",
+    "translated": "uni"
+  },
+  {
+    "original": "courage",
+    "translated": "¡fatha"
+  },
+  {
+    "original": "decent",
+    "translated": "ceci"
+  },
+  {
+    "original": "good",
+    "translated": "ethana"
+  },
+  {
+    "original": "innocent",
+    "translated": "theta"
+  },
+  {
+    "original": "modest",
+    "translated": "themu"
+  },
+  {
+    "original": "principle",
+    "translated": "olesi"
+  },
+  {
+    "original": "pure",
+    "translated": "elufi"
+  },
+  {
+    "original": "righteousness",
+    "translated": "aliwe"
+  },
+  {
+    "original": "truth",
+    "translated": "rena"
+  },
+  {
+    "original": "truthful",
+    "translated": "š˜ida"
+  },
+  {
+    "original": "virgin",
+    "translated": "elica"
+  },
+  {
+    "original": "virginity",
+    "translated": "rireni"
+  },
+  {
+    "original": "hold",
+    "translated": "e˜a"
+  },
+  {
+    "original": "scald",
+    "translated": "ethera"
+  },
+  {
+    "original": "scale verb",
+    "translated": "et‚we"
+  },
+  {
+    "original": "scale skin",
+    "translated": "mafi"
+  },
+  {
+    "original": "clan",
+    "translated": "polef—"
+  },
+  {
+    "original": "labyrinth",
+    "translated": "w¡thona"
+  },
+  {
+    "original": "maze",
+    "translated": "aco"
+  },
+  {
+    "original": "web",
+    "translated": "ilu"
+  },
+  {
+    "original": "crowd",
+    "translated": "deca"
+  },
+  {
+    "original": "family",
+    "translated": "larami"
+  },
+  {
+    "original": "kin",
+    "translated": "pima"
+  },
+  {
+    "original": "mob",
+    "translated": "efiva"
+  },
+  {
+    "original": "organ",
+    "translated": "eth—"
+  },
+  {
+    "original": "organize",
+    "translated": "efe"
+  },
+  {
+    "original": "mesh",
+    "translated": "ma˜ithe"
+  },
+  {
+    "original": "tangle",
+    "translated": "fol¡"
+  },
+  {
+    "original": "entangle",
+    "translated": "n¡cawe"
+  },
+  {
+    "original": "puzzle",
+    "translated": "cuquimo"
+  },
+  {
+    "original": "perplex",
+    "translated": "ili"
+  },
+  {
+    "original": "quandary",
+    "translated": "nona"
+  },
+  {
+    "original": "combine",
+    "translated": "menadi"
+  },
+  {
+    "original": "flicker",
+    "translated": "fed¡"
+  },
+  {
+    "original": "brand",
+    "translated": "thali"
+  },
+  {
+    "original": "singe",
+    "translated": "watha"
+  },
+  {
+    "original": "sear",
+    "translated": "fevu"
+  },
+  {
+    "original": "scorch",
+    "translated": "dip¡"
+  },
+  {
+    "original": "roast",
+    "translated": "refe"
+  },
+  {
+    "original": "parch",
+    "translated": "¡ro"
+  },
+  {
+    "original": "ignite",
+    "translated": "quala"
+  },
+  {
+    "original": "incinerate",
+    "translated": "corape"
+  },
+  {
+    "original": "glow",
+    "translated": "fone"
+  },
+  {
+    "original": "cremate",
+    "translated": "enafe"
+  },
+  {
+    "original": "faction",
+    "translated": "anoni"
+  },
+  {
+    "original": "crew",
+    "translated": "nonu"
+  },
+  {
+    "original": "vessel",
+    "translated": "careci"
+  },
+  {
+    "original": "league group",
+    "translated": "cuwo"
+  },
+  {
+    "original": "cooperate",
+    "translated": "lace"
+  },
+  {
+    "original": "group",
+    "translated": "melara"
+  },
+  {
+    "original": "gang",
+    "translated": "ciya"
+  },
+  {
+    "original": "fellowship",
+    "translated": "diri"
+  },
+  {
+    "original": "partner",
+    "translated": "cani"
+  },
+  {
+    "original": "riddle",
+    "translated": "pife"
+  },
+  {
+    "original": "rout",
+    "translated": "lanisi"
+  },
+  {
+    "original": "scrape",
+    "translated": "af¡"
+  },
+  {
+    "original": "scrap",
+    "translated": "sama"
+  },
+  {
+    "original": "scour",
+    "translated": "rfi"
+  },
+  {
+    "original": "scrub",
+    "translated": "varoli"
+  },
+  {
+    "original": "shake",
+    "translated": "nurami"
+  },
+  {
+    "original": "soap",
+    "translated": "dathe"
+  },
+  {
+    "original": "sponge",
+    "translated": "meca"
+  },
+  {
+    "original": "sweep",
+    "translated": "oro"
+  },
+  {
+    "original": "whisker",
+    "translated": "nithe"
+  },
+  {
+    "original": "fasten",
+    "translated": "thuca"
+  },
+  {
+    "original": "winnow",
+    "translated": "reyine"
+  },
+  {
+    "original": "wipe",
+    "translated": "niro"
+  },
+  {
+    "original": "clench",
+    "translated": "fare"
+  },
+  {
+    "original": "clinch",
+    "translated": "lothe"
+  },
+  {
+    "original": "clout",
+    "translated": "naco"
+  },
+  {
+    "original": "clutch",
+    "translated": "afedi"
+  },
+  {
+    "original": "dominate",
+    "translated": "rayathi"
+  },
+  {
+    "original": "dominion",
+    "translated": "thase"
+  },
+  {
+    "original": "grasp",
+    "translated": "‡omo"
+  },
+  {
+    "original": "influence",
+    "translated": "rede"
+  },
+  {
+    "original": "own",
+    "translated": "ath•fe"
+  },
+  {
+    "original": "ownership",
+    "translated": "enara"
+  },
+  {
+    "original": "tenacity",
+    "translated": "•nale"
+  },
+  {
+    "original": "bind",
+    "translated": "avera"
+  },
+  {
+    "original": "carry",
+    "translated": "elaye"
+  },
+  {
+    "original": "catch",
+    "translated": "ewi"
+  },
+  {
+    "original": "confine",
+    "translated": "cara"
+  },
+  {
+    "original": "contain",
+    "translated": "thale"
+  },
+  {
+    "original": "cradle",
+    "translated": "mapi"
+  },
+  {
+    "original": "embrace",
+    "translated": "thilu"
+  },
+  {
+    "original": "pool",
+    "translated": "pati"
+  },
+  {
+    "original": "society",
+    "translated": "tharale"
+  },
+  {
+    "original": "circle",
+    "translated": "zocisa"
+  },
+  {
+    "original": "square",
+    "translated": "rana"
+  },
+  {
+    "original": "triangle",
+    "translated": "oneni"
+  },
+  {
+    "original": "connect",
+    "translated": "cam•re"
+  },
+  {
+    "original": "merge",
+    "translated": "˜aba"
+  },
+  {
+    "original": "confuse",
+    "translated": "ifebo"
+  },
+  {
+    "original": "complex",
+    "translated": "thini"
+  },
+  {
+    "original": "meander",
+    "translated": "thefaro"
+  },
+  {
+    "original": "muddle",
+    "translated": "memefi"
+  },
+  {
+    "original": "bewilder",
+    "translated": "i˜e"
+  },
+  {
+    "original": "morass",
+    "translated": "fethavo"
+  },
+  {
+    "original": "problem",
+    "translated": "dithi"
+  },
+  {
+    "original": "intricate",
+    "translated": "lida"
+  },
+  {
+    "original": "flush",
+    "translated": "ececi"
+  },
+  {
+    "original": "mop",
+    "translated": "recathu"
+  },
+  {
+    "original": "polish",
+    "translated": "canene"
+  },
+  {
+    "original": "purge",
+    "translated": "ebeca"
+  },
+  {
+    "original": "rasp",
+    "translated": "laba"
+  },
+  {
+    "original": "rinse",
+    "translated": "ithaya"
+  },
+  {
+    "original": "band object",
+    "translated": "isi"
+  },
+  {
+    "original": "band group",
+    "translated": "ebe"
+  },
+  {
+    "original": "tall",
+    "translated": "a˜eva"
+  },
+  {
+    "original": "short",
+    "translated": "coci"
+  },
+  {
+    "original": "bulbous",
+    "translated": "enate"
+  },
+  {
+    "original": "bulb",
+    "translated": "pev¢"
+  },
+  {
+    "original": "ally",
+    "translated": "‡uthš"
+  },
+  {
+    "original": "alliance",
+    "translated": "iline"
+  },
+  {
+    "original": "allegiance",
+    "translated": "laci˜a"
+  },
+  {
+    "original": "coalition",
+    "translated": "niciba"
+  },
+  {
+    "original": "coal",
+    "translated": "ipa"
+  },
+  {
+    "original": "enjoy",
+    "translated": "niceci"
+  },
+  {
+    "original": "fondle",
+    "translated": "fora"
+  },
+  {
+    "original": "handle object",
+    "translated": "mithi"
+  },
+  {
+    "original": "handle verb",
+    "translated": "thawa"
+  },
+  {
+    "original": "imprison",
+    "translated": "loyara"
+  },
+  {
+    "original": "nourish",
+    "translated": "mem¢thi"
+  },
+  {
+    "original": "squeeze",
+    "translated": "ribi"
+  },
+  {
+    "original": "trammel",
+    "translated": "thilini"
+  },
+  {
+    "original": "vice",
+    "translated": "ni˜a"
+  },
+  {
+    "original": "vise",
+    "translated": "mideb¡"
+  },
+  {
+    "original": "defect fault",
+    "translated": "muce"
+  },
+  {
+    "original": "perfect",
+    "translated": "equuyi"
+  },
+  {
+    "original": "gem",
+    "translated": "eruwa"
+  },
+  {
+    "original": "jewel",
+    "translated": "nifi"
+  },
+  {
+    "original": "wield",
+    "translated": "mazadi"
+  },
+  {
+    "original": "wring",
+    "translated": "šni"
+  },
+  {
+    "original": "conjunction",
+    "translated": "malafo"
+  },
+  {
+    "original": "blot",
+    "translated": "enade"
+  },
+  {
+    "original": "blow",
+    "translated": "futhile"
+  },
+  {
+    "original": "brush",
+    "translated": "ec‚na"
+  },
+  {
+    "original": "clarify",
+    "translated": "icila"
+  },
+  {
+    "original": "cleanse",
+    "translated": "nemine"
+  },
+  {
+    "original": "dredge",
+    "translated": "nevele"
+  },
+  {
+    "original": "erase",
+    "translated": "emefe"
+  },
+  {
+    "original": "morsel",
+    "translated": "reci"
+  },
+  {
+    "original": "mongrel",
+    "translated": "efi"
+  },
+  {
+    "original": "tender",
+    "translated": "coli"
+  },
+  {
+    "original": "urge",
+    "translated": "itheca"
+  },
+  {
+    "original": "mechanism",
+    "translated": "cere˜a"
+  },
+  {
+    "original": "smear",
+    "translated": "‚˜ome"
+  },
+  {
+    "original": "tattoo",
+    "translated": "ilifi"
+  },
+  {
+    "original": "weather verb",
+    "translated": "ecemu"
+  },
+  {
+    "original": "crux",
+    "translated": "ate"
+  },
+  {
+    "original": "peek",
+    "translated": "lera"
+  },
+  {
+    "original": "sneak",
+    "translated": "tabami"
+  },
+  {
+    "original": "attic",
+    "translated": "sefi"
+  },
+  {
+    "original": "basement",
+    "translated": "neci"
+  },
+  {
+    "original": "dearth",
+    "translated": "relinu"
+  },
+  {
+    "original": "apex",
+    "translated": "thicivi"
+  },
+  {
+    "original": "nadir",
+    "translated": "aneca"
+  },
+  {
+    "original": "tunnel",
+    "translated": "thateme"
+  },
+  {
+    "original": "entrance verb",
+    "translated": "afaya"
+  },
+  {
+    "original": "delight",
+    "translated": "be"
+  },
+  {
+    "original": "joy",
+    "translated": "i˜aso"
+  },
+  {
+    "original": "frigid",
+    "translated": "raci"
+  },
+  {
+    "original": "ankle",
+    "translated": "feretu"
+  },
+  {
+    "original": "elbow",
+    "translated": "šna"
+  },
+  {
+    "original": "passion",
+    "translated": "siva"
+  },
+  {
+    "original": "ardent",
+    "translated": "¡ni"
+  },
+  {
+    "original": "stream",
+    "translated": "nef•la"
+  },
+  {
+    "original": "bowel gut",
+    "translated": "iye"
+  },
+  {
+    "original": "bowel interior",
+    "translated": "awi"
+  },
+  {
+    "original": "drill bore",
+    "translated": "weni"
+  },
+  {
+    "original": "drill routine",
+    "translated": "ecefe"
+  },
+  {
+    "original": "bore drill",
+    "translated": "ewe"
+  },
+  {
+    "original": "boredom",
+    "translated": "fife"
+  },
+  {
+    "original": "fleck",
+    "translated": "edi"
+  },
+  {
+    "original": "spot",
+    "translated": "ase"
+  },
+  {
+    "original": "dot",
+    "translated": "¡ce"
+  },
+  {
+    "original": "create",
+    "translated": "wene"
+  },
+  {
+    "original": "poem",
+    "translated": "rathš"
+  },
+  {
+    "original": "poetry",
+    "translated": "pila"
+  },
+  {
+    "original": "poet",
+    "translated": "athifi"
+  },
+  {
+    "original": "scribe",
+    "translated": "kema"
+  },
+  {
+    "original": "monk",
+    "translated": "ete"
+  },
+  {
+    "original": "hermit",
+    "translated": "fari"
+  },
+  {
+    "original": "recluse",
+    "translated": "‚niri"
+  },
+  {
+    "original": "name",
+    "translated": "sofi"
+  },
+  {
+    "original": "language",
+    "translated": "yifa"
+  },
+  {
+    "original": "phrase",
+    "translated": "etani"
+  },
+  {
+    "original": "rhyme",
+    "translated": "ezo"
+  },
+  {
+    "original": "rhythm",
+    "translated": "th‚ce"
+  },
+  {
+    "original": "verse",
+    "translated": "nicana"
+  },
+  {
+    "original": "drum verb",
+    "translated": "ilila"
+  },
+  {
+    "original": "creature",
+    "translated": "amu"
+  },
+  {
+    "original": "snail",
+    "translated": "limi"
+  },
+  {
+    "original": "vine",
+    "translated": "fewetha"
+  },
+  {
+    "original": "squash",
+    "translated": "thafe"
+  },
+  {
+    "original": "never",
+    "translated": "eramu"
+  },
+  {
+    "original": "dwell",
+    "translated": "icice"
+  },
+  {
+    "original": "habit",
+    "translated": "lathiru"
+  },
+  {
+    "original": "chew",
+    "translated": "elethe"
+  },
+  {
+    "original": "swallow",
+    "translated": "thicera"
+  },
+  {
+    "original": "disembowel",
+    "translated": "eleri"
+  },
+  {
+    "original": "eviscerate",
+    "translated": "eve"
+  },
+  {
+    "original": "rapid",
+    "translated": "ucuco"
+  },
+  {
+    "original": "medicine",
+    "translated": "ifere"
+  },
+  {
+    "original": "heal",
+    "translated": "ipiro"
+  },
+  {
+    "original": "sell",
+    "translated": "navise"
+  },
+  {
+    "original": "market",
+    "translated": "omu"
+  },
+  {
+    "original": "slow",
+    "translated": "cathine"
+  },
+  {
+    "original": "mire",
+    "translated": "mipo"
+  },
+  {
+    "original": "admire",
+    "translated": "thitathi"
+  },
+  {
+    "original": "dirge",
+    "translated": "šfeni"
+  },
+  {
+    "original": "lament",
+    "translated": "manari"
+  },
+  {
+    "original": "funeral",
+    "translated": "ufalo"
+  },
+  {
+    "original": "quest",
+    "translated": "elabe"
+  },
+  {
+    "original": "adventure",
+    "translated": "thela"
+  },
+  {
+    "original": "mourn",
+    "translated": "al‚thi"
+  },
+  {
+    "original": "morning",
+    "translated": "rifa"
+  },
+  {
+    "original": "bulwark",
+    "translated": "wina"
+  },
+  {
+    "original": "cosmos",
+    "translated": "nora"
+  },
+  {
+    "original": "anguish",
+    "translated": "cifano"
+  },
+  {
+    "original": "taut",
+    "translated": "ma˜u"
+  },
+  {
+    "original": "deify",
+    "translated": "sefa"
+  },
+  {
+    "original": "infamy",
+    "translated": "le˜e"
+  },
+  {
+    "original": "mortality",
+    "translated": "omiri"
+  },
+  {
+    "original": "immortality",
+    "translated": "liwere"
+  },
+  {
+    "original": "mortify",
+    "translated": "minetha"
+  },
+  {
+    "original": "obey",
+    "translated": "visela"
+  },
+  {
+    "original": "worshipper",
+    "translated": "lofi"
+  },
+  {
+    "original": "riddle holes",
+    "translated": "wile"
+  },
+  {
+    "original": "dwelling",
+    "translated": "yir¢"
+  },
+  {
+    "original": "disembowelment",
+    "translated": "thine"
+  },
+  {
+    "original": "evisceration",
+    "translated": "abecu"
+  },
+  {
+    "original": "healing",
+    "translated": "reni"
+  },
+  {
+    "original": "admiration",
+    "translated": "awe"
+  },
+  {
+    "original": "conflict",
+    "translated": "vesifa"
+  },
+  {
+    "original": "attack",
+    "translated": "irithe"
+  },
+  {
+    "original": "onslaught",
+    "translated": "pal¢thi"
+  },
+  {
+    "original": "tree",
+    "translated": "thelire"
+  },
+  {
+    "original": "amber",
+    "translated": "il¡"
+  },
+  {
+    "original": "amethyst",
+    "translated": "fece"
+  },
+  {
+    "original": "aqua",
+    "translated": "nayidi"
+  },
+  {
+    "original": "aquamarine",
+    "translated": "˜al—mi"
+  },
+  {
+    "original": "gray",
+    "translated": "aso"
+  },
+  {
+    "original": "auburn",
+    "translated": "‚do"
+  },
+  {
+    "original": "azure",
+    "translated": "naquifa"
+  },
+  {
+    "original": "beige",
+    "translated": "queci"
+  },
+  {
+    "original": "brass",
+    "translated": "irci"
+  },
+  {
+    "original": "brown",
+    "translated": "bide˜e"
+  },
+  {
+    "original": "buff",
+    "translated": "mitho"
+  },
+  {
+    "original": "sienna",
+    "translated": "licele"
+  },
+  {
+    "original": "umber",
+    "translated": "rabe"
+  },
+  {
+    "original": "cardinal_color",
+    "translated": "leyo"
+  },
+  {
+    "original": "carmine",
+    "translated": "venevu"
+  },
+  {
+    "original": "cerulean",
+    "translated": "ife"
+  },
+  {
+    "original": "charcoal",
+    "translated": "što"
+  },
+  {
+    "original": "chartreuse",
+    "translated": "etthi"
+  },
+  {
+    "original": "chestnut",
+    "translated": "bisi"
+  },
+  {
+    "original": "chocolate",
+    "translated": "lifu"
+  },
+  {
+    "original": "cinnamon",
+    "translated": "titha"
+  },
+  {
+    "original": "cobalt",
+    "translated": "mepu"
+  },
+  {
+    "original": "indigo",
+    "translated": "tici"
+  },
+  {
+    "original": "olive",
+    "translated": "naye"
+  },
+  {
+    "original": "pink",
+    "translated": "divama"
+  },
+  {
+    "original": "scarlet",
+    "translated": "ecira"
+  },
+  {
+    "original": "tan",
+    "translated": "esleci"
+  },
+  {
+    "original": "ecru",
+    "translated": "mibeni"
+  },
+  {
+    "original": "emerald",
+    "translated": "thofala"
+  },
+  {
+    "original": "flax",
+    "translated": "quithe"
+  },
+  {
+    "original": "fuchsia",
+    "translated": "eceri"
+  },
+  {
+    "original": "goldenrod",
+    "translated": "diwi"
+  },
+  {
+    "original": "heliotrope",
+    "translated": "aniso"
+  },
+  {
+    "original": "lavender",
+    "translated": "inile"
+  },
+  {
+    "original": "blush",
+    "translated": "veri"
+  },
+  {
+    "original": "lemon",
+    "translated": "thicawe"
+  },
+  {
+    "original": "lilac",
+    "translated": "me˜i"
+  },
+  {
+    "original": "lime",
+    "translated": "quidole"
+  },
+  {
+    "original": "mahogany",
+    "translated": "enefi"
+  },
+  {
+    "original": "maroon_color",
+    "translated": "fanem¡"
+  },
+  {
+    "original": "mauve",
+    "translated": "thavetha"
+  },
+  {
+    "original": "taupe",
+    "translated": "‡efetha"
+  },
+  {
+    "original": "mint",
+    "translated": "mithama"
+  },
+  {
+    "original": "moss",
+    "translated": "vema"
+  },
+  {
+    "original": "ochre",
+    "translated": "acath¢"
+  },
+  {
+    "original": "orange",
+    "translated": "˜are"
+  },
+  {
+    "original": "periwinkle",
+    "translated": "fira"
+  },
+  {
+    "original": "plum",
+    "translated": "bele"
+  },
+  {
+    "original": "puce",
+    "translated": "eveta"
+  },
+  {
+    "original": "pumpkin",
+    "translated": "peve"
+  },
+  {
+    "original": "russet",
+    "translated": "c¡vira"
+  },
+  {
+    "original": "saffron",
+    "translated": "ethithi"
+  },
+  {
+    "original": "sepia",
+    "translated": "osume"
+  },
+  {
+    "original": "teal",
+    "translated": "wimo"
+  },
+  {
+    "original": "turquoise",
+    "translated": "anice"
+  },
+  {
+    "original": "vermilion",
+    "translated": "asšle"
+  },
+  {
+    "original": "path",
+    "translated": "al¡"
+  },
+  {
+    "original": "threat",
+    "translated": "uce"
+  },
+  {
+    "original": "warning",
+    "translated": "seti"
+  },
+  {
+    "original": "fate",
+    "translated": "aquiya"
+  },
+  {
+    "original": "destiny",
+    "translated": "cadeni"
+  },
+  {
+    "original": "horror",
+    "translated": "nesšne"
+  },
+  {
+    "original": "little",
+    "translated": "‡oka"
+  },
+  {
+    "original": "early",
+    "translated": "anafa"
+  },
+  {
+    "original": "late",
+    "translated": "c£thete"
+  },
+  {
+    "original": "life",
+    "translated": "eniwa"
+  },
+  {
+    "original": "cheese",
+    "translated": "fetha"
+  },
+  {
+    "original": "figure_object",
+    "translated": "icaro"
+  },
+  {
+    "original": "hope",
+    "translated": "bef¡tha"
+  },
+  {
+    "original": "body",
+    "translated": "thite"
+  },
+  {
+    "original": "walk",
+    "translated": "b¡rare"
+  },
+  {
+    "original": "hour",
+    "translated": "ece"
+  },
+  {
+    "original": "sit",
+    "translated": "direbo"
+  },
+  {
+    "original": "moment",
+    "translated": "tharo"
+  },
+  {
+    "original": "beauty",
+    "translated": "alathš"
+  },
+  {
+    "original": "judge",
+    "translated": "afuni"
+  },
+  {
+    "original": "wish",
+    "translated": "ilifa"
+  },
+  {
+    "original": "respect",
+    "translated": "mil—"
+  },
+  {
+    "original": "mark",
+    "translated": "ilefi"
+  },
+  {
+    "original": "heavy",
+    "translated": "themeno"
+  },
+  {
+    "original": "trial",
+    "translated": "f¢lšthi"
+  },
+  {
+    "original": "practice",
+    "translated": "mefeye"
+  },
+  {
+    "original": "end",
+    "translated": "bicana"
+  },
+  {
+    "original": "start",
+    "translated": "nesa"
+  },
+  {
+    "original": "begin",
+    "translated": "ric"
+  },
+  {
+    "original": "birth",
+    "translated": "˜emi"
+  },
+  {
+    "original": "learn",
+    "translated": "ridethe"
+  },
+  {
+    "original": "mischief",
+    "translated": "masi"
+  },
+  {
+    "original": "wisdom",
+    "translated": "thadayi"
+  },
+  {
+    "original": "know",
+    "translated": "¡cena"
+  },
+  {
+    "original": "knowledge",
+    "translated": "ipe˜a"
+  },
+  {
+    "original": "crack",
+    "translated": "f¡ra"
+  },
+  {
+    "original": "shatter",
+    "translated": "wabe"
+  },
+  {
+    "original": "leap",
+    "translated": "thit¡"
+  },
+  {
+    "original": "jump",
+    "translated": "efami"
+  },
+  {
+    "original": "dive",
+    "translated": "fayoba"
+  },
+  {
+    "original": "vault verb",
+    "translated": "e˜e"
+  },
+  {
+    "original": "vault place",
+    "translated": "thenaca"
+  },
+  {
+    "original": "treasury",
+    "translated": "thenel"
+  },
+  {
+    "original": "betray",
+    "translated": "slerima"
+  },
+  {
+    "original": "treason",
+    "translated": "p¢mila"
+  },
+  {
+    "original": "reason",
+    "translated": "rayo"
+  },
+  {
+    "original": "squat",
+    "translated": "quequava"
+  },
+  {
+    "original": "festival",
+    "translated": "om¡va"
+  }
+]
