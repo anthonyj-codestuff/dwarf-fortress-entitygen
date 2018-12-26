@@ -13,12 +13,22 @@ class Name extends Component
     };
   }
 
-  setRand(length)
+  setRand()
   {
     // TODO: Check that D_NAMES.length is always within bounds
     let newNum = Math.floor(Math.random() * D_NAMES.length)
     console.log("setting Rand to", newNum)
     this.setState({rand: newNum})
+    return newNum;
+  }
+
+  getNewName()
+  {
+    let randomNum = this.setRand();
+    // When getting a new name, three compound parts are needed. 
+    // The first should always be a noun
+    // The other two have no restrictions on type
+    // When displaying an entity's translated name, only the last name is ever translated
   }
 
   componentDidMount()
@@ -45,7 +55,7 @@ class Name extends Component
     return <div>
       <p className="name">{englishWord} -> {dwarfWord}</p>
       <p className="name">{englishWord} is a { englishWord ? WORDS[englishWord.toUpperCase()][0] : null}</p>
-      <button onClick={() => this.setRand()}>rand = {rand}</button>
+      <button onClick={() => this.getNewName()}>rand = {rand}</button>
     </div>;
   }
 }
