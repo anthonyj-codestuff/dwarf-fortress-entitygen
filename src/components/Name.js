@@ -13,22 +13,42 @@ class Name extends Component
     };
   }
 
+  getRand()
+  {
+    return Math.floor(Math.random() * D_NAMES.length);
+  }
+
   setRand()
   {
     // TODO: Check that D_NAMES.length is always within bounds
-    let newNum = Math.floor(Math.random() * D_NAMES.length)
+    let newNum = this.getRand()
     console.log("setting Rand to", newNum)
     this.setState({rand: newNum})
     return newNum;
   }
 
+  wordIsOfType(num, type)
+  {
+    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+    let word = this.state.original[num];
+    let typeArray = WORDS[word.toUpperCase()];
+    console.log(typeArray.includes(type));
+    return (typeArray.includes(type));
+  }
+
   getNewName()
   {
-    let randomNum = this.setRand();
     // When getting a new name, three compound parts are needed. 
     // The first should always be a noun
     // The other two have no restrictions on type
     // When displaying an entity's translated name, only the last name is ever translated
+    let firstName;
+    do
+    {
+      firstName = this.getRand();
+      // check first name to see if it is a noun. If not, get a new one
+      // TODO: This solution has BigO of infinity. It's probably not a huge deal though
+    }while(!this.wordIsOfType(firstName, "NOUN"))
   }
 
   componentDidMount()
