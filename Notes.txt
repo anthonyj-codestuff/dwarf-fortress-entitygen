@@ -1,0 +1,46 @@
+==DWARVES==
+    Ingish Ecemnish,        "Bodice Tube-trade"
+                            NOUN NOUN-NOUN
+    Eral Gembishlor,        "Vessel seal_animal-tool"
+                            NOUN NOUN-NOUN
+    Tirist Irolmeng         "Rim North-lash"
+                            NOUN ADJ-NOUN
+    Tun Kadolmishos         "Door Hatchet-Beach"
+                            NOUN NOUN-NOUN
+    Tholtig Ableltitthal    "Barricade Bust_noun-play_fun"
+                            NOUN NOUN-ANY
+    Rakust Oddomlokum       "Tomb Cloister-Spear"
+                            NOUN NOUN-NOUN
+    Lokum Nazomzuglar       "Spear Dream-Ship"
+    Zuglar Ostarkeskal      "Ship Bury-Shoot"
+==ELVES==
+    Lema Ceralicayii
+    --Generated--
+    Liceyi Sutheithafe,     "Liceyi Lesionfray"
+    Nere Ipolacifa,         "Nere Utterlarge"
+    Nifi Tiyiporelimi,      "Nifi Tacticmartyr"
+    Lulo Isifesluyi,        "Lulo Bandedjaundice"
+    Fuvi Menadirire,        "Fuvi Combinedbreaker"
+    Cera Mobacuthe,         "Cera Lurkally"
+    Moduve Tobafiali,       "Moduve Farmpath"
+==HUMANS==
+    --Generated--
+    Zin Smoroinid,          "Zin Squatlong"
+    Ngekil Etusaru,         "Ngekil Dwellhead"
+    Bir Gethdazatac,        "Bir Splatteredhate"
+    Onust Imbotol,          "Onust Toneyear"
+    Thabi Anothteshil,      "Thabi Godtalon"
+    Ocba Juwogulco,         "Ocba Muckarch"
+==GOBLINS==
+    --Generated--
+    Umsest Obmoklo,         "Umsest Frameache"
+    Bungmo Obmunako,        "Bungmo Drabtorment"
+    Smestre Xudomur,        "Smestre Slitpainful"
+    Lospad Agkuduluz,       "Lospad Slowtreason"
+    Zak Ngasmaal,           "Zak Pleatedstop"
+    Rodaz Osnusmlomu,       "Rodaz Stenchdiminished"
+    Dozo Utostxoxo,         "Dozo Moleyoung"
+
+    First Names are always nouns
+    Second Names are alyays two-word pairs and can be any combination
+        Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
