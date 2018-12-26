@@ -1,6587 +1,2198 @@
-[
-  {
-    "ABBEY": ["NOUN"]
-  },
-  {
-    "ACE": ["NOUN"]
-  },
-  {
-    "ACT": ["NOUN", "VERB"]
-  },
-  {
-    "AFTER": ["PREFIX"]
-  },
-  {
-    "AGE": ["NOUN", "VERB"]
-  },
-  {
-    "AGELESS": ["ADJ"]
-  },
-  {
-    "ALE": ["NOUN"]
-  },
-  {
-    "[ANCIENT": ["NOUN", "ADJ"]
-  },
-  {
-    "ANGEL": ["NOUN", "ADJ"]
-  },
-  {
-    "ANGER": ["NOUN", "ADJ"]
-  },
-  {
-    "ANIMAL": ["NOUN"]
-  },
-  {
-    "APE": ["NOUN"]
-  },
-  {
-    "APPLE": ["NOUN"]
-  },
-  {
-    "ARCH": ["PREFIX"]
-  },
-  {
-    "ARM": ["NOUN"]
-  },
-  {
-    "ARMOR": ["NOUN", "ADJ"]
-  },
-  {
-    "ARROW": ["NOUN"]
-  },
-  {
-    "ARTIFICE": ["NOUN", "ADJ"]
-  },
-  {
-    "ASH": ["NOUN", "ADJ"]
-  },
-  {
-    "AUNT": ["NOUN"]
-  },
-  {
-    "AURA": ["NOUN"]
-  },
-  {
-    "AUTUMN": ["NOUN", "ADJ"]
-  },
-  {
-    "AWE-INSPIRING": ["ADJ"]
-  },
-  {
-    "AXE": ["NOUN"]
-  },
-  {
-    "BACK": ["NOUN"]
-  },
-  {
-    "BAD": ["ADJ"]
-  },
-  {
-    "BALD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BAKE": ["NOUN", "VERB"]
-  },
-  {
-    "BALL": ["NOUN"]
-  },
-  {
-    "BANE": ["NOUN"]
-  },
-  {
-    "BAR": ["NOUN"]
-  },
-  {
-    "BARB": ["NOUN"]
-  },
-  {
-    "BATH": ["NOUN", "VERB"]
-  },
-  {
-    "BATTLE": ["NOUN"]
-  },
-  {
-    "BEAK": ["NOUN"]
-  },
-  {
-    "BEAST": ["NOUN"]
-  },
-  {
-    "BEAR": ["NOUN"]
-  },
-  {
-    "BEAR_VERB": ["VERB"]
-  },
-  {
-    "BEE": ["NOUN"]
-  },
-  {
-    "BEER": ["NOUN"]
-  },
-  {
-    "BEETLE": ["NOUN"]
-  },
-  {
-    "BEGUILER": ["NOUN", "VERB"]
-  },
-  {
-    "BELCH": ["NOUN"]
-  },
-  {
-    "BERRY": ["NOUN"]
-  },
-  {
-    "BIG": ["ADJ"]
-  },
-  {
-    "BILE": ["NOUN"]
-  },
-  {
-    "BIN": ["NOUN"]
-  },
-  {
-    "BIRD": ["NOUN"]
-  },
-  {
-    "BLACK": ["NOUN", "ADJ"]
-  },
-  {
-    "BLADE": ["NOUN"]
-  },
-  {
-    "BLAZE": ["NOUN", "VERB"]
-  },
-  {
-    "BLIND": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BLISTER": ["NOUN"]
-  },
-  {
-    "BLOAT": ["NOUN", "ADJ"]
-  },
-  {
-    "BLOOD": ["NOUN"]
-  },
-  {
-    "BLOODY": ["NOUN", "ADJ"]
-  },
-  {
-    "BLOSSOM": ["NOUN", "VERB"]
-  },
-  {
-    "BLUE": ["NOUN", "ADJ"]
-  },
-  {
-    "BOAR": ["NOUN"]
-  },
-  {
-    "BOAT": ["NOUN"]
-  },
-  {
-    "BODICE": ["NOUN"]
-  },
-  {
-    "BOG": ["NOUN"]
-  },
-  {
-    "BOIL": ["NOUN"]
-  },
-  {
-    "BOIL_V": ["VERB"]
-  },
-  {
-    "BOLD": ["NOUN", "ADJ"]
-  },
-  {
-    "BOLT": ["NOUN", "VERB"]
-  },
-  {
-    "BONE": ["NOUN"]
-  },
-  {
-    "BOOK": ["NOUN"]
-  },
-  {
-    "BOOT": ["NOUN"]
-  },
-  {
-    "BOTHER": ["VERB"]
-  },
-  {
-    "BOW": ["NOUN"]
-  },
-  {
-    "BOW_VERB": ["VERB"]
-  },
-  {
-    "BRAIN": ["NOUN"]
-  },
-  {
-    "BREACH": ["NOUN", "VERB"]
-  },
-  {
-    "BREECHES": ["NOUN"]
-  },
-  {
-    "BREAD": ["NOUN"]
-  },
-  {
-    "BREAK": ["NOUN", "VERB"]
-  },
-  {
-    "BREAKFAST": ["NOUN"]
-  },
-  {
-    "BREATH": ["NOUN"]
-  },
-  {
-    "BREED": ["NOUN"]
-  },
-  {
-    "BREW": ["NOUN"]
-  },
-  {
-    "BRIDE": ["NOUN"]
-  },
-  {
-    "BRIDLE": ["NOUN", "ADJ"]
-  },
-  {
-    "BRIGHT": ["NOUN", "ADJ"]
-  },
-  {
-    "BRISTLE": ["NOUN", "VERB"]
-  },
-  {
-    "BRILLIANT": ["NOUN", "ADJ"]
-  },
-  {
-    "BRIM": ["NOUN"]
-  },
-  {
-    "BROIL": ["VERB"]
-  },
-  {
-    "BROTHER": ["NOUN"]
-  },
-  {
-    "BRUNCH": ["NOUN"]
-  },
-  {
-    "BUCK": ["NOUN"]
-  },
-  {
-    "BUCKLE": ["NOUN", "VERB"]
-  },
-  {
-    "BUNCH": ["NOUN"]
-  },
-  {
-    "BURDEN": ["NOUN"]
-  },
-  {
-    "BURN": ["NOUN", "VERB"]
-  },
-  {
-    "BURY": ["NOUN", "VERB"]
-  },
-  {
-    "BUSH": ["NOUN"]
-  },
-  {
-    "BUSHEL": ["NOUN"]
-  },
-  {
-    "BUST_NOUN": ["NOUN"]
-  },
-  {
-    "BUST_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "BUSINESS": ["NOUN"]
-  },
-  {
-    "BUSY": ["NOUN", "ADJ"]
-  },
-  {
-    "BUTCHER": ["NOUN"]
-  },
-  {
-    "BUTTER": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BUTTERFLY": ["NOUN"]
-  },
-  {
-    "BUTTON": ["NOUN", "VERB"]
-  },
-  {
-    "BUZZARD": ["NOUN"]
-  },
-  {
-    "CACKLE": ["VERB"]
-  },
-  {
-    "CAD": ["NOUN"]
-  },
-  {
-    "CAGE": ["NOUN"]
-  },
-  {
-    "CAKE": ["NOUN"]
-  },
-  {
-    "CALL": ["NOUN", "VERB"]
-  },
-  {
-    "CAMP": ["NOUN", "VERB"]
-  },
-  {
-    "CANCER": ["NOUN"]
-  },
-  {
-    "CANDLE": ["NOUN"]
-  },
-  {
-    "CANDY": ["NOUN"]
-  },
-  {
-    "CANKER": ["NOUN"]
-  },
-  {
-    "CANYON": ["NOUN"]
-  },
-  {
-    "CARNAGE": ["NOUN"]
-  },
-  {
-    "CASKET": ["NOUN"]
-  },
-  {
-    "CASTLE": ["NOUN"]
-  },
-  {
-    "CAT": ["NOUN"]
-  },
-  {
-    "CAVE": ["NOUN"]
-  },
-  {
-    "CELL": ["NOUN"]
-  },
-  {
-    "CHAIN": ["NOUN", "VERB"]
-  },
-  {
-    "CHANT": ["NOUN", "VERB"]
-  },
-  {
-    "CHAOS": ["NOUN"]
-  },
-  {
-    "CHAMBER": ["NOUN"]
-  },
-  {
-    "CHAR": ["VERB"]
-  },
-  {
-    "CHARM": ["NOUN", "VERB"]
-  },
-  {
-    "CHILD": ["NOUN"]
-  },
-  {
-    "CHILL": ["NOUN", "VERB"]
-  },
-  {
-    "CHIP_NOUN": ["NOUN"]
-  },
-  {
-    "CHIP_VERB": ["VERB"]
-  },
-  {
-    "CHIRP": ["VERB"]
-  },
-  {
-    "CHOKE": ["VERB"]
-  },
-  {
-    "CHOP": ["VERB"]
-  },
-  {
-    "CHUCK": ["VERB"]
-  },
-  {
-    "CINDER": ["NOUN"]
-  },
-  {
-    "CLAM": ["NOUN"]
-  },
-  {
-    "CLAP": ["VERB"]
-  },
-  {
-    "CLASP": ["NOUN", "VERB"]
-  },
-  {
-    "CLAW": ["NOUN"]
-  },
-  {
-    "CLEAR": ["VERB", "ADJ"]
-  },
-  {
-    "CLEARING": ["NOUN"]
-  },
-  {
-    "CLEAVE": ["NOUN", "VERB"]
-  },
-  {
-    "CLING": ["VERB"]
-  },
-  {
-    "CLOAK": ["NOUN"]
-  },
-  {
-    "CLOBBER": ["VERB"]
-  },
-  {
-    "CLOCK": ["NOUN"]
-  },
-  {
-    "CLOD": ["NOUN"]
-  },
-  {
-    "CLOISTER": ["NOUN", "VERB"]
-  },
-  {
-    "CLOSET": ["NOUN"]
-  },
-  {
-    "CLUB": ["NOUN"]
-  },
-  {
-    "CLUSTER": ["NOUN", "VERB"]
-  },
-  {
-    "CLUTTER": ["NOUN", "VERB"]
-  },
-  {
-    "COBRA": ["NOUN"]
-  },
-  {
-    "COIL": ["NOUN", "VERB"]
-  },
-  {
-    "COLD": ["NOUN", "ADJ"]
-  },
-  {
-    "COLOR": ["NOUN", "VERB"]
-  },
-  {
-    "COMET": ["NOUN"]
-  },
-  {
-    "CONQUEROR": ["NOUN"]
-  },
-  {
-    "COOK": ["NOUN", "VERB"]
-  },
-  {
-    "COVER": ["NOUN", "VERB"]
-  },
-  {
-    "COTTON": ["NOUN"]
-  },
-  {
-    "COUPLE": ["NOUN"]
-  },
-  {
-    "CRAB": ["NOUN"]
-  },
-  {
-    "CRAWL": ["VERB"]
-  },
-  {
-    "CRAZE": ["NOUN", "ADJ"]
-  },
-  {
-    "CRAZY": ["NOUN", "ADJ"]
-  },
-  {
-    "CREAM": ["NOUN", "ADJ"]
-  },
-  {
-    "CREEK": ["NOUN"]
-  },
-  {
-    "CREEP": ["NOUN", "VERB"]
-  },
-  {
-    "CREEPY": ["NOUN", "ADJ"]
-  },
-  {
-    "CRESCENT": ["NOUN"]
-  },
-  {
-    "CROSS_NOUN": ["NOUN"]
-  },
-  {
-    "CROSS_VERB": ["VERB"]
-  },
-  {
-    "CROSS_ADJ": ["ADJ"]
-  },
-  {
-    "CROW": ["NOUN"]
-  },
-  {
-    "CROWN": ["NOUN"]
-  },
-  {
-    "CRUCIFY": ["NOUN", "VERB"]
-  },
-  {
-    "CRUMBLE": ["VERB"]
-  },
-  {
-    "CRUSH": ["VERB"]
-  },
-  {
-    "CRUSHER": ["NOUN"]
-  },
-  {
-    "CRY": ["VERB"]
-  },
-  {
-    "CRYPT": ["NOUN"]
-  },
-  {
-    "CRYSTAL": ["NOUN", "ADJ"]
-  },
-  {
-    "CUDDLE": ["VERB"]
-  },
-  {
-    "CUDGEL": ["NOUN"]
-  },
-  {
-    "CUP": ["NOUN"]
-  },
-  {
-    "CURSE": ["NOUN"]
-  },
-  {
-    "CUT": ["NOUN"]
-  },
-  {
-    "CYST": ["NOUN"]
-  },
-  {
-    "DANCE": ["NOUN", "VERB"]
-  },
-  {
-    "DANGLE": ["VERB"]
-  },
-  {
-    "DANK": ["NOUN", "ADJ"]
-  },
-  {
-    "DAGGER": ["NOUN"]
-  },
-  {
-    "DARK": ["NOUN", "ADJ"]
-  },
-  {
-    "DATE_FRUIT": ["NOUN"]
-  },
-  {
-    "DATE_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "DAWN": ["NOUN", "VERB"]
-  },
-  {
-    "DAY": ["NOUN"]
-  },
-  {
-    "DEAD": ["NOUN", "ADJ"]
-  },
-  {
-    "DEAR": ["ADJ"]
-  },
-  {
-    "DEATH": ["NOUN", "VERB"]
-  },
-  {
-    "DECAY": ["NOUN"]
-  },
-  {
-    "DECEIVER": ["NOUN"]
-  },
-  {
-    "DEEP": ["NOUN", "ADJ"]
-  },
-  {
-    "DEER": ["NOUN"]
-  },
-  {
-    "DEMON": ["NOUN"]
-  },
-  {
-    "DESPAIR": ["NOUN"]
-  },
-  {
-    "DESTROYER": ["NOUN"]
-  },
-  {
-    "DESTRUCTION": ["NOUN"]
-  },
-  {
-    "DEVIL": ["NOUN"]
-  },
-  {
-    "DEVOURER": ["NOUN"]
-  },
-  {
-    "DINE": ["VERB"]
-  },
-  {
-    "DINNER": ["NOUN"]
-  },
-  {
-    "DIRT": ["NOUN"]
-  },
-  {
-    "DITCH": ["NOUN"]
-  },
-  {
-    "DOG": ["NOUN"]
-  },
-  {
-    "DOMESTIC": ["NOUN", "ADJ"]
-  },
-  {
-    "DONKEY": ["NOUN"]
-  },
-  {
-    "DOOM": ["NOUN", "ADJ"]
-  },
-  {
-    "DOOR": ["NOUN"]
-  },
-  {
-    "DRAGON": ["NOUN"]
-  },
-  {
-    "DRAIN": ["NOUN", "VERB"]
-  },
-  {
-    "DRAWL": ["NOUN", "VERB"]
-  },
-  {
-    "DREG": ["NOUN"]
-  },
-  {
-    "DRESS_CLOTHING": ["NOUN"]
-  },
-  {
-    "DRESS_GENERAL": ["NOUN", "VERB"]
-  },
-  {
-    "DRINKER": ["NOUN"]
-  },
-  {
-    "DRIP": ["NOUN", "VERB"]
-  },
-  {
-    "DROOL": ["NOUN"]
-  },
-  {
-    "DROWNED": ["VERB"]
-  },
-  {
-    "DRUM": ["NOUN"]
-  },
-  {
-    "DRY": ["VERB"]
-  },
-  {
-    "DUMP": ["NOUN", "VERB"]
-  },
-  {
-    "DUMPLING": ["NOUN"]
-  },
-  {
-    "DUNG": ["NOUN"]
-  },
-  {
-    "DUNGEON": ["NOUN"]
-  },
-  {
-    "DUSK": ["NOUN"]
-  },
-  {
-    "DUST": ["NOUN"]
-  },
-  {
-    "DUTY": ["NOUN", "ADJ"]
-  },
-  {
-    "DYE": ["NOUN"]
-  },
-  {
-    "EAGLE": ["NOUN"]
-  },
-  {
-    "EAR": ["NOUN"]
-  },
-  {
-    "EAST": ["ADJ"]
-  },
-  {
-    "EAT": ["NOUN", "VERB"]
-  },
-  {
-    "ECTO": ["PREFIX"]
-  },
-  {
-    "EEL": ["NOUN"]
-  },
-  {
-    "EERIE": ["NOUN", "ADJ"]
-  },
-  {
-    "EGG": ["NOUN"]
-  },
-  {
-    "ELDER": ["NOUN", "ADJ"]
-  },
-  {
-    "ENTRAILS": ["NOUN"]
-  },
-  {
-    "ETERNAL": ["ADJ"]
-  },
-  {
-    "EVER": ["PREFIX"]
-  },
-  {
-    "EVERLASTING": ["ADJ"]
-  },
-  {
-    "EVERSEEING": ["ADJ"]
-  },
-  {
-    "EVIL": ["NOUN", "ADJ"]
-  },
-  {
-    "EXECUTE": ["NOUN", "VERB"]
-  },
-  {
-    "EXECUTIONER": ["NOUN"]
-  },
-  {
-    "EYE": ["NOUN"]
-  },
-  {
-    "FACE": ["NOUN"]
-  },
-  {
-    "FALL": ["NOUN", "VERB"]
-  },
-  {
-    "FALSE": ["NOUN", "ADJ"]
-  },
-  {
-    "FAMINE": ["NOUN"]
-  },
-  {
-    "FANG": ["NOUN"]
-  },
-  {
-    "FAT": ["NOUN", "ADJ"]
-  },
-  {
-    "FATAL": ["ADJ"]
-  },
-  {
-    "FATHER": ["NOUN"]
-  },
-  {
-    "FEAR": ["NOUN"]
-  },
-  {
-    "FEAST": ["NOUN"]
-  },
-  {
-    "FETID": ["ADJ"]
-  },
-  {
-    "FIEND": ["NOUN"]
-  },
-  {
-    "FIERCE": ["NOUN", "ADJ"]
-  },
-  {
-    "FILTH": ["NOUN"]
-  },
-  {
-    "FIN": ["NOUN"]
-  },
-  {
-    "FIND": ["NOUN", "VERB"]
-  },
-  {
-    "FINGER": ["NOUN"]
-  },
-  {
-    "FIRE": ["NOUN", "ADJ"]
-  },
-  {
-    "FIRST": ["ADJ"]
-  },
-  {
-    "FISH_ANIMAL": ["NOUN"]
-  },
-  {
-    "FISH_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "FIST": ["NOUN"]
-  },
-  {
-    "FLAME": ["NOUN"]
-  },
-  {
-    "FLANK": ["NOUN"]
-  },
-  {
-    "FLEA": ["NOUN"]
-  },
-  {
-    "FLESH": ["NOUN", "ADJ"]
-  },
-  {
-    "FLING": ["VERB"]
-  },
-  {
-    "FLOOD": ["NOUN", "VERB"]
-  },
-  {
-    "FLOWER": ["NOUN", "ADJ"]
-  },
-  {
-    "FLUTE": ["NOUN"]
-  },
-  {
-    "FLY_ANIMAL": ["NOUN"]
-  },
-  {
-    "FLY_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "FOCUS": ["NOUN", "VERB"]
-  },
-  {
-    "FOG": ["NOUN", "ADJ"]
-  },
-  {
-    "FOOL": ["NOUN", "ADJ"]
-  },
-  {
-    "FOOT": ["NOUN"]
-  },
-  {
-    "FOREST": ["NOUN"]
-  },
-  {
-    "FORK": ["NOUN", "VERB"]
-  },
-  {
-    "FORTIFY": ["NOUN", "VERB"]
-  },
-  {
-    "FORTRESS": ["NOUN"]
-  },
-  {
-    "FRAGILE": ["ADJ"]
-  },
-  {
-    "FRAGMENT": ["NOUN", "VERB"]
-  },
-  {
-    "FRAME": ["NOUN", "VERB"]
-  },
-  {
-    "FRAY": ["VERB"]
-  },
-  {
-    "FREE": ["NOUN", "ADJ"]
-  },
-  {
-    "FRENZY": ["NOUN"]
-  },
-  {
-    "FREEZE": ["VERB"]
-  },
-  {
-    "FRILL": ["NOUN", "ADJ"]
-  },
-  {
-    "FROG": ["NOUN"]
-  },
-  {
-    "FRUIT": ["NOUN", "ADJ"]
-  },
-  {
-    "FUNGUS": ["NOUN"]
-  },
-  {
-    "FUR": ["NOUN"]
-  },
-  {
-    "GALL": ["NOUN"]
-  },
-  {
-    "GAME": ["NOUN"]
-  },
-  {
-    "GARISH": ["ADJ"]
-  },
-  {
-    "GARLIC": ["NOUN"]
-  },
-  {
-    "GARNISH": ["NOUN", "VERB"]
-  },
-  {
-    "GATE": ["NOUN"]
-  },
-  {
-    "GAUNT": ["ADJ"]
-  },
-  {
-    "GAZE": ["NOUN"]
-  },
-  {
-    "GEAR": ["NOUN", "ADJ"]
-  },
-  {
-    "GERBIL": ["NOUN"]
-  },
-  {
-    "GHOST": ["NOUN"]
-  },
-  {
-    "GHOUL": ["NOUN"]
-  },
-  {
-    "GIFT": ["NOUN", "VERB"]
-  },
-  {
-    "GILL": ["NOUN"]
-  },
-  {
-    "GIRDLE": ["NOUN", "ADJ"]
-  },
-  {
-    "GLAND": ["NOUN"]
-  },
-  {
-    "GLAZE": ["NOUN", "VERB"]
-  },
-  {
-    "GLEN": ["NOUN"]
-  },
-  {
-    "GLIDE": ["VERB"]
-  },
-  {
-    "GLIMMER": ["NOUN", "VERB"]
-  },
-  {
-    "GLISTEN": ["VERB"]
-  },
-  {
-    "GLOSS": ["NOUN", "VERB"]
-  },
-  {
-    "GLOVE": ["NOUN", "ADJ"]
-  },
-  {
-    "GLUTTON": ["NOUN"]
-  },
-  {
-    "GOAT": ["NOUN"]
-  },
-  {
-    "GOD": ["NOUN", "ADJ"]
-  },
-  {
-    "GOD-FORSAKEN": ["ADJ"]
-  },
-  {
-    "GOLD": ["NOUN", "ADJ"]
-  },
-  {
-    "GOOSE": ["NOUN"]
-  },
-  {
-    "GORE": ["VERB"]
-  },
-  {
-    "GORGE_NOUN": ["NOUN"]
-  },
-  {
-    "GORGE_VERB": ["VERB"]
-  },
-  {
-    "GRAIN": ["NOUN"]
-  },
-  {
-    "GRAND": ["ADJ"]
-  },
-  {
-    "GRAPE": ["NOUN"]
-  },
-  {
-    "GRASS": ["NOUN"]
-  },
-  {
-    "GRAVE": ["NOUN"]
-  },
-  {
-    "GREASE": ["NOUN"]
-  },
-  {
-    "GREAT": ["NOUN", "ADJ"]
-  },
-  {
-    "GREED": ["NOUN"]
-  },
-  {
-    "GREEN": ["NOUN", "ADJ"]
-  },
-  {
-    "GRIFFON": ["NOUN"]
-  },
-  {
-    "GRILL": ["VERB"]
-  },
-  {
-    "GRIM": ["ADJ"]
-  },
-  {
-    "GRIND": ["VERB"]
-  },
-  {
-    "GRIP": ["NOUN", "VERB"]
-  },
-  {
-    "GRISTLE": ["NOUN", "ADJ"]
-  },
-  {
-    "GRIZZLE": ["NOUN", "ADJ"]
-  },
-  {
-    "GROVE": ["NOUN"]
-  },
-  {
-    "GROW": ["NOUN", "VERB"]
-  },
-  {
-    "GROWL": ["NOUN", "VERB"]
-  },
-  {
-    "GROWTH": ["NOUN"]
-  },
-  {
-    "GRUB": ["NOUN"]
-  },
-  {
-    "GUARD": ["NOUN", "VERB"]
-  },
-  {
-    "GUILE": ["NOUN"]
-  },
-  {
-    "GUISE": ["NOUN"]
-  },
-  {
-    "GUT": ["NOUN"]
-  },
-  {
-    "GUTTER": ["NOUN"]
-  },
-  {
-    "HAG": ["NOUN"]
-  },
-  {
-    "HAIR": ["NOUN"]
-  },
-  {
-    "HAIRY": ["ADJ"]
-  },
-  {
-    "HAME": ["NOUN"]
-  },
-  {
-    "HAMMER": ["NOUN"]
-  },
-  {
-    "HAMMERER": ["NOUN"]
-  },
-  {
-    "HAND": ["NOUN"]
-  },
-  {
-    "HANDY": ["ADJ"]
-  },
-  {
-    "HARE": ["NOUN"]
-  },
-  {
-    "HARVEST": ["NOUN"]
-  },
-  {
-    "HARVEST_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "HATCHET": ["NOUN"]
-  },
-  {
-    "HATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "HAUNT": ["NOUN", "VERB"]
-  },
-  {
-    "HAWK": ["NOUN"]
-  },
-  {
-    "HAY": ["NOUN"]
-  },
-  {
-    "HEAD": ["NOUN"]
-  },
-  {
-    "HEART": ["NOUN"]
-  },
-  {
-    "HEARTH": ["NOUN"]
-  },
-  {
-    "HEATHER": ["NOUN"]
-  },
-  {
-    "HEDGE": ["NOUN"]
-  },
-  {
-    "HELL": ["NOUN", "ADJ"]
-  },
-  {
-    "HELM": ["NOUN", "ADJ"]
-  },
-  {
-    "HERO": ["NOUN", "ADJ"]
-  },
-  {
-    "HEX": ["NOUN"]
-  },
-  {
-    "HIDE": ["NOUN"]
-  },
-  {
-    "HIDEOUS": ["ADJ"]
-  },
-  {
-    "HIGH": ["ADJ"]
-  },
-  {
-    "HILL": ["NOUN"]
-  },
-  {
-    "HIP": ["NOUN"]
-  },
-  {
-    "HOARY": ["ADJ"]
-  },
-  {
-    "HOBBLE": ["VERB"]
-  },
-  {
-    "HOG": ["NOUN"]
-  },
-  {
-    "HOLY": ["NOUN", "ADJ"]
-  },
-  {
-    "HOIST": ["VERB"]
-  },
-  {
-    "HOLE": ["NOUN"]
-  },
-  {
-    "HOME": ["NOUN"]
-  },
-  {
-    "HONEY": ["NOUN"]
-  },
-  {
-    "HOOD": ["NOUN"]
-  },
-  {
-    "HOOF": ["NOUN"]
-  },
-  {
-    "HOP_NOUN": ["NOUN"]
-  },
-  {
-    "HOP_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "HORN": ["NOUN"]
-  },
-  {
-    "HORSE": ["NOUN"]
-  },
-  {
-    "HOUND": ["NOUN"]
-  },
-  {
-    "HOWL": ["NOUN"]
-  },
-  {
-    "HUG": ["NOUN", "VERB"]
-  },
-  {
-    "HUM": ["VERB"]
-  },
-  {
-    "HUNGER": ["NOUN", "ADJ"]
-  },
-  {
-    "HUSTLE": ["VERB"]
-  },
-  {
-    "ICE": ["NOUN", "ADJ"]
-  },
-  {
-    "IDLE": ["NOUN", "ADJ"]
-  },
-  {
-    "IDOL": ["NOUN"]
-  },
-  {
-    "ILL": ["NOUN", "ADJ"]
-  },
-  {
-    "IMPURE": ["NOUN", "ADJ"]
-  },
-  {
-    "INCENSE": ["NOUN"]
-  },
-  {
-    "INCH": ["NOUN", "VERB"]
-  },
-  {
-    "INK": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "INN": ["NOUN"]
-  },
-  {
-    "INSANITY": ["NOUN"]
-  },
-  {
-    "INVISIBLE": ["ADJ"]
-  },
-  {
-    "IRON": ["NOUN"]
-  },
-  {
-    "ITCH": ["NOUN"]
-  },
-  {
-    "IVY": ["NOUN"]
-  },
-  {
-    "JACK": ["NOUN"]
-  },
-  {
-    "JACKAL": ["NOUN"]
-  },
-  {
-    "JAUNDICE": ["NOUN", "ADJ"]
-  },
-  {
-    "JAW": ["NOUN"]
-  },
-  {
-    "JEST": ["NOUN", "VERB"]
-  },
-  {
-    "JOKE": ["NOUN", "VERB"]
-  },
-  {
-    "JUGGLE": ["NOUN", "VERB"]
-  },
-  {
-    "JUICE": ["NOUN"]
-  },
-  {
-    "JUNGLE": ["NOUN"]
-  },
-  {
-    "JUST": ["NOUN", "ADJ"]
-  },
-  {
-    "JUSTIFY": ["VERB"]
-  },
-  {
-    "KEEPER": ["NOUN"]
-  },
-  {
-    "KEG": ["NOUN"]
-  },
-  {
-    "KEY": ["NOUN"]
-  },
-  {
-    "KINDNESS": ["NOUN", "ADJ"]
-  },
-  {
-    "KILLER": ["NOUN", "VERB"]
-  },
-  {
-    "KISS": ["NOUN", "VERB"]
-  },
-  {
-    "KING": ["NOUN"]
-  },
-  {
-    "KNEAD": ["VERB"]
-  },
-  {
-    "KNIFE": ["NOUN"]
-  },
-  {
-    "KNIGHT": ["NOUN", "VERB"]
-  },
-  {
-    "KNIT": ["VERB"]
-  },
-  {
-    "KNOT": ["NOUN"]
-  },
-  {
-    "LACE": ["NOUN", "ADJ"]
-  },
-  {
-    "LAKE": ["NOUN"]
-  },
-  {
-    "LARD": ["NOUN", "ADJ"]
-  },
-  {
-    "LARK": ["NOUN"]
-  },
-  {
-    "LARVA": ["NOUN", "ADJ"]
-  },
-  {
-    "LAST": ["ADJ"]
-  },
-  {
-    "LAW": ["NOUN"]
-  },
-  {
-    "LAZY": ["NOUN", "ADJ"]
-  },
-  {
-    "LEADER": ["NOUN", "VERB"]
-  },
-  {
-    "LEAF": ["NOUN", "ADJ"]
-  },
-  {
-    "LEAK": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LEAN": ["ADJ"]
-  },
-  {
-    "LEECH": ["NOUN"]
-  },
-  {
-    "LEGEND": ["NOUN", "ADJ"]
-  },
-  {
-    "LENS": ["NOUN"]
-  },
-  {
-    "LEOPARD": ["NOUN"]
-  },
-  {
-    "LEPER": ["NOUN"]
-  },
-  {
-    "LEPROSY": ["NOUN"]
-  },
-  {
-    "LETTER": ["NOUN"]
-  },
-  {
-    "LIE": ["NOUN"]
-  },
-  {
-    "LIGHT": ["NOUN", "ADJ"]
-  },
-  {
-    "LIGHTNING": ["NOUN"]
-  },
-  {
-    "LIMB": ["NOUN"]
-  },
-  {
-    "LIP": ["NOUN"]
-  },
-  {
-    "LISTEN": ["VERB"]
-  },
-  {
-    "LIZARD": ["NOUN"]
-  },
-  {
-    "LOBSTER": ["NOUN"]
-  },
-  {
-    "LOCK": ["NOUN", "VERB"]
-  },
-  {
-    "LONE": ["ADJ"]
-  },
-  {
-    "LONG": ["NOUN", "ADJ"]
-  },
-  {
-    "LOOT": ["NOUN"]
-  },
-  {
-    "LORD": ["NOUN"]
-  },
-  {
-    "LOST": ["ADJ"]
-  },
-  {
-    "LOUSE": ["NOUN"]
-  },
-  {
-    "LOVE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LOW": ["NOUN", "ADJ"]
-  },
-  {
-    "LUNCH": ["NOUN"]
-  },
-  {
-    "LUNG": ["NOUN"]
-  },
-  {
-    "LURID": ["ADJ"]
-  },
-  {
-    "LURCH": ["VERB"]
-  },
-  {
-    "LURK": ["VERB"]
-  },
-  {
-    "LUSH": ["ADJ"]
-  },
-  {
-    "LUST": ["NOUN", "ADJ"]
-  },
-  {
-    "LUTE": ["NOUN"]
-  },
-  {
-    "LYRIC": ["NOUN", "ADJ"]
-  },
-  {
-    "MAGGOT": ["NOUN"]
-  },
-  {
-    "MAGIC": ["NOUN", "ADJ"]
-  },
-  {
-    "MAN": ["NOUN"]
-  },
-  {
-    "MANGE": ["NOUN", "ADJ"]
-  },
-  {
-    "MANY": ["PREFIX"]
-  },
-  {
-    "MARSH": ["NOUN"]
-  },
-  {
-    "MARTYR": ["NOUN", "VERB"]
-  },
-  {
-    "MASTER": ["NOUN", "VERB"]
-  },
-  {
-    "MAW": ["NOUN"]
-  },
-  {
-    "MEAD": ["NOUN"]
-  },
-  {
-    "MEADOW": ["NOUN"]
-  },
-  {
-    "MEAL_DOM": ["NOUN"]
-  },
-  {
-    "MEAL_GROUND": ["NOUN"]
-  },
-  {
-    "MEAT": ["NOUN"]
-  },
-  {
-    "MEDITATION": ["NOUN", "VERB"]
-  },
-  {
-    "MELLOW": ["ADJ"]
-  },
-  {
-    "MENACE": ["NOUN", "VERB"]
-  },
-  {
-    "MESS": ["NOUN"]
-  },
-  {
-    "METAL": ["NOUN"]
-  },
-  {
-    "MIDNIGHT": ["NOUN"]
-  },
-  {
-    "MIGHTY": ["NOUN", "ADJ"]
-  },
-  {
-    "MIGHTINESS": ["NOUN"]
-  },
-  {
-    "MILE": ["NOUN"]
-  },
-  {
-    "MINCE": ["VERB"]
-  },
-  {
-    "MIND": ["NOUN", "ADJ"]
-  },
-  {
-    "MINION": ["NOUN"]
-  },
-  {
-    "MIRROR": ["NOUN", "VERB"]
-  },
-  {
-    "MISERY": ["NOUN"]
-  },
-  {
-    "MIST": ["NOUN", "ADJ"]
-  },
-  {
-    "MITE": ["NOUN"]
-  },
-  {
-    "MOLD": ["NOUN"]
-  },
-  {
-    "MOLE": ["NOUN"]
-  },
-  {
-    "MOLTEN": ["ADJ"]
-  },
-  {
-    "MONKEY": ["NOUN"]
-  },
-  {
-    "MOON": ["NOUN"]
-  },
-  {
-    "MONGER": ["NOUN"]
-  },
-  {
-    "MOTH": ["NOUN"]
-  },
-  {
-    "MOTHER": ["NOUN"]
-  },
-  {
-    "MOUSE": ["NOUN", "ADJ"]
-  },
-  {
-    "MOUTH": ["NOUN"]
-  },
-  {
-    "MUCK": ["NOUN"]
-  },
-  {
-    "MUD": ["NOUN", "ADJ"]
-  },
-  {
-    "MUFFIN": ["NOUN"]
-  },
-  {
-    "MULE": ["NOUN"]
-  },
-  {
-    "MUNCH": ["VERB"]
-  },
-  {
-    "MURDER": ["NOUN", "VERB"]
-  },
-  {
-    "MUSH": ["NOUN"]
-  },
-  {
-    "MUSHROOM": ["NOUN"]
-  },
-  {
-    "MUSIC": ["NOUN", "ADJ"]
-  },
-  {
-    "MYSTERY": ["NOUN", "ADJ"]
-  },
-  {
-    "MYTH": ["NOUN", "ADJ"]
-  },
-  {
-    "NAIL": ["NOUN"]
-  },
-  {
-    "NASTY": ["ADJ"]
-  },
-  {
-    "NATURE": ["NOUN", "ADJ"]
-  },
-  {
-    "NECRO": ["PREFIX"]
-  },
-  {
-    "NEGATIVE": ["ADJ"]
-  },
-  {
-    "NEGATE": ["NOUN", "VERB"]
-  },
-  {
-    "NEO": ["PREFIX"]
-  },
-  {
-    "NEST": ["NOUN", "VERB"]
-  },
-  {
-    "NESTLE": ["VERB"]
-  },
-  {
-    "NET": ["NOUN"]
-  },
-  {
-    "NETTLE": ["NOUN"]
-  },
-  {
-    "NEW": ["ADJ"]
-  },
-  {
-    "NEWT": ["NOUN"]
-  },
-  {
-    "NIBBLE": ["VERB"]
-  },
-  {
-    "NIGHT": ["NOUN"]
-  },
-  {
-    "NIGHTMARE": ["NOUN"]
-  },
-  {
-    "NOBLE": ["NOUN", "ADJ"]
-  },
-  {
-    "NOOSE": ["NOUN"]
-  },
-  {
-    "NORTH": ["ADJ"]
-  },
-  {
-    "NOSE": ["NOUN"]
-  },
-  {
-    "NULL": ["ADJ"]
-  },
-  {
-    "NUMBER": ["NOUN"]
-  },
-  {
-    "NURTURE": ["VERB"]
-  },
-  {
-    "NUT": ["NOUN"]
-  },
-  {
-    "OAK": ["NOUN", "ADJ"]
-  },
-  {
-    "OAR": ["NOUN"]
-  },
-  {
-    "OAT": ["NOUN"]
-  },
-  {
-    "OBLIVION": ["NOUN"]
-  },
-  {
-    "OCEAN": ["NOUN", "ADJ"]
-  },
-  {
-    "OLD": ["ADJ"]
-  },
-  {
-    "OMEN": ["NOUN"]
-  },
-  {
-    "ONE": ["NOUN"]
-  },
-  {
-    "ONE_PREF": ["PREFIX"]
-  },
-  {
-    "ONION": ["NOUN"]
-  },
-  {
-    "OOZE": ["NOUN"]
-  },
-  {
-    "OPEN": ["VERB"]
-  },
-  {
-    "ORB": ["NOUN"]
-  },
-  {
-    "OVER": ["PREFIX"]
-  },
-  {
-    "OWL": ["NOUN"]
-  },
-  {
-    "OX": ["NOUN"]
-  },
-  {
-    "PACK": ["NOUN", "VERB"]
-  },
-  {
-    "PAD_NOUN": ["NOUN", "ADJ"]
-  },
-  {
-    "PAD_VERB": ["VERB"]
-  },
-  {
-    "PAGE": ["NOUN", "VERB"]
-  },
-  {
-    "PAIN": ["NOUN", "ADJ"]
-  },
-  {
-    "PAINT": ["NOUN", "VERB"]
-  },
-  {
-    "PALE": ["NOUN", "ADJ"]
-  },
-  {
-    "PALM": ["NOUN"]
-  },
-  {
-    "PANT": ["VERB"]
-  },
-  {
-    "PANTHER": ["NOUN"]
-  },
-  {
-    "PANTS": ["NOUN"]
-  },
-  {
-    "PAPER": ["NOUN"]
-  },
-  {
-    "PEACE": ["NOUN", "ADJ"]
-  },
-  {
-    "PEACH": ["NOUN"]
-  },
-  {
-    "PEPPER": ["NOUN"]
-  },
-  {
-    "PHLEGM": ["NOUN"]
-  },
-  {
-    "PIG": ["NOUN"]
-  },
-  {
-    "PIT": ["NOUN"]
-  },
-  {
-    "PITCH": ["NOUN"]
-  },
-  {
-    "PLAGUE": ["NOUN"]
-  },
-  {
-    "PLANT": ["NOUN", "VERB"]
-  },
-  {
-    "PLANTER": ["NOUN"]
-  },
-  {
-    "PLOT": ["NOUN", "VERB"]
-  },
-  {
-    "POCKET_NOUN": ["NOUN"]
-  },
-  {
-    "POCKET_VERB": ["VERB"]
-  },
-  {
-    "POISON": ["NOUN", "ADJ"]
-  },
-  {
-    "PORTAL": ["NOUN"]
-  },
-  {
-    "POWER": ["NOUN"]
-  },
-  {
-    "PRANK": ["NOUN"]
-  },
-  {
-    "PREGNANT": ["NOUN", "ADJ"]
-  },
-  {
-    "PRIDE": ["NOUN"]
-  },
-  {
-    "PRIEST": ["NOUN"]
-  },
-  {
-    "PRIM": ["ADJ"]
-  },
-  {
-    "PRIME": ["ADJ"]
-  },
-  {
-    "PRIMITIVE": ["ADJ"]
-  },
-  {
-    "PROFANE": ["NOUN", "ADJ"]
-  },
-  {
-    "PROPHECY": ["NOUN"]
-  },
-  {
-    "PROPHET": ["NOUN"]
-  },
-  {
-    "PROWL": ["NOUN", "VERB"]
-  },
-  {
-    "PUKE": ["NOUN"]
-  },
-  {
-    "PULL": ["VERB"]
-  },
-  {
-    "PULLEY": ["NOUN"]
-  },
-  {
-    "PULP": ["NOUN", "ADJ"]
-  },
-  {
-    "PUNCH": ["NOUN"]
-  },
-  {
-    "PURPLE": ["ADJ"]
-  },
-  {
-    "PUS": ["NOUN"]
-  },
-  {
-    "PUTRID": ["NOUN", "ADJ"]
-  },
-  {
-    "QUAKE": ["NOUN"]
-  },
-  {
-    "QUEEN": ["NOUN"]
-  },
-  {
-    "QUICK": ["NOUN", "ADJ"]
-  },
-  {
-    "QUILL": ["NOUN"]
-  },
-  {
-    "RABBIT": ["NOUN"]
-  },
-  {
-    "RABBLE": ["NOUN"]
-  },
-  {
-    "RACE_GROUP": ["NOUN"]
-  },
-  {
-    "RACE_VERB": ["NOUN", "VERB"]
-  },
-  {
-    "RACK": ["NOUN"]
-  },
-  {
-    "RAG": ["NOUN"]
-  },
-  {
-    "RAGE": ["NOUN"]
-  },
-  {
-    "RAIN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RAKE": ["VERB"]
-  },
-  {
-    "RAM": ["NOUN"]
-  },
-  {
-    "RAMPAGE": ["NOUN", "VERB"]
-  },
-  {
-    "RANDOM": ["ADJ"]
-  },
-  {
-    "RANSACK": ["VERB"]
-  },
-  {
-    "RAPTOR": ["NOUN"]
-  },
-  {
-    "RAT": ["NOUN"]
-  },
-  {
-    "RAUNCH": ["NOUN"]
-  },
-  {
-    "RAVAGER": ["NOUN"]
-  },
-  {
-    "RAVEN": ["NOUN"]
-  },
-  {
-    "RAW": ["NOUN", "ADJ"]
-  },
-  {
-    "RAZOR": ["NOUN"]
-  },
-  {
-    "RED": ["NOUN", "ADJ"]
-  },
-  {
-    "REGAL": ["ADJ"]
-  },
-  {
-    "REIGN": ["NOUN", "VERB"]
-  },
-  {
-    "REIN": ["NOUN", "VERB"]
-  },
-  {
-    "REND": ["VERB"]
-  },
-  {
-    "RIDER": ["NOUN"]
-  },
-  {
-    "RIM": ["NOUN"]
-  },
-  {
-    "RING_OBJECT": ["NOUN", "VERB"]
-  },
-  {
-    "RING_SOUND": ["VERB"]
-  },
-  {
-    "RIP": ["NOUN"]
-  },
-  {
-    "RIPE": ["NOUN", "ADJ"]
-  },
-  {
-    "RIPPER": ["NOUN"]
-  },
-  {
-    "RISE": ["VERB"]
-  },
-  {
-    "RITE": ["NOUN"]
-  },
-  {
-    "RIVER": ["NOUN"]
-  },
-  {
-    "ROCK": ["NOUN"]
-  },
-  {
-    "ROGUE": ["NOUN"]
-  },
-  {
-    "ROMANCE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ROOM": ["NOUN"]
-  },
-  {
-    "ROOMY": ["ADJ"]
-  },
-  {
-    "ROOT": ["NOUN"]
-  },
-  {
-    "ROSE": ["NOUN", "ADJ"]
-  },
-  {
-    "ROT": ["NOUN"]
-  },
-  {
-    "ROUGH": ["NOUN", "ADJ"]
-  },
-  {
-    "ROYAL": ["ADJ"]
-  },
-  {
-    "RUIN": ["NOUN", "ADJ"]
-  },
-  {
-    "RUIN_V": ["VERB"]
-  },
-  {
-    "RULER": ["NOUN", "VERB"]
-  },
-  {
-    "RUMOR": ["NOUN", "ADJ"]
-  },
-  {
-    "RUST": ["NOUN"]
-  },
-  {
-    "SABRE": ["NOUN"]
-  },
-  {
-    "SACK": ["NOUN"]
-  },
-  {
-    "SAINT": ["NOUN"]
-  },
-  {
-    "SALT": ["NOUN", "ADJ"]
-  },
-  {
-    "SALVE": ["NOUN"]
-  },
-  {
-    "SAP": ["NOUN"]
-  },
-  {
-    "SATIN": ["NOUN", "ADJ"]
-  },
-  {
-    "SAVAGE": ["NOUN", "ADJ"]
-  },
-  {
-    "SAVAGERY": ["NOUN"]
-  },
-  {
-    "SAVIOR": ["NOUN"]
-  },
-  {
-    "SCAB": ["NOUN", "ADJ"]
-  },
-  {
-    "SCAR": ["NOUN", "VERB"]
-  },
-  {
-    "SCOLD": ["VERB"]
-  },
-  {
-    "SCORPION": ["NOUN"]
-  },
-  {
-    "SCRATCH": ["NOUN"]
-  },
-  {
-    "SCOURGE": ["NOUN"]
-  },
-  {
-    "SCREAM": ["NOUN", "VERB"]
-  },
-  {
-    "SCUM": ["NOUN"]
-  },
-  {
-    "SEA": ["NOUN"]
-  },
-  {
-    "SEAL_ANIMAL": ["NOUN"]
-  },
-  {
-    "SEAL_ART": ["NOUN"]
-  },
-  {
-    "SEAM": ["NOUN"]
-  },
-  {
-    "SEASON": ["NOUN"]
-  },
-  {
-    "SECRET": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SEDUCE": ["NOUN", "VERB"]
-  },
-  {
-    "SEDUCER": ["NOUN"]
-  },
-  {
-    "SEED": ["NOUN"]
-  },
-  {
-    "SEER": ["NOUN"]
-  },
-  {
-    "SEIZE": ["NOUN", "VERB"]
-  },
-  {
-    "SERPENT": ["NOUN"]
-  },
-  {
-    "SERVANT": ["NOUN"]
-  },
-  {
-    "SEVER": ["NOUN", "VERB"]
-  },
-  {
-    "SEWER": ["NOUN"]
-  },
-  {
-    "SHADOW": ["NOUN"]
-  },
-  {
-    "SHAFT": ["NOUN"]
-  },
-  {
-    "SHANK": ["NOUN"]
-  },
-  {
-    "SHARK": ["NOUN"]
-  },
-  {
-    "SHEAR": ["VERB"]
-  },
-  {
-    "SHEEN": ["NOUN"]
-  },
-  {
-    "SHELL": ["NOUN"]
-  },
-  {
-    "SHELTER": ["NOUN", "VERB"]
-  },
-  {
-    "SHIELD": ["NOUN", "VERB"]
-  },
-  {
-    "SHIMMER": ["VERB"]
-  },
-  {
-    "SHIP": ["NOUN"]
-  },
-  {
-    "SHOOT": ["VERB"]
-  },
-  {
-    "SHOW": ["NOUN", "VERB"]
-  },
-  {
-    "SHRED": ["NOUN"]
-  },
-  {
-    "SHRIEK": ["NOUN"]
-  },
-  {
-    "SHUT": ["VERB"]
-  },
-  {
-    "SICK": ["NOUN", "ADJ"]
-  },
-  {
-    "SICKNESS": ["NOUN"]
-  },
-  {
-    "SIEGE": ["NOUN", "VERB"]
-  },
-  {
-    "SILENCE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SILK": ["NOUN", "ADJ"]
-  },
-  {
-    "SILKY": ["NOUN", "ADJ"]
-  },
-  {
-    "SILT": ["NOUN", "ADJ"]
-  },
-  {
-    "SILVER": ["NOUN", "ADJ"]
-  },
-  {
-    "SIN": ["NOUN", "ADJ"]
-  },
-  {
-    "SINEW": ["NOUN"]
-  },
-  {
-    "SING": ["NOUN", "VERB"]
-  },
-  {
-    "SISTER": ["NOUN"]
-  },
-  {
-    "SKIRT_CLOTHING": ["NOUN"]
-  },
-  {
-    "SKIRT_VERB": ["VERB"]
-  },
-  {
-    "SKUNK": ["NOUN"]
-  },
-  {
-    "SKULL": ["NOUN"]
-  },
-  {
-    "SKY": ["NOUN"]
-  },
-  {
-    "SLAUGHTER": ["NOUN"]
-  },
-  {
-    "SLAVE": ["NOUN"]
-  },
-  {
-    "SLAYER": ["NOUN"]
-  },
-  {
-    "SLIM": ["ADJ"]
-  },
-  {
-    "SLIME": ["NOUN"]
-  },
-  {
-    "SLING": ["NOUN"]
-  },
-  {
-    "SLINK": ["VERB"]
-  },
-  {
-    "SLIT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SLITHER": ["VERB"]
-  },
-  {
-    "SLIVER": ["NOUN"]
-  },
-  {
-    "SLOTH": ["NOUN"]
-  },
-  {
-    "SLUG": ["NOUN"]
-  },
-  {
-    "SMASH": ["VERB"]
-  },
-  {
-    "SMILE": ["NOUN", "VERB"]
-  },
-  {
-    "SMITH": ["NOUN"]
-  },
-  {
-    "SMOKE": ["NOUN"]
-  },
-  {
-    "SMOOTH": ["NOUN", "ADJ"]
-  },
-  {
-    "SMOULDER": ["VERB"]
-  },
-  {
-    "SNACK": ["NOUN", "VERB"]
-  },
-  {
-    "SNAKE": ["NOUN"]
-  },
-  {
-    "SNEER": ["NOUN"]
-  },
-  {
-    "SNOT": ["NOUN"]
-  },
-  {
-    "SNUGGLE": ["VERB"]
-  },
-  {
-    "SOIL": ["NOUN"]
-  },
-  {
-    "SOLDIER": ["NOUN"]
-  },
-  {
-    "SOOT": ["NOUN", "ADJ"]
-  },
-  {
-    "SOOTHE": ["VERB"]
-  },
-  {
-    "SORROW": ["NOUN"]
-  },
-  {
-    "SOUL": ["NOUN"]
-  },
-  {
-    "SOUND": ["NOUN", "VERB"]
-  },
-  {
-    "SOUTH": ["ADJ"]
-  },
-  {
-    "SPASM": ["NOUN"]
-  },
-  {
-    "SPAWN": ["NOUN"]
-  },
-  {
-    "SPEAR": ["NOUN"]
-  },
-  {
-    "SPELL": ["NOUN"]
-  },
-  {
-    "SPICE": ["NOUN", "ADJ"]
-  },
-  {
-    "SPIDER": ["NOUN"]
-  },
-  {
-    "SPIDERY": ["ADJ"]
-  },
-  {
-    "SPIKE": ["NOUN"]
-  },
-  {
-    "SPIN": ["VERB"]
-  },
-  {
-    "SPINE": ["NOUN"]
-  },
-  {
-    "SPIRIT": ["NOUN"]
-  },
-  {
-    "SPIT": ["NOUN"]
-  },
-  {
-    "SPITTLE": ["NOUN"]
-  },
-  {
-    "SPOIL": ["NOUN", "VERB"]
-  },
-  {
-    "SPOON": ["NOUN", "VERB"]
-  },
-  {
-    "SPRING_NOUN": ["NOUN"]
-  },
-  {
-    "SPRING_SEASON": ["NOUN"]
-  },
-  {
-    "SPRING_VERB": ["VERB"]
-  },
-  {
-    "SPRY": ["ADJ"]
-  },
-  {
-    "SPY": ["NOUN"]
-  },
-  {
-    "SQUID": ["NOUN"]
-  },
-  {
-    "SQUIRM": ["VERB"]
-  },
-  {
-    "STAB": ["VERB"]
-  },
-  {
-    "STAFF": ["NOUN"]
-  },
-  {
-    "STALK": ["NOUN", "VERB"]
-  },
-  {
-    "STAND": ["NOUN", "VERB"]
-  },
-  {
-    "STAR": ["NOUN"]
-  },
-  {
-    "STEED": ["NOUN"]
-  },
-  {
-    "STARVE": ["NOUN", "VERB"]
-  },
-  {
-    "STEAL": ["VERB"]
-  },
-  {
-    "STEEL": ["NOUN"]
-  },
-  {
-    "STENCH": ["NOUN"]
-  },
-  {
-    "STERN": ["ADJ"]
-  },
-  {
-    "STICK_WOOD": ["NOUN"]
-  },
-  {
-    "STICK_VERB": ["VERB"]
-  },
-  {
-    "STICKY": ["ADJ"]
-  },
-  {
-    "STONE": ["NOUN"]
-  },
-  {
-    "STORM": ["NOUN", "ADJ"]
-  },
-  {
-    "STRANGE": ["NOUN", "ADJ"]
-  },
-  {
-    "STRAP": ["NOUN", "VERB"]
-  },
-  {
-    "STRAPPING_ADJ": ["ADJ"]
-  },
-  {
-    "STRAW": ["NOUN"]
-  },
-  {
-    "STRAY": ["NOUN", "VERB"]
-  },
-  {
-    "STRENGTH": ["NOUN", "ADJ"]
-  },
-  {
-    "STRETCH": ["VERB"]
-  },
-  {
-    "STRIKE": ["NOUN", "VERB"]
-  },
-  {
-    "STROKE": ["NOUN", "VERB"]
-  },
-  {
-    "STUNT": ["NOUN"]
-  },
-  {
-    "STUNTED": ["ADJ"]
-  },
-  {
-    "STUPID": ["ADJ"]
-  },
-  {
-    "STUTTER": ["VERB"]
-  },
-  {
-    "STYLE": ["NOUN", "VERB"]
-  },
-  {
-    "SUBORDINATE": ["NOUN", "ADJ"]
-  },
-  {
-    "SUCK": ["NOUN", "VERB"]
-  },
-  {
-    "SUFFERING": ["NOUN"]
-  },
-  {
-    "SUGAR": ["NOUN", "ADJ"]
-  },
-  {
-    "SULLY": ["VERB"]
-  },
-  {
-    "SULLEN": ["ADJ"]
-  },
-  {
-    "SUMMER": ["NOUN"]
-  },
-  {
-    "SUN": ["NOUN", "ADJ"]
-  },
-  {
-    "SUNDER": ["VERB"]
-  },
-  {
-    "SUPPER": ["NOUN"]
-  },
-  {
-    "SURPRISE": ["NOUN"]
-  },
-  {
-    "SWAMP": ["NOUN"]
-  },
-  {
-    "SWEAT": ["NOUN", "VERB"]
-  },
-  {
-    "SWEET": ["NOUN", "ADJ"]
-  },
-  {
-    "SWIFT": ["ADJ"]
-  },
-  {
-    "SWIM": ["VERB"]
-  },
-  {
-    "SWINE": ["NOUN"]
-  },
-  {
-    "SWORD": ["NOUN"]
-  },
-  {
-    "SYRUP": ["NOUN"]
-  },
-  {
-    "TAKER": ["NOUN", "VERB"]
-  },
-  {
-    "TAIL": ["NOUN"]
-  },
-  {
-    "TALON": ["NOUN"]
-  },
-  {
-    "TAR": ["NOUN"]
-  },
-  {
-    "TARNISH": ["NOUN", "VERB"]
-  },
-  {
-    "TELL": ["VERB"]
-  },
-  {
-    "TEMPEST": ["NOUN"]
-  },
-  {
-    "TEAR": ["NOUN"]
-  },
-  {
-    "TERROR": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "THIEF": ["NOUN"]
-  },
-  {
-    "THIRST": ["NOUN"]
-  },
-  {
-    "THORN": ["NOUN"]
-  },
-  {
-    "THRALL": ["NOUN"]
-  },
-  {
-    "THREE": ["PREFIX"]
-  },
-  {
-    "THROAT": ["NOUN"]
-  },
-  {
-    "THRONE": ["NOUN"]
-  },
-  {
-    "THROWER": ["NOUN", "VERB"]
-  },
-  {
-    "THUNDER": ["NOUN", "VERB"]
-  },
-  {
-    "TICK_ANIMAL": ["NOUN"]
-  },
-  {
-    "TICK_CLOCK": ["NOUN", "VERB"]
-  },
-  {
-    "TIGHT": ["NOUN", "ADJ"]
-  },
-  {
-    "TIME": ["NOUN"]
-  },
-  {
-    "TOAD": ["NOUN"]
-  },
-  {
-    "TOE": ["NOUN"]
-  },
-  {
-    "TOMB": ["NOUN"]
-  },
-  {
-    "TOME": ["NOUN"]
-  },
-  {
-    "TONGUE": ["NOUN"]
-  },
-  {
-    "TOOTH": ["NOUN"]
-  },
-  {
-    "TORMENT": ["NOUN", "VERB"]
-  },
-  {
-    "TOUCH": ["NOUN", "VERB"]
-  },
-  {
-    "TOUCHY": ["ADJ"]
-  },
-  {
-    "TOUR": ["NOUN"]
-  },
-  {
-    "TOWER": ["NOUN"]
-  },
-  {
-    "TRAIL": ["NOUN", "VERB"]
-  },
-  {
-    "TRANCE": ["NOUN"]
-  },
-  {
-    "TRAP": ["NOUN", "VERB"]
-  },
-  {
-    "TRASH": ["NOUN"]
-  },
-  {
-    "TREASURE": ["NOUN"]
-  },
-  {
-    "TREAT": ["NOUN", "VERB"]
-  },
-  {
-    "TREATY": ["NOUN"]
-  },
-  {
-    "TRENCH": ["NOUN"]
-  },
-  {
-    "TRIBE": ["NOUN"]
-  },
-  {
-    "TRICK": ["NOUN", "VERB"]
-  },
-  {
-    "TRICKERY": ["NOUN"]
-  },
-  {
-    "TRIM": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TROUBLE": ["NOUN", "VERB"]
-  },
-  {
-    "TUG": ["VERB"]
-  },
-  {
-    "TULIP": ["NOUN"]
-  },
-  {
-    "TUMBLE": ["VERB"]
-  },
-  {
-    "TUMOR": ["NOUN"]
-  },
-  {
-    "TURMOIL": ["NOUN"]
-  },
-  {
-    "TUSK": ["NOUN"]
-  },
-  {
-    "TWEET": ["VERB"]
-  },
-  {
-    "TWILIGHT": ["NOUN"]
-  },
-  {
-    "TWINE": ["NOUN"]
-  },
-  {
-    "TWIST": ["NOUN", "VERB"]
-  },
-  {
-    "TWO": ["PREFIX"]
-  },
-  {
-    "UGLY": ["NOUN", "ADJ"]
-  },
-  {
-    "ULCER": ["NOUN"]
-  },
-  {
-    "ULTIMATE": ["ADJ"]
-  },
-  {
-    "ULTRA": ["PREFIX"]
-  },
-  {
-    "UNBRIDLED": ["ADJ"]
-  },
-  {
-    "UNCLE": ["NOUN"]
-  },
-  {
-    "UNGODLY": ["ADJ"]
-  },
-  {
-    "UNHOLY": ["NOUN", "ADJ"]
-  },
-  {
-    "UNKEMPT": ["ADJ"]
-  },
-  {
-    "UNSEEN": ["ADJ"]
-  },
-  {
-    "UNTOWARD": ["ADJ"]
-  },
-  {
-    "UNWELCOME": ["ADJ"]
-  },
-  {
-    "URN": ["NOUN"]
-  },
-  {
-    "USELESS": ["ADJ"]
-  },
-  {
-    "VANDAL": ["NOUN", "VERB"]
-  },
-  {
-    "VEGETABLE": ["NOUN"]
-  },
-  {
-    "VEGETATE": ["VERB"]
-  },
-  {
-    "VEGETATION": ["NOUN"]
-  },
-  {
-    "VELVET": ["NOUN", "ADJ"]
-  },
-  {
-    "VENOM": ["NOUN"]
-  },
-  {
-    "VERMIN": ["NOUN"]
-  },
-  {
-    "VILE": ["NOUN", "ADJ"]
-  },
-  {
-    "VIOLATOR": ["NOUN"]
-  },
-  {
-    "VIOLENCE": ["NOUN", "ADJ"]
-  },
-  {
-    "VIOLET": ["ADJ"]
-  },
-  {
-    "VIPER": ["NOUN"]
-  },
-  {
-    "VOICE": ["NOUN", "VERB"]
-  },
-  {
-    "VOID": ["NOUN"]
-  },
-  {
-    "VOLCANO": ["NOUN"]
-  },
-  {
-    "VOMIT": ["NOUN"]
-  },
-  {
-    "VULTURE": ["NOUN"]
-  },
-  {
-    "WAIL": ["NOUN"]
-  },
-  {
-    "WANDER": ["NOUN", "VERB"]
-  },
-  {
-    "WAR": ["NOUN"]
-  },
-  {
-    "WARRIOR": ["NOUN"]
-  },
-  {
-    "WASP": ["NOUN"]
-  },
-  {
-    "WASTE": ["NOUN", "VERB"]
-  },
-  {
-    "WATCH": ["NOUN", "VERB"]
-  },
-  {
-    "WATCHFUL": ["NOUN", "ADJ"]
-  },
-  {
-    "WAVE": ["NOUN", "VERB"]
-  },
-  {
-    "WAVY": ["NOUN", "ADJ"]
-  },
-  {
-    "WEAR": ["VERB"]
-  },
-  {
-    "WEASEL": ["NOUN"]
-  },
-  {
-    "WEAVER": ["NOUN"]
-  },
-  {
-    "WEED": ["NOUN"]
-  },
-  {
-    "WEIGHT": ["NOUN"]
-  },
-  {
-    "WEIRD": ["NOUN"]
-  },
-  {
-    "WERE": ["PREFIX"]
-  },
-  {
-    "WEST": ["ADJ"]
-  },
-  {
-    "WHEAT": ["NOUN"]
-  },
-  {
-    "WHEEL": ["NOUN", "VERB"]
-  },
-  {
-    "WHIP": ["NOUN", "VERB"]
-  },
-  {
-    "WHISK": ["VERB"]
-  },
-  {
-    "WHISKY": ["NOUN"]
-  },
-  {
-    "WHISPER": ["NOUN", "VERB"]
-  },
-  {
-    "WHITE": ["NOUN", "ADJ"]
-  },
-  {
-    "WICKED": ["NOUN", "ADJ"]
-  },
-  {
-    "WILD": ["NOUN", "ADJ"]
-  },
-  {
-    "WILL": ["NOUN", "ADJ"]
-  },
-  {
-    "WING": ["NOUN"]
-  },
-  {
-    "WINTER": ["NOUN"]
-  },
-  {
-    "WISP": ["NOUN", "ADJ"]
-  },
-  {
-    "WITCH": ["NOUN"]
-  },
-  {
-    "WONDER_NOUN": ["NOUN", "ADJ"]
-  },
-  {
-    "WONDER_VERB": ["VERB"]
-  },
-  {
-    "WOOD": ["NOUN", "ADJ"]
-  },
-  {
-    "WORK": ["NOUN", "VERB"]
-  },
-  {
-    "WORM": ["NOUN"]
-  },
-  {
-    "WRAITH": ["NOUN"]
-  },
-  {
-    "WRATH": ["NOUN"]
-  },
-  {
-    "WRETCH": ["NOUN", "ADJ"]
-  },
-  {
-    "YARN": ["NOUN"]
-  },
-  {
-    "YEAR": ["NOUN"]
-  },
-  {
-    "YEARLING": ["NOUN"]
-  },
-  {
-    "YELLOW": ["NOUN", "ADJ"]
-  },
-  {
-    "YORE": ["NOUN"]
-  },
-  {
-    "YOUNG": ["ADJ"]
-  },
-  {
-    "YOUTH": ["NOUN", "ADJ"]
-  },
-  {
-    "ZEAL": ["NOUN"]
-  },
-  {
-    "ZEALOT": ["NOUN"]
-  },
-  {
-    "ZEPHYR": ["NOUN"]
-  },
-  {
-    "EARTH": ["NOUN", "ADJ"]
-  },
-  {
-    "ARTIFACT": ["NOUN"]
-  },
-  {
-    "BED": ["NOUN"]
-  },
-  {
-    "BUD": ["NOUN", "VERB"]
-  },
-  {
-    "CAVORT": ["VERB"]
-  },
-  {
-    "COMMON": ["ADJ"]
-  },
-  {
-    "DAUB": ["NOUN", "VERB"]
-  },
-  {
-    "DESERT": ["NOUN"]
-  },
-  {
-    "DESSERT": ["NOUN"]
-  },
-  {
-    "DIAMOND": ["NOUN", "ADJ"]
-  },
-  {
-    "DOMAIN": ["NOUN"]
-  },
-  {
-    "DREAM": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TIN": ["NOUN", "ADJ"]
-  },
-  {
-    "COPPER": ["NOUN", "ADJ"]
-  },
-  {
-    "BRONZE": ["NOUN", "ADJ"]
-  },
-  {
-    "GRANITE": ["NOUN", "ADJ"]
-  },
-  {
-    "FANCY": ["NOUN", "ADJ"]
-  },
-  {
-    "FARM": ["NOUN", "VERB"]
-  },
-  {
-    "FIELD": ["NOUN"]
-  },
-  {
-    "FROTH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GENIUS": ["NOUN"]
-  },
-  {
-    "GLACIER": ["NOUN", "ADJ"]
-  },
-  {
-    "GURGLE": ["VERB"]
-  },
-  {
-    "IMPALE": ["VERB"]
-  },
-  {
-    "JOIN": ["VERB"]
-  },
-  {
-    "JADE": ["NOUN", "ADJ"]
-  },
-  {
-    "IVORY": ["NOUN", "ADJ"]
-  },
-  {
-    "LAND": ["NOUN"]
-  },
-  {
-    "LATHER": ["VERB"]
-  },
-  {
-    "LIMP": ["ADJ"]
-  },
-  {
-    "LUCID": ["NOUN", "ADJ"]
-  },
-  {
-    "MOUNTAIN": ["NOUN", "ADJ"]
-  },
-  {
-    "MUCUS": ["NOUN", "ADJ"]
-  },
-  {
-    "PATTERN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PEBBLE": ["NOUN"]
-  },
-  {
-    "BOULDER": ["NOUN"]
-  },
-  {
-    "PETAL": ["NOUN"]
-  },
-  {
-    "DROPLET": ["NOUN"]
-  },
-  {
-    "PINNACLE": ["NOUN"]
-  },
-  {
-    "PLAIN": ["NOUN"]
-  },
-  {
-    "PLAINADJ": ["ADJ"]
-  },
-  {
-    "POINT": ["NOUN", "ADJ"]
-  },
-  {
-    "POT": ["NOUN"]
-  },
-  {
-    "PRAIRIE": ["NOUN"]
-  },
-  {
-    "RUSH": ["VERB"]
-  },
-  {
-    "SLAP": ["VERB"]
-  },
-  {
-    "SLEEVE": ["NOUN"]
-  },
-  {
-    "SPECK": ["NOUN", "ADJ"]
-  },
-  {
-    "STEPPE": ["NOUN"]
-  },
-  {
-    "TENTACLE": ["NOUN"]
-  },
-  {
-    "TEST": ["NOUN", "VERB"]
-  },
-  {
-    "TROT": ["VERB"]
-  },
-  {
-    "TUB": ["NOUN"]
-  },
-  {
-    "TUBE": ["NOUN"]
-  },
-  {
-    "TUNDRA": ["NOUN"]
-  },
-  {
-    "UN": ["PREFIX"]
-  },
-  {
-    "WADDLE": ["VERB"]
-  },
-  {
-    "WEALTH": ["NOUN", "ADJ"]
-  },
-  {
-    "WEEVIL": ["NOUN"]
-  },
-  {
-    "WHIM": ["NOUN", "ADJ"]
-  },
-  {
-    "WHIRL": ["VERB", "ADJ"]
-  },
-  {
-    "WORLD": ["NOUN"]
-  },
-  {
-    "DESERTVERB": ["VERB"]
-  },
-  {
-    "FANCYVERB": ["VERB"]
-  },
-  {
-    "LIMPVERB": ["VERB"]
-  },
-  {
-    "POINTVERB": ["VERB"]
-  },
-  {
-    "PANTOMIME": ["NOUN", "VERB"]
-  },
-  {
-    "SLUDGE": ["NOUN"]
-  },
-  {
-    "GOO": ["NOUN"]
-  },
-  {
-    "REALM": ["NOUN"]
-  },
-  {
-    "PLANE": ["NOUN"]
-  },
-  {
-    "DIMENSION": ["NOUN"]
-  },
-  {
-    "UNIVERSE": ["NOUN"]
-  },
-  {
-    "PLANET": ["NOUN"]
-  },
-  {
-    "LIVID": ["ADJ"]
-  },
-  {
-    "TEPID": ["ADJ"]
-  },
-  {
-    "HONEST": ["NOUN", "ADJ"]
-  },
-  {
-    "KINGDOM": ["NOUN"]
-  },
-  {
-    "EMPIRE": ["NOUN", "ADJ"]
-  },
-  {
-    "CONFEDERATION": ["NOUN"]
-  },
-  {
-    "SIMPLE": ["NOUN", "ADJ"]
-  },
-  {
-    "TROOPER": ["NOUN"]
-  },
-  {
-    "CRIMSON": ["ADJ"]
-  },
-  {
-    "DUNE": ["NOUN"]
-  },
-  {
-    "DIRECT": ["NOUN", "VERB"]
-  },
-  {
-    "CLASH": ["NOUN", "VERB"]
-  },
-  {
-    "FOREVER": ["NOUN"]
-  },
-  {
-    "SUBTLE": ["NOUN", "ADJ"]
-  },
-  {
-    "PUPPET": ["NOUN"]
-  },
-  {
-    "HEGEMON": ["NOUN"]
-  },
-  {
-    "AMAZE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ALCHEMY": ["NOUN", "ADJ"]
-  },
-  {
-    "INSIGHT": ["NOUN", "ADJ"]
-  },
-  {
-    "UNION": ["NOUN", "VERB"]
-  },
-  {
-    "CONFEDERACY": ["NOUN", "VERB"]
-  },
-  {
-    "SPEAK": ["NOUN", "VERB"]
-  },
-  {
-    "SPEAKER": ["NOUN"]
-  },
-  {
-    "PERSUADE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PERSUADER": ["NOUN"]
-  },
-  {
-    "CONTROL": ["NOUN", "VERB"]
-  },
-  {
-    "CONTROLLER": ["NOUN"]
-  },
-  {
-    "WORKER": ["NOUN"]
-  },
-  {
-    "BASIC": ["NOUN", "ADJ"]
-  },
-  {
-    "SYSTEM": ["NOUN", "ADJ"]
-  },
-  {
-    "RAY": ["NOUN"]
-  },
-  {
-    "TARGET": ["NOUN", "VERB"]
-  },
-  {
-    "BANK": ["NOUN"]
-  },
-  {
-    "CLEAN": ["VERB", "ADJ"]
-  },
-  {
-    "DRIVE": ["VERB"]
-  },
-  {
-    "SOAR": ["VERB"]
-  },
-  {
-    "GLORY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DISMAL": ["ADJ"]
-  },
-  {
-    "RADIANCE": ["NOUN", "ADJ"]
-  },
-  {
-    "PINE": ["NOUN"]
-  },
-  {
-    "MESSIAH": ["NOUN", "ADJ"]
-  },
-  {
-    "CRAFT": ["NOUN", "VERB"]
-  },
-  {
-    "LABOR": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DISCOVER": ["NOUN", "VERB"]
-  },
-  {
-    "PROLIFERATE": ["NOUN", "VERB"]
-  },
-  {
-    "CHUNK": ["NOUN", "ADJ"]
-  },
-  {
-    "SLIP": ["VERB", "ADJ"]
-  },
-  {
-    "SLIDE": ["VERB"]
-  },
-  {
-    "SINGLE": ["ADJ"]
-  },
-  {
-    "PICK": ["NOUN"]
-  },
-  {
-    "TONGS": ["NOUN"]
-  },
-  {
-    "PERMANENCY": ["NOUN", "ADJ"]
-  },
-  {
-    "RESPONSIBLE": ["NOUN", "ADJ"]
-  },
-  {
-    "REQUIRE": ["NOUN", "VERB"]
-  },
-  {
-    "ROOTVERB": ["NOUN", "VERB"]
-  },
-  {
-    "BLIZZARD": ["NOUN"]
-  },
-  {
-    "GENERAL": ["NOUN"]
-  },
-  {
-    "MEMORY": ["NOUN"]
-  },
-  {
-    "CONSTRUCT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LAMB": ["NOUN"]
-  },
-  {
-    "TOAST": ["NOUN"]
-  },
-  {
-    "GROSS": ["ADJ"]
-  },
-  {
-    "PADDLE": ["NOUN", "VERB"]
-  },
-  {
-    "COUNCIL": ["NOUN"]
-  },
-  {
-    "COUNSEL": ["NOUN", "VERB"]
-  },
-  {
-    "GNARLED": ["ADJ"]
-  },
-  {
-    "STUMP": ["NOUN"]
-  },
-  {
-    "NAUGHTY": ["NOUN", "ADJ"]
-  },
-  {
-    "PLAY FUN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PLAY PERFORM": ["NOUN", "VERB"]
-  },
-  {
-    "FLIMSY": ["NOUN", "ADJ"]
-  },
-  {
-    "GREATER": ["ADJ"]
-  },
-  {
-    "GREATEST": ["ADJ"]
-  },
-  {
-    "LESSER": ["ADJ"]
-  },
-  {
-    "LEAST": ["ADJ"]
-  },
-  {
-    "BEARD": ["NOUN", "ADJ"]
-  },
-  {
-    "DREAD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WALL": ["NOUN", "ADJ"]
-  },
-  {
-    "WALLOW": ["VERB"]
-  },
-  {
-    "TAX": ["NOUN", "VERB"]
-  },
-  {
-    "FRAGRANCE": ["NOUN", "ADJ"]
-  },
-  {
-    "LANTERN": ["NOUN"]
-  },
-  {
-    "TORCH": ["NOUN"]
-  },
-  {
-    "WATER": ["NOUN"]
-  },
-  {
-    "WINE": ["NOUN"]
-  },
-  {
-    "LINE": ["NOUN", "ADJ"]
-  },
-  {
-    "MINE": ["NOUN", "VERB"]
-  },
-  {
-    "WAX": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SHOVE": ["NOUN", "VERB"]
-  },
-  {
-    "SHOVEL": ["NOUN", "VERB"]
-  },
-  {
-    "MELT": ["VERB"]
-  },
-  {
-    "WRACK": ["NOUN", "VERB"]
-  },
-  {
-    "GLITTER": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SPARK": ["NOUN"]
-  },
-  {
-    "SPARKLE": ["NOUN", "VERB"]
-  },
-  {
-    "FLASH": ["NOUN", "VERB"]
-  },
-  {
-    "GLEAM": ["NOUN", "VERB"]
-  },
-  {
-    "RUN": ["VERB"]
-  },
-  {
-    "DASH": ["VERB"]
-  },
-  {
-    "SAVANT": ["NOUN"]
-  },
-  {
-    "ROAR": ["NOUN", "VERB"]
-  },
-  {
-    "YELL": ["NOUN", "VERB"]
-  },
-  {
-    "ECHO": ["NOUN", "VERB"]
-  },
-  {
-    "HOLLOW": ["NOUN", "ADJ"]
-  },
-  {
-    "FULL": ["VERB", "ADJ"]
-  },
-  {
-    "EMPTY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WORD": ["NOUN", "ADJ"]
-  },
-  {
-    "INTENSE": ["NOUN", "ADJ"]
-  },
-  {
-    "SAD": ["NOUN", "ADJ"]
-  },
-  {
-    "GLAD": ["NOUN", "ADJ"]
-  },
-  {
-    "TRAGEDY": ["NOUN", "ADJ"]
-  },
-  {
-    "BELL": ["NOUN"]
-  },
-  {
-    "BELLY": ["NOUN"]
-  },
-  {
-    "TUMMY": ["NOUN"]
-  },
-  {
-    "SHOCK": ["NOUN", "VERB"]
-  },
-  {
-    "PONDER": ["VERB"]
-  },
-  {
-    "PONDEROUS": ["ADJ"]
-  },
-  {
-    "HEAVEN": ["NOUN", "ADJ"]
-  },
-  {
-    "ROUND": ["ADJ"]
-  },
-  {
-    "ROUNDED": ["ADJ"]
-  },
-  {
-    "UNSPEAKABLE": ["ADJ"]
-  },
-  {
-    "UNTHINKABLE": ["ADJ"]
-  },
-  {
-    "UNNAMEABLE": ["ADJ"]
-  },
-  {
-    "CALAMITY": ["NOUN", "ADJ"]
-  },
-  {
-    "CYCLOPEAN": ["ADJ"]
-  },
-  {
-    "TAME": ["VERB", "ADJ"]
-  },
-  {
-    "UNTAMED": ["ADJ"]
-  },
-  {
-    "BURST": ["VERB"]
-  },
-  {
-    "METEOR": ["NOUN"]
-  },
-  {
-    "TRITE": ["ADJ"]
-  },
-  {
-    "TRIFLE": ["NOUN", "ADJ"]
-  },
-  {
-    "RANK": ["ADJ"]
-  },
-  {
-    "RANCOR": ["NOUN", "ADJ"]
-  },
-  {
-    "BITTER": ["NOUN", "ADJ"]
-  },
-  {
-    "SOUR": ["NOUN", "ADJ"]
-  },
-  {
-    "DANGER": ["NOUN", "ADJ"]
-  },
-  {
-    "IMPERVIOUS": ["ADJ"]
-  },
-  {
-    "UNSWERVING": ["ADJ"]
-  },
-  {
-    "SWAY": ["VERB"]
-  },
-  {
-    "LUXURY": ["NOUN", "ADJ"]
-  },
-  {
-    "EUPHORIA": ["NOUN", "ADJ"]
-  },
-  {
-    "SCINTILLATE": ["VERB", "ADJ"]
-  },
-  {
-    "DIVINE": ["ADJ"]
-  },
-  {
-    "DIVIDE": ["VERB"]
-  },
-  {
-    "TAINT": ["VERB", "ADJ"]
-  },
-  {
-    "CORRUPT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MALIGN SLANDER V": ["VERB", "ADJ"]
-  },
-  {
-    "MALIGN ADJ": ["ADJ"]
-  },
-  {
-    "MALIGNANT": ["ADJ"]
-  },
-  {
-    "TRUST": ["NOUN", "VERB"]
-  },
-  {
-    "DISTRUST": ["NOUN", "VERB"]
-  },
-  {
-    "TRUSTWORTHY": ["ADJ"]
-  },
-  {
-    "UNTRUSTWORTHY": ["ADJ"]
-  },
-  {
-    "DISHONEST": ["ADJ"]
-  },
-  {
-    "BLIGHT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CUNNING": ["ADJ"]
-  },
-  {
-    "SLY": ["ADJ"]
-  },
-  {
-    "RUSTIC": ["ADJ"]
-  },
-  {
-    "HOMELY": ["ADJ"]
-  },
-  {
-    "LONELY": ["ADJ"]
-  },
-  {
-    "LONESOME": ["ADJ"]
-  },
-  {
-    "CLOSE": ["VERB", "ADJ"]
-  },
-  {
-    "FORD": ["NOUN", "VERB"]
-  },
-  {
-    "WAY": ["NOUN"]
-  },
-  {
-    "WAYWARD": ["ADJ"]
-  },
-  {
-    "BANDIT": ["NOUN"]
-  },
-  {
-    "BRIGAND": ["NOUN"]
-  },
-  {
-    "MONSTER": ["NOUN", "ADJ"]
-  },
-  {
-    "SENSE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "INSENSITIVE": ["ADJ"]
-  },
-  {
-    "SENSUAL": ["ADJ"]
-  },
-  {
-    "ODOR": ["NOUN", "ADJ"]
-  },
-  {
-    "MALODOROUS": ["NOUN", "ADJ"]
-  },
-  {
-    "IGNORANT": ["NOUN", "ADJ"]
-  },
-  {
-    "IGNOBLE": ["ADJ"]
-  },
-  {
-    "HUMBLE": ["NOUN", "ADJ"]
-  },
-  {
-    "MORAL": ["NOUN", "ADJ"]
-  },
-  {
-    "IMMORAL": ["ADJ"]
-  },
-  {
-    "SUPERIOR": ["ADJ"]
-  },
-  {
-    "INFERIOR": ["ADJ"]
-  },
-  {
-    "INFINITE": ["ADJ"]
-  },
-  {
-    "SABLE COLOR": ["ADJ"]
-  },
-  {
-    "FELL CRUEL": ["ADJ"]
-  },
-  {
-    "FELL HIDE": ["NOUN"]
-  },
-  {
-    "PELT HIDE": ["NOUN"]
-  },
-  {
-    "DIGNITY": ["NOUN", "ADJ"]
-  },
-  {
-    "UNDIGNIFIED": ["ADJ"]
-  },
-  {
-    "INDIGNATION": ["NOUN"]
-  },
-  {
-    "RIGHT BETTER": ["NOUN", "ADJ"]
-  },
-  {
-    "ABSOLUTE": ["ADJ"]
-  },
-  {
-    "FAIR EVEN": ["ADJ"]
-  },
-  {
-    "FAIR COLOR": ["ADJ"]
-  },
-  {
-    "SNARL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LOYAL": ["NOUN", "ADJ"]
-  },
-  {
-    "DISLOYAL": ["NOUN", "ADJ"]
-  },
-  {
-    "HELP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FRIEND": ["NOUN", "ADJ"]
-  },
-  {
-    "COURTESY": ["NOUN", "ADJ"]
-  },
-  {
-    "CHEERFUL": ["ADJ"]
-  },
-  {
-    "THRIFT": ["NOUN", "ADJ"]
-  },
-  {
-    "BRAVERY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "REVERE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "VENERATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SALUTE": ["NOUN", "VERB"]
-  },
-  {
-    "NATION": ["NOUN", "ADJ"]
-  },
-  {
-    "DRINK": ["NOUN", "VERB"]
-  },
-  {
-    "CONSIDERATE": ["NOUN", "ADJ"]
-  },
-  {
-    "CONVENIENT": ["NOUN", "ADJ"]
-  },
-  {
-    "INCONSIDERATE": ["ADJ"]
-  },
-  {
-    "INCONVENIENT": ["NOUN", "ADJ"]
-  },
-  {
-    "CONTINENT": ["NOUN"]
-  },
-  {
-    "FLIGHT": ["NOUN"]
-  },
-  {
-    "FLIGHTY": ["ADJ"]
-  },
-  {
-    "GILD": ["VERB", "ADJ"]
-  },
-  {
-    "GUILD": ["NOUN"]
-  },
-  {
-    "MERCHANT": ["NOUN"]
-  },
-  {
-    "TRADE": ["NOUN", "VERB"]
-  },
-  {
-    "PLAIT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BRAID": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PLEAT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FOLD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BUNION": ["NOUN"]
-  },
-  {
-    "UNCOMMON": ["ADJ"]
-  },
-  {
-    "RARE": ["ADJ"]
-  },
-  {
-    "SCARCE": ["ADJ"]
-  },
-  {
-    "REMARKABLE": ["ADJ"]
-  },
-  {
-    "UNREMARKABLE": ["ADJ"]
-  },
-  {
-    "SOLITARY": ["ADJ"]
-  },
-  {
-    "BEND": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BLAME": ["NOUN", "VERB"]
-  },
-  {
-    "BLAMELESS": ["ADJ"]
-  },
-  {
-    "TWIG": ["NOUN"]
-  },
-  {
-    "GIRDER": ["NOUN"]
-  },
-  {
-    "TRUSS": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SKEWER": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SCULPT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TRESS": ["NOUN", "ADJ"]
-  },
-  {
-    "LOCK HAIR": ["NOUN"]
-  },
-  {
-    "CURL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TUFT": ["NOUN", "ADJ"]
-  },
-  {
-    "MEAN NASTY": ["NOUN", "ADJ"]
-  },
-  {
-    "MEAN LOW": ["NOUN", "ADJ"]
-  },
-  {
-    "SHAME": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ASHAMED": ["ADJ"]
-  },
-  {
-    "STEAM": ["NOUN", "ADJ"]
-  },
-  {
-    "FERN": ["NOUN"]
-  },
-  {
-    "FERRY": ["NOUN", "VERB"]
-  },
-  {
-    "GULLY": ["NOUN"]
-  },
-  {
-    "WORRY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LION": ["NOUN"]
-  },
-  {
-    "CACTUS": ["NOUN"]
-  },
-  {
-    "DESK": ["NOUN"]
-  },
-  {
-    "BOTTLE": ["NOUN", "VERB"]
-  },
-  {
-    "SHINGLE": ["NOUN"]
-  },
-  {
-    "BLANKET": ["NOUN", "ADJ"]
-  },
-  {
-    "CLOUD": ["NOUN", "ADJ"]
-  },
-  {
-    "PLATE": ["NOUN", "ADJ"]
-  },
-  {
-    "ROAD": ["NOUN"]
-  },
-  {
-    "HOUSE": ["NOUN"]
-  },
-  {
-    "BEAN": ["NOUN"]
-  },
-  {
-    "BLOCK DEFEND": ["VERB"]
-  },
-  {
-    "BLOCK SQUARE": ["NOUN"]
-  },
-  {
-    "FOUNTAIN": ["NOUN"]
-  },
-  {
-    "PEARL": ["NOUN"]
-  },
-  {
-    "PEAR": ["NOUN"]
-  },
-  {
-    "THIMBLE": ["NOUN"]
-  },
-  {
-    "BUNNY": ["NOUN"]
-  },
-  {
-    "ROPE": ["NOUN"]
-  },
-  {
-    "STRING": ["NOUN"]
-  },
-  {
-    "WIRE": ["NOUN"]
-  },
-  {
-    "LASH": ["NOUN", "VERB"]
-  },
-  {
-    "SORCERY": ["NOUN", "ADJ"]
-  },
-  {
-    "SORCERER": ["NOUN"]
-  },
-  {
-    "ENSORCEL": ["VERB"]
-  },
-  {
-    "BEWITCH": ["VERB", "ADJ"]
-  },
-  {
-    "MAGICIAN": ["NOUN"]
-  },
-  {
-    "CONJURE": ["VERB"]
-  },
-  {
-    "CONJURER": ["NOUN"]
-  },
-  {
-    "ENCHANT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ENCHANTER": ["NOUN"]
-  },
-  {
-    "LANCE": ["NOUN", "VERB"]
-  },
-  {
-    "LANCER": ["NOUN"]
-  },
-  {
-    "STINK": ["VERB", "ADJ"]
-  },
-  {
-    "FRECKLE": ["NOUN"]
-  },
-  {
-    "PIMPLE": ["NOUN"]
-  },
-  {
-    "WART": ["NOUN"]
-  },
-  {
-    "BLOTCH": ["NOUN"]
-  },
-  {
-    "CALLUS": ["NOUN"]
-  },
-  {
-    "WIND STORM": ["NOUN", "ADJ"]
-  },
-  {
-    "WIND CLOCK": ["VERB"]
-  },
-  {
-    "HAZE": ["NOUN", "ADJ"]
-  },
-  {
-    "SKIN": ["NOUN"]
-  },
-  {
-    "SHIN": ["NOUN"]
-  },
-  {
-    "TORTURE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TOOL": ["NOUN"]
-  },
-  {
-    "SCHOLAR": ["NOUN", "ADJ"]
-  },
-  {
-    "WEEP": ["VERB"]
-  },
-  {
-    "MASSIVE": ["ADJ"]
-  },
-  {
-    "LARGE": ["ADJ"]
-  },
-  {
-    "SMALL": ["ADJ"]
-  },
-  {
-    "LOAF": ["NOUN"]
-  },
-  {
-    "TILE": ["NOUN", "ADJ"]
-  },
-  {
-    "SPORT": ["NOUN"]
-  },
-  {
-    "SEARCH": ["NOUN", "VERB"]
-  },
-  {
-    "STALE": ["ADJ"]
-  },
-  {
-    "FRESH": ["ADJ"]
-  },
-  {
-    "RUB": ["VERB"]
-  },
-  {
-    "WORTHY": ["NOUN", "ADJ"]
-  },
-  {
-    "WORTHLESS": ["ADJ"]
-  },
-  {
-    "FRIGHT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "REVOLTING": ["VERB", "ADJ"]
-  },
-  {
-    "DISGUST": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "OUTRAGE": ["NOUN", "ADJ"]
-  },
-  {
-    "CRUEL": ["NOUN", "ADJ"]
-  },
-  {
-    "DEVIANT": ["NOUN", "ADJ"]
-  },
-  {
-    "DEVIOUS": ["ADJ"]
-  },
-  {
-    "FABULOUS": ["ADJ"]
-  },
-  {
-    "MORALITY": ["NOUN"]
-  },
-  {
-    "IMMORALITY": ["NOUN"]
-  },
-  {
-    "SKIN VERB": ["VERB"]
-  },
-  {
-    "SKINNY": ["ADJ"]
-  },
-  {
-    "NARROW": ["ADJ"]
-  },
-  {
-    "GRIEF": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BELT": ["NOUN", "ADJ"]
-  },
-  {
-    "SANDAL": ["NOUN", "ADJ"]
-  },
-  {
-    "FUTURE": ["NOUN", "ADJ"]
-  },
-  {
-    "PAST": ["NOUN", "ADJ"]
-  },
-  {
-    "PRESENT": ["NOUN", "ADJ"]
-  },
-  {
-    "BITE": ["NOUN", "VERB"]
-  },
-  {
-    "SPLIT": ["VERB", "ADJ"]
-  },
-  {
-    "BRASH": ["ADJ"]
-  },
-  {
-    "BRAZEN": ["ADJ"]
-  },
-  {
-    "STRANGLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GALLOWS": ["NOUN"]
-  },
-  {
-    "MUSCLE": ["NOUN", "ADJ"]
-  },
-  {
-    "DIM": ["VERB", "ADJ"]
-  },
-  {
-    "SPURT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GRAVEL": ["NOUN"]
-  },
-  {
-    "RISK": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CHANCE": ["NOUN", "VERB"]
-  },
-  {
-    "CHANNEL": ["NOUN", "VERB"]
-  },
-  {
-    "MIRTH": ["NOUN", "ADJ"]
-  },
-  {
-    "GLEE": ["NOUN", "ADJ"]
-  },
-  {
-    "VICTIM": ["NOUN"]
-  },
-  {
-    "STRANGER": ["NOUN"]
-  },
-  {
-    "DRAB": ["ADJ"]
-  },
-  {
-    "VISION": ["NOUN"]
-  },
-  {
-    "VISIONARY": ["NOUN"]
-  },
-  {
-    "ORACLE": ["NOUN", "ADJ"]
-  },
-  {
-    "UTTER": ["NOUN", "VERB"]
-  },
-  {
-    "DECIDE": ["NOUN", "VERB"]
-  },
-  {
-    "DECISIVE": ["ADJ"]
-  },
-  {
-    "SPECIAL": ["ADJ"]
-  },
-  {
-    "AUTHOR": ["NOUN", "VERB"]
-  },
-  {
-    "AUTHORITY": ["NOUN"]
-  },
-  {
-    "PORTENT": ["NOUN", "ADJ"]
-  },
-  {
-    "MOMENTOUS": ["ADJ"]
-  },
-  {
-    "INFALLIBLE": ["ADJ"]
-  },
-  {
-    "AMBIGUOUS": ["NOUN", "ADJ"]
-  },
-  {
-    "CURIOUS": ["NOUN", "ADJ"]
-  },
-  {
-    "OBSCURE": ["NOUN", "ADJ"]
-  },
-  {
-    "OBSCENE": ["NOUN", "ADJ"]
-  },
-  {
-    "OBSTACLE": ["NOUN"]
-  },
-  {
-    "VULGAR": ["NOUN", "ADJ"]
-  },
-  {
-    "OMINOUS": ["ADJ"]
-  },
-  {
-    "ISLAND": ["NOUN"]
-  },
-  {
-    "CHURCH": ["NOUN"]
-  },
-  {
-    "TEMPLE": ["NOUN"]
-  },
-  {
-    "CULT": ["NOUN"]
-  },
-  {
-    "COVEN": ["NOUN"]
-  },
-  {
-    "SECT": ["NOUN"]
-  },
-  {
-    "ORDER GROUP": ["NOUN"]
-  },
-  {
-    "CREED": ["NOUN"]
-  },
-  {
-    "COMMUNION": ["NOUN"]
-  },
-  {
-    "DOCTRINE": ["NOUN"]
-  },
-  {
-    "FAITH": ["NOUN"]
-  },
-  {
-    "DENOMINATION": ["NOUN"]
-  },
-  {
-    "TEMPLE HEAD": ["NOUN"]
-  },
-  {
-    "OCCULT": ["ADJ"]
-  },
-  {
-    "ORDER CONCEPT": ["NOUN", "ADJ"]
-  },
-  {
-    "FAITH LOYALTY": ["NOUN", "ADJ"]
-  },
-  {
-    "GUILT": ["NOUN", "ADJ"]
-  },
-  {
-    "BABY": ["NOUN"]
-  },
-  {
-    "BLEED": ["VERB"]
-  },
-  {
-    "GIRL": ["NOUN", "ADJ"]
-  },
-  {
-    "BOY": ["NOUN", "ADJ"]
-  },
-  {
-    "WOMAN": ["NOUN"]
-  },
-  {
-    "FLAG": ["NOUN"]
-  },
-  {
-    "BANNER": ["NOUN"]
-  },
-  {
-    "WREATH": ["NOUN"]
-  },
-  {
-    "STANDARD FLAG": ["NOUN"]
-  },
-  {
-    "TRUMPET": ["NOUN"]
-  },
-  {
-    "GOAL": ["NOUN"]
-  },
-  {
-    "JAIL": ["NOUN"]
-  },
-  {
-    "PRISON": ["NOUN"]
-  },
-  {
-    "LIBRARY": ["NOUN"]
-  },
-  {
-    "AVALANCHE": ["NOUN"]
-  },
-  {
-    "STIGMA": ["NOUN"]
-  },
-  {
-    "SLICK": ["ADJ"]
-  },
-  {
-    "TALK": ["VERB"]
-  },
-  {
-    "JAILER": ["NOUN"]
-  },
-  {
-    "STILL UNMOVING": ["VERB", "ADJ"]
-  },
-  {
-    "CALM": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "HUSH": ["VERB"]
-  },
-  {
-    "LACONIC": ["ADJ"]
-  },
-  {
-    "LULL": ["NOUN", "VERB"]
-  },
-  {
-    "MUTE": ["VERB", "ADJ"]
-  },
-  {
-    "NOISELESS": ["NOUN", "ADJ"]
-  },
-  {
-    "QUIESCENT": ["NOUN", "ADJ"]
-  },
-  {
-    "QUIET": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RETICENT": ["NOUN", "ADJ"]
-  },
-  {
-    "SATURNINE": ["NOUN", "ADJ"]
-  },
-  {
-    "SPEECHLESS": ["NOUN", "ADJ"]
-  },
-  {
-    "TACITURN": ["ADJ"]
-  },
-  {
-    "FORTUNE LUCK": ["NOUN", "ADJ"]
-  },
-  {
-    "FORTUNE WEALTH": ["NOUN"]
-  },
-  {
-    "ACCIDENT": ["NOUN", "ADJ"]
-  },
-  {
-    "CIRCUMSTANCE": ["NOUN", "ADJ"]
-  },
-  {
-    "CONTINGENT": ["NOUN"]
-  },
-  {
-    "CONTINGENCY": ["NOUN", "ADJ"]
-  },
-  {
-    "COINCIDENCE": ["NOUN", "ADJ"]
-  },
-  {
-    "FLUKE": ["NOUN"]
-  },
-  {
-    "LUCK": ["NOUN", "ADJ"]
-  },
-  {
-    "CERTAIN": ["NOUN", "ADJ"]
-  },
-  {
-    "UNCERTAIN": ["NOUN", "ADJ"]
-  },
-  {
-    "FORTUITOUS": ["ADJ"]
-  },
-  {
-    "INCIDENTAL": ["NOUN", "ADJ"]
-  },
-  {
-    "AMUSE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PASTIME": ["NOUN"]
-  },
-  {
-    "DISTRACT ANNOY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DISTRACTION GAME": ["NOUN"]
-  },
-  {
-    "DIVERSION GAME": ["NOUN"]
-  },
-  {
-    "DIVERT DETOUR": ["NOUN", "VERB"]
-  },
-  {
-    "RECREATION GAME": ["NOUN"]
-  },
-  {
-    "COMPETE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CONTEST": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MATCH CONTEST": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MATCH EQUAL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TOURNAMENT": ["NOUN"]
-  },
-  {
-    "PLAN": ["NOUN", "VERB"]
-  },
-  {
-    "SCENARIO": ["NOUN"]
-  },
-  {
-    "STRATEGY": ["NOUN", "ADJ"]
-  },
-  {
-    "TACTIC": ["NOUN", "ADJ"]
-  },
-  {
-    "AUTONOMY": ["NOUN", "ADJ"]
-  },
-  {
-    "EMANCIPATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EXTRICATE": ["NOUN", "VERB"]
-  },
-  {
-    "IMPUNITY": ["NOUN"]
-  },
-  {
-    "LIBERATE": ["NOUN", "VERB"]
-  },
-  {
-    "LIBERTY": ["NOUN"]
-  },
-  {
-    "RELEASE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RELIEVE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EVEN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BALANCE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EQUITY": ["NOUN"]
-  },
-  {
-    "EQUIVALENCE": ["NOUN", "ADJ"]
-  },
-  {
-    "PARITY": ["NOUN"]
-  },
-  {
-    "STASIS": ["NOUN", "ADJ"]
-  },
-  {
-    "SYMMETRY": ["NOUN", "ADJ"]
-  },
-  {
-    "EQUAL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "HARMONY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "NEUTRALIZE": ["NOUN", "VERB"]
-  },
-  {
-    "NEUTRAL": ["NOUN", "ADJ"]
-  },
-  {
-    "STABLE UNCHANGING": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LULL MISLEAD": ["VERB"]
-  },
-  {
-    "DOUR": ["NOUN", "ADJ"]
-  },
-  {
-    "GLOOM": ["NOUN", "ADJ"]
-  },
-  {
-    "SEVERE": ["NOUN", "ADJ"]
-  },
-  {
-    "GLUM": ["NOUN", "ADJ"]
-  },
-  {
-    "IMAGE": ["NOUN"]
-  },
-  {
-    "SHRINE": ["NOUN"]
-  },
-  {
-    "SANCTUARY": ["NOUN"]
-  },
-  {
-    "MONASTERY": ["NOUN"]
-  },
-  {
-    "CONVENT": ["NOUN"]
-  },
-  {
-    "CATHEDRAL": ["NOUN"]
-  },
-  {
-    "CHAPEL": ["NOUN"]
-  },
-  {
-    "SANCTUM": ["NOUN"]
-  },
-  {
-    "INFERNO": ["NOUN"]
-  },
-  {
-    "CONFLAGRATION": ["NOUN"]
-  },
-  {
-    "FLARE": ["NOUN"]
-  },
-  {
-    "HEAT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SAND": ["NOUN"]
-  },
-  {
-    "PILLAR": ["NOUN"]
-  },
-  {
-    "COLUMN": ["NOUN"]
-  },
-  {
-    "ARCH NOUN": ["NOUN"]
-  },
-  {
-    "GROTTO": ["NOUN"]
-  },
-  {
-    "CAVERN": ["NOUN", "ADJ"]
-  },
-  {
-    "DEPTH": ["NOUN"]
-  },
-  {
-    "SHADE": ["NOUN", "ADJ"]
-  },
-  {
-    "VEIL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RELIC": ["NOUN"]
-  },
-  {
-    "UMBRA": ["NOUN", "ADJ"]
-  },
-  {
-    "PHANTOM": ["NOUN"]
-  },
-  {
-    "MURK": ["NOUN", "ADJ"]
-  },
-  {
-    "FAINT INTENSITY": ["ADJ"]
-  },
-  {
-    "FAINT VERB": ["VERB"]
-  },
-  {
-    "SOMBER": ["ADJ"]
-  },
-  {
-    "TENEBROUS": ["ADJ"]
-  },
-  {
-    "MOROSE": ["ADJ"]
-  },
-  {
-    "LOVER": ["NOUN"]
-  },
-  {
-    "BELOVED": ["ADJ"]
-  },
-  {
-    "ESCORT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SUITOR": ["NOUN"]
-  },
-  {
-    "PUNGENT": ["NOUN", "ADJ"]
-  },
-  {
-    "MUSTY": ["ADJ"]
-  },
-  {
-    "INFECT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LESION": ["NOUN"]
-  },
-  {
-    "AFFLICT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ACHE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EPIDEMIC": ["NOUN", "ADJ"]
-  },
-  {
-    "FIGHT": ["NOUN", "VERB"]
-  },
-  {
-    "SCUFFLE": ["NOUN", "VERB"]
-  },
-  {
-    "YAWN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ACTION": ["NOUN"]
-  },
-  {
-    "ASSAULT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CARNAL": ["NOUN", "ADJ"]
-  },
-  {
-    "STRIFE": ["NOUN", "ADJ"]
-  },
-  {
-    "COMBAT": ["NOUN", "VERB"]
-  },
-  {
-    "CITADEL": ["NOUN"]
-  },
-  {
-    "CITY": ["NOUN"]
-  },
-  {
-    "TOWN": ["NOUN"]
-  },
-  {
-    "VILLAGE": ["NOUN"]
-  },
-  {
-    "MANOR": ["NOUN"]
-  },
-  {
-    "MANSION": ["NOUN"]
-  },
-  {
-    "PALACE": ["NOUN"]
-  },
-  {
-    "COTTAGE": ["NOUN"]
-  },
-  {
-    "SHACK": ["NOUN"]
-  },
-  {
-    "HUT": ["NOUN"]
-  },
-  {
-    "HOVEL": ["NOUN"]
-  },
-  {
-    "BASTION": ["NOUN"]
-  },
-  {
-    "FURNACE": ["NOUN"]
-  },
-  {
-    "ANVIL": ["NOUN"]
-  },
-  {
-    "BRIDGE": ["NOUN", "VERB"]
-  },
-  {
-    "SAFE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GOAD": ["NOUN", "VERB"]
-  },
-  {
-    "MACHINE": ["NOUN"]
-  },
-  {
-    "FLAY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "OIL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SUICIDE": ["NOUN", "ADJ"]
-  },
-  {
-    "MARBLE BALL": ["NOUN"]
-  },
-  {
-    "BAIT": ["NOUN", "VERB"]
-  },
-  {
-    "LURE": ["NOUN", "VERB"]
-  },
-  {
-    "REWARD": ["NOUN", "VERB"]
-  },
-  {
-    "WARD": ["NOUN", "VERB"]
-  },
-  {
-    "PRICE": ["NOUN", "VERB"]
-  },
-  {
-    "PRINCE": ["NOUN"]
-  },
-  {
-    "PRINCESS": ["NOUN"]
-  },
-  {
-    "TEMPT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SPURN": ["NOUN", "VERB"]
-  },
-  {
-    "SCORN": ["NOUN", "VERB"]
-  },
-  {
-    "CONTEMPT": ["NOUN", "ADJ"]
-  },
-  {
-    "AFFECTION": ["NOUN"]
-  },
-  {
-    "COMPASSION": ["NOUN"]
-  },
-  {
-    "SACRIFICE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CHARITY": ["NOUN"]
-  },
-  {
-    "CHERISH": ["VERB"]
-  },
-  {
-    "TRAMPLE": ["VERB", "ADJ"]
-  },
-  {
-    "MALICE": ["NOUN", "ADJ"]
-  },
-  {
-    "HATRED": ["NOUN"]
-  },
-  {
-    "SPITE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SHORE": ["NOUN"]
-  },
-  {
-    "BEACH": ["NOUN", "VERB"]
-  },
-  {
-    "COAST": ["NOUN", "ADJ"]
-  },
-  {
-    "INSECT": ["NOUN"]
-  },
-  {
-    "BUG": ["NOUN"]
-  },
-  {
-    "CRITTER": ["NOUN"]
-  },
-  {
-    "BRUTE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PET": ["NOUN"]
-  },
-  {
-    "BARBARIAN": ["NOUN"]
-  },
-  {
-    "HARSH": ["NOUN", "ADJ"]
-  },
-  {
-    "PRISTINE": ["ADJ"]
-  },
-  {
-    "FEROCITY": ["NOUN", "ADJ"]
-  },
-  {
-    "BARBARITY": ["NOUN", "ADJ"]
-  },
-  {
-    "FERAL": ["ADJ"]
-  },
-  {
-    "FURY": ["NOUN", "ADJ"]
-  },
-  {
-    "RUTHLESS": ["NOUN", "ADJ"]
-  },
-  {
-    "GORE NOUN": ["NOUN", "ADJ"]
-  },
-  {
-    "CHAMPION": ["NOUN"]
-  },
-  {
-    "VIRTUE": ["NOUN", "ADJ"]
-  },
-  {
-    "SCANDAL": ["NOUN", "ADJ"]
-  },
-  {
-    "APOGEE": ["NOUN"]
-  },
-  {
-    "SPIRE": ["NOUN"]
-  },
-  {
-    "SPIRAL": ["NOUN", "VERB"]
-  },
-  {
-    "CLIMAX": ["NOUN", "ADJ"]
-  },
-  {
-    "CLIMATE": ["NOUN"]
-  },
-  {
-    "WEATHER": ["NOUN"]
-  },
-  {
-    "CREST": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CULMINATE": ["NOUN", "VERB"]
-  },
-  {
-    "CUSP": ["NOUN"]
-  },
-  {
-    "MOST": ["ADJ"]
-  },
-  {
-    "PEAK": ["NOUN", "VERB"]
-  },
-  {
-    "BLUNT": ["VERB", "ADJ"]
-  },
-  {
-    "ROOF": ["NOUN"]
-  },
-  {
-    "CEILING": ["NOUN"]
-  },
-  {
-    "FLOOR": ["NOUN"]
-  },
-  {
-    "SUMMIT": ["NOUN"]
-  },
-  {
-    "TIP": ["NOUN"]
-  },
-  {
-    "TOP": ["NOUN"]
-  },
-  {
-    "BOTTOM": ["NOUN"]
-  },
-  {
-    "SIDE": ["NOUN"]
-  },
-  {
-    "ZENITH": ["NOUN"]
-  },
-  {
-    "FLANK VERB": ["VERB"]
-  },
-  {
-    "PASS MOUNTAIN": ["NOUN"]
-  },
-  {
-    "PASS VERB": ["VERB"]
-  },
-  {
-    "PASSAGE": ["NOUN"]
-  },
-  {
-    "CORRIDOR": ["NOUN"]
-  },
-  {
-    "HALL": ["NOUN"]
-  },
-  {
-    "GALLERY": ["NOUN"]
-  },
-  {
-    "GALLEY": ["NOUN"]
-  },
-  {
-    "ARENA": ["NOUN"]
-  },
-  {
-    "ARMORY": ["NOUN"]
-  },
-  {
-    "ASSEMBLE": ["NOUN", "VERB"]
-  },
-  {
-    "MEET": ["NOUN", "VERB"]
-  },
-  {
-    "THEATER": ["NOUN"]
-  },
-  {
-    "ENTRANCE": ["NOUN"]
-  },
-  {
-    "EXIT": ["NOUN", "VERB"]
-  },
-  {
-    "ENTRY": ["NOUN", "VERB"]
-  },
-  {
-    "VESTIBULE": ["NOUN"]
-  },
-  {
-    "FROST": ["NOUN", "ADJ"]
-  },
-  {
-    "FEVER": ["NOUN", "ADJ"]
-  },
-  {
-    "HUMID": ["NOUN", "ADJ"]
-  },
-  {
-    "HUMOR": ["NOUN", "ADJ"]
-  },
-  {
-    "COMEDY": ["NOUN", "ADJ"]
-  },
-  {
-    "SIZZLE": ["VERB", "ADJ"]
-  },
-  {
-    "SWELTER": ["VERB", "ADJ"]
-  },
-  {
-    "WARM": ["NOUN", "ADJ"]
-  },
-  {
-    "TORRID": ["ADJ"]
-  },
-  {
-    "ACRID": ["ADJ"]
-  },
-  {
-    "DALE": ["NOUN"]
-  },
-  {
-    "DELL": ["NOUN"]
-  },
-  {
-    "GLADE": ["NOUN"]
-  },
-  {
-    "VALE": ["NOUN"]
-  },
-  {
-    "BASIN": ["NOUN"]
-  },
-  {
-    "BOWL": ["NOUN"]
-  },
-  {
-    "CAVITY": ["NOUN"]
-  },
-  {
-    "CRATER": ["NOUN", "ADJ"]
-  },
-  {
-    "DEN": ["NOUN"]
-  },
-  {
-    "DENT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DEPRESS SAD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DEPRESSION LOW": ["NOUN"]
-  },
-  {
-    "DIMPLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DIP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DISH": ["NOUN"]
-  },
-  {
-    "EXCAVATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GROOVE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GULF SEA": ["NOUN"]
-  },
-  {
-    "GULF PIT": ["NOUN"]
-  },
-  {
-    "GULF DISTANCE": ["NOUN"]
-  },
-  {
-    "DISTANCE": ["NOUN", "ADJ"]
-  },
-  {
-    "NOTCH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SAG": ["VERB", "ADJ"]
-  },
-  {
-    "SCOOP": ["NOUN", "VERB"]
-  },
-  {
-    "SOCKET": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TROUGH": ["NOUN"]
-  },
-  {
-    "VALLEY": ["NOUN"]
-  },
-  {
-    "FENCE": ["NOUN", "ADJ"]
-  },
-  {
-    "BARRICADE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BLOCKADE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BOARD PLANK": ["NOUN"]
-  },
-  {
-    "BOARD GET ON": ["VERB"]
-  },
-  {
-    "PLANK": ["NOUN"]
-  },
-  {
-    "DEFEND": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DEFENSE": ["NOUN", "ADJ"]
-  },
-  {
-    "DIKE": ["NOUN"]
-  },
-  {
-    "PALISADE": ["NOUN"]
-  },
-  {
-    "POST": ["NOUN"]
-  },
-  {
-    "RAMPART": ["NOUN"]
-  },
-  {
-    "STAKE": ["NOUN"]
-  },
-  {
-    "STOP": ["NOUN", "VERB"]
-  },
-  {
-    "STOCKADE": ["NOUN"]
-  },
-  {
-    "ABYSS": ["NOUN", "ADJ"]
-  },
-  {
-    "CHASM": ["NOUN"]
-  },
-  {
-    "CREVICE": ["NOUN"]
-  },
-  {
-    "RIFT": ["NOUN"]
-  },
-  {
-    "FISSURE": ["NOUN"]
-  },
-  {
-    "UNDER": ["PREFIX"]
-  },
-  {
-    "ABYSMAL": ["ADJ"]
-  },
-  {
-    "SUBMERGE": ["VERB", "ADJ"]
-  },
-  {
-    "CYCLONE": ["NOUN"]
-  },
-  {
-    "TYPHOON": ["NOUN"]
-  },
-  {
-    "HURRICANE": ["NOUN"]
-  },
-  {
-    "GALE": ["NOUN"]
-  },
-  {
-    "TORNADO": ["NOUN"]
-  },
-  {
-    "HAIL GREET": ["VERB"]
-  },
-  {
-    "HAIL ICE": ["NOUN", "VERB"]
-  },
-  {
-    "HALE": ["ADJ"]
-  },
-  {
-    "ROBUST": ["NOUN", "ADJ"]
-  },
-  {
-    "HARDY": ["NOUN", "ADJ"]
-  },
-  {
-    "VIGOR": ["NOUN", "ADJ"]
-  },
-  {
-    "AIR": ["NOUN"]
-  },
-  {
-    "SPLASH": ["NOUN", "VERB"]
-  },
-  {
-    "DABBLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DOUSE": ["VERB", "ADJ"]
-  },
-  {
-    "DRENCH": ["VERB", "ADJ"]
-  },
-  {
-    "MOIST": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PLUNGE": ["NOUN", "VERB"]
-  },
-  {
-    "SHOWER": ["NOUN", "VERB"]
-  },
-  {
-    "SLOP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SLOSH": ["VERB"]
-  },
-  {
-    "SOAK": ["VERB", "ADJ"]
-  },
-  {
-    "SPATTER": ["VERB", "ADJ"]
-  },
-  {
-    "SPLATTER": ["VERB", "ADJ"]
-  },
-  {
-    "SPRAY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SPREAD": ["VERB", "ADJ"]
-  },
-  {
-    "SPRINKLE": ["VERB"]
-  },
-  {
-    "TWINKLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SQUIRT": ["VERB"]
-  },
-  {
-    "WAD": ["NOUN"]
-  },
-  {
-    "WADE": ["VERB"]
-  },
-  {
-    "WET": ["VERB", "ADJ"]
-  },
-  {
-    "FADE": ["VERB", "ADJ"]
-  },
-  {
-    "COLORLESS": ["ADJ"]
-  },
-  {
-    "BLANCH": ["VERB"]
-  },
-  {
-    "BLEACH": ["VERB"]
-  },
-  {
-    "BLENCH": ["VERB"]
-  },
-  {
-    "FLINCH": ["VERB"]
-  },
-  {
-    "APPEAR": ["NOUN", "VERB"]
-  },
-  {
-    "DISAPPEAR": ["NOUN", "VERB"]
-  },
-  {
-    "DISSOLVE": ["VERB"]
-  },
-  {
-    "DULL": ["VERB", "ADJ"]
-  },
-  {
-    "EVAPORATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LUSTER": ["NOUN", "ADJ"]
-  },
-  {
-    "TONE": ["NOUN", "VERB"]
-  },
-  {
-    "VANISH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WASH": ["VERB", "ADJ"]
-  },
-  {
-    "ABATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DECLINE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DETERIORATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DIMINISH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DISPERSE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DROOP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DWINDLE": ["VERB", "ADJ"]
-  },
-  {
-    "KINDLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "STOKE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "POKE": ["NOUN", "VERB"]
-  },
-  {
-    "STIR": ["VERB", "ADJ"]
-  },
-  {
-    "FEED": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FAIL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LANGUISH": ["VERB", "ADJ"]
-  },
-  {
-    "LESSEN": ["VERB", "ADJ"]
-  },
-  {
-    "LESSON": ["NOUN"]
-  },
-  {
-    "TEACH": ["NOUN", "VERB"]
-  },
-  {
-    "MASTERY": ["NOUN"]
-  },
-  {
-    "PERISH": ["NOUN", "VERB"]
-  },
-  {
-    "SHRIVEL": ["VERB", "ADJ"]
-  },
-  {
-    "SINK": ["VERB", "ADJ"]
-  },
-  {
-    "TAPER": ["VERB", "ADJ"]
-  },
-  {
-    "THIN": ["VERB", "ADJ"]
-  },
-  {
-    "TIRE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WANE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WEAK": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WILT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WITHER": ["VERB", "ADJ"]
-  },
-  {
-    "HONOR": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ADORE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ADULATE": ["NOUN"]
-  },
-  {
-    "CELEBRATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CONFIDENT": ["NOUN", "ADJ"]
-  },
-  {
-    "DEFERENCE": ["NOUN", "ADJ"]
-  },
-  {
-    "DEITY": ["NOUN"]
-  },
-  {
-    "DISTINCT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ELEVATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ESTEEM": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EXALT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FAME": ["NOUN", "ADJ"]
-  },
-  {
-    "FEALTY": ["NOUN"]
-  },
-  {
-    "HOMAGE": ["NOUN"]
-  },
-  {
-    "MORTAL": ["NOUN", "ADJ"]
-  },
-  {
-    "IMMORTAL": ["NOUN", "ADJ"]
-  },
-  {
-    "LAUD": ["VERB", "ADJ"]
-  },
-  {
-    "OBEISANCE": ["NOUN", "ADJ"]
-  },
-  {
-    "PRAISE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PRESTIGE": ["NOUN", "ADJ"]
-  },
-  {
-    "RENOWN": ["NOUN", "ADJ"]
-  },
-  {
-    "REPUTATION": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TRIBUTE": ["NOUN"]
-  },
-  {
-    "WORSHIP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CHASTITY": ["NOUN", "ADJ"]
-  },
-  {
-    "COURAGE": ["NOUN", "ADJ"]
-  },
-  {
-    "DECENT": ["NOUN", "ADJ"]
-  },
-  {
-    "GOOD": ["NOUN", "ADJ"]
-  },
-  {
-    "INNOCENT": ["NOUN", "ADJ"]
-  },
-  {
-    "MODEST": ["NOUN", "ADJ"]
-  },
-  {
-    "PRINCIPLE": ["NOUN"]
-  },
-  {
-    "PURE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RIGHTEOUSNESS": ["NOUN"]
-  },
-  {
-    "TRUTH": ["NOUN", "ADJ"]
-  },
-  {
-    "TRUTHFUL": ["ADJ"]
-  },
-  {
-    "VIRGIN": ["NOUN", "ADJ"]
-  },
-  {
-    "VIRGINITY": ["NOUN"]
-  },
-  {
-    "HOLD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SCALD": ["VERB", "ADJ"]
-  },
-  {
-    "SCALE VERB": ["VERB"]
-  },
-  {
-    "SCALE SKIN": ["NOUN", "ADJ"]
-  },
-  {
-    "CLAN": ["NOUN"]
-  },
-  {
-    "LABYRINTH": ["NOUN", "ADJ"]
-  },
-  {
-    "MAZE": ["NOUN"]
-  },
-  {
-    "WEB": ["NOUN", "VERB"]
-  },
-  {
-    "CROWD": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FAMILY": ["NOUN", "ADJ"]
-  },
-  {
-    "KIN": ["NOUN"]
-  },
-  {
-    "MOB": ["NOUN", "VERB"]
-  },
-  {
-    "ORGAN": ["NOUN"]
-  },
-  {
-    "ORGANIZE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MESH": ["NOUN"]
-  },
-  {
-    "TANGLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ENTANGLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PUZZLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PERPLEX": ["VERB", "ADJ"]
-  },
-  {
-    "QUANDARY": ["NOUN"]
-  },
-  {
-    "COMBINE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FLICKER": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BRAND": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SINGE": ["VERB", "ADJ"]
-  },
-  {
-    "SEAR": ["VERB", "ADJ"]
-  },
-  {
-    "SCORCH": ["VERB", "ADJ"]
-  },
-  {
-    "ROAST": ["VERB", "ADJ"]
-  },
-  {
-    "PARCH": ["VERB", "ADJ"]
-  },
-  {
-    "IGNITE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "INCINERATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GLOW": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CREMATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FACTION": ["NOUN", "ADJ"]
-  },
-  {
-    "CREW": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "VESSEL": ["NOUN"]
-  },
-  {
-    "LEAGUE GROUP": ["NOUN"]
-  },
-  {
-    "COOPERATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GROUP": ["NOUN", "VERB"]
-  },
-  {
-    "GANG": ["NOUN"]
-  },
-  {
-    "FELLOWSHIP": ["NOUN"]
-  },
-  {
-    "PARTNER": ["NOUN", "VERB"]
-  },
-  {
-    "RIDDLE": ["NOUN", "VERB"]
-  },
-  {
-    "ROUT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SCRAPE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SCRAP": ["NOUN"]
-  },
-  {
-    "SCOUR": ["VERB", "ADJ"]
-  },
-  {
-    "SCRUB": ["VERB", "ADJ"]
-  },
-  {
-    "SHAKE": ["VERB", "ADJ"]
-  },
-  {
-    "SOAP": ["NOUN", "ADJ"]
-  },
-  {
-    "SPONGE": ["NOUN", "ADJ"]
-  },
-  {
-    "SWEEP": ["VERB"]
-  },
-  {
-    "WHISKER": ["NOUN", "ADJ"]
-  },
-  {
-    "FASTEN": ["VERB"]
-  },
-  {
-    "WINNOW": ["NOUN", "VERB"]
-  },
-  {
-    "WIPE": ["VERB"]
-  },
-  {
-    "CLENCH": ["VERB"]
-  },
-  {
-    "CLINCH": ["NOUN", "VERB"]
-  },
-  {
-    "CLOUT": ["NOUN", "VERB"]
-  },
-  {
-    "CLUTCH": ["NOUN", "VERB"]
-  },
-  {
-    "DOMINATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DOMINION": ["NOUN"]
-  },
-  {
-    "GRASP": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "INFLUENCE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "OWN": ["NOUN", "VERB"]
-  },
-  {
-    "OWNERSHIP": ["NOUN"]
-  },
-  {
-    "TENACITY": ["NOUN", "ADJ"]
-  },
-  {
-    "BIND": ["VERB"]
-  },
-  {
-    "CARRY": ["VERB"]
-  },
-  {
-    "CATCH": ["NOUN", "VERB"]
-  },
-  {
-    "CONFINE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CONTAIN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CRADLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EMBRACE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "POOL": ["NOUN"]
-  },
-  {
-    "SOCIETY": ["NOUN"]
-  },
-  {
-    "CIRCLE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SQUARE": ["NOUN", "ADJ"]
-  },
-  {
-    "TRIANGLE": ["NOUN", "ADJ"]
-  },
-  {
-    "CONNECT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MERGE": ["VERB", "ADJ"]
-  },
-  {
-    "CONFUSE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "COMPLEX": ["NOUN", "ADJ"]
-  },
-  {
-    "MEANDER": ["VERB", "ADJ"]
-  },
-  {
-    "MUDDLE": ["VERB", "ADJ"]
-  },
-  {
-    "BEWILDER": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MORASS": ["NOUN"]
-  },
-  {
-    "PROBLEM": ["NOUN", "ADJ"]
-  },
-  {
-    "INTRICATE": ["NOUN", "ADJ"]
-  },
-  {
-    "FLUSH": ["VERB"]
-  },
-  {
-    "MOP": ["NOUN", "VERB"]
-  },
-  {
-    "POLISH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "PURGE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RASP": ["NOUN", "VERB"]
-  },
-  {
-    "RINSE": ["VERB"]
-  },
-  {
-    "BAND OBJECT": ["NOUN", "ADJ"]
-  },
-  {
-    "BAND GROUP": ["NOUN"]
-  },
-  {
-    "TALL": ["ADJ"]
-  },
-  {
-    "SHORT": ["ADJ"]
-  },
-  {
-    "BULBOUS": ["ADJ"]
-  },
-  {
-    "BULB": ["NOUN"]
-  },
-  {
-    "ALLY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ALLIANCE": ["NOUN"]
-  },
-  {
-    "ALLEGIANCE": ["NOUN"]
-  },
-  {
-    "COALITION": ["NOUN"]
-  },
-  {
-    "COAL": ["NOUN"]
-  },
-  {
-    "ENJOY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FONDLE": ["VERB", "ADJ"]
-  },
-  {
-    "HANDLE OBJECT": ["NOUN"]
-  },
-  {
-    "HANDLE VERB": ["VERB"]
-  },
-  {
-    "IMPRISON": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "NOURISH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SQUEEZE": ["VERB", "ADJ"]
-  },
-  {
-    "TRAMMEL": ["NOUN", "VERB"]
-  },
-  {
-    "VICE": ["NOUN"]
-  },
-  {
-    "VISE": ["NOUN", "VERB"]
-  },
-  {
-    "DEFECT FAULT": ["NOUN", "ADJ"]
-  },
-  {
-    "PERFECT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "GEM": ["NOUN"]
-  },
-  {
-    "JEWEL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WIELD": ["VERB"]
-  },
-  {
-    "WRING": ["VERB"]
-  },
-  {
-    "CONJUNCTION": ["NOUN"]
-  },
-  {
-    "BLOT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BLOW": ["VERB", "ADJ"]
-  },
-  {
-    "BRUSH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CLARIFY": ["NOUN", "VERB"]
-  },
-  {
-    "CLEANSE": ["VERB"]
-  },
-  {
-    "DREDGE": ["VERB"]
-  },
-  {
-    "ERASE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MORSEL": ["NOUN"]
-  },
-  {
-    "MONGREL": ["NOUN"]
-  },
-  {
-    "TENDER": ["NOUN", "ADJ"]
-  },
-  {
-    "URGE": ["NOUN", "VERB"]
-  },
-  {
-    "MECHANISM": ["NOUN", "ADJ"]
-  },
-  {
-    "SMEAR": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TATTOO": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "WEATHER VERB": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CRUX": ["NOUN"]
-  },
-  {
-    "PEEK": ["NOUN", "VERB"]
-  },
-  {
-    "SNEAK": ["VERB"]
-  },
-  {
-    "ATTIC": ["NOUN"]
-  },
-  {
-    "BASEMENT": ["NOUN"]
-  },
-  {
-    "DEARTH": ["NOUN"]
-  },
-  {
-    "APEX": ["NOUN"]
-  },
-  {
-    "NADIR": ["NOUN"]
-  },
-  {
-    "TUNNEL": ["NOUN", "VERB"]
-  },
-  {
-    "ENTRANCE VERB": ["VERB", "ADJ"]
-  },
-  {
-    "DELIGHT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "JOY": ["NOUN", "ADJ"]
-  },
-  {
-    "FRIGID": ["NOUN", "ADJ"]
-  },
-  {
-    "ANKLE": ["NOUN"]
-  },
-  {
-    "ELBOW": ["NOUN"]
-  },
-  {
-    "PASSION": ["NOUN", "ADJ"]
-  },
-  {
-    "ARDENT": ["ADJ"]
-  },
-  {
-    "STREAM": ["NOUN"]
-  },
-  {
-    "BOWEL GUT": ["NOUN"]
-  },
-  {
-    "BOWEL INTERIOR": ["NOUN"]
-  },
-  {
-    "DRILL BORE": ["VERB"]
-  },
-  {
-    "DRILL ROUTINE": ["NOUN", "VERB"]
-  },
-  {
-    "BORE DRILL": ["VERB"]
-  },
-  {
-    "BOREDOM": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FLECK": ["NOUN", "ADJ"]
-  },
-  {
-    "SPOT": ["NOUN", "ADJ"]
-  },
-  {
-    "DOT": ["NOUN"]
-  },
-  {
-    "CREATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "POEM": ["NOUN"]
-  },
-  {
-    "POETRY": ["NOUN", "ADJ"]
-  },
-  {
-    "POET": ["NOUN"]
-  },
-  {
-    "SCRIBE": ["NOUN", "VERB"]
-  },
-  {
-    "MONK": ["NOUN"]
-  },
-  {
-    "HERMIT": ["NOUN", "ADJ"]
-  },
-  {
-    "RECLUSE": ["NOUN", "ADJ"]
-  },
-  {
-    "NAME": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LANGUAGE": ["NOUN"]
-  },
-  {
-    "PHRASE": ["NOUN", "VERB"]
-  },
-  {
-    "RHYME": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RHYTHM": ["NOUN", "ADJ"]
-  },
-  {
-    "VERSE": ["NOUN"]
-  },
-  {
-    "DRUM VERB": ["VERB"]
-  },
-  {
-    "CREATURE": ["NOUN"]
-  },
-  {
-    "SNAIL": ["NOUN"]
-  },
-  {
-    "VINE": ["NOUN"]
-  },
-  {
-    "SQUASH": ["VERB", "ADJ"]
-  },
-  {
-    "NEVER": ["PREFIX"]
-  },
-  {
-    "DWELL": ["NOUN", "VERB"]
-  },
-  {
-    "HABIT": ["NOUN", "ADJ"]
-  },
-  {
-    "CHEW": ["VERB"]
-  },
-  {
-    "SWALLOW": ["NOUN", "VERB"]
-  },
-  {
-    "DISEMBOWEL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "EVISCERATE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "RAPID": ["NOUN", "ADJ"]
-  },
-  {
-    "MEDICINE": ["NOUN"]
-  },
-  {
-    "HEAL": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SELL": ["VERB"]
-  },
-  {
-    "MARKET": ["NOUN"]
-  },
-  {
-    "SLOW": ["VERB", "ADJ"]
-  },
-  {
-    "MIRE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "ADMIRE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "DIRGE": ["NOUN"]
-  },
-  {
-    "LAMENT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "FUNERAL": ["NOUN"]
-  },
-  {
-    "QUEST": ["NOUN", "VERB"]
-  },
-  {
-    "ADVENTURE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MOURN": ["VERB", "ADJ"]
-  },
-  {
-    "MORNING": ["NOUN"]
-  },
-  {
-    "BULWARK": ["NOUN"]
-  },
-  {
-    "COSMOS": ["NOUN"]
-  },
-  {
-    "ANGUISH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "TAUT": ["ADJ"]
-  },
-  {
-    "DEIFY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "INFAMY": ["NOUN", "ADJ"]
-  },
-  {
-    "MORTALITY": ["NOUN"]
-  },
-  {
-    "IMMORTALITY": ["NOUN"]
-  },
-  {
-    "MORTIFY": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "OBEY": ["VERB"]
-  },
-  {
-    "WORSHIPPER": ["NOUN"]
-  },
-  {
-    "RIDDLE HOLES": ["VERB", "ADJ"]
-  },
-  {
-    "DWELLING": ["NOUN"]
-  },
-  {
-    "DISEMBOWELMENT": ["NOUN"]
-  },
-  {
-    "EVISCERATION": ["NOUN"]
-  },
-  {
-    "HEALING": ["NOUN"]
-  },
-  {
-    "ADMIRATION": ["NOUN"]
-  },
-  {
-    "CONFLICT": ["NOUN"]
-  },
-  {
-    "ATTACK": ["NOUN", "VERB"]
-  },
-  {
-    "ONSLAUGHT": ["NOUN"]
-  },
-  {
-    "TREE": ["NOUN"]
-  },
-  {
-    "AMBER": ["NOUN", "ADJ"]
-  },
-  {
-    "AMETHYST": ["NOUN", "ADJ"]
-  },
-  {
-    "AQUA": ["ADJ"]
-  },
-  {
-    "AQUAMARINE": ["NOUN", "ADJ"]
-  },
-  {
-    "GRAY": ["NOUN", "ADJ"]
-  },
-  {
-    "AUBURN": ["ADJ"]
-  },
-  {
-    "AZURE": ["ADJ"]
-  },
-  {
-    "BEIGE": ["ADJ"]
-  },
-  {
-    "BRASS": ["NOUN", "ADJ"]
-  },
-  {
-    "BROWN": ["ADJ"]
-  },
-  {
-    "BUFF": ["ADJ"]
-  },
-  {
-    "SIENNA": ["ADJ"]
-  },
-  {
-    "UMBER": ["ADJ"]
-  },
-  {
-    "CARDINAL_COLOR": ["ADJ"]
-  },
-  {
-    "CARMINE": ["ADJ"]
-  },
-  {
-    "CERULEAN": ["ADJ"]
-  },
-  {
-    "CHARCOAL": ["NOUN", "ADJ"]
-  },
-  {
-    "CHARTREUSE": ["ADJ"]
-  },
-  {
-    "CHESTNUT": ["NOUN", "ADJ"]
-  },
-  {
-    "CHOCOLATE": ["NOUN", "ADJ"]
-  },
-  {
-    "CINNAMON": ["NOUN", "ADJ"]
-  },
-  {
-    "COBALT": ["NOUN", "ADJ"]
-  },
-  {
-    "INDIGO": ["ADJ"]
-  },
-  {
-    "OLIVE": ["NOUN", "ADJ"]
-  },
-  {
-    "PINK": ["ADJ"]
-  },
-  {
-    "SCARLET": ["ADJ"]
-  },
-  {
-    "TAN": ["ADJ"]
-  },
-  {
-    "ECRU": ["ADJ"]
-  },
-  {
-    "EMERALD": ["NOUN", "ADJ"]
-  },
-  {
-    "FLAX": ["NOUN", "ADJ"]
-  },
-  {
-    "FUCHSIA": ["ADJ"]
-  },
-  {
-    "GOLDENROD": ["ADJ"]
-  },
-  {
-    "HELIOTROPE": ["ADJ"]
-  },
-  {
-    "LAVENDER": ["ADJ"]
-  },
-  {
-    "BLUSH": ["NOUN", "VERB"]
-  },
-  {
-    "LEMON": ["NOUN"]
-  },
-  {
-    "LILAC": ["NOUN"]
-  },
-  {
-    "LIME": ["NOUN"]
-  },
-  {
-    "MAHOGANY": ["ADJ"]
-  },
-  {
-    "MAROON_COLOR": ["ADJ"]
-  },
-  {
-    "MAUVE": ["ADJ"]
-  },
-  {
-    "TAUPE": ["ADJ"]
-  },
-  {
-    "MINT": ["ADJ"]
-  },
-  {
-    "MOSS": ["NOUN"]
-  },
-  {
-    "OCHRE": ["ADJ"]
-  },
-  {
-    "ORANGE": ["NOUN"]
-  },
-  {
-    "PERIWINKLE": ["NOUN"]
-  },
-  {
-    "PLUM": ["NOUN"]
-  },
-  {
-    "PUCE": ["ADJ"]
-  },
-  {
-    "PUMPKIN": ["NOUN"]
-  },
-  {
-    "RUSSET": ["ADJ"]
-  },
-  {
-    "SAFFRON": ["NOUN", "ADJ"]
-  },
-  {
-    "SEPIA": ["ADJ"]
-  },
-  {
-    "TEAL": ["ADJ"]
-  },
-  {
-    "TURQUOISE": ["NOUN", "ADJ"]
-  },
-  {
-    "VERMILION": ["ADJ"]
-  },
-  {
-    "PATH": ["NOUN"]
-  },
-  {
-    "THREAT": ["NOUN", "VERB"]
-  },
-  {
-    "WARNING": ["NOUN", "VERB"]
-  },
-  {
-    "FATE": ["NOUN", "ADJ"]
-  },
-  {
-    "DESTINY": ["NOUN", "ADJ"]
-  },
-  {
-    "HORROR": ["NOUN"]
-  },
-  {
-    "LITTLE": ["ADJ"]
-  },
-  {
-    "EARLY": ["ADJ"]
-  },
-  {
-    "LATE": ["ADJ"]
-  },
-  {
-    "LIFE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "CHEESE": ["NOUN"]
-  },
-  {
-    "FIGURE_OBJECT": ["NOUN"]
-  },
-  {
-    "HOPE": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "BODY": ["NOUN"]
-  },
-  {
-    "WALK": ["NOUN", "VERB"]
-  },
-  {
-    "HOUR": ["NOUN"]
-  },
-  {
-    "SIT": ["VERB"]
-  },
-  {
-    "MOMENT": ["NOUN"]
-  },
-  {
-    "BEAUTY": ["NOUN", "ADJ"]
-  },
-  {
-    "JUDGE": ["NOUN", "VERB"]
-  },
-  {
-    "WISH": ["NOUN", "VERB"]
-  },
-  {
-    "RESPECT": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MARK": ["NOUN", "VERB"]
-  },
-  {
-    "HEAVY": ["NOUN", "ADJ"]
-  },
-  {
-    "TRIAL": ["NOUN"]
-  },
-  {
-    "PRACTICE": ["NOUN", "VERB"]
-  },
-  {
-    "END": ["NOUN", "VERB"]
-  },
-  {
-    "START": ["NOUN", "VERB"]
-  },
-  {
-    "BEGIN": ["NOUN", "VERB"]
-  },
-  {
-    "BIRTH": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "LEARN": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "MISCHIEF": ["NOUN", "ADJ"]
-  },
-  {
-    "WISDOM": ["NOUN", "ADJ"]
-  },
-  {
-    "KNOW": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "KNOWLEDGE": ["NOUN"]
-  },
-  {
-    "CRACK": ["NOUN", "VERB", "ADJ"]
-  },
-  {
-    "SHATTER": ["VERB", "ADJ"]
-  },
-  {
-    "LEAP": ["NOUN", "VERB"]
-  },
-  {
-    "JUMP": ["NOUN", "VERB"]
-  },
-  {
-    "DIVE": ["NOUN", "VERB"]
-  },
-  {
-    "VAULT VERB": ["VERB"]
-  },
-  {
-    "VAULT PLACE": ["NOUN"]
-  },
-  {
-    "TREASURY": ["NOUN"]
-  },
-  {
-    "BETRAY": ["NOUN", "VERB"]
-  },
-  {
-    "TREASON": ["NOUN"]
-  },
-  {
-    "REASON": ["NOUN", "VERB"]
-  },
-  {
-    "SQUAT": ["VERB", "ADJ"]
-  },
-  {
-    "FESTIVAL": ["NOUN", "ADJ"]
-  }
-]
+
+{
+  "ABBEY": ["NOUN"],
+  "ACE": ["NOUN"],
+  "ACT": ["NOUN", "VERB"],
+  "AFTER": ["PREFIX"],
+  "AGE": ["NOUN", "VERB"],
+  "AGELESS": ["ADJ"],
+  "ALE": ["NOUN"],
+  "ANCIENT": ["NOUN", "ADJ"],
+  "ANGEL": ["NOUN", "ADJ"],
+  "ANGER": ["NOUN", "ADJ"],
+  "ANIMAL": ["NOUN"],
+  "APE": ["NOUN"],
+  "APPLE": ["NOUN"],
+  "ARCH": ["PREFIX"],
+  "ARM": ["NOUN"],
+  "ARMOR": ["NOUN", "ADJ"],
+  "ARROW": ["NOUN"],
+  "ARTIFICE": ["NOUN", "ADJ"],
+  "ASH": ["NOUN", "ADJ"],
+  "AUNT": ["NOUN"],
+  "AURA": ["NOUN"],
+  "AUTUMN": ["NOUN", "ADJ"],
+  "AWE-INSPIRING": ["ADJ"],
+  "AXE": ["NOUN"],
+  "BACK": ["NOUN"],
+  "BAD": ["ADJ"],
+  "BALD": ["NOUN", "VERB", "ADJ"],
+  "BAKE": ["NOUN", "VERB"],
+  "BALL": ["NOUN"],
+  "BANE": ["NOUN"],
+  "BAR": ["NOUN"],
+  "BARB": ["NOUN"],
+  "BATH": ["NOUN", "VERB"],
+  "BATTLE": ["NOUN"],
+  "BEAK": ["NOUN"],
+  "BEAST": ["NOUN"],
+  "BEAR": ["NOUN"],
+  "BEAR_VERB": ["VERB"],
+  "BEE": ["NOUN"],
+  "BEER": ["NOUN"],
+  "BEETLE": ["NOUN"],
+  "BEGUILER": ["NOUN", "VERB"],
+  "BELCH": ["NOUN"],
+  "BERRY": ["NOUN"],
+  "BIG": ["ADJ"],
+  "BILE": ["NOUN"],
+  "BIN": ["NOUN"],
+  "BIRD": ["NOUN"],
+  "BLACK": ["NOUN", "ADJ"],
+  "BLADE": ["NOUN"],
+  "BLAZE": ["NOUN", "VERB"],
+  "BLIND": ["NOUN", "VERB", "ADJ"],
+  "BLISTER": ["NOUN"],
+  "BLOAT": ["NOUN", "ADJ"],
+  "BLOOD": ["NOUN"],
+  "BLOODY": ["NOUN", "ADJ"],
+  "BLOSSOM": ["NOUN", "VERB"],
+  "BLUE": ["NOUN", "ADJ"],
+  "BOAR": ["NOUN"],
+  "BOAT": ["NOUN"],
+  "BODICE": ["NOUN"],
+  "BOG": ["NOUN"],
+  "BOIL": ["NOUN"],
+  "BOIL_V": ["VERB"],
+  "BOLD": ["NOUN", "ADJ"],
+  "BOLT": ["NOUN", "VERB"],
+  "BONE": ["NOUN"],
+  "BOOK": ["NOUN"],
+  "BOOT": ["NOUN"],
+  "BOTHER": ["VERB"],
+  "BOW": ["NOUN"],
+  "BOW_VERB": ["VERB"],
+  "BRAIN": ["NOUN"],
+  "BREACH": ["NOUN", "VERB"],
+  "BREECHES": ["NOUN"],
+  "BREAD": ["NOUN"],
+  "BREAK": ["NOUN", "VERB"],
+  "BREAKFAST": ["NOUN"],
+  "BREATH": ["NOUN"],
+  "BREED": ["NOUN"],
+  "BREW": ["NOUN"],
+  "BRIDE": ["NOUN"],
+  "BRIDLE": ["NOUN", "ADJ"],
+  "BRIGHT": ["NOUN", "ADJ"],
+  "BRISTLE": ["NOUN", "VERB"],
+  "BRILLIANT": ["NOUN", "ADJ"],
+  "BRIM": ["NOUN"],
+  "BROIL": ["VERB"],
+  "BROTHER": ["NOUN"],
+  "BRUNCH": ["NOUN"],
+  "BUCK": ["NOUN"],
+  "BUCKLE": ["NOUN", "VERB"],
+  "BUNCH": ["NOUN"],
+  "BURDEN": ["NOUN"],
+  "BURN": ["NOUN", "VERB"],
+  "BURY": ["NOUN", "VERB"],
+  "BUSH": ["NOUN"],
+  "BUSHEL": ["NOUN"],
+  "BUST_NOUN": ["NOUN"],
+  "BUST_VERB": ["NOUN", "VERB"],
+  "BUSINESS": ["NOUN"],
+  "BUSY": ["NOUN", "ADJ"],
+  "BUTCHER": ["NOUN"],
+  "BUTTER": ["NOUN", "VERB", "ADJ"],
+  "BUTTERFLY": ["NOUN"],
+  "BUTTON": ["NOUN", "VERB"],
+  "BUZZARD": ["NOUN"],
+  "CACKLE": ["VERB"],
+  "CAD": ["NOUN"],
+  "CAGE": ["NOUN"],
+  "CAKE": ["NOUN"],
+  "CALL": ["NOUN", "VERB"],
+  "CAMP": ["NOUN", "VERB"],
+  "CANCER": ["NOUN"],
+  "CANDLE": ["NOUN"],
+  "CANDY": ["NOUN"],
+  "CANKER": ["NOUN"],
+  "CANYON": ["NOUN"],
+  "CARNAGE": ["NOUN"],
+  "CASKET": ["NOUN"],
+  "CASTLE": ["NOUN"],
+  "CAT": ["NOUN"],
+  "CAVE": ["NOUN"],
+  "CELL": ["NOUN"],
+  "CHAIN": ["NOUN", "VERB"],
+  "CHANT": ["NOUN", "VERB"],
+  "CHAOS": ["NOUN"],
+  "CHAMBER": ["NOUN"],
+  "CHAR": ["VERB"],
+  "CHARM": ["NOUN", "VERB"],
+  "CHILD": ["NOUN"],
+  "CHILL": ["NOUN", "VERB"],
+  "CHIP_NOUN": ["NOUN"],
+  "CHIP_VERB": ["VERB"],
+  "CHIRP": ["VERB"],
+  "CHOKE": ["VERB"],
+  "CHOP": ["VERB"],
+  "CHUCK": ["VERB"],
+  "CINDER": ["NOUN"],
+  "CLAM": ["NOUN"],
+  "CLAP": ["VERB"],
+  "CLASP": ["NOUN", "VERB"],
+  "CLAW": ["NOUN"],
+  "CLEAR": ["VERB", "ADJ"],
+  "CLEARING": ["NOUN"],
+  "CLEAVE": ["NOUN", "VERB"],
+  "CLING": ["VERB"],
+  "CLOAK": ["NOUN"],
+  "CLOBBER": ["VERB"],
+  "CLOCK": ["NOUN"],
+  "CLOD": ["NOUN"],
+  "CLOISTER": ["NOUN", "VERB"],
+  "CLOSET": ["NOUN"],
+  "CLUB": ["NOUN"],
+  "CLUSTER": ["NOUN", "VERB"],
+  "CLUTTER": ["NOUN", "VERB"],
+  "COBRA": ["NOUN"],
+  "COIL": ["NOUN", "VERB"],
+  "COLD": ["NOUN", "ADJ"],
+  "COLOR": ["NOUN", "VERB"],
+  "COMET": ["NOUN"],
+  "CONQUEROR": ["NOUN"],
+  "COOK": ["NOUN", "VERB"],
+  "COVER": ["NOUN", "VERB"],
+  "COTTON": ["NOUN"],
+  "COUPLE": ["NOUN"],
+  "CRAB": ["NOUN"],
+  "CRAWL": ["VERB"],
+  "CRAZE": ["NOUN", "ADJ"],
+  "CRAZY": ["NOUN", "ADJ"],
+  "CREAM": ["NOUN", "ADJ"],
+  "CREEK": ["NOUN"],
+  "CREEP": ["NOUN", "VERB"],
+  "CREEPY": ["NOUN", "ADJ"],
+  "CRESCENT": ["NOUN"],
+  "CROSS_NOUN": ["NOUN"],
+  "CROSS_VERB": ["VERB"],
+  "CROSS_ADJ": ["ADJ"],
+  "CROW": ["NOUN"],
+  "CROWN": ["NOUN"],
+  "CRUCIFY": ["NOUN", "VERB"],
+  "CRUMBLE": ["VERB"],
+  "CRUSH": ["VERB"],
+  "CRUSHER": ["NOUN"],
+  "CRY": ["VERB"],
+  "CRYPT": ["NOUN"],
+  "CRYSTAL": ["NOUN", "ADJ"],
+  "CUDDLE": ["VERB"],
+  "CUDGEL": ["NOUN"],
+  "CUP": ["NOUN"],
+  "CURSE": ["NOUN"],
+  "CUT": ["NOUN"],
+  "CYST": ["NOUN"],
+  "DANCE": ["NOUN", "VERB"],
+  "DANGLE": ["VERB"],
+  "DANK": ["NOUN", "ADJ"],
+  "DAGGER": ["NOUN"],
+  "DARK": ["NOUN", "ADJ"],
+  "DATE_FRUIT": ["NOUN"],
+  "DATE_VERB": ["NOUN", "VERB"],
+  "DAWN": ["NOUN", "VERB"],
+  "DAY": ["NOUN"],
+  "DEAD": ["NOUN", "ADJ"],
+  "DEAR": ["ADJ"],
+  "DEATH": ["NOUN", "VERB"],
+  "DECAY": ["NOUN"],
+  "DECEIVER": ["NOUN"],
+  "DEEP": ["NOUN", "ADJ"],
+  "DEER": ["NOUN"],
+  "DEMON": ["NOUN"],
+  "DESPAIR": ["NOUN"],
+  "DESTROYER": ["NOUN"],
+  "DESTRUCTION": ["NOUN"],
+  "DEVIL": ["NOUN"],
+  "DEVOURER": ["NOUN"],
+  "DINE": ["VERB"],
+  "DINNER": ["NOUN"],
+  "DIRT": ["NOUN"],
+  "DITCH": ["NOUN"],
+  "DOG": ["NOUN"],
+  "DOMESTIC": ["NOUN", "ADJ"],
+  "DONKEY": ["NOUN"],
+  "DOOM": ["NOUN", "ADJ"],
+  "DOOR": ["NOUN"],
+  "DRAGON": ["NOUN"],
+  "DRAIN": ["NOUN", "VERB"],
+  "DRAWL": ["NOUN", "VERB"],
+  "DREG": ["NOUN"],
+  "DRESS_CLOTHING": ["NOUN"],
+  "DRESS_GENERAL": ["NOUN", "VERB"],
+  "DRINKER": ["NOUN"],
+  "DRIP": ["NOUN", "VERB"],
+  "DROOL": ["NOUN"],
+  "DROWNED": ["VERB"],
+  "DRUM": ["NOUN"],
+  "DRY": ["VERB"],
+  "DUMP": ["NOUN", "VERB"],
+  "DUMPLING": ["NOUN"],
+  "DUNG": ["NOUN"],
+  "DUNGEON": ["NOUN"],
+  "DUSK": ["NOUN"],
+  "DUST": ["NOUN"],
+  "DUTY": ["NOUN", "ADJ"],
+  "DYE": ["NOUN"],
+  "EAGLE": ["NOUN"],
+  "EAR": ["NOUN"],
+  "EAST": ["ADJ"],
+  "EAT": ["NOUN", "VERB"],
+  "ECTO": ["PREFIX"],
+  "EEL": ["NOUN"],
+  "EERIE": ["NOUN", "ADJ"],
+  "EGG": ["NOUN"],
+  "ELDER": ["NOUN", "ADJ"],
+  "ENTRAILS": ["NOUN"],
+  "ETERNAL": ["ADJ"],
+  "EVER": ["PREFIX"],
+  "EVERLASTING": ["ADJ"],
+  "EVERSEEING": ["ADJ"],
+  "EVIL": ["NOUN", "ADJ"],
+  "EXECUTE": ["NOUN", "VERB"],
+  "EXECUTIONER": ["NOUN"],
+  "EYE": ["NOUN"],
+  "FACE": ["NOUN"],
+  "FALL": ["NOUN", "VERB"],
+  "FALSE": ["NOUN", "ADJ"],
+  "FAMINE": ["NOUN"],
+  "FANG": ["NOUN"],
+  "FAT": ["NOUN", "ADJ"],
+  "FATAL": ["ADJ"],
+  "FATHER": ["NOUN"],
+  "FEAR": ["NOUN"],
+  "FEAST": ["NOUN"],
+  "FETID": ["ADJ"],
+  "FIEND": ["NOUN"],
+  "FIERCE": ["NOUN", "ADJ"],
+  "FILTH": ["NOUN"],
+  "FIN": ["NOUN"],
+  "FIND": ["NOUN", "VERB"],
+  "FINGER": ["NOUN"],
+  "FIRE": ["NOUN", "ADJ"],
+  "FIRST": ["ADJ"],
+  "FISH_ANIMAL": ["NOUN"],
+  "FISH_VERB": ["NOUN", "VERB"],
+  "FIST": ["NOUN"],
+  "FLAME": ["NOUN"],
+  "FLANK": ["NOUN"],
+  "FLEA": ["NOUN"],
+  "FLESH": ["NOUN", "ADJ"],
+  "FLING": ["VERB"],
+  "FLOOD": ["NOUN", "VERB"],
+  "FLOWER": ["NOUN", "ADJ"],
+  "FLUTE": ["NOUN"],
+  "FLY_ANIMAL": ["NOUN"],
+  "FLY_VERB": ["NOUN", "VERB"],
+  "FOCUS": ["NOUN", "VERB"],
+  "FOG": ["NOUN", "ADJ"],
+  "FOOL": ["NOUN", "ADJ"],
+  "FOOT": ["NOUN"],
+  "FOREST": ["NOUN"],
+  "FORK": ["NOUN", "VERB"],
+  "FORTIFY": ["NOUN", "VERB"],
+  "FORTRESS": ["NOUN"],
+  "FRAGILE": ["ADJ"],
+  "FRAGMENT": ["NOUN", "VERB"],
+  "FRAME": ["NOUN", "VERB"],
+  "FRAY": ["VERB"],
+  "FREE": ["NOUN", "ADJ"],
+  "FRENZY": ["NOUN"],
+  "FREEZE": ["VERB"],
+  "FRILL": ["NOUN", "ADJ"],
+  "FROG": ["NOUN"],
+  "FRUIT": ["NOUN", "ADJ"],
+  "FUNGUS": ["NOUN"],
+  "FUR": ["NOUN"],
+  "GALL": ["NOUN"],
+  "GAME": ["NOUN"],
+  "GARISH": ["ADJ"],
+  "GARLIC": ["NOUN"],
+  "GARNISH": ["NOUN", "VERB"],
+  "GATE": ["NOUN"],
+  "GAUNT": ["ADJ"],
+  "GAZE": ["NOUN"],
+  "GEAR": ["NOUN", "ADJ"],
+  "GERBIL": ["NOUN"],
+  "GHOST": ["NOUN"],
+  "GHOUL": ["NOUN"],
+  "GIFT": ["NOUN", "VERB"],
+  "GILL": ["NOUN"],
+  "GIRDLE": ["NOUN", "ADJ"],
+  "GLAND": ["NOUN"],
+  "GLAZE": ["NOUN", "VERB"],
+  "GLEN": ["NOUN"],
+  "GLIDE": ["VERB"],
+  "GLIMMER": ["NOUN", "VERB"],
+  "GLISTEN": ["VERB"],
+  "GLOSS": ["NOUN", "VERB"],
+  "GLOVE": ["NOUN", "ADJ"],
+  "GLUTTON": ["NOUN"],
+  "GOAT": ["NOUN"],
+  "GOD": ["NOUN", "ADJ"],
+  "GOD-FORSAKEN": ["ADJ"],
+  "GOLD": ["NOUN", "ADJ"],
+  "GOOSE": ["NOUN"],
+  "GORE": ["VERB"],
+  "GORGE_NOUN": ["NOUN"],
+  "GORGE_VERB": ["VERB"],
+  "GRAIN": ["NOUN"],
+  "GRAND": ["ADJ"],
+  "GRAPE": ["NOUN"],
+  "GRASS": ["NOUN"],
+  "GRAVE": ["NOUN"],
+  "GREASE": ["NOUN"],
+  "GREAT": ["NOUN", "ADJ"],
+  "GREED": ["NOUN"],
+  "GREEN": ["NOUN", "ADJ"],
+  "GRIFFON": ["NOUN"],
+  "GRILL": ["VERB"],
+  "GRIM": ["ADJ"],
+  "GRIND": ["VERB"],
+  "GRIP": ["NOUN", "VERB"],
+  "GRISTLE": ["NOUN", "ADJ"],
+  "GRIZZLE": ["NOUN", "ADJ"],
+  "GROVE": ["NOUN"],
+  "GROW": ["NOUN", "VERB"],
+  "GROWL": ["NOUN", "VERB"],
+  "GROWTH": ["NOUN"],
+  "GRUB": ["NOUN"],
+  "GUARD": ["NOUN", "VERB"],
+  "GUILE": ["NOUN"],
+  "GUISE": ["NOUN"],
+  "GUT": ["NOUN"],
+  "GUTTER": ["NOUN"],
+  "HAG": ["NOUN"],
+  "HAIR": ["NOUN"],
+  "HAIRY": ["ADJ"],
+  "HAME": ["NOUN"],
+  "HAMMER": ["NOUN"],
+  "HAMMERER": ["NOUN"],
+  "HAND": ["NOUN"],
+  "HANDY": ["ADJ"],
+  "HARE": ["NOUN"],
+  "HARVEST": ["NOUN"],
+  "HARVEST_VERB": ["NOUN", "VERB"],
+  "HATCHET": ["NOUN"],
+  "HATE": ["NOUN", "VERB", "ADJ"],
+  "HAUNT": ["NOUN", "VERB"],
+  "HAWK": ["NOUN"],
+  "HAY": ["NOUN"],
+  "HEAD": ["NOUN"],
+  "HEART": ["NOUN"],
+  "HEARTH": ["NOUN"],
+  "HEATHER": ["NOUN"],
+  "HEDGE": ["NOUN"],
+  "HELL": ["NOUN", "ADJ"],
+  "HELM": ["NOUN", "ADJ"],
+  "HERO": ["NOUN", "ADJ"],
+  "HEX": ["NOUN"],
+  "HIDE": ["NOUN"],
+  "HIDEOUS": ["ADJ"],
+  "HIGH": ["ADJ"],
+  "HILL": ["NOUN"],
+  "HIP": ["NOUN"],
+  "HOARY": ["ADJ"],
+  "HOBBLE": ["VERB"],
+  "HOG": ["NOUN"],
+  "HOLY": ["NOUN", "ADJ"],
+  "HOIST": ["VERB"],
+  "HOLE": ["NOUN"],
+  "HOME": ["NOUN"],
+  "HONEY": ["NOUN"],
+  "HOOD": ["NOUN"],
+  "HOOF": ["NOUN"],
+  "HOP_NOUN": ["NOUN"],
+  "HOP_VERB": ["NOUN", "VERB"],
+  "HORN": ["NOUN"],
+  "HORSE": ["NOUN"],
+  "HOUND": ["NOUN"],
+  "HOWL": ["NOUN"],
+  "HUG": ["NOUN", "VERB"],
+  "HUM": ["VERB"],
+  "HUNGER": ["NOUN", "ADJ"],
+  "HUSTLE": ["VERB"],
+  "ICE": ["NOUN", "ADJ"],
+  "IDLE": ["NOUN", "ADJ"],
+  "IDOL": ["NOUN"],
+  "ILL": ["NOUN", "ADJ"],
+  "IMPURE": ["NOUN", "ADJ"],
+  "INCENSE": ["NOUN"],
+  "INCH": ["NOUN", "VERB"],
+  "INK": ["NOUN", "VERB", "ADJ"],
+  "INN": ["NOUN"],
+  "INSANITY": ["NOUN"],
+  "INVISIBLE": ["ADJ"],
+  "IRON": ["NOUN"],
+  "ITCH": ["NOUN"],
+  "IVY": ["NOUN"],
+  "JACK": ["NOUN"],
+  "JACKAL": ["NOUN"],
+  "JAUNDICE": ["NOUN", "ADJ"],
+  "JAW": ["NOUN"],
+  "JEST": ["NOUN", "VERB"],
+  "JOKE": ["NOUN", "VERB"],
+  "JUGGLE": ["NOUN", "VERB"],
+  "JUICE": ["NOUN"],
+  "JUNGLE": ["NOUN"],
+  "JUST": ["NOUN", "ADJ"],
+  "JUSTIFY": ["VERB"],
+  "KEEPER": ["NOUN"],
+  "KEG": ["NOUN"],
+  "KEY": ["NOUN"],
+  "KINDNESS": ["NOUN", "ADJ"],
+  "KILLER": ["NOUN", "VERB"],
+  "KISS": ["NOUN", "VERB"],
+  "KING": ["NOUN"],
+  "KNEAD": ["VERB"],
+  "KNIFE": ["NOUN"],
+  "KNIGHT": ["NOUN", "VERB"],
+  "KNIT": ["VERB"],
+  "KNOT": ["NOUN"],
+  "LACE": ["NOUN", "ADJ"],
+  "LAKE": ["NOUN"],
+  "LARD": ["NOUN", "ADJ"],
+  "LARK": ["NOUN"],
+  "LARVA": ["NOUN", "ADJ"],
+  "LAST": ["ADJ"],
+  "LAW": ["NOUN"],
+  "LAZY": ["NOUN", "ADJ"],
+  "LEADER": ["NOUN", "VERB"],
+  "LEAF": ["NOUN", "ADJ"],
+  "LEAK": ["NOUN", "VERB", "ADJ"],
+  "LEAN": ["ADJ"],
+  "LEECH": ["NOUN"],
+  "LEGEND": ["NOUN", "ADJ"],
+  "LENS": ["NOUN"],
+  "LEOPARD": ["NOUN"],
+  "LEPER": ["NOUN"],
+  "LEPROSY": ["NOUN"],
+  "LETTER": ["NOUN"],
+  "LIE": ["NOUN"],
+  "LIGHT": ["NOUN", "ADJ"],
+  "LIGHTNING": ["NOUN"],
+  "LIMB": ["NOUN"],
+  "LIP": ["NOUN"],
+  "LISTEN": ["VERB"],
+  "LIZARD": ["NOUN"],
+  "LOBSTER": ["NOUN"],
+  "LOCK": ["NOUN", "VERB"],
+  "LONE": ["ADJ"],
+  "LONG": ["NOUN", "ADJ"],
+  "LOOT": ["NOUN"],
+  "LORD": ["NOUN"],
+  "LOST": ["ADJ"],
+  "LOUSE": ["NOUN"],
+  "LOVE": ["NOUN", "VERB", "ADJ"],
+  "LOW": ["NOUN", "ADJ"],
+  "LUNCH": ["NOUN"],
+  "LUNG": ["NOUN"],
+  "LURID": ["ADJ"],
+  "LURCH": ["VERB"],
+  "LURK": ["VERB"],
+  "LUSH": ["ADJ"],
+  "LUST": ["NOUN", "ADJ"],
+  "LUTE": ["NOUN"],
+  "LYRIC": ["NOUN", "ADJ"],
+  "MAGGOT": ["NOUN"],
+  "MAGIC": ["NOUN", "ADJ"],
+  "MAN": ["NOUN"],
+  "MANGE": ["NOUN", "ADJ"],
+  "MANY": ["PREFIX"],
+  "MARSH": ["NOUN"],
+  "MARTYR": ["NOUN", "VERB"],
+  "MASTER": ["NOUN", "VERB"],
+  "MAW": ["NOUN"],
+  "MEAD": ["NOUN"],
+  "MEADOW": ["NOUN"],
+  "MEAL_DOM": ["NOUN"],
+  "MEAL_GROUND": ["NOUN"],
+  "MEAT": ["NOUN"],
+  "MEDITATION": ["NOUN", "VERB"],
+  "MELLOW": ["ADJ"],
+  "MENACE": ["NOUN", "VERB"],
+  "MESS": ["NOUN"],
+  "METAL": ["NOUN"],
+  "MIDNIGHT": ["NOUN"],
+  "MIGHTY": ["NOUN", "ADJ"],
+  "MIGHTINESS": ["NOUN"],
+  "MILE": ["NOUN"],
+  "MINCE": ["VERB"],
+  "MIND": ["NOUN", "ADJ"],
+  "MINION": ["NOUN"],
+  "MIRROR": ["NOUN", "VERB"],
+  "MISERY": ["NOUN"],
+  "MIST": ["NOUN", "ADJ"],
+  "MITE": ["NOUN"],
+  "MOLD": ["NOUN"],
+  "MOLE": ["NOUN"],
+  "MOLTEN": ["ADJ"],
+  "MONKEY": ["NOUN"],
+  "MOON": ["NOUN"],
+  "MONGER": ["NOUN"],
+  "MOTH": ["NOUN"],
+  "MOTHER": ["NOUN"],
+  "MOUSE": ["NOUN", "ADJ"],
+  "MOUTH": ["NOUN"],
+  "MUCK": ["NOUN"],
+  "MUD": ["NOUN", "ADJ"],
+  "MUFFIN": ["NOUN"],
+  "MULE": ["NOUN"],
+  "MUNCH": ["VERB"],
+  "MURDER": ["NOUN", "VERB"],
+  "MUSH": ["NOUN"],
+  "MUSHROOM": ["NOUN"],
+  "MUSIC": ["NOUN", "ADJ"],
+  "MYSTERY": ["NOUN", "ADJ"],
+  "MYTH": ["NOUN", "ADJ"],
+  "NAIL": ["NOUN"],
+  "NASTY": ["ADJ"],
+  "NATURE": ["NOUN", "ADJ"],
+  "NECRO": ["PREFIX"],
+  "NEGATIVE": ["ADJ"],
+  "NEGATE": ["NOUN", "VERB"],
+  "NEO": ["PREFIX"],
+  "NEST": ["NOUN", "VERB"],
+  "NESTLE": ["VERB"],
+  "NET": ["NOUN"],
+  "NETTLE": ["NOUN"],
+  "NEW": ["ADJ"],
+  "NEWT": ["NOUN"],
+  "NIBBLE": ["VERB"],
+  "NIGHT": ["NOUN"],
+  "NIGHTMARE": ["NOUN"],
+  "NOBLE": ["NOUN", "ADJ"],
+  "NOOSE": ["NOUN"],
+  "NORTH": ["ADJ"],
+  "NOSE": ["NOUN"],
+  "NULL": ["ADJ"],
+  "NUMBER": ["NOUN"],
+  "NURTURE": ["VERB"],
+  "NUT": ["NOUN"],
+  "OAK": ["NOUN", "ADJ"],
+  "OAR": ["NOUN"],
+  "OAT": ["NOUN"],
+  "OBLIVION": ["NOUN"],
+  "OCEAN": ["NOUN", "ADJ"],
+  "OLD": ["ADJ"],
+  "OMEN": ["NOUN"],
+  "ONE": ["NOUN"],
+  "ONE_PREF": ["PREFIX"],
+  "ONION": ["NOUN"],
+  "OOZE": ["NOUN"],
+  "OPEN": ["VERB"],
+  "ORB": ["NOUN"],
+  "OVER": ["PREFIX"],
+  "OWL": ["NOUN"],
+  "OX": ["NOUN"],
+  "PACK": ["NOUN", "VERB"],
+  "PAD_NOUN": ["NOUN", "ADJ"],
+  "PAD_VERB": ["VERB"],
+  "PAGE": ["NOUN", "VERB"],
+  "PAIN": ["NOUN", "ADJ"],
+  "PAINT": ["NOUN", "VERB"],
+  "PALE": ["NOUN", "ADJ"],
+  "PALM": ["NOUN"],
+  "PANT": ["VERB"],
+  "PANTHER": ["NOUN"],
+  "PANTS": ["NOUN"],
+  "PAPER": ["NOUN"],
+  "PEACE": ["NOUN", "ADJ"],
+  "PEACH": ["NOUN"],
+  "PEPPER": ["NOUN"],
+  "PHLEGM": ["NOUN"],
+  "PIG": ["NOUN"],
+  "PIT": ["NOUN"],
+  "PITCH": ["NOUN"],
+  "PLAGUE": ["NOUN"],
+  "PLANT": ["NOUN", "VERB"],
+  "PLANTER": ["NOUN"],
+  "PLOT": ["NOUN", "VERB"],
+  "POCKET_NOUN": ["NOUN"],
+  "POCKET_VERB": ["VERB"],
+  "POISON": ["NOUN", "ADJ"],
+  "PORTAL": ["NOUN"],
+  "POWER": ["NOUN"],
+  "PRANK": ["NOUN"],
+  "PREGNANT": ["NOUN", "ADJ"],
+  "PRIDE": ["NOUN"],
+  "PRIEST": ["NOUN"],
+  "PRIM": ["ADJ"],
+  "PRIME": ["ADJ"],
+  "PRIMITIVE": ["ADJ"],
+  "PROFANE": ["NOUN", "ADJ"],
+  "PROPHECY": ["NOUN"],
+  "PROPHET": ["NOUN"],
+  "PROWL": ["NOUN", "VERB"],
+  "PUKE": ["NOUN"],
+  "PULL": ["VERB"],
+  "PULLEY": ["NOUN"],
+  "PULP": ["NOUN", "ADJ"],
+  "PUNCH": ["NOUN"],
+  "PURPLE": ["ADJ"],
+  "PUS": ["NOUN"],
+  "PUTRID": ["NOUN", "ADJ"],
+  "QUAKE": ["NOUN"],
+  "QUEEN": ["NOUN"],
+  "QUICK": ["NOUN", "ADJ"],
+  "QUILL": ["NOUN"],
+  "RABBIT": ["NOUN"],
+  "RABBLE": ["NOUN"],
+  "RACE_GROUP": ["NOUN"],
+  "RACE_VERB": ["NOUN", "VERB"],
+  "RACK": ["NOUN"],
+  "RAG": ["NOUN"],
+  "RAGE": ["NOUN"],
+  "RAIN": ["NOUN", "VERB", "ADJ"],
+  "RAKE": ["VERB"],
+  "RAM": ["NOUN"],
+  "RAMPAGE": ["NOUN", "VERB"],
+  "RANDOM": ["ADJ"],
+  "RANSACK": ["VERB"],
+  "RAPTOR": ["NOUN"],
+  "RAT": ["NOUN"],
+  "RAUNCH": ["NOUN"],
+  "RAVAGER": ["NOUN"],
+  "RAVEN": ["NOUN"],
+  "RAW": ["NOUN", "ADJ"],
+  "RAZOR": ["NOUN"],
+  "RED": ["NOUN", "ADJ"],
+  "REGAL": ["ADJ"],
+  "REIGN": ["NOUN", "VERB"],
+  "REIN": ["NOUN", "VERB"],
+  "REND": ["VERB"],
+  "RIDER": ["NOUN"],
+  "RIM": ["NOUN"],
+  "RING_OBJECT": ["NOUN", "VERB"],
+  "RING_SOUND": ["VERB"],
+  "RIP": ["NOUN"],
+  "RIPE": ["NOUN", "ADJ"],
+  "RIPPER": ["NOUN"],
+  "RISE": ["VERB"],
+  "RITE": ["NOUN"],
+  "RIVER": ["NOUN"],
+  "ROCK": ["NOUN"],
+  "ROGUE": ["NOUN"],
+  "ROMANCE": ["NOUN", "VERB", "ADJ"],
+  "ROOM": ["NOUN"],
+  "ROOMY": ["ADJ"],
+  "ROOT": ["NOUN"],
+  "ROSE": ["NOUN", "ADJ"],
+  "ROT": ["NOUN"],
+  "ROUGH": ["NOUN", "ADJ"],
+  "ROYAL": ["ADJ"],
+  "RUIN": ["NOUN", "ADJ"],
+  "RUIN_V": ["VERB"],
+  "RULER": ["NOUN", "VERB"],
+  "RUMOR": ["NOUN", "ADJ"],
+  "RUST": ["NOUN"],
+  "SABRE": ["NOUN"],
+  "SACK": ["NOUN"],
+  "SAINT": ["NOUN"],
+  "SALT": ["NOUN", "ADJ"],
+  "SALVE": ["NOUN"],
+  "SAP": ["NOUN"],
+  "SATIN": ["NOUN", "ADJ"],
+  "SAVAGE": ["NOUN", "ADJ"],
+  "SAVAGERY": ["NOUN"],
+  "SAVIOR": ["NOUN"],
+  "SCAB": ["NOUN", "ADJ"],
+  "SCAR": ["NOUN", "VERB"],
+  "SCOLD": ["VERB"],
+  "SCORPION": ["NOUN"],
+  "SCRATCH": ["NOUN"],
+  "SCOURGE": ["NOUN"],
+  "SCREAM": ["NOUN", "VERB"],
+  "SCUM": ["NOUN"],
+  "SEA": ["NOUN"],
+  "SEAL_ANIMAL": ["NOUN"],
+  "SEAL_ART": ["NOUN"],
+  "SEAM": ["NOUN"],
+  "SEASON": ["NOUN"],
+  "SECRET": ["NOUN", "VERB", "ADJ"],
+  "SEDUCE": ["NOUN", "VERB"],
+  "SEDUCER": ["NOUN"],
+  "SEED": ["NOUN"],
+  "SEER": ["NOUN"],
+  "SEIZE": ["NOUN", "VERB"],
+  "SERPENT": ["NOUN"],
+  "SERVANT": ["NOUN"],
+  "SEVER": ["NOUN", "VERB"],
+  "SEWER": ["NOUN"],
+  "SHADOW": ["NOUN"],
+  "SHAFT": ["NOUN"],
+  "SHANK": ["NOUN"],
+  "SHARK": ["NOUN"],
+  "SHEAR": ["VERB"],
+  "SHEEN": ["NOUN"],
+  "SHELL": ["NOUN"],
+  "SHELTER": ["NOUN", "VERB"],
+  "SHIELD": ["NOUN", "VERB"],
+  "SHIMMER": ["VERB"],
+  "SHIP": ["NOUN"],
+  "SHOOT": ["VERB"],
+  "SHOW": ["NOUN", "VERB"],
+  "SHRED": ["NOUN"],
+  "SHRIEK": ["NOUN"],
+  "SHUT": ["VERB"],
+  "SICK": ["NOUN", "ADJ"],
+  "SICKNESS": ["NOUN"],
+  "SIEGE": ["NOUN", "VERB"],
+  "SILENCE": ["NOUN", "VERB", "ADJ"],
+  "SILK": ["NOUN", "ADJ"],
+  "SILKY": ["NOUN", "ADJ"],
+  "SILT": ["NOUN", "ADJ"],
+  "SILVER": ["NOUN", "ADJ"],
+  "SIN": ["NOUN", "ADJ"],
+  "SINEW": ["NOUN"],
+  "SING": ["NOUN", "VERB"],
+  "SISTER": ["NOUN"],
+  "SKIRT_CLOTHING": ["NOUN"],
+  "SKIRT_VERB": ["VERB"],
+  "SKUNK": ["NOUN"],
+  "SKULL": ["NOUN"],
+  "SKY": ["NOUN"],
+  "SLAUGHTER": ["NOUN"],
+  "SLAVE": ["NOUN"],
+  "SLAYER": ["NOUN"],
+  "SLIM": ["ADJ"],
+  "SLIME": ["NOUN"],
+  "SLING": ["NOUN"],
+  "SLINK": ["VERB"],
+  "SLIT": ["NOUN", "VERB", "ADJ"],
+  "SLITHER": ["VERB"],
+  "SLIVER": ["NOUN"],
+  "SLOTH": ["NOUN"],
+  "SLUG": ["NOUN"],
+  "SMASH": ["VERB"],
+  "SMILE": ["NOUN", "VERB"],
+  "SMITH": ["NOUN"],
+  "SMOKE": ["NOUN"],
+  "SMOOTH": ["NOUN", "ADJ"],
+  "SMOULDER": ["VERB"],
+  "SNACK": ["NOUN", "VERB"],
+  "SNAKE": ["NOUN"],
+  "SNEER": ["NOUN"],
+  "SNOT": ["NOUN"],
+  "SNUGGLE": ["VERB"],
+  "SOIL": ["NOUN"],
+  "SOLDIER": ["NOUN"],
+  "SOOT": ["NOUN", "ADJ"],
+  "SOOTHE": ["VERB"],
+  "SORROW": ["NOUN"],
+  "SOUL": ["NOUN"],
+  "SOUND": ["NOUN", "VERB"],
+  "SOUTH": ["ADJ"],
+  "SPASM": ["NOUN"],
+  "SPAWN": ["NOUN"],
+  "SPEAR": ["NOUN"],
+  "SPELL": ["NOUN"],
+  "SPICE": ["NOUN", "ADJ"],
+  "SPIDER": ["NOUN"],
+  "SPIDERY": ["ADJ"],
+  "SPIKE": ["NOUN"],
+  "SPIN": ["VERB"],
+  "SPINE": ["NOUN"],
+  "SPIRIT": ["NOUN"],
+  "SPIT": ["NOUN"],
+  "SPITTLE": ["NOUN"],
+  "SPOIL": ["NOUN", "VERB"],
+  "SPOON": ["NOUN", "VERB"],
+  "SPRING_NOUN": ["NOUN"],
+  "SPRING_SEASON": ["NOUN"],
+  "SPRING_VERB": ["VERB"],
+  "SPRY": ["ADJ"],
+  "SPY": ["NOUN"],
+  "SQUID": ["NOUN"],
+  "SQUIRM": ["VERB"],
+  "STAB": ["VERB"],
+  "STAFF": ["NOUN"],
+  "STALK": ["NOUN", "VERB"],
+  "STAND": ["NOUN", "VERB"],
+  "STAR": ["NOUN"],
+  "STEED": ["NOUN"],
+  "STARVE": ["NOUN", "VERB"],
+  "STEAL": ["VERB"],
+  "STEEL": ["NOUN"],
+  "STENCH": ["NOUN"],
+  "STERN": ["ADJ"],
+  "STICK_WOOD": ["NOUN"],
+  "STICK_VERB": ["VERB"],
+  "STICKY": ["ADJ"],
+  "STONE": ["NOUN"],
+  "STORM": ["NOUN", "ADJ"],
+  "STRANGE": ["NOUN", "ADJ"],
+  "STRAP": ["NOUN", "VERB"],
+  "STRAPPING_ADJ": ["ADJ"],
+  "STRAW": ["NOUN"],
+  "STRAY": ["NOUN", "VERB"],
+  "STRENGTH": ["NOUN", "ADJ"],
+  "STRETCH": ["VERB"],
+  "STRIKE": ["NOUN", "VERB"],
+  "STROKE": ["NOUN", "VERB"],
+  "STUNT": ["NOUN"],
+  "STUNTED": ["ADJ"],
+  "STUPID": ["ADJ"],
+  "STUTTER": ["VERB"],
+  "STYLE": ["NOUN", "VERB"],
+  "SUBORDINATE": ["NOUN", "ADJ"],
+  "SUCK": ["NOUN", "VERB"],
+  "SUFFERING": ["NOUN"],
+  "SUGAR": ["NOUN", "ADJ"],
+  "SULLY": ["VERB"],
+  "SULLEN": ["ADJ"],
+  "SUMMER": ["NOUN"],
+  "SUN": ["NOUN", "ADJ"],
+  "SUNDER": ["VERB"],
+  "SUPPER": ["NOUN"],
+  "SURPRISE": ["NOUN"],
+  "SWAMP": ["NOUN"],
+  "SWEAT": ["NOUN", "VERB"],
+  "SWEET": ["NOUN", "ADJ"],
+  "SWIFT": ["ADJ"],
+  "SWIM": ["VERB"],
+  "SWINE": ["NOUN"],
+  "SWORD": ["NOUN"],
+  "SYRUP": ["NOUN"],
+  "TAKER": ["NOUN", "VERB"],
+  "TAIL": ["NOUN"],
+  "TALON": ["NOUN"],
+  "TAR": ["NOUN"],
+  "TARNISH": ["NOUN", "VERB"],
+  "TELL": ["VERB"],
+  "TEMPEST": ["NOUN"],
+  "TEAR": ["NOUN"],
+  "TERROR": ["NOUN", "VERB", "ADJ"],
+  "THIEF": ["NOUN"],
+  "THIRST": ["NOUN"],
+  "THORN": ["NOUN"],
+  "THRALL": ["NOUN"],
+  "THREE": ["PREFIX"],
+  "THROAT": ["NOUN"],
+  "THRONE": ["NOUN"],
+  "THROWER": ["NOUN", "VERB"],
+  "THUNDER": ["NOUN", "VERB"],
+  "TICK_ANIMAL": ["NOUN"],
+  "TICK_CLOCK": ["NOUN", "VERB"],
+  "TIGHT": ["NOUN", "ADJ"],
+  "TIME": ["NOUN"],
+  "TOAD": ["NOUN"],
+  "TOE": ["NOUN"],
+  "TOMB": ["NOUN"],
+  "TOME": ["NOUN"],
+  "TONGUE": ["NOUN"],
+  "TOOTH": ["NOUN"],
+  "TORMENT": ["NOUN", "VERB"],
+  "TOUCH": ["NOUN", "VERB"],
+  "TOUCHY": ["ADJ"],
+  "TOUR": ["NOUN"],
+  "TOWER": ["NOUN"],
+  "TRAIL": ["NOUN", "VERB"],
+  "TRANCE": ["NOUN"],
+  "TRAP": ["NOUN", "VERB"],
+  "TRASH": ["NOUN"],
+  "TREASURE": ["NOUN"],
+  "TREAT": ["NOUN", "VERB"],
+  "TREATY": ["NOUN"],
+  "TRENCH": ["NOUN"],
+  "TRIBE": ["NOUN"],
+  "TRICK": ["NOUN", "VERB"],
+  "TRICKERY": ["NOUN"],
+  "TRIM": ["NOUN", "VERB", "ADJ"],
+  "TROUBLE": ["NOUN", "VERB"],
+  "TUG": ["VERB"],
+  "TULIP": ["NOUN"],
+  "TUMBLE": ["VERB"],
+  "TUMOR": ["NOUN"],
+  "TURMOIL": ["NOUN"],
+  "TUSK": ["NOUN"],
+  "TWEET": ["VERB"],
+  "TWILIGHT": ["NOUN"],
+  "TWINE": ["NOUN"],
+  "TWIST": ["NOUN", "VERB"],
+  "TWO": ["PREFIX"],
+  "UGLY": ["NOUN", "ADJ"],
+  "ULCER": ["NOUN"],
+  "ULTIMATE": ["ADJ"],
+  "ULTRA": ["PREFIX"],
+  "UNBRIDLED": ["ADJ"],
+  "UNCLE": ["NOUN"],
+  "UNGODLY": ["ADJ"],
+  "UNHOLY": ["NOUN", "ADJ"],
+  "UNKEMPT": ["ADJ"],
+  "UNSEEN": ["ADJ"],
+  "UNTOWARD": ["ADJ"],
+  "UNWELCOME": ["ADJ"],
+  "URN": ["NOUN"],
+  "USELESS": ["ADJ"],
+  "VANDAL": ["NOUN", "VERB"],
+  "VEGETABLE": ["NOUN"],
+  "VEGETATE": ["VERB"],
+  "VEGETATION": ["NOUN"],
+  "VELVET": ["NOUN", "ADJ"],
+  "VENOM": ["NOUN"],
+  "VERMIN": ["NOUN"],
+  "VILE": ["NOUN", "ADJ"],
+  "VIOLATOR": ["NOUN"],
+  "VIOLENCE": ["NOUN", "ADJ"],
+  "VIOLET": ["ADJ"],
+  "VIPER": ["NOUN"],
+  "VOICE": ["NOUN", "VERB"],
+  "VOID": ["NOUN"],
+  "VOLCANO": ["NOUN"],
+  "VOMIT": ["NOUN"],
+  "VULTURE": ["NOUN"],
+  "WAIL": ["NOUN"],
+  "WANDER": ["NOUN", "VERB"],
+  "WAR": ["NOUN"],
+  "WARRIOR": ["NOUN"],
+  "WASP": ["NOUN"],
+  "WASTE": ["NOUN", "VERB"],
+  "WATCH": ["NOUN", "VERB"],
+  "WATCHFUL": ["NOUN", "ADJ"],
+  "WAVE": ["NOUN", "VERB"],
+  "WAVY": ["NOUN", "ADJ"],
+  "WEAR": ["VERB"],
+  "WEASEL": ["NOUN"],
+  "WEAVER": ["NOUN"],
+  "WEED": ["NOUN"],
+  "WEIGHT": ["NOUN"],
+  "WEIRD": ["NOUN"],
+  "WERE": ["PREFIX"],
+  "WEST": ["ADJ"],
+  "WHEAT": ["NOUN"],
+  "WHEEL": ["NOUN", "VERB"],
+  "WHIP": ["NOUN", "VERB"],
+  "WHISK": ["VERB"],
+  "WHISKY": ["NOUN"],
+  "WHISPER": ["NOUN", "VERB"],
+  "WHITE": ["NOUN", "ADJ"],
+  "WICKED": ["NOUN", "ADJ"],
+  "WILD": ["NOUN", "ADJ"],
+  "WILL": ["NOUN", "ADJ"],
+  "WING": ["NOUN"],
+  "WINTER": ["NOUN"],
+  "WISP": ["NOUN", "ADJ"],
+  "WITCH": ["NOUN"],
+  "WONDER_NOUN": ["NOUN", "ADJ"],
+  "WONDER_VERB": ["VERB"],
+  "WOOD": ["NOUN", "ADJ"],
+  "WORK": ["NOUN", "VERB"],
+  "WORM": ["NOUN"],
+  "WRAITH": ["NOUN"],
+  "WRATH": ["NOUN"],
+  "WRETCH": ["NOUN", "ADJ"],
+  "YARN": ["NOUN"],
+  "YEAR": ["NOUN"],
+  "YEARLING": ["NOUN"],
+  "YELLOW": ["NOUN", "ADJ"],
+  "YORE": ["NOUN"],
+  "YOUNG": ["ADJ"],
+  "YOUTH": ["NOUN", "ADJ"],
+  "ZEAL": ["NOUN"],
+  "ZEALOT": ["NOUN"],
+  "ZEPHYR": ["NOUN"],
+  "EARTH": ["NOUN", "ADJ"],
+  "ARTIFACT": ["NOUN"],
+  "BED": ["NOUN"],
+  "BUD": ["NOUN", "VERB"],
+  "CAVORT": ["VERB"],
+  "COMMON": ["ADJ"],
+  "DAUB": ["NOUN", "VERB"],
+  "DESERT": ["NOUN"],
+  "DESSERT": ["NOUN"],
+  "DIAMOND": ["NOUN", "ADJ"],
+  "DOMAIN": ["NOUN"],
+  "DREAM": ["NOUN", "VERB", "ADJ"],
+  "TIN": ["NOUN", "ADJ"],
+  "COPPER": ["NOUN", "ADJ"],
+  "BRONZE": ["NOUN", "ADJ"],
+  "GRANITE": ["NOUN", "ADJ"],
+  "FANCY": ["NOUN", "ADJ"],
+  "FARM": ["NOUN", "VERB"],
+  "FIELD": ["NOUN"],
+  "FROTH": ["NOUN", "VERB", "ADJ"],
+  "GENIUS": ["NOUN"],
+  "GLACIER": ["NOUN", "ADJ"],
+  "GURGLE": ["VERB"],
+  "IMPALE": ["VERB"],
+  "JOIN": ["VERB"],
+  "JADE": ["NOUN", "ADJ"],
+  "IVORY": ["NOUN", "ADJ"],
+  "LAND": ["NOUN"],
+  "LATHER": ["VERB"],
+  "LIMP": ["ADJ"],
+  "LUCID": ["NOUN", "ADJ"],
+  "MOUNTAIN": ["NOUN", "ADJ"],
+  "MUCUS": ["NOUN", "ADJ"],
+  "PATTERN": ["NOUN", "VERB", "ADJ"],
+  "PEBBLE": ["NOUN"],
+  "BOULDER": ["NOUN"],
+  "PETAL": ["NOUN"],
+  "DROPLET": ["NOUN"],
+  "PINNACLE": ["NOUN"],
+  "PLAIN": ["NOUN"],
+  "PLAINADJ": ["ADJ"],
+  "POINT": ["NOUN", "ADJ"],
+  "POT": ["NOUN"],
+  "PRAIRIE": ["NOUN"],
+  "RUSH": ["VERB"],
+  "SLAP": ["VERB"],
+  "SLEEVE": ["NOUN"],
+  "SPECK": ["NOUN", "ADJ"],
+  "STEPPE": ["NOUN"],
+  "TENTACLE": ["NOUN"],
+  "TEST": ["NOUN", "VERB"],
+  "TROT": ["VERB"],
+  "TUB": ["NOUN"],
+  "TUBE": ["NOUN"],
+  "TUNDRA": ["NOUN"],
+  "UN": ["PREFIX"],
+  "WADDLE": ["VERB"],
+  "WEALTH": ["NOUN", "ADJ"],
+  "WEEVIL": ["NOUN"],
+  "WHIM": ["NOUN", "ADJ"],
+  "WHIRL": ["VERB", "ADJ"],
+  "WORLD": ["NOUN"],
+  "DESERTVERB": ["VERB"],
+  "FANCYVERB": ["VERB"],
+  "LIMPVERB": ["VERB"],
+  "POINTVERB": ["VERB"],
+  "PANTOMIME": ["NOUN", "VERB"],
+  "SLUDGE": ["NOUN"],
+  "GOO": ["NOUN"],
+  "REALM": ["NOUN"],
+  "PLANE": ["NOUN"],
+  "DIMENSION": ["NOUN"],
+  "UNIVERSE": ["NOUN"],
+  "PLANET": ["NOUN"],
+  "LIVID": ["ADJ"],
+  "TEPID": ["ADJ"],
+  "HONEST": ["NOUN", "ADJ"],
+  "KINGDOM": ["NOUN"],
+  "EMPIRE": ["NOUN", "ADJ"],
+  "CONFEDERATION": ["NOUN"],
+  "SIMPLE": ["NOUN", "ADJ"],
+  "TROOPER": ["NOUN"],
+  "CRIMSON": ["ADJ"],
+  "DUNE": ["NOUN"],
+  "DIRECT": ["NOUN", "VERB"],
+  "CLASH": ["NOUN", "VERB"],
+  "FOREVER": ["NOUN"],
+  "SUBTLE": ["NOUN", "ADJ"],
+  "PUPPET": ["NOUN"],
+  "HEGEMON": ["NOUN"],
+  "AMAZE": ["NOUN", "VERB", "ADJ"],
+  "ALCHEMY": ["NOUN", "ADJ"],
+  "INSIGHT": ["NOUN", "ADJ"],
+  "UNION": ["NOUN", "VERB"],
+  "CONFEDERACY": ["NOUN", "VERB"],
+  "SPEAK": ["NOUN", "VERB"],
+  "SPEAKER": ["NOUN"],
+  "PERSUADE": ["NOUN", "VERB", "ADJ"],
+  "PERSUADER": ["NOUN"],
+  "CONTROL": ["NOUN", "VERB"],
+  "CONTROLLER": ["NOUN"],
+  "WORKER": ["NOUN"],
+  "BASIC": ["NOUN", "ADJ"],
+  "SYSTEM": ["NOUN", "ADJ"],
+  "RAY": ["NOUN"],
+  "TARGET": ["NOUN", "VERB"],
+  "BANK": ["NOUN"],
+  "CLEAN": ["VERB", "ADJ"],
+  "DRIVE": ["VERB"],
+  "SOAR": ["VERB"],
+  "GLORY": ["NOUN", "VERB", "ADJ"],
+  "DISMAL": ["ADJ"],
+  "RADIANCE": ["NOUN", "ADJ"],
+  "PINE": ["NOUN"],
+  "MESSIAH": ["NOUN", "ADJ"],
+  "CRAFT": ["NOUN", "VERB"],
+  "LABOR": ["NOUN", "VERB", "ADJ"],
+  "DISCOVER": ["NOUN", "VERB"],
+  "PROLIFERATE": ["NOUN", "VERB"],
+  "CHUNK": ["NOUN", "ADJ"],
+  "SLIP": ["VERB", "ADJ"],
+  "SLIDE": ["VERB"],
+  "SINGLE": ["ADJ"],
+  "PICK": ["NOUN"],
+  "TONGS": ["NOUN"],
+  "PERMANENCY": ["NOUN", "ADJ"],
+  "RESPONSIBLE": ["NOUN", "ADJ"],
+  "REQUIRE": ["NOUN", "VERB"],
+  "ROOTVERB": ["NOUN", "VERB"],
+  "BLIZZARD": ["NOUN"],
+  "GENERAL": ["NOUN"],
+  "MEMORY": ["NOUN"],
+  "CONSTRUCT": ["NOUN", "VERB", "ADJ"],
+  "LAMB": ["NOUN"],
+  "TOAST": ["NOUN"],
+  "GROSS": ["ADJ"],
+  "PADDLE": ["NOUN", "VERB"],
+  "COUNCIL": ["NOUN"],
+  "COUNSEL": ["NOUN", "VERB"],
+  "GNARLED": ["ADJ"],
+  "STUMP": ["NOUN"],
+  "NAUGHTY": ["NOUN", "ADJ"],
+  "PLAY FUN": ["NOUN", "VERB", "ADJ"],
+  "PLAY PERFORM": ["NOUN", "VERB"],
+  "FLIMSY": ["NOUN", "ADJ"],
+  "GREATER": ["ADJ"],
+  "GREATEST": ["ADJ"],
+  "LESSER": ["ADJ"],
+  "LEAST": ["ADJ"],
+  "BEARD": ["NOUN", "ADJ"],
+  "DREAD": ["NOUN", "VERB", "ADJ"],
+  "WALL": ["NOUN", "ADJ"],
+  "WALLOW": ["VERB"],
+  "TAX": ["NOUN", "VERB"],
+  "FRAGRANCE": ["NOUN", "ADJ"],
+  "LANTERN": ["NOUN"],
+  "TORCH": ["NOUN"],
+  "WATER": ["NOUN"],
+  "WINE": ["NOUN"],
+  "LINE": ["NOUN", "ADJ"],
+  "MINE": ["NOUN", "VERB"],
+  "WAX": ["NOUN", "VERB", "ADJ"],
+  "SHOVE": ["NOUN", "VERB"],
+  "SHOVEL": ["NOUN", "VERB"],
+  "MELT": ["VERB"],
+  "WRACK": ["NOUN", "VERB"],
+  "GLITTER": ["NOUN", "VERB", "ADJ"],
+  "SPARK": ["NOUN"],
+  "SPARKLE": ["NOUN", "VERB"],
+  "FLASH": ["NOUN", "VERB"],
+  "GLEAM": ["NOUN", "VERB"],
+  "RUN": ["VERB"],
+  "DASH": ["VERB"],
+  "SAVANT": ["NOUN"],
+  "ROAR": ["NOUN", "VERB"],
+  "YELL": ["NOUN", "VERB"],
+  "ECHO": ["NOUN", "VERB"],
+  "HOLLOW": ["NOUN", "ADJ"],
+  "FULL": ["VERB", "ADJ"],
+  "EMPTY": ["NOUN", "VERB", "ADJ"],
+  "WORD": ["NOUN", "ADJ"],
+  "INTENSE": ["NOUN", "ADJ"],
+  "SAD": ["NOUN", "ADJ"],
+  "GLAD": ["NOUN", "ADJ"],
+  "TRAGEDY": ["NOUN", "ADJ"],
+  "BELL": ["NOUN"],
+  "BELLY": ["NOUN"],
+  "TUMMY": ["NOUN"],
+  "SHOCK": ["NOUN", "VERB"],
+  "PONDER": ["VERB"],
+  "PONDEROUS": ["ADJ"],
+  "HEAVEN": ["NOUN", "ADJ"],
+  "ROUND": ["ADJ"],
+  "ROUNDED": ["ADJ"],
+  "UNSPEAKABLE": ["ADJ"],
+  "UNTHINKABLE": ["ADJ"],
+  "UNNAMEABLE": ["ADJ"],
+  "CALAMITY": ["NOUN", "ADJ"],
+  "CYCLOPEAN": ["ADJ"],
+  "TAME": ["VERB", "ADJ"],
+  "UNTAMED": ["ADJ"],
+  "BURST": ["VERB"],
+  "METEOR": ["NOUN"],
+  "TRITE": ["ADJ"],
+  "TRIFLE": ["NOUN", "ADJ"],
+  "RANK": ["ADJ"],
+  "RANCOR": ["NOUN", "ADJ"],
+  "BITTER": ["NOUN", "ADJ"],
+  "SOUR": ["NOUN", "ADJ"],
+  "DANGER": ["NOUN", "ADJ"],
+  "IMPERVIOUS": ["ADJ"],
+  "UNSWERVING": ["ADJ"],
+  "SWAY": ["VERB"],
+  "LUXURY": ["NOUN", "ADJ"],
+  "EUPHORIA": ["NOUN", "ADJ"],
+  "SCINTILLATE": ["VERB", "ADJ"],
+  "DIVINE": ["ADJ"],
+  "DIVIDE": ["VERB"],
+  "TAINT": ["VERB", "ADJ"],
+  "CORRUPT": ["NOUN", "VERB", "ADJ"],
+  "MALIGN SLANDER V": ["VERB", "ADJ"],
+  "MALIGN ADJ": ["ADJ"],
+  "MALIGNANT": ["ADJ"],
+  "TRUST": ["NOUN", "VERB"],
+  "DISTRUST": ["NOUN", "VERB"],
+  "TRUSTWORTHY": ["ADJ"],
+  "UNTRUSTWORTHY": ["ADJ"],
+  "DISHONEST": ["ADJ"],
+  "BLIGHT": ["NOUN", "VERB", "ADJ"],
+  "CUNNING": ["ADJ"],
+  "SLY": ["ADJ"],
+  "RUSTIC": ["ADJ"],
+  "HOMELY": ["ADJ"],
+  "LONELY": ["ADJ"],
+  "LONESOME": ["ADJ"],
+  "CLOSE": ["VERB", "ADJ"],
+  "FORD": ["NOUN", "VERB"],
+  "WAY": ["NOUN"],
+  "WAYWARD": ["ADJ"],
+  "BANDIT": ["NOUN"],
+  "BRIGAND": ["NOUN"],
+  "MONSTER": ["NOUN", "ADJ"],
+  "SENSE": ["NOUN", "VERB", "ADJ"],
+  "INSENSITIVE": ["ADJ"],
+  "SENSUAL": ["ADJ"],
+  "ODOR": ["NOUN", "ADJ"],
+  "MALODOROUS": ["NOUN", "ADJ"],
+  "IGNORANT": ["NOUN", "ADJ"],
+  "IGNOBLE": ["ADJ"],
+  "HUMBLE": ["NOUN", "ADJ"],
+  "MORAL": ["NOUN", "ADJ"],
+  "IMMORAL": ["ADJ"],
+  "SUPERIOR": ["ADJ"],
+  "INFERIOR": ["ADJ"],
+  "INFINITE": ["ADJ"],
+  "SABLE COLOR": ["ADJ"],
+  "FELL CRUEL": ["ADJ"],
+  "FELL HIDE": ["NOUN"],
+  "PELT HIDE": ["NOUN"],
+  "DIGNITY": ["NOUN", "ADJ"],
+  "UNDIGNIFIED": ["ADJ"],
+  "INDIGNATION": ["NOUN"],
+  "RIGHT BETTER": ["NOUN", "ADJ"],
+  "ABSOLUTE": ["ADJ"],
+  "FAIR EVEN": ["ADJ"],
+  "FAIR COLOR": ["ADJ"],
+  "SNARL": ["NOUN", "VERB", "ADJ"],
+  "LOYAL": ["NOUN", "ADJ"],
+  "DISLOYAL": ["NOUN", "ADJ"],
+  "HELP": ["NOUN", "VERB", "ADJ"],
+  "FRIEND": ["NOUN", "ADJ"],
+  "COURTESY": ["NOUN", "ADJ"],
+  "CHEERFUL": ["ADJ"],
+  "THRIFT": ["NOUN", "ADJ"],
+  "BRAVERY": ["NOUN", "VERB", "ADJ"],
+  "REVERE": ["NOUN", "VERB", "ADJ"],
+  "VENERATE": ["NOUN", "VERB", "ADJ"],
+  "SALUTE": ["NOUN", "VERB"],
+  "NATION": ["NOUN", "ADJ"],
+  "DRINK": ["NOUN", "VERB"],
+  "CONSIDERATE": ["NOUN", "ADJ"],
+  "CONVENIENT": ["NOUN", "ADJ"],
+  "INCONSIDERATE": ["ADJ"],
+  "INCONVENIENT": ["NOUN", "ADJ"],
+  "CONTINENT": ["NOUN"],
+  "FLIGHT": ["NOUN"],
+  "FLIGHTY": ["ADJ"],
+  "GILD": ["VERB", "ADJ"],
+  "GUILD": ["NOUN"],
+  "MERCHANT": ["NOUN"],
+  "TRADE": ["NOUN", "VERB"],
+  "PLAIT": ["NOUN", "VERB", "ADJ"],
+  "BRAID": ["NOUN", "VERB", "ADJ"],
+  "PLEAT": ["NOUN", "VERB", "ADJ"],
+  "FOLD": ["NOUN", "VERB", "ADJ"],
+  "BUNION": ["NOUN"],
+  "UNCOMMON": ["ADJ"],
+  "RARE": ["ADJ"],
+  "SCARCE": ["ADJ"],
+  "REMARKABLE": ["ADJ"],
+  "UNREMARKABLE": ["ADJ"],
+  "SOLITARY": ["ADJ"],
+  "BEND": ["NOUN", "VERB", "ADJ"],
+  "BLAME": ["NOUN", "VERB"],
+  "BLAMELESS": ["ADJ"],
+  "TWIG": ["NOUN"],
+  "GIRDER": ["NOUN"],
+  "TRUSS": ["NOUN", "VERB", "ADJ"],
+  "SKEWER": ["NOUN", "VERB", "ADJ"],
+  "SCULPT": ["NOUN", "VERB", "ADJ"],
+  "TRESS": ["NOUN", "ADJ"],
+  "LOCK HAIR": ["NOUN"],
+  "CURL": ["NOUN", "VERB", "ADJ"],
+  "TUFT": ["NOUN", "ADJ"],
+  "MEAN NASTY": ["NOUN", "ADJ"],
+  "MEAN LOW": ["NOUN", "ADJ"],
+  "SHAME": ["NOUN", "VERB", "ADJ"],
+  "ASHAMED": ["ADJ"],
+  "STEAM": ["NOUN", "ADJ"],
+  "FERN": ["NOUN"],
+  "FERRY": ["NOUN", "VERB"],
+  "GULLY": ["NOUN"],
+  "WORRY": ["NOUN", "VERB", "ADJ"],
+  "LION": ["NOUN"],
+  "CACTUS": ["NOUN"],
+  "DESK": ["NOUN"],
+  "BOTTLE": ["NOUN", "VERB"],
+  "SHINGLE": ["NOUN"],
+  "BLANKET": ["NOUN", "ADJ"],
+  "CLOUD": ["NOUN", "ADJ"],
+  "PLATE": ["NOUN", "ADJ"],
+  "ROAD": ["NOUN"],
+  "HOUSE": ["NOUN"],
+  "BEAN": ["NOUN"],
+  "BLOCK DEFEND": ["VERB"],
+  "BLOCK SQUARE": ["NOUN"],
+  "FOUNTAIN": ["NOUN"],
+  "PEARL": ["NOUN"],
+  "PEAR": ["NOUN"],
+  "THIMBLE": ["NOUN"],
+  "BUNNY": ["NOUN"],
+  "ROPE": ["NOUN"],
+  "STRING": ["NOUN"],
+  "WIRE": ["NOUN"],
+  "LASH": ["NOUN", "VERB"],
+  "SORCERY": ["NOUN", "ADJ"],
+  "SORCERER": ["NOUN"],
+  "ENSORCEL": ["VERB"],
+  "BEWITCH": ["VERB", "ADJ"],
+  "MAGICIAN": ["NOUN"],
+  "CONJURE": ["VERB"],
+  "CONJURER": ["NOUN"],
+  "ENCHANT": ["NOUN", "VERB", "ADJ"],
+  "ENCHANTER": ["NOUN"],
+  "LANCE": ["NOUN", "VERB"],
+  "LANCER": ["NOUN"],
+  "STINK": ["VERB", "ADJ"],
+  "FRECKLE": ["NOUN"],
+  "PIMPLE": ["NOUN"],
+  "WART": ["NOUN"],
+  "BLOTCH": ["NOUN"],
+  "CALLUS": ["NOUN"],
+  "WIND STORM": ["NOUN", "ADJ"],
+  "WIND CLOCK": ["VERB"],
+  "HAZE": ["NOUN", "ADJ"],
+  "SKIN": ["NOUN"],
+  "SHIN": ["NOUN"],
+  "TORTURE": ["NOUN", "VERB", "ADJ"],
+  "TOOL": ["NOUN"],
+  "SCHOLAR": ["NOUN", "ADJ"],
+  "WEEP": ["VERB"],
+  "MASSIVE": ["ADJ"],
+  "LARGE": ["ADJ"],
+  "SMALL": ["ADJ"],
+  "LOAF": ["NOUN"],
+  "TILE": ["NOUN", "ADJ"],
+  "SPORT": ["NOUN"],
+  "SEARCH": ["NOUN", "VERB"],
+  "STALE": ["ADJ"],
+  "FRESH": ["ADJ"],
+  "RUB": ["VERB"],
+  "WORTHY": ["NOUN", "ADJ"],
+  "WORTHLESS": ["ADJ"],
+  "FRIGHT": ["NOUN", "VERB", "ADJ"],
+  "REVOLTING": ["VERB", "ADJ"],
+  "DISGUST": ["NOUN", "VERB", "ADJ"],
+  "OUTRAGE": ["NOUN", "ADJ"],
+  "CRUEL": ["NOUN", "ADJ"],
+  "DEVIANT": ["NOUN", "ADJ"],
+  "DEVIOUS": ["ADJ"],
+  "FABULOUS": ["ADJ"],
+  "MORALITY": ["NOUN"],
+  "IMMORALITY": ["NOUN"],
+  "SKIN VERB": ["VERB"],
+  "SKINNY": ["ADJ"],
+  "NARROW": ["ADJ"],
+  "GRIEF": ["NOUN", "VERB", "ADJ"],
+  "BELT": ["NOUN", "ADJ"],
+  "SANDAL": ["NOUN", "ADJ"],
+  "FUTURE": ["NOUN", "ADJ"],
+  "PAST": ["NOUN", "ADJ"],
+  "PRESENT": ["NOUN", "ADJ"],
+  "BITE": ["NOUN", "VERB"],
+  "SPLIT": ["VERB", "ADJ"],
+  "BRASH": ["ADJ"],
+  "BRAZEN": ["ADJ"],
+  "STRANGLE": ["NOUN", "VERB", "ADJ"],
+  "GALLOWS": ["NOUN"],
+  "MUSCLE": ["NOUN", "ADJ"],
+  "DIM": ["VERB", "ADJ"],
+  "SPURT": ["NOUN", "VERB", "ADJ"],
+  "GRAVEL": ["NOUN"],
+  "RISK": ["NOUN", "VERB", "ADJ"],
+  "CHANCE": ["NOUN", "VERB"],
+  "CHANNEL": ["NOUN", "VERB"],
+  "MIRTH": ["NOUN", "ADJ"],
+  "GLEE": ["NOUN", "ADJ"],
+  "VICTIM": ["NOUN"],
+  "STRANGER": ["NOUN"],
+  "DRAB": ["ADJ"],
+  "VISION": ["NOUN"],
+  "VISIONARY": ["NOUN"],
+  "ORACLE": ["NOUN", "ADJ"],
+  "UTTER": ["NOUN", "VERB"],
+  "DECIDE": ["NOUN", "VERB"],
+  "DECISIVE": ["ADJ"],
+  "SPECIAL": ["ADJ"],
+  "AUTHOR": ["NOUN", "VERB"],
+  "AUTHORITY": ["NOUN"],
+  "PORTENT": ["NOUN", "ADJ"],
+  "MOMENTOUS": ["ADJ"],
+  "INFALLIBLE": ["ADJ"],
+  "AMBIGUOUS": ["NOUN", "ADJ"],
+  "CURIOUS": ["NOUN", "ADJ"],
+  "OBSCURE": ["NOUN", "ADJ"],
+  "OBSCENE": ["NOUN", "ADJ"],
+  "OBSTACLE": ["NOUN"],
+  "VULGAR": ["NOUN", "ADJ"],
+  "OMINOUS": ["ADJ"],
+  "ISLAND": ["NOUN"],
+  "CHURCH": ["NOUN"],
+  "TEMPLE": ["NOUN"],
+  "CULT": ["NOUN"],
+  "COVEN": ["NOUN"],
+  "SECT": ["NOUN"],
+  "ORDER GROUP": ["NOUN"],
+  "CREED": ["NOUN"],
+  "COMMUNION": ["NOUN"],
+  "DOCTRINE": ["NOUN"],
+  "FAITH": ["NOUN"],
+  "DENOMINATION": ["NOUN"],
+  "TEMPLE HEAD": ["NOUN"],
+  "OCCULT": ["ADJ"],
+  "ORDER CONCEPT": ["NOUN", "ADJ"],
+  "FAITH LOYALTY": ["NOUN", "ADJ"],
+  "GUILT": ["NOUN", "ADJ"],
+  "BABY": ["NOUN"],
+  "BLEED": ["VERB"],
+  "GIRL": ["NOUN", "ADJ"],
+  "BOY": ["NOUN", "ADJ"],
+  "WOMAN": ["NOUN"],
+  "FLAG": ["NOUN"],
+  "BANNER": ["NOUN"],
+  "WREATH": ["NOUN"],
+  "STANDARD FLAG": ["NOUN"],
+  "TRUMPET": ["NOUN"],
+  "GOAL": ["NOUN"],
+  "JAIL": ["NOUN"],
+  "PRISON": ["NOUN"],
+  "LIBRARY": ["NOUN"],
+  "AVALANCHE": ["NOUN"],
+  "STIGMA": ["NOUN"],
+  "SLICK": ["ADJ"],
+  "TALK": ["VERB"],
+  "JAILER": ["NOUN"],
+  "STILL UNMOVING": ["VERB", "ADJ"],
+  "CALM": ["NOUN", "VERB", "ADJ"],
+  "HUSH": ["VERB"],
+  "LACONIC": ["ADJ"],
+  "LULL": ["NOUN", "VERB"],
+  "MUTE": ["VERB", "ADJ"],
+  "NOISELESS": ["NOUN", "ADJ"],
+  "QUIESCENT": ["NOUN", "ADJ"],
+  "QUIET": ["NOUN", "VERB", "ADJ"],
+  "RETICENT": ["NOUN", "ADJ"],
+  "SATURNINE": ["NOUN", "ADJ"],
+  "SPEECHLESS": ["NOUN", "ADJ"],
+  "TACITURN": ["ADJ"],
+  "FORTUNE LUCK": ["NOUN", "ADJ"],
+  "FORTUNE WEALTH": ["NOUN"],
+  "ACCIDENT": ["NOUN", "ADJ"],
+  "CIRCUMSTANCE": ["NOUN", "ADJ"],
+  "CONTINGENT": ["NOUN"],
+  "CONTINGENCY": ["NOUN", "ADJ"],
+  "COINCIDENCE": ["NOUN", "ADJ"],
+  "FLUKE": ["NOUN"],
+  "LUCK": ["NOUN", "ADJ"],
+  "CERTAIN": ["NOUN", "ADJ"],
+  "UNCERTAIN": ["NOUN", "ADJ"],
+  "FORTUITOUS": ["ADJ"],
+  "INCIDENTAL": ["NOUN", "ADJ"],
+  "AMUSE": ["NOUN", "VERB", "ADJ"],
+  "PASTIME": ["NOUN"],
+  "DISTRACT ANNOY": ["NOUN", "VERB", "ADJ"],
+  "DISTRACTION GAME": ["NOUN"],
+  "DIVERSION GAME": ["NOUN"],
+  "DIVERT DETOUR": ["NOUN", "VERB"],
+  "RECREATION GAME": ["NOUN"],
+  "COMPETE": ["NOUN", "VERB", "ADJ"],
+  "CONTEST": ["NOUN", "VERB", "ADJ"],
+  "MATCH CONTEST": ["NOUN", "VERB", "ADJ"],
+  "MATCH EQUAL": ["NOUN", "VERB", "ADJ"],
+  "TOURNAMENT": ["NOUN"],
+  "PLAN": ["NOUN", "VERB"],
+  "SCENARIO": ["NOUN"],
+  "STRATEGY": ["NOUN", "ADJ"],
+  "TACTIC": ["NOUN", "ADJ"],
+  "AUTONOMY": ["NOUN", "ADJ"],
+  "EMANCIPATE": ["NOUN", "VERB", "ADJ"],
+  "EXTRICATE": ["NOUN", "VERB"],
+  "IMPUNITY": ["NOUN"],
+  "LIBERATE": ["NOUN", "VERB"],
+  "LIBERTY": ["NOUN"],
+  "RELEASE": ["NOUN", "VERB", "ADJ"],
+  "RELIEVE": ["NOUN", "VERB", "ADJ"],
+  "EVEN": ["NOUN", "VERB", "ADJ"],
+  "BALANCE": ["NOUN", "VERB", "ADJ"],
+  "EQUITY": ["NOUN"],
+  "EQUIVALENCE": ["NOUN", "ADJ"],
+  "PARITY": ["NOUN"],
+  "STASIS": ["NOUN", "ADJ"],
+  "SYMMETRY": ["NOUN", "ADJ"],
+  "EQUAL": ["NOUN", "VERB", "ADJ"],
+  "HARMONY": ["NOUN", "VERB", "ADJ"],
+  "NEUTRALIZE": ["NOUN", "VERB"],
+  "NEUTRAL": ["NOUN", "ADJ"],
+  "STABLE UNCHANGING": ["NOUN", "VERB", "ADJ"],
+  "LULL MISLEAD": ["VERB"],
+  "DOUR": ["NOUN", "ADJ"],
+  "GLOOM": ["NOUN", "ADJ"],
+  "SEVERE": ["NOUN", "ADJ"],
+  "GLUM": ["NOUN", "ADJ"],
+  "IMAGE": ["NOUN"],
+  "SHRINE": ["NOUN"],
+  "SANCTUARY": ["NOUN"],
+  "MONASTERY": ["NOUN"],
+  "CONVENT": ["NOUN"],
+  "CATHEDRAL": ["NOUN"],
+  "CHAPEL": ["NOUN"],
+  "SANCTUM": ["NOUN"],
+  "INFERNO": ["NOUN"],
+  "CONFLAGRATION": ["NOUN"],
+  "FLARE": ["NOUN"],
+  "HEAT": ["NOUN", "VERB", "ADJ"],
+  "SAND": ["NOUN"],
+  "PILLAR": ["NOUN"],
+  "COLUMN": ["NOUN"],
+  "ARCH NOUN": ["NOUN"],
+  "GROTTO": ["NOUN"],
+  "CAVERN": ["NOUN", "ADJ"],
+  "DEPTH": ["NOUN"],
+  "SHADE": ["NOUN", "ADJ"],
+  "VEIL": ["NOUN", "VERB", "ADJ"],
+  "RELIC": ["NOUN"],
+  "UMBRA": ["NOUN", "ADJ"],
+  "PHANTOM": ["NOUN"],
+  "MURK": ["NOUN", "ADJ"],
+  "FAINT INTENSITY": ["ADJ"],
+  "FAINT VERB": ["VERB"],
+  "SOMBER": ["ADJ"],
+  "TENEBROUS": ["ADJ"],
+  "MOROSE": ["ADJ"],
+  "LOVER": ["NOUN"],
+  "BELOVED": ["ADJ"],
+  "ESCORT": ["NOUN", "VERB", "ADJ"],
+  "SUITOR": ["NOUN"],
+  "PUNGENT": ["NOUN", "ADJ"],
+  "MUSTY": ["ADJ"],
+  "INFECT": ["NOUN", "VERB", "ADJ"],
+  "LESION": ["NOUN"],
+  "AFFLICT": ["NOUN", "VERB", "ADJ"],
+  "ACHE": ["NOUN", "VERB", "ADJ"],
+  "EPIDEMIC": ["NOUN", "ADJ"],
+  "FIGHT": ["NOUN", "VERB"],
+  "SCUFFLE": ["NOUN", "VERB"],
+  "YAWN": ["NOUN", "VERB", "ADJ"],
+  "ACTION": ["NOUN"],
+  "ASSAULT": ["NOUN", "VERB", "ADJ"],
+  "CARNAL": ["NOUN", "ADJ"],
+  "STRIFE": ["NOUN", "ADJ"],
+  "COMBAT": ["NOUN", "VERB"],
+  "CITADEL": ["NOUN"],
+  "CITY": ["NOUN"],
+  "TOWN": ["NOUN"],
+  "VILLAGE": ["NOUN"],
+  "MANOR": ["NOUN"],
+  "MANSION": ["NOUN"],
+  "PALACE": ["NOUN"],
+  "COTTAGE": ["NOUN"],
+  "SHACK": ["NOUN"],
+  "HUT": ["NOUN"],
+  "HOVEL": ["NOUN"],
+  "BASTION": ["NOUN"],
+  "FURNACE": ["NOUN"],
+  "ANVIL": ["NOUN"],
+  "BRIDGE": ["NOUN", "VERB"],
+  "SAFE": ["NOUN", "VERB", "ADJ"],
+  "GOAD": ["NOUN", "VERB"],
+  "MACHINE": ["NOUN"],
+  "FLAY": ["NOUN", "VERB", "ADJ"],
+  "OIL": ["NOUN", "VERB", "ADJ"],
+  "SUICIDE": ["NOUN", "ADJ"],
+  "MARBLE BALL": ["NOUN"],
+  "BAIT": ["NOUN", "VERB"],
+  "LURE": ["NOUN", "VERB"],
+  "REWARD": ["NOUN", "VERB"],
+  "WARD": ["NOUN", "VERB"],
+  "PRICE": ["NOUN", "VERB"],
+  "PRINCE": ["NOUN"],
+  "PRINCESS": ["NOUN"],
+  "TEMPT": ["NOUN", "VERB", "ADJ"],
+  "SPURN": ["NOUN", "VERB"],
+  "SCORN": ["NOUN", "VERB"],
+  "CONTEMPT": ["NOUN", "ADJ"],
+  "AFFECTION": ["NOUN"],
+  "COMPASSION": ["NOUN"],
+  "SACRIFICE": ["NOUN", "VERB", "ADJ"],
+  "CHARITY": ["NOUN"],
+  "CHERISH": ["VERB"],
+  "TRAMPLE": ["VERB", "ADJ"],
+  "MALICE": ["NOUN", "ADJ"],
+  "HATRED": ["NOUN"],
+  "SPITE": ["NOUN", "VERB", "ADJ"],
+  "SHORE": ["NOUN"],
+  "BEACH": ["NOUN", "VERB"],
+  "COAST": ["NOUN", "ADJ"],
+  "INSECT": ["NOUN"],
+  "BUG": ["NOUN"],
+  "CRITTER": ["NOUN"],
+  "BRUTE": ["NOUN", "VERB", "ADJ"],
+  "PET": ["NOUN"],
+  "BARBARIAN": ["NOUN"],
+  "HARSH": ["NOUN", "ADJ"],
+  "PRISTINE": ["ADJ"],
+  "FEROCITY": ["NOUN", "ADJ"],
+  "BARBARITY": ["NOUN", "ADJ"],
+  "FERAL": ["ADJ"],
+  "FURY": ["NOUN", "ADJ"],
+  "RUTHLESS": ["NOUN", "ADJ"],
+  "GORE NOUN": ["NOUN", "ADJ"],
+  "CHAMPION": ["NOUN"],
+  "VIRTUE": ["NOUN", "ADJ"],
+  "SCANDAL": ["NOUN", "ADJ"],
+  "APOGEE": ["NOUN"],
+  "SPIRE": ["NOUN"],
+  "SPIRAL": ["NOUN", "VERB"],
+  "CLIMAX": ["NOUN", "ADJ"],
+  "CLIMATE": ["NOUN"],
+  "WEATHER": ["NOUN"],
+  "CREST": ["NOUN", "VERB", "ADJ"],
+  "CULMINATE": ["NOUN", "VERB"],
+  "CUSP": ["NOUN"],
+  "MOST": ["ADJ"],
+  "PEAK": ["NOUN", "VERB"],
+  "BLUNT": ["VERB", "ADJ"],
+  "ROOF": ["NOUN"],
+  "CEILING": ["NOUN"],
+  "FLOOR": ["NOUN"],
+  "SUMMIT": ["NOUN"],
+  "TIP": ["NOUN"],
+  "TOP": ["NOUN"],
+  "BOTTOM": ["NOUN"],
+  "SIDE": ["NOUN"],
+  "ZENITH": ["NOUN"],
+  "FLANK VERB": ["VERB"],
+  "PASS MOUNTAIN": ["NOUN"],
+  "PASS VERB": ["VERB"],
+  "PASSAGE": ["NOUN"],
+  "CORRIDOR": ["NOUN"],
+  "HALL": ["NOUN"],
+  "GALLERY": ["NOUN"],
+  "GALLEY": ["NOUN"],
+  "ARENA": ["NOUN"],
+  "ARMORY": ["NOUN"],
+  "ASSEMBLE": ["NOUN", "VERB"],
+  "MEET": ["NOUN", "VERB"],
+  "THEATER": ["NOUN"],
+  "ENTRANCE": ["NOUN"],
+  "EXIT": ["NOUN", "VERB"],
+  "ENTRY": ["NOUN", "VERB"],
+  "VESTIBULE": ["NOUN"],
+  "FROST": ["NOUN", "ADJ"],
+  "FEVER": ["NOUN", "ADJ"],
+  "HUMID": ["NOUN", "ADJ"],
+  "HUMOR": ["NOUN", "ADJ"],
+  "COMEDY": ["NOUN", "ADJ"],
+  "SIZZLE": ["VERB", "ADJ"],
+  "SWELTER": ["VERB", "ADJ"],
+  "WARM": ["NOUN", "ADJ"],
+  "TORRID": ["ADJ"],
+  "ACRID": ["ADJ"],
+  "DALE": ["NOUN"],
+  "DELL": ["NOUN"],
+  "GLADE": ["NOUN"],
+  "VALE": ["NOUN"],
+  "BASIN": ["NOUN"],
+  "BOWL": ["NOUN"],
+  "CAVITY": ["NOUN"],
+  "CRATER": ["NOUN", "ADJ"],
+  "DEN": ["NOUN"],
+  "DENT": ["NOUN", "VERB", "ADJ"],
+  "DEPRESS SAD": ["NOUN", "VERB", "ADJ"],
+  "DEPRESSION LOW": ["NOUN"],
+  "DIMPLE": ["NOUN", "VERB", "ADJ"],
+  "DIP": ["NOUN", "VERB", "ADJ"],
+  "DISH": ["NOUN"],
+  "EXCAVATE": ["NOUN", "VERB", "ADJ"],
+  "GROOVE": ["NOUN", "VERB", "ADJ"],
+  "GULF SEA": ["NOUN"],
+  "GULF PIT": ["NOUN"],
+  "GULF DISTANCE": ["NOUN"],
+  "DISTANCE": ["NOUN", "ADJ"],
+  "NOTCH": ["NOUN", "VERB", "ADJ"],
+  "SAG": ["VERB", "ADJ"],
+  "SCOOP": ["NOUN", "VERB"],
+  "SOCKET": ["NOUN", "VERB", "ADJ"],
+  "TROUGH": ["NOUN"],
+  "VALLEY": ["NOUN"],
+  "FENCE": ["NOUN", "ADJ"],
+  "BARRICADE": ["NOUN", "VERB", "ADJ"],
+  "BLOCKADE": ["NOUN", "VERB", "ADJ"],
+  "BOARD PLANK": ["NOUN"],
+  "BOARD GET ON": ["VERB"],
+  "PLANK": ["NOUN"],
+  "DEFEND": ["NOUN", "VERB", "ADJ"],
+  "DEFENSE": ["NOUN", "ADJ"],
+  "DIKE": ["NOUN"],
+  "PALISADE": ["NOUN"],
+  "POST": ["NOUN"],
+  "RAMPART": ["NOUN"],
+  "STAKE": ["NOUN"],
+  "STOP": ["NOUN", "VERB"],
+  "STOCKADE": ["NOUN"],
+  "ABYSS": ["NOUN", "ADJ"],
+  "CHASM": ["NOUN"],
+  "CREVICE": ["NOUN"],
+  "RIFT": ["NOUN"],
+  "FISSURE": ["NOUN"],
+  "UNDER": ["PREFIX"],
+  "ABYSMAL": ["ADJ"],
+  "SUBMERGE": ["VERB", "ADJ"],
+  "CYCLONE": ["NOUN"],
+  "TYPHOON": ["NOUN"],
+  "HURRICANE": ["NOUN"],
+  "GALE": ["NOUN"],
+  "TORNADO": ["NOUN"],
+  "HAIL GREET": ["VERB"],
+  "HAIL ICE": ["NOUN", "VERB"],
+  "HALE": ["ADJ"],
+  "ROBUST": ["NOUN", "ADJ"],
+  "HARDY": ["NOUN", "ADJ"],
+  "VIGOR": ["NOUN", "ADJ"],
+  "AIR": ["NOUN"],
+  "SPLASH": ["NOUN", "VERB"],
+  "DABBLE": ["NOUN", "VERB", "ADJ"],
+  "DOUSE": ["VERB", "ADJ"],
+  "DRENCH": ["VERB", "ADJ"],
+  "MOIST": ["NOUN", "VERB", "ADJ"],
+  "PLUNGE": ["NOUN", "VERB"],
+  "SHOWER": ["NOUN", "VERB"],
+  "SLOP": ["NOUN", "VERB", "ADJ"],
+  "SLOSH": ["VERB"],
+  "SOAK": ["VERB", "ADJ"],
+  "SPATTER": ["VERB", "ADJ"],
+  "SPLATTER": ["VERB", "ADJ"],
+  "SPRAY": ["NOUN", "VERB", "ADJ"],
+  "SPREAD": ["VERB", "ADJ"],
+  "SPRINKLE": ["VERB"],
+  "TWINKLE": ["NOUN", "VERB", "ADJ"],
+  "SQUIRT": ["VERB"],
+  "WAD": ["NOUN"],
+  "WADE": ["VERB"],
+  "WET": ["VERB", "ADJ"],
+  "FADE": ["VERB", "ADJ"],
+  "COLORLESS": ["ADJ"],
+  "BLANCH": ["VERB"],
+  "BLEACH": ["VERB"],
+  "BLENCH": ["VERB"],
+  "FLINCH": ["VERB"],
+  "APPEAR": ["NOUN", "VERB"],
+  "DISAPPEAR": ["NOUN", "VERB"],
+  "DISSOLVE": ["VERB"],
+  "DULL": ["VERB", "ADJ"],
+  "EVAPORATE": ["NOUN", "VERB", "ADJ"],
+  "LUSTER": ["NOUN", "ADJ"],
+  "TONE": ["NOUN", "VERB"],
+  "VANISH": ["NOUN", "VERB", "ADJ"],
+  "WASH": ["VERB", "ADJ"],
+  "ABATE": ["NOUN", "VERB", "ADJ"],
+  "DECLINE": ["NOUN", "VERB", "ADJ"],
+  "DETERIORATE": ["NOUN", "VERB", "ADJ"],
+  "DIMINISH": ["NOUN", "VERB", "ADJ"],
+  "DISPERSE": ["NOUN", "VERB", "ADJ"],
+  "DROOP": ["NOUN", "VERB", "ADJ"],
+  "DWINDLE": ["VERB", "ADJ"],
+  "KINDLE": ["NOUN", "VERB", "ADJ"],
+  "STOKE": ["NOUN", "VERB", "ADJ"],
+  "POKE": ["NOUN", "VERB"],
+  "STIR": ["VERB", "ADJ"],
+  "FEED": ["NOUN", "VERB", "ADJ"],
+  "FAIL": ["NOUN", "VERB", "ADJ"],
+  "LANGUISH": ["VERB", "ADJ"],
+  "LESSEN": ["VERB", "ADJ"],
+  "LESSON": ["NOUN"],
+  "TEACH": ["NOUN", "VERB"],
+  "MASTERY": ["NOUN"],
+  "PERISH": ["NOUN", "VERB"],
+  "SHRIVEL": ["VERB", "ADJ"],
+  "SINK": ["VERB", "ADJ"],
+  "TAPER": ["VERB", "ADJ"],
+  "THIN": ["VERB", "ADJ"],
+  "TIRE": ["NOUN", "VERB", "ADJ"],
+  "WANE": ["NOUN", "VERB", "ADJ"],
+  "WEAK": ["NOUN", "VERB", "ADJ"],
+  "WILT": ["NOUN", "VERB", "ADJ"],
+  "WITHER": ["VERB", "ADJ"],
+  "HONOR": ["NOUN", "VERB", "ADJ"],
+  "ADORE": ["NOUN", "VERB", "ADJ"],
+  "ADULATE": ["NOUN"],
+  "CELEBRATE": ["NOUN", "VERB", "ADJ"],
+  "CONFIDENT": ["NOUN", "ADJ"],
+  "DEFERENCE": ["NOUN", "ADJ"],
+  "DEITY": ["NOUN"],
+  "DISTINCT": ["NOUN", "VERB", "ADJ"],
+  "ELEVATE": ["NOUN", "VERB", "ADJ"],
+  "ESTEEM": ["NOUN", "VERB", "ADJ"],
+  "EXALT": ["NOUN", "VERB", "ADJ"],
+  "FAME": ["NOUN", "ADJ"],
+  "FEALTY": ["NOUN"],
+  "HOMAGE": ["NOUN"],
+  "MORTAL": ["NOUN", "ADJ"],
+  "IMMORTAL": ["NOUN", "ADJ"],
+  "LAUD": ["VERB", "ADJ"],
+  "OBEISANCE": ["NOUN", "ADJ"],
+  "PRAISE": ["NOUN", "VERB", "ADJ"],
+  "PRESTIGE": ["NOUN", "ADJ"],
+  "RENOWN": ["NOUN", "ADJ"],
+  "REPUTATION": ["NOUN", "VERB", "ADJ"],
+  "TRIBUTE": ["NOUN"],
+  "WORSHIP": ["NOUN", "VERB", "ADJ"],
+  "CHASTITY": ["NOUN", "ADJ"],
+  "COURAGE": ["NOUN", "ADJ"],
+  "DECENT": ["NOUN", "ADJ"],
+  "GOOD": ["NOUN", "ADJ"],
+  "INNOCENT": ["NOUN", "ADJ"],
+  "MODEST": ["NOUN", "ADJ"],
+  "PRINCIPLE": ["NOUN"],
+  "PURE": ["NOUN", "VERB", "ADJ"],
+  "RIGHTEOUSNESS": ["NOUN"],
+  "TRUTH": ["NOUN", "ADJ"],
+  "TRUTHFUL": ["ADJ"],
+  "VIRGIN": ["NOUN", "ADJ"],
+  "VIRGINITY": ["NOUN"],
+  "HOLD": ["NOUN", "VERB", "ADJ"],
+  "SCALD": ["VERB", "ADJ"],
+  "SCALE VERB": ["VERB"],
+  "SCALE SKIN": ["NOUN", "ADJ"],
+  "CLAN": ["NOUN"],
+  "LABYRINTH": ["NOUN", "ADJ"],
+  "MAZE": ["NOUN"],
+  "WEB": ["NOUN", "VERB"],
+  "CROWD": ["NOUN", "VERB", "ADJ"],
+  "FAMILY": ["NOUN", "ADJ"],
+  "KIN": ["NOUN"],
+  "MOB": ["NOUN", "VERB"],
+  "ORGAN": ["NOUN"],
+  "ORGANIZE": ["NOUN", "VERB", "ADJ"],
+  "MESH": ["NOUN"],
+  "TANGLE": ["NOUN", "VERB", "ADJ"],
+  "ENTANGLE": ["NOUN", "VERB", "ADJ"],
+  "PUZZLE": ["NOUN", "VERB", "ADJ"],
+  "PERPLEX": ["VERB", "ADJ"],
+  "QUANDARY": ["NOUN"],
+  "COMBINE": ["NOUN", "VERB", "ADJ"],
+  "FLICKER": ["NOUN", "VERB", "ADJ"],
+  "BRAND": ["NOUN", "VERB", "ADJ"],
+  "SINGE": ["VERB", "ADJ"],
+  "SEAR": ["VERB", "ADJ"],
+  "SCORCH": ["VERB", "ADJ"],
+  "ROAST": ["VERB", "ADJ"],
+  "PARCH": ["VERB", "ADJ"],
+  "IGNITE": ["NOUN", "VERB", "ADJ"],
+  "INCINERATE": ["NOUN", "VERB", "ADJ"],
+  "GLOW": ["NOUN", "VERB", "ADJ"],
+  "CREMATE": ["NOUN", "VERB", "ADJ"],
+  "FACTION": ["NOUN", "ADJ"],
+  "CREW": ["NOUN", "VERB", "ADJ"],
+  "VESSEL": ["NOUN"],
+  "LEAGUE GROUP": ["NOUN"],
+  "COOPERATE": ["NOUN", "VERB", "ADJ"],
+  "GROUP": ["NOUN", "VERB"],
+  "GANG": ["NOUN"],
+  "FELLOWSHIP": ["NOUN"],
+  "PARTNER": ["NOUN", "VERB"],
+  "RIDDLE": ["NOUN", "VERB"],
+  "ROUT": ["NOUN", "VERB", "ADJ"],
+  "SCRAPE": ["NOUN", "VERB", "ADJ"],
+  "SCRAP": ["NOUN"],
+  "SCOUR": ["VERB", "ADJ"],
+  "SCRUB": ["VERB", "ADJ"],
+  "SHAKE": ["VERB", "ADJ"],
+  "SOAP": ["NOUN", "ADJ"],
+  "SPONGE": ["NOUN", "ADJ"],
+  "SWEEP": ["VERB"],
+  "WHISKER": ["NOUN", "ADJ"],
+  "FASTEN": ["VERB"],
+  "WINNOW": ["NOUN", "VERB"],
+  "WIPE": ["VERB"],
+  "CLENCH": ["VERB"],
+  "CLINCH": ["NOUN", "VERB"],
+  "CLOUT": ["NOUN", "VERB"],
+  "CLUTCH": ["NOUN", "VERB"],
+  "DOMINATE": ["NOUN", "VERB", "ADJ"],
+  "DOMINION": ["NOUN"],
+  "GRASP": ["NOUN", "VERB", "ADJ"],
+  "INFLUENCE": ["NOUN", "VERB", "ADJ"],
+  "OWN": ["NOUN", "VERB"],
+  "OWNERSHIP": ["NOUN"],
+  "TENACITY": ["NOUN", "ADJ"],
+  "BIND": ["VERB"],
+  "CARRY": ["VERB"],
+  "CATCH": ["NOUN", "VERB"],
+  "CONFINE": ["NOUN", "VERB", "ADJ"],
+  "CONTAIN": ["NOUN", "VERB", "ADJ"],
+  "CRADLE": ["NOUN", "VERB", "ADJ"],
+  "EMBRACE": ["NOUN", "VERB", "ADJ"],
+  "POOL": ["NOUN"],
+  "SOCIETY": ["NOUN"],
+  "CIRCLE": ["NOUN", "VERB", "ADJ"],
+  "SQUARE": ["NOUN", "ADJ"],
+  "TRIANGLE": ["NOUN", "ADJ"],
+  "CONNECT": ["NOUN", "VERB", "ADJ"],
+  "MERGE": ["VERB", "ADJ"],
+  "CONFUSE": ["NOUN", "VERB", "ADJ"],
+  "COMPLEX": ["NOUN", "ADJ"],
+  "MEANDER": ["VERB", "ADJ"],
+  "MUDDLE": ["VERB", "ADJ"],
+  "BEWILDER": ["NOUN", "VERB", "ADJ"],
+  "MORASS": ["NOUN"],
+  "PROBLEM": ["NOUN", "ADJ"],
+  "INTRICATE": ["NOUN", "ADJ"],
+  "FLUSH": ["VERB"],
+  "MOP": ["NOUN", "VERB"],
+  "POLISH": ["NOUN", "VERB", "ADJ"],
+  "PURGE": ["NOUN", "VERB", "ADJ"],
+  "RASP": ["NOUN", "VERB"],
+  "RINSE": ["VERB"],
+  "BAND OBJECT": ["NOUN", "ADJ"],
+  "BAND GROUP": ["NOUN"],
+  "TALL": ["ADJ"],
+  "SHORT": ["ADJ"],
+  "BULBOUS": ["ADJ"],
+  "BULB": ["NOUN"],
+  "ALLY": ["NOUN", "VERB", "ADJ"],
+  "ALLIANCE": ["NOUN"],
+  "ALLEGIANCE": ["NOUN"],
+  "COALITION": ["NOUN"],
+  "COAL": ["NOUN"],
+  "ENJOY": ["NOUN", "VERB", "ADJ"],
+  "FONDLE": ["VERB", "ADJ"],
+  "HANDLE OBJECT": ["NOUN"],
+  "HANDLE VERB": ["VERB"],
+  "IMPRISON": ["NOUN", "VERB", "ADJ"],
+  "NOURISH": ["NOUN", "VERB", "ADJ"],
+  "SQUEEZE": ["VERB", "ADJ"],
+  "TRAMMEL": ["NOUN", "VERB"],
+  "VICE": ["NOUN"],
+  "VISE": ["NOUN", "VERB"],
+  "DEFECT FAULT": ["NOUN", "ADJ"],
+  "PERFECT": ["NOUN", "VERB", "ADJ"],
+  "GEM": ["NOUN"],
+  "JEWEL": ["NOUN", "VERB", "ADJ"],
+  "WIELD": ["VERB"],
+  "WRING": ["VERB"],
+  "CONJUNCTION": ["NOUN"],
+  "BLOT": ["NOUN", "VERB", "ADJ"],
+  "BLOW": ["VERB", "ADJ"],
+  "BRUSH": ["NOUN", "VERB", "ADJ"],
+  "CLARIFY": ["NOUN", "VERB"],
+  "CLEANSE": ["VERB"],
+  "DREDGE": ["VERB"],
+  "ERASE": ["NOUN", "VERB", "ADJ"],
+  "MORSEL": ["NOUN"],
+  "MONGREL": ["NOUN"],
+  "TENDER": ["NOUN", "ADJ"],
+  "URGE": ["NOUN", "VERB"],
+  "MECHANISM": ["NOUN", "ADJ"],
+  "SMEAR": ["NOUN", "VERB", "ADJ"],
+  "TATTOO": ["NOUN", "VERB", "ADJ"],
+  "WEATHER VERB": ["NOUN", "VERB", "ADJ"],
+  "CRUX": ["NOUN"],
+  "PEEK": ["NOUN", "VERB"],
+  "SNEAK": ["VERB"],
+  "ATTIC": ["NOUN"],
+  "BASEMENT": ["NOUN"],
+  "DEARTH": ["NOUN"],
+  "APEX": ["NOUN"],
+  "NADIR": ["NOUN"],
+  "TUNNEL": ["NOUN", "VERB"],
+  "ENTRANCE VERB": ["VERB", "ADJ"],
+  "DELIGHT": ["NOUN", "VERB", "ADJ"],
+  "JOY": ["NOUN", "ADJ"],
+  "FRIGID": ["NOUN", "ADJ"],
+  "ANKLE": ["NOUN"],
+  "ELBOW": ["NOUN"],
+  "PASSION": ["NOUN", "ADJ"],
+  "ARDENT": ["ADJ"],
+  "STREAM": ["NOUN"],
+  "BOWEL GUT": ["NOUN"],
+  "BOWEL INTERIOR": ["NOUN"],
+  "DRILL BORE": ["VERB"],
+  "DRILL ROUTINE": ["NOUN", "VERB"],
+  "BORE DRILL": ["VERB"],
+  "BOREDOM": ["NOUN", "VERB", "ADJ"],
+  "FLECK": ["NOUN", "ADJ"],
+  "SPOT": ["NOUN", "ADJ"],
+  "DOT": ["NOUN"],
+  "CREATE": ["NOUN", "VERB", "ADJ"],
+  "POEM": ["NOUN"],
+  "POETRY": ["NOUN", "ADJ"],
+  "POET": ["NOUN"],
+  "SCRIBE": ["NOUN", "VERB"],
+  "MONK": ["NOUN"],
+  "HERMIT": ["NOUN", "ADJ"],
+  "RECLUSE": ["NOUN", "ADJ"],
+  "NAME": ["NOUN", "VERB", "ADJ"],
+  "LANGUAGE": ["NOUN"],
+  "PHRASE": ["NOUN", "VERB"],
+  "RHYME": ["NOUN", "VERB", "ADJ"],
+  "RHYTHM": ["NOUN", "ADJ"],
+  "VERSE": ["NOUN"],
+  "DRUM VERB": ["VERB"],
+  "CREATURE": ["NOUN"],
+  "SNAIL": ["NOUN"],
+  "VINE": ["NOUN"],
+  "SQUASH": ["VERB", "ADJ"],
+  "NEVER": ["PREFIX"],
+  "DWELL": ["NOUN", "VERB"],
+  "HABIT": ["NOUN", "ADJ"],
+  "CHEW": ["VERB"],
+  "SWALLOW": ["NOUN", "VERB"],
+  "DISEMBOWEL": ["NOUN", "VERB", "ADJ"],
+  "EVISCERATE": ["NOUN", "VERB", "ADJ"],
+  "RAPID": ["NOUN", "ADJ"],
+  "MEDICINE": ["NOUN"],
+  "HEAL": ["NOUN", "VERB", "ADJ"],
+  "SELL": ["VERB"],
+  "MARKET": ["NOUN"],
+  "SLOW": ["VERB", "ADJ"],
+  "MIRE": ["NOUN", "VERB", "ADJ"],
+  "ADMIRE": ["NOUN", "VERB", "ADJ"],
+  "DIRGE": ["NOUN"],
+  "LAMENT": ["NOUN", "VERB", "ADJ"],
+  "FUNERAL": ["NOUN"],
+  "QUEST": ["NOUN", "VERB"],
+  "ADVENTURE": ["NOUN", "VERB", "ADJ"],
+  "MOURN": ["VERB", "ADJ"],
+  "MORNING": ["NOUN"],
+  "BULWARK": ["NOUN"],
+  "COSMOS": ["NOUN"],
+  "ANGUISH": ["NOUN", "VERB", "ADJ"],
+  "TAUT": ["ADJ"],
+  "DEIFY": ["NOUN", "VERB", "ADJ"],
+  "INFAMY": ["NOUN", "ADJ"],
+  "MORTALITY": ["NOUN"],
+  "IMMORTALITY": ["NOUN"],
+  "MORTIFY": ["NOUN", "VERB", "ADJ"],
+  "OBEY": ["VERB"],
+  "WORSHIPPER": ["NOUN"],
+  "RIDDLE HOLES": ["VERB", "ADJ"],
+  "DWELLING": ["NOUN"],
+  "DISEMBOWELMENT": ["NOUN"],
+  "EVISCERATION": ["NOUN"],
+  "HEALING": ["NOUN"],
+  "ADMIRATION": ["NOUN"],
+  "CONFLICT": ["NOUN"],
+  "ATTACK": ["NOUN", "VERB"],
+  "ONSLAUGHT": ["NOUN"],
+  "TREE": ["NOUN"],
+  "AMBER": ["NOUN", "ADJ"],
+  "AMETHYST": ["NOUN", "ADJ"],
+  "AQUA": ["ADJ"],
+  "AQUAMARINE": ["NOUN", "ADJ"],
+  "GRAY": ["NOUN", "ADJ"],
+  "AUBURN": ["ADJ"],
+  "AZURE": ["ADJ"],
+  "BEIGE": ["ADJ"],
+  "BRASS": ["NOUN", "ADJ"],
+  "BROWN": ["ADJ"],
+  "BUFF": ["ADJ"],
+  "SIENNA": ["ADJ"],
+  "UMBER": ["ADJ"],
+  "CARDINAL_COLOR": ["ADJ"],
+  "CARMINE": ["ADJ"],
+  "CERULEAN": ["ADJ"],
+  "CHARCOAL": ["NOUN", "ADJ"],
+  "CHARTREUSE": ["ADJ"],
+  "CHESTNUT": ["NOUN", "ADJ"],
+  "CHOCOLATE": ["NOUN", "ADJ"],
+  "CINNAMON": ["NOUN", "ADJ"],
+  "COBALT": ["NOUN", "ADJ"],
+  "INDIGO": ["ADJ"],
+  "OLIVE": ["NOUN", "ADJ"],
+  "PINK": ["ADJ"],
+  "SCARLET": ["ADJ"],
+  "TAN": ["ADJ"],
+  "ECRU": ["ADJ"],
+  "EMERALD": ["NOUN", "ADJ"],
+  "FLAX": ["NOUN", "ADJ"],
+  "FUCHSIA": ["ADJ"],
+  "GOLDENROD": ["ADJ"],
+  "HELIOTROPE": ["ADJ"],
+  "LAVENDER": ["ADJ"],
+  "BLUSH": ["NOUN", "VERB"],
+  "LEMON": ["NOUN"],
+  "LILAC": ["NOUN"],
+  "LIME": ["NOUN"],
+  "MAHOGANY": ["ADJ"],
+  "MAROON_COLOR": ["ADJ"],
+  "MAUVE": ["ADJ"],
+  "TAUPE": ["ADJ"],
+  "MINT": ["ADJ"],
+  "MOSS": ["NOUN"],
+  "OCHRE": ["ADJ"],
+  "ORANGE": ["NOUN"],
+  "PERIWINKLE": ["NOUN"],
+  "PLUM": ["NOUN"],
+  "PUCE": ["ADJ"],
+  "PUMPKIN": ["NOUN"],
+  "RUSSET": ["ADJ"],
+  "SAFFRON": ["NOUN", "ADJ"],
+  "SEPIA": ["ADJ"],
+  "TEAL": ["ADJ"],
+  "TURQUOISE": ["NOUN", "ADJ"],
+  "VERMILION": ["ADJ"],
+  "PATH": ["NOUN"],
+  "THREAT": ["NOUN", "VERB"],
+  "WARNING": ["NOUN", "VERB"],
+  "FATE": ["NOUN", "ADJ"],
+  "DESTINY": ["NOUN", "ADJ"],
+  "HORROR": ["NOUN"],
+  "LITTLE": ["ADJ"],
+  "EARLY": ["ADJ"],
+  "LATE": ["ADJ"],
+  "LIFE": ["NOUN", "VERB", "ADJ"],
+  "CHEESE": ["NOUN"],
+  "FIGURE_OBJECT": ["NOUN"],
+  "HOPE": ["NOUN", "VERB", "ADJ"],
+  "BODY": ["NOUN"],
+  "WALK": ["NOUN", "VERB"],
+  "HOUR": ["NOUN"],
+  "SIT": ["VERB"],
+  "MOMENT": ["NOUN"],
+  "BEAUTY": ["NOUN", "ADJ"],
+  "JUDGE": ["NOUN", "VERB"],
+  "WISH": ["NOUN", "VERB"],
+  "RESPECT": ["NOUN", "VERB", "ADJ"],
+  "MARK": ["NOUN", "VERB"],
+  "HEAVY": ["NOUN", "ADJ"],
+  "TRIAL": ["NOUN"],
+  "PRACTICE": ["NOUN", "VERB"],
+  "END": ["NOUN", "VERB"],
+  "START": ["NOUN", "VERB"],
+  "BEGIN": ["NOUN", "VERB"],
+  "BIRTH": ["NOUN", "VERB", "ADJ"],
+  "LEARN": ["NOUN", "VERB", "ADJ"],
+  "MISCHIEF": ["NOUN", "ADJ"],
+  "WISDOM": ["NOUN", "ADJ"],
+  "KNOW": ["NOUN", "VERB", "ADJ"],
+  "KNOWLEDGE": ["NOUN"],
+  "CRACK": ["NOUN", "VERB", "ADJ"],
+  "SHATTER": ["VERB", "ADJ"],
+  "LEAP": ["NOUN", "VERB"],
+  "JUMP": ["NOUN", "VERB"],
+  "DIVE": ["NOUN", "VERB"],
+  "VAULT VERB": ["VERB"],
+  "VAULT PLACE": ["NOUN"],
+  "TREASURY": ["NOUN"],
+  "BETRAY": ["NOUN", "VERB"],
+  "TREASON": ["NOUN"],
+  "REASON": ["NOUN", "VERB"],
+  "SQUAT": ["VERB", "ADJ"],
+  "FESTIVAL": ["NOUN", "ADJ"]
+}

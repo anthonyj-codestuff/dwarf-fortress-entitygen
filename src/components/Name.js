@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 const D_NAMES = require('./assets/language_DWARF.json');
+const WORDS = require('./assets/language_words.json');
 
 class Name extends Component 
 {
@@ -12,19 +13,13 @@ class Name extends Component
     };
   }
 
-  setRand()
+  setRand(length)
   {
-    this.setState({rand: Math.floor(Math.random() * this.state.original.length)})
+    // TODO: Check that D_NAMES.length is always within bounds
+    let newNum = Math.floor(Math.random() * D_NAMES.length)
+    console.log("setting Rand to", newNum)
+    this.setState({rand: newNum})
   }
-
-  /*
-  Language blocks should appear in this format
-  {
-    DWARVEN: {
-
-    }
-  }
-  */
 
   componentDidMount()
   {
@@ -45,8 +40,11 @@ class Name extends Component
   render() 
   {
     let { rand } = this.state;
+    let englishWord = this.state.original[rand];
+    let dwarfWord = this.state.translated[rand];
     return <div>
-      <p className="name">{this.state.original[rand]} -> {this.state.translated[rand]}</p>
+      <p className="name">{englishWord} -> {dwarfWord}</p>
+      <p className="name">{englishWord} is a { englishWord ? WORDS[englishWord.toUpperCase()][0] : null}</p>
       <button onClick={() => this.setRand()}>rand = {rand}</button>
     </div>;
   }
