@@ -1,11 +1,13 @@
 import axios from 'axios';
 
 //CONSTANTS
+const INITIALIZE_LANGUAGES = 'INITIALIZE_LANGUAGES';
 const MERGE_LANGUAGES = 'MERGE_LANGUAGES';
 
 // INITIAL APP STATE
 const initialState = 
 {
+  langInit = 0,
   english = [],
   dwarf = [],
   elf = [],
