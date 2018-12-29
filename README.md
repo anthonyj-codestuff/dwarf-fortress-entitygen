@@ -1,7 +1,8 @@
 ### Dwarf Fortress Entity Generator  
 This tool intends to replicate the random entity generation of Dwarf Fortress for use in Dwarf Fortress themed tabletop games.  
 The end product should be able to replicate:
- - Dwarves, Humans, Elves, Goblins, Forgotten Beasts
+ - Dwarves (in progress)
+ - Humans, Elves, Goblins, Forgotten Beasts
  - All names with and without honorifics
  - The X of Y names
  - Artifacts
