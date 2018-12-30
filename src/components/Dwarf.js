@@ -17,9 +17,12 @@ class Dwarf extends Component
 
   async componentDidMount()
   {
-    console.log("before", this.props.english)
+    console.log("before", this.props.dwarf)
     await this.props.initializeLanguages();
-    console.log("after", this.props.english)
+    console.log("after", this.props.dwarf[0])
+    console.log("after", this.props.elf[0])
+    console.log("after", this.props.human[0])
+    console.log("after", this.props.goblin[0])
   }
 
   render() 
