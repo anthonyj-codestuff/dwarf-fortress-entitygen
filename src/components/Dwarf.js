@@ -27,7 +27,10 @@ class Dwarf extends Component
 
   render() 
   {
-    return <div></div>;
+      let rand1 = Math.floor(Math.random() * this.props.dwarf.length);
+      let rand2 = Math.floor(Math.random() * this.props.dwarf.length);
+      let rand3 = Math.floor(Math.random() * this.props.dwarf.length);
+    return <div>{rand1} {rand2} {rand3}</div>;
   }
 }
 
