@@ -42,6 +42,7 @@ export default function generalReducer(state = initialState, action)
           elf: action.payload.elf,
           human: action.payload.human,
           goblin: action.payload.goblin,
+          grammar: action.payload.grammar
         };
       }
       else return state;
@@ -55,7 +56,7 @@ export default function generalReducer(state = initialState, action)
 
 export function initializeLanguages()
 {
-  let english, dwarf, elf, human, goblin;
+  let english, dwarf, elf, human, goblin, grammar;
   if(!languagesInitalized)
   {
     english = DWARF.map((e,i) => e.original);
@@ -63,6 +64,7 @@ export function initializeLanguages()
     elf = ELF.map((e,i) => e.translated);
     human = HUMAN.map((e,i) => e.translated);
     goblin = GOBLIN.map((e,i) => e.translated);
+    grammar = WORD_TYPES;
     // All this mapping doesn't need to happen more than once, so allow Redux to check if it has already done the work
     languagesInitalized = true;
     return {
@@ -72,7 +74,8 @@ export function initializeLanguages()
         dwarf,
         elf,
         human,
-        goblin
+        goblin,
+        grammar
       }
     };
   }
