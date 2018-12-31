@@ -1,4 +1,3 @@
-
 {
   "ABBEY": ["NOUN"],
   "ACE": ["NOUN"],
@@ -55,7 +54,7 @@
   "BLISTER": ["NOUN"],
   "BLOAT": ["NOUN", "ADJ"],
   "BLOOD": ["NOUN"],
-  "BLOODY": ["NOUN", "ADJ"],
+  "BLOODY": ["ADJ"],
   "BLOSSOM": ["NOUN", "VERB"],
   "BLUE": ["NOUN", "ADJ"],
   "BOAR": ["NOUN"],

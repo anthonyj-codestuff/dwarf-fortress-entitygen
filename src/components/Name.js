@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import { connect } from 'react-redux';
+import { initializeLanguages } from '../redux/reducer';
+
 const D_NAMES = require('./assets/language_DWARF.json');
 const WORDS = require('./assets/language_words.json');
 
@@ -82,4 +85,6 @@ class Name extends Component
   }
 }
 
-export default Name;
+const mapStateToProps = state => state;
+
+export default connect(mapStateToProps,{initializeLanguages})(Name);
