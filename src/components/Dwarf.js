@@ -9,28 +9,75 @@ class Dwarf extends Component
     super();
     this.state =
     {
-      original: [],
-      translated: [],
-      rand: null
+      namesThisSession: 0,
+      currentDwarf: {
+          firstName: "",
+          lastName: ""
+      }
     };
   }
 
   async componentDidMount()
   {
-    console.log("before", this.props.dwarf)
     await this.props.initializeLanguages();
-    console.log("after", this.props.dwarf[0])
-    console.log("after", this.props.elf[0])
-    console.log("after", this.props.human[0])
-    console.log("after", this.props.goblin[0])
+  }
+
+  getRand()
+  {
+    return Math.floor(Math.random() * this.props.dwarf.length);
+  }
+
+  wordIsOfType(num, type)
+  {
+    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+    let word = this.props.english[num];
+    if(word)
+    {
+        console.log("english word", word);
+        console.log("num", num);
+        console.log("type", type);
+        let typeArray = this.props.grammar[word.toUpperCase()];
+        return (typeArray.includes(type));
+    }
+    else return true ;
+  }
+
+  capitalize(string) {
+      return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+
+  getDwarfName()
+  {
+    let first;
+    do 
+    {
+        first = this.getRand();
+        console.log("New name", this.props.dwarf[first])
+    } while(!this.wordIsOfType(first, "NOUN"));
+    let last1 = this.getRand();
+    let last2 = this.getRand();
+
+    let dwarfName = {
+        firstName: this.capitalize(this.props.dwarf[first]),
+        lastName: this.capitalize(this.props.dwarf[last1] + this.props.dwarf[last2]),
+        transLastName: this.capitalize(this.props.english[last1] + this.props.english[last2])
+    };
+    this.setState({ currentDwarf: dwarfName, namesThisSession: this.state.namesThisSession+1 })
   }
 
   render() 
   {
-      let rand1 = Math.floor(Math.random() * this.props.dwarf.length);
-      let rand2 = Math.floor(Math.random() * this.props.dwarf.length);
-      let rand3 = Math.floor(Math.random() * this.props.dwarf.length);
-    return <div>{rand1} {rand2} {rand3}</div>;
+      let nameBlock = <div>
+        {this.state.currentDwarf.firstName} "{this.state.currentDwarf.transLastName}" {this.state.currentDwarf.lastName}<br/>
+
+      </div>;
+
+    return <div>
+        {this.state.namesThisSession > 0 ?
+            nameBlock
+            : null}
+        <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
+    </div>;
   }
 }
 
