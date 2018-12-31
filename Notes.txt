@@ -44,3 +44,5 @@
     First Names are always nouns
     Second Names are alyays two-word pairs and can be any combination
         Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
+
+    Each race has its own sphere of names to pick from. These spheres are listed in language_SYM. Dwarves generally pick from the ARTIFICE group (198 possible names) and their last names avoid use of the FLOWERY group
