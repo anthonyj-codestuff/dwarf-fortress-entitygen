@@ -1,329 +1,329 @@
 {
-	"FLOWERY": [
-		"BERRY", "BLOSSOM", "BRIDE", "BUTTERFLY", "CANDY", "COUPLE", "CREAM", "DEAR", "DRESS_CLOTHING", "DUMPLING", "FLOWER", "FLUTE", "GIRDLE", "GLIMMER", "GLISTEN", "GLOSS", "HONEY", "INCENSE", "KNIT", "LACE", "LARK", "LUTE", "LYRIC", "MEADOW", "MELLOW", "MOTHER", "MUSIC", "NESTLE", "NURTURE", "PREGNANT", "PRIM", "QUEEN", "SATIN", "SHEEN", "SHOW", "SILK", "SILKY", "SING", "SISTER", "SKIRT_CLOTHING", "SKIRT_VERB", "SMILE", "STYLE", "SUGAR", "SWEET", "TRIM", "TULIP", "TWEET", "VELVET", "WAVY", "WISP", "WONDER_NOUN", "ZEPHYR", "CAVORT", "DESSERT", "FANCY", "LATHER", "PETAL", "DROPLET", "PANTOMIME", "PLAY PERFORM", "FRAGRANCE", "GLITTER", "SPARKLE", "TRAGEDY", "CYCLOPEAN", "TRIFLE", "LUXURY", "EUPHORIA", "SCINTILLATE", "SENSUAL", "MALODOROUS", "SABLE COLOR", "VENERATE", "TRESS", "ENSORCEL", "FABULOUS", "MIRTH", "LACONIC", "QUIESCENT", "RETICENT", "SATURNINE", "TACITURN", "FORTUITOUS", "TENEBROUS", "MOROSE", "BELOVED", "SUITOR", "PUNGENT", "CHERISH", "PRISTINE", "LANGUISH", "ADORE", "EMBRACE", "MEANDER", "BEWILDER", "INTRICATE", "POEM", "POETRY", "POET", "AMETHYST", "AQUAMARINE", "AZURE", "BEIGE", "SIENNA", "UMBER", "CARDINAL_COLOR", "CARMINE", "CERULEAN", "CHARTREUSE", "FUCHSIA", "GOLDENROD", "HELIOTROPE", "LAVENDER", "LILAC", "MAUVE", "TAUPE", "PERIWINKLE", "RUSSET", "SAFFRON", "VERMILION", "FESTIVAL"
+	"flowery": [
+		"berry", "blossom", "bride", "butterfly", "candy", "couple", "cream", "dear", "dress_clothing", "dumpling", "flower", "flute", "girdle", "glimmer", "glisten", "gloss", "honey", "incense", "knit", "lace", "lark", "lute", "lyric", "meadow", "mellow", "mother", "music", "nestle", "nurture", "pregnant", "prim", "queen", "satin", "sheen", "show", "silk", "silky", "sing", "sister", "skirt_clothing", "skirt_verb", "smile", "style", "sugar", "sweet", "trim", "tulip", "tweet", "velvet", "wavy", "wisp", "wonder_noun", "zephyr", "cavort", "dessert", "fancy", "lather", "petal", "droplet", "pantomime", "play perform", "fragrance", "glitter", "sparkle", "tragedy", "cyclopean", "trifle", "luxury", "euphoria", "scintillate", "sensual", "malodorous", "sable color", "venerate", "tress", "ensorcel", "fabulous", "mirth", "laconic", "quiescent", "reticent", "saturnine", "taciturn", "fortuitous", "tenebrous", "morose", "beloved", "suitor", "pungent", "cherish", "pristine", "languish", "adore", "embrace", "meander", "bewilder", "intricate", "poem", "poetry", "poet", "amethyst", "aquamarine", "azure", "beige", "sienna", "umber", "cardinal_color", "carmine", "cerulean", "chartreuse", "fuchsia", "goldenrod", "heliotrope", "lavender", "lilac", "mauve", "taupe", "periwinkle", "russet", "saffron", "vermilion", "festival"
 	 
 	],
 
-	"NATURE":[
-		"ANIMAL", "APE", "AUTUMN", "BEAK", "BEAST", "BEAR", "BEE", "BEETLE", "BERRY", "BIRD", "BLAZE", "BLOSSOM", "BOAR", "BOG", "BUCK", "BUSH", "BUTTERFLY", "BUZZARD", "CANYON", "CAT", "CHILL", "CHIRP", "CLAM", "CLEARING", "COBRA", "CRAB", "CREEK", "CROW", "DAWN", "DEER", "DIRT", "DUSK", "EAGLE", "EEL", "FANG", "FIN", "FISH_ANIMAL", "FLOWER", "FOG", "FOREST", "FROG", "FRUIT", "FUNGUS", "FUR", "GERBIL", "GLEN", "GORE", "GORGE_NOUN", "GRAPE", "GRASS", "GROVE", "GROW", "GROWL", "GROWTH", "GRUB", "HARE", "HAWK", "HEATHER", "HEDGE", "HIDE", "HILL", "HOARY", "HOG", "HOOF", "HOP_VERB", "HORN", "HOWL", "IVY", "JACKAL", "JAW", "JUNGLE", "LAKE", "LARK", "LARVA", "LEAF", "LEOPARD", "LIZARD", "LOBSTER", "LUSH", "MAGGOT", "MANGE", "MARSH", "MAW", "MEADOW", "MIST", "MITE", "MOLD", "MOLE", "MONKEY", "MOTH", "MUD", "MUSHROOM", "NATURE", "NEST", "NETTLE", "NEWT", "NUT", "OAK", "OWL", "PACK", "PANTHER", "PEACH", "PLANT", "PLANTER", "RABBIT", "RAIN", "RAM", "RAPTOR", "RAT", "RAVEN", "RIPE", "RIVER", "ROCK", "ROOT", "ROSE", "SAP", "SCORPION", "SEA", "SEAL_ANIMAL", "SEASON", "SEED", "SERPENT", "SHARK", "SHELL", "SILT", "SKUNK", "SKY", "SLITHER", "SLUG", "SNAKE", "SOIL", "SPIDER", "SPIDERY", "SPRING_SEASON", "SQUID", "STICK_WOOD", "STONE", "STORM", "STRAW", "SUMMER", "SUN", "SWAMP", "TAIL", "TALON", "TEMPEST", "THORN", "THUNDER", "TICK_ANIMAL", "TOAD", "TULIP", "TUSK", "TWEET", "TWILIGHT", "VEGETABLE", "VEGETATION", "VIPER", "VOLCANO", "VULTURE", "WASP", "WAVE", "WEASEL", "WEED", "WHEAT", "WING", "WINTER", "WOOD", "WORM", "EARTH", "BUD", "DESERT", "FIELD", "GLACIER", "MOUNTAIN", "PRAIRIE", "TENTACLE", "TUNDRA", "WEEVIL", "DUNE", "PINE", "GNARLED", "STUMP", "BEARD", "WATER", "WAX", "ROAR", "FORD", "FELL HIDE", "PELT HIDE", "SNARL", "DRINK", "FLIGHT", "TWIG", "TUFT", "FERN", "GULLY", "LION", "CACTUS", "CLOUD", "BEAN", "PEARL", "PEAR", "BUNNY", "WIND STORM", "SKIN", "SHIN", "ISLAND", "GROTTO", "SHORE", "BEACH", "COAST", "INSECT", "BUG", "CRITTER", "PRISTINE", "WEATHER", "PASS MOUNTAIN", "DALE", "DELL", "GLADE", "VALE", "BASIN", "DEN", "GULF SEA", "VALLEY", "CYCLONE", "TYPHOON", "HURRICANE", "GALE", "TORNADO", "HAIL ICE", "SCALE SKIN", "WHISKER", "BULB", "WEATHER VERB", "STREAM", "CREATURE", "SNAIL", "VINE", "MORNING", "TREE", "CHESTNUT", "CINNAMON", "OLIVE", "FLAX", "FUCHSIA", "GOLDENROD", "HELIOTROPE", "LAVENDER", "LEMON", "LILAC", "LIME", "MAHOGANY", "MINT", "MOSS", "ORANGE", "PERIWINKLE", "PLUM", "PUMPKIN", "SAFFRON", "SEPIA", "TEAL", "BIRTH", "LEAP", "JUMP", "DIVE"
+	"nature":[
+		"animal", "ape", "autumn", "beak", "beast", "bear", "bee", "beetle", "berry", "bird", "blaze", "blossom", "boar", "bog", "buck", "bush", "butterfly", "buzzard", "canyon", "cat", "chill", "chirp", "clam", "clearing", "cobra", "crab", "creek", "crow", "dawn", "deer", "dirt", "dusk", "eagle", "eel", "fang", "fin", "fish_animal", "flower", "fog", "forest", "frog", "fruit", "fungus", "fur", "gerbil", "glen", "gore", "gorge_noun", "grape", "grass", "grove", "grow", "growl", "growth", "grub", "hare", "hawk", "heather", "hedge", "hide", "hill", "hoary", "hog", "hoof", "hop_verb", "horn", "howl", "ivy", "jackal", "jaw", "jungle", "lake", "lark", "larva", "leaf", "leopard", "lizard", "lobster", "lush", "maggot", "mange", "marsh", "maw", "meadow", "mist", "mite", "mold", "mole", "monkey", "moth", "mud", "mushroom", "nature", "nest", "nettle", "newt", "nut", "oak", "owl", "pack", "panther", "peach", "plant", "planter", "rabbit", "rain", "ram", "raptor", "rat", "raven", "ripe", "river", "rock", "root", "rose", "sap", "scorpion", "sea", "seal_animal", "season", "seed", "serpent", "shark", "shell", "silt", "skunk", "sky", "slither", "slug", "snake", "soil", "spider", "spidery", "spring_season", "squid", "stick_wood", "stone", "storm", "straw", "summer", "sun", "swamp", "tail", "talon", "tempest", "thorn", "thunder", "tick_animal", "toad", "tulip", "tusk", "tweet", "twilight", "vegetable", "vegetation", "viper", "volcano", "vulture", "wasp", "wave", "weasel", "weed", "wheat", "wing", "winter", "wood", "worm", "earth", "bud", "desert", "field", "glacier", "mountain", "prairie", "tentacle", "tundra", "weevil", "dune", "pine", "gnarled", "stump", "beard", "water", "wax", "roar", "ford", "fell hide", "pelt hide", "snarl", "drink", "flight", "twig", "tuft", "fern", "gully", "lion", "cactus", "cloud", "bean", "pearl", "pear", "bunny", "wind storm", "skin", "shin", "island", "grotto", "shore", "beach", "coast", "insect", "bug", "critter", "pristine", "weather", "pass mountain", "dale", "dell", "glade", "vale", "basin", "den", "gulf sea", "valley", "cyclone", "typhoon", "hurricane", "gale", "tornado", "hail ice", "scale skin", "whisker", "bulb", "weather verb", "stream", "creature", "snail", "vine", "morning", "tree", "chestnut", "cinnamon", "olive", "flax", "fuchsia", "goldenrod", "heliotrope", "lavender", "lemon", "lilac", "lime", "mahogany", "mint", "moss", "orange", "periwinkle", "plum", "pumpkin", "saffron", "sepia", "teal", "birth", "leap", "jump", "dive"
 	],
 
-	"PRIMITIVE": [
-		"ANIMAL", "APE", "ARROW", "AXE", "BEAST", "BREW", "CAMP", "CAVE", "CHANT", "CLAW", "CLOBBER", "CLOD", "CUDGEL", "DIRT", "DROOL", "DRUM", "FUR", "GORE", "HAIRY", "HIDE", "HOARY", "JAW", "NAIL", "PANT", "PRIMITIVE", "PUNCH", "RAG", "RAW", "REND", "ROCK", "SACK", "SAVAGE", "SAVAGERY", "STONE", "STRAP", "TOOTH", "TRIBE", "UNKEMPT", "PLAINADJ", "SIMPLE", "ROAR", "CYCLOPEAN", "UNTAMED", "FELL HIDE", "PELT HIDE", "SNARL", "TUFT", "MEAN LOW", "BITE", "BRUTE", "BARBARIAN", "BARBARITY", "FERAL", "MONGREL" 
+	"primitive": [
+		"animal", "ape", "arrow", "axe", "beast", "brew", "camp", "cave", "chant", "claw", "clobber", "clod", "cudgel", "dirt", "drool", "drum", "fur", "gore", "hairy", "hide", "hoary", "jaw", "nail", "pant", "primitive", "punch", "rag", "raw", "rend", "rock", "sack", "savage", "savagery", "stone", "strap", "tooth", "tribe", "unkempt", "plainadj", "simple", "roar", "cyclopean", "untamed", "fell hide", "pelt hide", "snarl", "tuft", "mean low", "bite", "brute", "barbarian", "barbarity", "feral", "mongrel" 
 	],
 
-	"HOLY": [
-		"ABBEY", "ANGEL", "CLOISTER", "GOD", "HOLY", "MARTYR", "PRIEST", "PROPHET", "SAINT", "MESSIAH", "HEAVEN", "DIVINE", "MORAL", "REVERE", "VENERATE", "MORALITY", "CHURCH", "TEMPLE", "COMMUNION", "FAITH", "SHRINE", "SANCTUARY", "MONASTERY", "CONVENT", "CATHEDRAL", "CHAPEL", "SANCTUM", "DEITY", "IMMORTAL", "CHASTITY", "RIGHTEOUSNESS", "MONK", "DEIFY", "IMMORTALITY", "WORSHIPPER"
+	"holy": [
+		"abbey", "angel", "cloister", "god", "holy", "martyr", "priest", "prophet", "saint", "messiah", "heaven", "divine", "moral", "revere", "venerate", "morality", "church", "temple", "communion", "faith", "shrine", "sanctuary", "monastery", "convent", "cathedral", "chapel", "sanctum", "deity", "immortal", "chastity", "righteousness", "monk", "deify", "immortality", "worshipper"
 	],
 
-	"EVIL": [
-		"BAD", "BLACK", "CURSE", "DECEIVER", "DEMON", "DEVIL", "DOOM", "DUNGEON", "EVIL", "FIEND", "FLY_ANIMAL", "GHOUL", "GOD-FORSAKEN", "HATE", "HELL", "HEX", "JACKAL", "LIE", "MENACE", "MIDNIGHT", "NIGHTMARE", "PLAGUE", "POISON", "PROFANE", "SCORPION", "SCOURGE", "SEDUCE", "SEDUCER", "SIN", "SPIDER", "SPIDERY", "STEAL", "TERROR", "THIEF", "TICK_ANIMAL", "TORMENT", "UNGODLY", "UNHOLY", "VILE", "WERE", "WICKED", "WITCH", "WRAITH", "DREAD", "WRACK", "UNSPEAKABLE", "UNTHINKABLE", "UNNAMEABLE", "TAINT", "CORRUPT", "MALIGN SLANDER V", "MALIGNANT", "BLIGHT", "MONSTER", "IGNOBLE", "IMMORAL", "FELL CRUEL", "DISLOYAL", "TORTURE", "CRUEL", "IMMORALITY", "MALICE", "HATRED", "BARBARITY", "RUTHLESS", "VICE", "HORROR", "BETRAY" 
+	"evil": [
+		"bad", "black", "curse", "deceiver", "demon", "devil", "doom", "dungeon", "evil", "fiend", "fly_animal", "ghoul", "god-forsaken", "hate", "hell", "hex", "jackal", "lie", "menace", "midnight", "nightmare", "plague", "poison", "profane", "scorpion", "scourge", "seduce", "seducer", "sin", "spider", "spidery", "steal", "terror", "thief", "tick_animal", "torment", "ungodly", "unholy", "vile", "were", "wicked", "witch", "wraith", "dread", "wrack", "unspeakable", "unthinkable", "unnameable", "taint", "corrupt", "malign slander v", "malignant", "blight", "monster", "ignoble", "immoral", "fell cruel", "disloyal", "torture", "cruel", "immorality", "malice", "hatred", "barbarity", "ruthless", "vice", "horror", "betray" 
 	],
 
-	"NEGATOR": [
-		"AFTER", "BANE", "BOIL_V", "BREAK", "BROIL", "BUST_VERB", "BUTCHER", "CHAR", "CHOKE", "CHOP", "CINDER", "CLEAVE", "CRUSHER", "DESTROYER", "DESTRUCTION", "DEVOURER", "DROWNED", "EAT", "EXECUTE", "EXECUTIONER", "FALL", "FALSE", "GORE", "GRILL", "GRIND", "HAMMERER", "KILLER", "MEAL_GROUND", "MINCE", "NEGATIVE", "NEGATE", "NOOSE", "NULL", "RAVAGER", "REND", "RIP", "RIPPER", "RUIN_V", "SEVER", "SHEAR", "SHRED", "SLAYER", "SMASH", "SPOIL", "SUNDER", "TARNISH", "VIOLATOR", "IMPALE", "UN", "DESERTVERB", "DISMAL", "STUMP", "MELT", "WRACK", "EMPTY", "CALAMITY", "BURST", "BITTER", "SOUR", "SWAY", "DIVIDE", "TAINT", "CORRUPT", "BLIGHT", "SCARCE", "BLAME", "SKEWER", "MEAN LOW", "ASHAMED", "WART", "TORTURE", "WEEP", "STALE", "WORTHLESS", "DEVIANT", "SPLIT", "STRANGLE", "GALLOWS", "DIM", "RISK", "VICTIM", "OBSCENE", "VULGAR", "BLEED", "JAILER", "DISTRACT ANNOY", "DIVERT DETOUR", "FLAY", "SUICIDE", "SPURN", "SCORN", "CONTEMPT", "DOUSE", "DRENCH", "FADE", "BLANCH", "BLEACH", "BLENCH", "DISAPPEAR", "DISSOLVE", "DULL", "EVAPORATE", "VANISH", "ABATE", "DECLINE", "DETERIORATE", "DIMINISH", "DISPERSE", "DWINDLE", "LESSEN", "PERISH", "SHRIVEL", "WITHER", "WINNOW", "FLUSH", "PURGE", "DEFECT FAULT", "CLEANSE", "ERASE", "WEATHER VERB", "NEVER", "SLOW", "MIRE", "CRACK", "SHATTER", "BETRAY", "TREASON" 
+	"negator": [
+		"after", "bane", "boil_v", "break", "broil", "bust_verb", "butcher", "char", "choke", "chop", "cinder", "cleave", "crusher", "destroyer", "destruction", "devourer", "drowned", "eat", "execute", "executioner", "fall", "false", "gore", "grill", "grind", "hammerer", "killer", "meal_ground", "mince", "negative", "negate", "noose", "null", "ravager", "rend", "rip", "ripper", "ruin_v", "sever", "shear", "shred", "slayer", "smash", "spoil", "sunder", "tarnish", "violator", "impale", "un", "desertverb", "dismal", "stump", "melt", "wrack", "empty", "calamity", "burst", "bitter", "sour", "sway", "divide", "taint", "corrupt", "blight", "scarce", "blame", "skewer", "mean low", "ashamed", "wart", "torture", "weep", "stale", "worthless", "deviant", "split", "strangle", "gallows", "dim", "risk", "victim", "obscene", "vulgar", "bleed", "jailer", "distract annoy", "divert detour", "flay", "suicide", "spurn", "scorn", "contempt", "douse", "drench", "fade", "blanch", "bleach", "blench", "disappear", "dissolve", "dull", "evaporate", "vanish", "abate", "decline", "deteriorate", "diminish", "disperse", "dwindle", "lessen", "perish", "shrivel", "wither", "winnow", "flush", "purge", "defect fault", "cleanse", "erase", "weather verb", "never", "slow", "mire", "crack", "shatter", "betray", "treason" 
 	],
 
-	"MAGIC": [
-		"AURA", "CHANT", "CHARM", "COMET", "CRYSTAL", "CURSE", "ECTO", "GLIMMER", "HEX", "MAGIC", "OMEN", "ORB", "RING_OBJECT", "RITE", "SEAL_ART", "SEER", "SHIMMER", "SPELL", "STAFF", "TRANCE", "WITCH", "GENIUS", "ALCHEMY", "RAY", "SORCERY", "SORCERER", "ENSORCEL", "BEWITCH", "MAGICIAN", "CONJURE", "CONJURER", "ENCHANT", "ENCHANTER", "COVEN", "OCCULT" 
+	"magic": [
+		"aura", "chant", "charm", "comet", "crystal", "curse", "ecto", "glimmer", "hex", "magic", "omen", "orb", "ring_object", "rite", "seal_art", "seer", "shimmer", "spell", "staff", "trance", "witch", "genius", "alchemy", "ray", "sorcery", "sorcerer", "ensorcel", "bewitch", "magician", "conjure", "conjurer", "enchant", "enchanter", "coven", "occult" 
 	],
 
-	"VIOLENT": [
-		"ANGER", "ARROW", "AXE", "BARB", "BATTLE", "BEAST", "BLADE", "BLAZE", "BLOODY", "BOIL_V", "BOLT", "BOOT", "BREAK", "BROIL", "BURN", "BUTCHER", "CARNAGE", "CHAOS", "CHAR", "CHOKE", "CHOP", "CHUCK", "CLAW", "CLEAVE", "CLOBBER", "CLUB", "COBRA", "CONQUEROR", "CRAZE", "CRAZY", "CRUCIFY", "CRUSH", "CRUSHER", "CUDGEL", "CUT", "DAGGER", "DESTROYER", "DESTRUCTION", "DEVOURER", "EAT", "ENTRAILS", "EXECUTE", "EXECUTIONER", "FANG", "FIERCE", "FIST", "FRENZY", "GORE", "GORGE_VERB", "GRIP", "GROWL", "HAMMERER", "HATCHET", "HORN", "JAW", "KILLER", "KNIFE", "LIGHTNING", "MARTYR", "MAW", "MEAL_GROUND", "MINCE", "MOLTEN", "MUNCH", "MURDER", "NAIL", "NOOSE", "PUNCH", "QUAKE", "RACK", "RAGE", "RAKE", "RAMPAGE", "RANSACK", "RAVAGER", "RAZOR", "REND", "RIP", "RIPPER", "RUIN_V", "SABRE", "SAVAGE", "SAVAGERY", "SCAB", "SCAR", "SCOLD", "SCORPION", "SCRATCH", "SCOURGE", "SCREAM", "SEIZE", "SEVER", "SHARK", "SHEAR", "SHOOT", "SHRED", "SHRIEK", "SIEGE", "SLAUGHTER", "SLAYER", "SLING", "SMASH", "SMOKE", "SOLDIER", "SPEAR", "SPIKE", "STAB", "STORM", "STRIKE", "SUNDER", "SWORD", "TALON", "TEMPEST", "THORN", "THROWER", "THUNDER", "TOOTH", "TORMENT", "TRAP", "TUSK", "VANDAL", "VIOLATOR", "VIOLENCE", "VOLCANO", "WAR", "WARRIOR", "WHIP", "WRATH", "IMPALE", "TROOPER", "CLASH", "TARGET", "SHOVE", "MELT", "WRACK", "ROAR", "SHOCK", "BURST", "DANGER", "BANDIT", "BRIGAND", "MONSTER", "FELL CRUEL", "SKEWER", "STEAM", "LASH", "LANCE", "LANCER", "TORTURE", "OUTRAGE", "SKIN VERB", "BITE", "STRANGLE", "BLEED", "INFERNO", "CONFLAGRATION", "FIGHT", "SCUFFLE", "ASSAULT", "STRIFE", "COMBAT", "FLAY", "BRUTE", "FEROCITY", "BARBARITY", "FURY", "GORE NOUN", "DENT", "CYCLONE", "TYPHOON", "HURRICANE", "GALE", "TORNADO", "SPLATTER", "SCALD", "MOB", "SINGE", "SEAR", "SCORCH", "ROAST", "IGNITE", "INCINERATE", "CREMATE", "ROUT", "SCRAPE", "CLOUT", "SQUEEZE", "WRING", "DRILL BORE", "BORE DRILL", "SQUASH", "DISEMBOWEL", "EVISCERATE", "RIDDLE HOLES", "DISEMBOWELMENT", "EVISCERATION", "CONFLICT", "ATTACK", "ONSLAUGHT", "THREAT", "CRACK", "SHATTER" 
+	"violent": [
+		"anger", "arrow", "axe", "barb", "battle", "beast", "blade", "blaze", "bloody", "boil_v", "bolt", "boot", "break", "broil", "burn", "butcher", "carnage", "chaos", "char", "choke", "chop", "chuck", "claw", "cleave", "clobber", "club", "cobra", "conqueror", "craze", "crazy", "crucify", "crush", "crusher", "cudgel", "cut", "dagger", "destroyer", "destruction", "devourer", "eat", "entrails", "execute", "executioner", "fang", "fierce", "fist", "frenzy", "gore", "gorge_verb", "grip", "growl", "hammerer", "hatchet", "horn", "jaw", "killer", "knife", "lightning", "martyr", "maw", "meal_ground", "mince", "molten", "munch", "murder", "nail", "noose", "punch", "quake", "rack", "rage", "rake", "rampage", "ransack", "ravager", "razor", "rend", "rip", "ripper", "ruin_v", "sabre", "savage", "savagery", "scab", "scar", "scold", "scorpion", "scratch", "scourge", "scream", "seize", "sever", "shark", "shear", "shoot", "shred", "shriek", "siege", "slaughter", "slayer", "sling", "smash", "smoke", "soldier", "spear", "spike", "stab", "storm", "strike", "sunder", "sword", "talon", "tempest", "thorn", "thrower", "thunder", "tooth", "torment", "trap", "tusk", "vandal", "violator", "violence", "volcano", "war", "warrior", "whip", "wrath", "impale", "trooper", "clash", "target", "shove", "melt", "wrack", "roar", "shock", "burst", "danger", "bandit", "brigand", "monster", "fell cruel", "skewer", "steam", "lash", "lance", "lancer", "torture", "outrage", "skin verb", "bite", "strangle", "bleed", "inferno", "conflagration", "fight", "scuffle", "assault", "strife", "combat", "flay", "brute", "ferocity", "barbarity", "fury", "gore noun", "dent", "cyclone", "typhoon", "hurricane", "gale", "tornado", "splatter", "scald", "mob", "singe", "sear", "scorch", "roast", "ignite", "incinerate", "cremate", "rout", "scrape", "clout", "squeeze", "wring", "drill bore", "bore drill", "squash", "disembowel", "eviscerate", "riddle holes", "disembowelment", "evisceration", "conflict", "attack", "onslaught", "threat", "crack", "shatter" 
 	],
 
-	"PEACE": [
-		"BUTTERFLY", "CLEAR", "CLEARING", "DAY", "FLOWER", "GLEN", "GLIDE", "GROVE", "HEARTH", "HEATHER", "KINDNESS", "MEADOW", "MEDITATION", "MELLOW", "PEACE", "SUMMER", "SUN", "PONDER", "HEAVEN", "HUMBLE", "FAIR EVEN", "STILL UNMOVING", "CALM", "QUIESCENT", "BOREDOM" 
+	"peace": [
+		"butterfly", "clear", "clearing", "day", "flower", "glen", "glide", "grove", "hearth", "heather", "kindness", "meadow", "meditation", "mellow", "peace", "summer", "sun", "ponder", "heaven", "humble", "fair even", "still unmoving", "calm", "quiescent", "boredom" 
 	],
 
-	"UGLY": [
-		"BELCH", "BILE", "BLISTER", "BLOAT", "BLOODY", "BOIL", "BUZZARD", "CANCER", "CANKER", "CYST", "DROOL", "DUNG", "EEL", "ENTRAILS", "FILTH", "GALL", "GLAND", "GREASE", "GRISTLE", "GRUB", "GUT", "GUTTER", "HAG", "HIDEOUS", "HOG", "ITCH", "JAUNDICE", "JUICE", "LARD", "LARVA", "LEECH", "LEPER", "LEPROSY", "LOUSE", "LURID", "LUST", "MAGGOT", "MANGE", "MEAT", "MITE", "MOLD", "MUCK", "MUSH", "OOZE", "PHLEGM", "PUKE", "PULP", "PUS", "PUTRID", "RAUNCH", "SCAB", "SCUM", "SLIME", "SLIT", "SNOT", "SPIT", "SPITTLE", "STARVE", "STENCH", "STUNTED", "SUCK", "SULLY", "SWEAT", "TOAD", "TRASH", "TUMOR", "UGLY", "ULCER", "VERMIN", "VILE", "VOMIT", "VULTURE", "WASTE", "WORM", "FROTH", "GURGLE", "MUCUS", "TENTACLE", "SLUDGE", "GOO", "CHUNK", "GROSS", "GNARLED", "STUMP", "WALLOW", "RANK", "RANCOR", "TAINT", "MALIGNANT", "BLIGHT", "MONSTER", "MALODOROUS", "BUNION", "STINK", "PIMPLE", "WART", "BLOTCH", "CALLUS", "REVOLTING", "DISGUST", "SPURT", "OBSCENE", "VULGAR", "INFECT", "LESION", "EPIDEMIC", "GORE NOUN", "FEVER", "SQUAT" 
+	"ugly": [
+		"belch", "bile", "blister", "bloat", "bloody", "boil", "buzzard", "cancer", "canker", "cyst", "drool", "dung", "eel", "entrails", "filth", "gall", "gland", "grease", "gristle", "grub", "gut", "gutter", "hag", "hideous", "hog", "itch", "jaundice", "juice", "lard", "larva", "leech", "leper", "leprosy", "louse", "lurid", "lust", "maggot", "mange", "meat", "mite", "mold", "muck", "mush", "ooze", "phlegm", "puke", "pulp", "pus", "putrid", "raunch", "scab", "scum", "slime", "slit", "snot", "spit", "spittle", "starve", "stench", "stunted", "suck", "sully", "sweat", "toad", "trash", "tumor", "ugly", "ulcer", "vermin", "vile", "vomit", "vulture", "waste", "worm", "froth", "gurgle", "mucus", "tentacle", "sludge", "goo", "chunk", "gross", "gnarled", "stump", "wallow", "rank", "rancor", "taint", "malignant", "blight", "monster", "malodorous", "bunion", "stink", "pimple", "wart", "blotch", "callus", "revolting", "disgust", "spurt", "obscene", "vulgar", "infect", "lesion", "epidemic", "gore noun", "fever", "squat" 
 	],
 
-	"DEATH": [
-		"ASH", "BLACK", "BONE", "BURY", "BUZZARD", "CANCER", "CARNAGE", "CASKET", "CRYPT", "DEAD", "DEATH", "DECAY", "DIRT", "DOOM", "DROWNED", "DUST", "FAMINE", "FATAL", "FETID", "FLY_ANIMAL", "GHOST", "GHOUL", "GRAVE", "MARTYR", "MURDER", "NECRO", "OBLIVION", "PLOT", "PUTRID", "RACK", "ROT", "SICK", "SICKNESS", "SKULL", "STARVE", "TOMB", "TUMOR", "URN", "VENOM", "VOID", "VULTURE", "WORM", "WRAITH", "IMPALE", "DREAD", "BLIGHT", "STRANGLE", "GALLOWS", "PHANTOM", "SUICIDE", "PERISH", "WITHER", "CREMATE", "DIRGE", "FUNERAL", "FATE" 
+	"death": [
+		"ash", "black", "bone", "bury", "buzzard", "cancer", "carnage", "casket", "crypt", "dead", "death", "decay", "dirt", "doom", "drowned", "dust", "famine", "fatal", "fetid", "fly_animal", "ghost", "ghoul", "grave", "martyr", "murder", "necro", "oblivion", "plot", "putrid", "rack", "rot", "sick", "sickness", "skull", "starve", "tomb", "tumor", "urn", "venom", "void", "vulture", "worm", "wraith", "impale", "dread", "blight", "strangle", "gallows", "phantom", "suicide", "perish", "wither", "cremate", "dirge", "funeral", "fate" 
 	],
 
-	"OLD": [
-		"AGE", "AGELESS", "ANCIENT", "AUTUMN", "CRUMBLE", "CRYPT", "DUSK", "DUST", "ELDER", "ETERNAL", "GRIZZLE", "HAG", "IVY", "LAST", "OAK", "OLD", "RUIN", "RUST", "SEASON", "TIME", "TOMB", "TOME", "WEAR", "YEAR", "YORE", "FOREVER", "PERMANENCY", "GNARLED", "CYCLOPEAN", "VENERATE", "PAST", "RELIC" 
+	"old": [
+		"age", "ageless", "ancient", "autumn", "crumble", "crypt", "dusk", "dust", "elder", "eternal", "grizzle", "hag", "ivy", "last", "oak", "old", "ruin", "rust", "season", "time", "tomb", "tome", "wear", "year", "yore", "forever", "permanency", "gnarled", "cyclopean", "venerate", "past", "relic" 
 	],
 
-	"SUBORDINATE": [
-		"CHILD", "CLING", "CRAWL", "CREEP", "DIRT", "DOG", "DREG", "FLANK", "FLEA", "FOOL", "FRAGILE", "GRUB", "HOBBLE", "IDLE", "LEAK", "LEECH", "LOW", "MAGGOT", "MINION", "MOLE", "MONKEY", "MOUSE", "MUD", "NEWT", "NIBBLE", "RAT", "SAP", "SCUM", "SERVANT", "SILT", "SLAVE", "SLIME", "SLINK", "SLITHER", "SLUG", "SOIL", "SPAWN", "SQUIRM", "STUNT", "STUNTED", "STUPID", "SUBORDINATE", "THRALL", "TICK_ANIMAL", "TOAD", "USELESS", "VERMIN", "WEASEL", "WEED", "WORM", "WRETCH", "LIMP", "PEBBLE", "SPECK", "WEEVIL", "LIMPVERB", "TROOPER", "PUPPET", "CHUNK", "LAMB", "LESSER", "LEAST", "IGNORANT", "INFERIOR", "LOYAL", "SALUTE", "UNREMARKABLE", "MEAN LOW", "SMALL", "VICTIM", "HUT", "HOVEL", "BAIT", "INSECT", "BUG", "BOTTOM", "FEVER", "UNDER", "FLINCH", "DEFERENCE", "SCRAP", "MORSEL", "MONGREL", "FLECK", "SNAIL", "LITTLE" 
+	"subordinate": [
+		"child", "cling", "crawl", "creep", "dirt", "dog", "dreg", "flank", "flea", "fool", "fragile", "grub", "hobble", "idle", "leak", "leech", "low", "maggot", "minion", "mole", "monkey", "mouse", "mud", "newt", "nibble", "rat", "sap", "scum", "servant", "silt", "slave", "slime", "slink", "slither", "slug", "soil", "spawn", "squirm", "stunt", "stunted", "stupid", "subordinate", "thrall", "tick_animal", "toad", "useless", "vermin", "weasel", "weed", "worm", "wretch", "limp", "pebble", "speck", "weevil", "limpverb", "trooper", "puppet", "chunk", "lamb", "lesser", "least", "ignorant", "inferior", "loyal", "salute", "unremarkable", "mean low", "small", "victim", "hut", "hovel", "bait", "insect", "bug", "bottom", "fever", "under", "flinch", "deference", "scrap", "morsel", "mongrel", "fleck", "snail", "little" 
 	],
 
-	"LEADER": [
-		"ACE", "ARCH", "BRAIN", "BRILLIANT", "CASTLE", "CONQUEROR", "CROWN", "DRAGON", "EAGLE", "FATHER", "FIRST", "GOD", "GRAND", "GREAT", "HERO", "HIGH", "IDOL", "KING", "LEADER", "LEGEND", "LORD", "MASTER", "MIGHTINESS", "NOBLE", "OVER", "PRIME", "QUEEN", "REGAL", "REIGN", "REIN", "ROYAL", "RULER", "THRONE", "ULTIMATE", "ULTRA", "HEGEMON", "MESSIAH", "GENERAL", "GREATEST", "SUPERIOR", "ABSOLUTE", "REMARKABLE", "AUTHORITY", "FLAG", "BANNER", "STANDARD FLAG", "PRINCE", "PRINCESS", "MOST", "ZENITH", "MASTERY", "DOMINION", "APEX" 
+	"leader": [
+		"ace", "arch", "brain", "brilliant", "castle", "conqueror", "crown", "dragon", "eagle", "father", "first", "god", "grand", "great", "hero", "high", "idol", "king", "leader", "legend", "lord", "master", "mightiness", "noble", "over", "prime", "queen", "regal", "reign", "rein", "royal", "ruler", "throne", "ultimate", "ultra", "hegemon", "messiah", "general", "greatest", "superior", "absolute", "remarkable", "authority", "flag", "banner", "standard flag", "prince", "princess", "most", "zenith", "mastery", "dominion", "apex" 
 	],
 
-	"NEW": [
-		"BLOSSOM", "DAWN", "EGG", "GROWTH", "NEO", "NEW", "SEED", "SPRING_SEASON", "SPRY", "STRAPPING_ADJ", "YEARLING", "YOUNG", "YOUTH", "BUD", "CLEAN", "FOUNTAIN", "FRESH", "FUTURE", "EARLY", "START", "BEGIN", "BIRTH" 
+	"new": [
+		"blossom", "dawn", "egg", "growth", "neo", "new", "seed", "spring_season", "spry", "strapping_adj", "yearling", "young", "youth", "bud", "clean", "fountain", "fresh", "future", "early", "start", "begin", "birth" 
 	],
 
-	"DOMESTIC": [
-		"ALE", "APPLE", "AUNT", "BAKE", "BATH", "BEE", "BEER", "BIN", "BOTHER", "BREECHES", "BREAD", "BREAKFAST", "BRUNCH", "BUCKLE", "BUNCH", "BUSH", "BUSHEL", "BUSINESS", "BUSY", "BUTTER", "BUTTON", "CAD", "CAKE", "CAMP", "CANDLE", "CANDY", "CASKET", "CHILD", "CHIP_NOUN", "CHIP_VERB", "CHIRP", "CLOCK", "CLOSET", "CLUSTER", "CLUTTER", "COOK", "COTTON", "CREAM", "CREEK", "CUDDLE", "CUP", "DATE_FRUIT", "DATE_VERB", "DEAR", "DINE", "DINNER", "DOMESTIC", "DONKEY", "DRAWL", "DRESS_CLOTHING", "DRESS_GENERAL", "DUMP", "DUMPLING", "EGG", "FISH_VERB", "FLING", "FRAME", "FROG", "FRUIT", "GAME", "GARISH", "GARLIC", "GARNISH", "GERBIL", "GIRDLE", "GOAT", "GOOSE", "GRAIN", "GRAPE", "GRASS", "GRILL", "GROW", "HANDY", "HARE", "HARVEST", "HAY", "HEARTH", "HEDGE", "HIP", "HOME", "HONEY", "HOP_NOUN", "HOP_VERB", "HORSE", "HOUND", "HUG", "HUM", "INN", "JACK", "JEST", "JOKE", "JUGGLE", "KEG", "KNEAD", "KNIT", "LARD", "LAZY", "LIP", "LUNCH", "MEAD", "MEAL_DOM", "MEAT", "MINCE", "MONGER", "MOUSE", "MUFFIN", "MULE", "MUNCH", "MUSH", "MUSHROOM", "NEST", "NESTLE", "NIBBLE", "NURTURE", "OAT", "ONION", "OX", "PAD_NOUN", "PAD_VERB", "PANTS", "PEACH", "PEPPER", "PIG", "PLANT", "PLANTER", "PLOT", "POCKET_NOUN", "POCKET_VERB", "PRANK", "RABBIT", "ROOMY", "SALT", "SCOLD", "SEAM", "SHELTER", "SHOW", "SNACK", "SNUGGLE", "SPICE", "SPOON", "SPRING_NOUN", "SPRING_VERB", "STEED", "STICK_WOOD", "STICK_VERB", "STICKY", "STRAW", "STRAY", "SUGAR", "SUPPER", "SURPRISE", "SWINE", "TOUCHY", "TREAT", "TRICK", "TRIM", "TUG", "TUMBLE", "TWINE", "UNCLE", "VEGETABLE", "WAVY", "WHEAT", "WHISK", "WHISKY", "YARN", "BED", "FARM", "POT", "SLEEVE", "TUB", "TOAST", "SHOVEL", "BELLY", "TUMMY", "RUSTIC", "HOMELY", "THRIFT", "CONVENIENT", "INCONVENIENT", "FERRY", "DESK", "BOTTLE", "SHINGLE", "PLATE", "HOUSE", "THIMBLE", "BUNNY", "STRING", "LOAF", "TILE", "BABY", "GIRL", "BOY", "WREATH", "SCUFFLE", "VILLAGE", "COTTAGE", "SHACK", "HUT", "HOVEL", "MARBLE BALL", "CRITTER", "SAG", "SCOOP", "TROUGH", "SLOP", "SLOSH", "DROOP", "POKE", "SCRUB", "SOAP", "SPONGE", "SWEEP", "MOP", "PEEK", "HABIT", "CHESTNUT", "CHOCOLATE", "CINNAMON", "OLIVE", "LEMON", "LIME", "PLUM", "PUMPKIN", "CHEESE" 
+	"domestic": [
+		"ale", "apple", "aunt", "bake", "bath", "bee", "beer", "bin", "bother", "breeches", "bread", "breakfast", "brunch", "buckle", "bunch", "bush", "bushel", "business", "busy", "butter", "button", "cad", "cake", "camp", "candle", "candy", "casket", "child", "chip_noun", "chip_verb", "chirp", "clock", "closet", "cluster", "clutter", "cook", "cotton", "cream", "creek", "cuddle", "cup", "date_fruit", "date_verb", "dear", "dine", "dinner", "domestic", "donkey", "drawl", "dress_clothing", "dress_general", "dump", "dumpling", "egg", "fish_verb", "fling", "frame", "frog", "fruit", "game", "garish", "garlic", "garnish", "gerbil", "girdle", "goat", "goose", "grain", "grape", "grass", "grill", "grow", "handy", "hare", "harvest", "hay", "hearth", "hedge", "hip", "home", "honey", "hop_noun", "hop_verb", "horse", "hound", "hug", "hum", "inn", "jack", "jest", "joke", "juggle", "keg", "knead", "knit", "lard", "lazy", "lip", "lunch", "mead", "meal_dom", "meat", "mince", "monger", "mouse", "muffin", "mule", "munch", "mush", "mushroom", "nest", "nestle", "nibble", "nurture", "oat", "onion", "ox", "pad_noun", "pad_verb", "pants", "peach", "pepper", "pig", "plant", "planter", "plot", "pocket_noun", "pocket_verb", "prank", "rabbit", "roomy", "salt", "scold", "seam", "shelter", "show", "snack", "snuggle", "spice", "spoon", "spring_noun", "spring_verb", "steed", "stick_wood", "stick_verb", "sticky", "straw", "stray", "sugar", "supper", "surprise", "swine", "touchy", "treat", "trick", "trim", "tug", "tumble", "twine", "uncle", "vegetable", "wavy", "wheat", "whisk", "whisky", "yarn", "bed", "farm", "pot", "sleeve", "tub", "toast", "shovel", "belly", "tummy", "rustic", "homely", "thrift", "convenient", "inconvenient", "ferry", "desk", "bottle", "shingle", "plate", "house", "thimble", "bunny", "string", "loaf", "tile", "baby", "girl", "boy", "wreath", "scuffle", "village", "cottage", "shack", "hut", "hovel", "marble ball", "critter", "sag", "scoop", "trough", "slop", "slosh", "droop", "poke", "scrub", "soap", "sponge", "sweep", "mop", "peek", "habit", "chestnut", "chocolate", "cinnamon", "olive", "lemon", "lime", "plum", "pumpkin", "cheese" 
 	],
 
-	"MYTHIC": [
-		"AGELESS", "DAWN", "DEMON", "DEVIL", "DOOM", "DRAGON", "ETERNAL", "EVER", "EVERLASTING", "EVERSEEING", "GOD", "GRIFFON", "HELL", "LEGEND", "MYTH", "OBLIVION", "OMEN", "PROPHECY", "PROPHET", "SOUL", "TEMPEST", "WONDER_NOUN", "FOREVER", "HEAVEN", "UNNAMEABLE", "CYCLOPEAN", "INFINITE", "ABSOLUTE", "ENCHANT", "WIND STORM", "FUTURE", "PAST", "VISION", "ORACLE", "PORTENT", "MOMENTOUS", "CYCLONE", "TYPHOON", "HURRICANE", "DEITY", "IMMORTAL", "COSMOS", "IMMORTALITY", "FATE", "DESTINY" 
+	"mythic": [
+		"ageless", "dawn", "demon", "devil", "doom", "dragon", "eternal", "ever", "everlasting", "everseeing", "god", "griffon", "hell", "legend", "myth", "oblivion", "omen", "prophecy", "prophet", "soul", "tempest", "wonder_noun", "forever", "heaven", "unnameable", "cyclopean", "infinite", "absolute", "enchant", "wind storm", "future", "past", "vision", "oracle", "portent", "momentous", "cyclone", "typhoon", "hurricane", "deity", "immortal", "cosmos", "immortality", "fate", "destiny" 
 	],
 
-	"ARTIFICE": [
-		"ABBEY", "ARMOR", "ARROW", "AXE", "BIN", "BOAT", "BODICE", "BOLT", "BOOK", "BOOT", "BREECHES", "BUCKLE", "BUST_NOUN", "CASTLE", "CELL", "CHAMBER", "CLASP", "CLOCK", "CLOISTER", "CLOSET", "CRYPT", "CRYSTAL", "CUDGEL", "DAGGER", "DOOR", "DUNGEON", "DYE", "FLUTE", "FORTIFY", "FORTRESS", "GATE", "GEAR", "GLAZE", "GLOVE", "GUTTER", "HAME", "HAMMER", "HAMMERER", "HATCHET", "HELM", "INK", "IRON", "KEG", "KEY", "KNIFE", "LACE", "LENS", "LETTER", "LUTE", "METAL", "MIRROR", "MUSIC", "NET", "OAR", "ORB", "PAGE", "PAINT", "PAPER", "PORTAL", "PULLEY", "RACK", "RAG", "RAZOR", "RIM", "RING_OBJECT", "ROOM", "ROOMY", "ROUGH", "SABRE", "SACK", "SALVE", "SATIN", "SEAL_ART", "SEAM", "SEWER", "SHELTER", "SHIELD", "SHIP", "SHOOT", "SILK", "SILKY", "SKIRT_CLOTHING", "SLING", "SMITH", "SPEAR", "SPOON", "SPRING_NOUN", "STAFF", "STEEL", "SWORD", "SYRUP", "TOMB", "TOME", "TOUR", "TOWER", "TREATY", "URN", "WHEEL", "WHIP", "WORK", "ARTIFACT", "BED", "POT", "SLEEVE", "PUPPET", "CRAFT", "LABOR", "PICK", "TONGS", "CONSTRUCT", "PADDLE", "WALL", "LANTERN", "TORCH", "SHOVEL", "BELL", "RUSTIC", "GILD", "GUILD", "MERCHANT", "TRADE", "GIRDER", "FERRY", "DESK", "BOTTLE", "SHINGLE", "PLATE", "ROAD", "HOUSE", "FOUNTAIN", "THIMBLE", "ROPE", "STRING", "WIRE", "LASH", "LANCE", "LANCER", "WIND CLOCK", "TOOL", "TILE", "GALLOWS", "CHANNEL", "FLAG", "BANNER", "STANDARD FLAG", "TRUMPET", "PILLAR", "ARCH NOUN", "RELIC", "CITADEL", "CITY", "TOWN", "VILLAGE", "MANOR", "MANSION", "PALACE", "COTTAGE", "SHACK", "HUT", "HOVEL", "FURNACE", "ANVIL", "BRIDGE", "MACHINE", "MARBLE BALL", "ROOF", "CEILING", "FLOOR", "CORRIDOR", "HALL", "GALLEY", "ARENA", "ARMORY", "THEATER", "VESTIBULE", "TROUGH", "FENCE", "BARRICADE", "BLOCKADE", "BOARD PLANK", "PLANK", "DIKE", "PALISADE", "POST", "RAMPART", "STAKE", "STOCKADE", "VESSEL", "SOAP", "HANDLE OBJECT", "MECHANISM", "ATTIC", "BASEMENT", "CREATE", "BRASS", "FIGURE_OBJECT", "VAULT PLACE", "TREASURY" 
+	"artifice": [
+		"abbey", "armor", "arrow", "axe", "bin", "boat", "bodice", "bolt", "book", "boot", "breeches", "buckle", "bust_noun", "castle", "cell", "chamber", "clasp", "clock", "cloister", "closet", "crypt", "crystal", "cudgel", "dagger", "door", "dungeon", "dye", "flute", "fortify", "fortress", "gate", "gear", "glaze", "glove", "gutter", "hame", "hammer", "hammerer", "hatchet", "helm", "ink", "iron", "keg", "key", "knife", "lace", "lens", "letter", "lute", "metal", "mirror", "music", "net", "oar", "orb", "page", "paint", "paper", "portal", "pulley", "rack", "rag", "razor", "rim", "ring_object", "room", "roomy", "rough", "sabre", "sack", "salve", "satin", "seal_art", "seam", "sewer", "shelter", "shield", "ship", "shoot", "silk", "silky", "skirt_clothing", "sling", "smith", "spear", "spoon", "spring_noun", "staff", "steel", "sword", "syrup", "tomb", "tome", "tour", "tower", "treaty", "urn", "wheel", "whip", "work", "artifact", "bed", "pot", "sleeve", "puppet", "craft", "labor", "pick", "tongs", "construct", "paddle", "wall", "lantern", "torch", "shovel", "bell", "rustic", "gild", "guild", "merchant", "trade", "girder", "ferry", "desk", "bottle", "shingle", "plate", "road", "house", "fountain", "thimble", "rope", "string", "wire", "lash", "lance", "lancer", "wind clock", "tool", "tile", "gallows", "channel", "flag", "banner", "standard flag", "trumpet", "pillar", "arch noun", "relic", "citadel", "city", "town", "village", "manor", "mansion", "palace", "cottage", "shack", "hut", "hovel", "furnace", "anvil", "bridge", "machine", "marble ball", "roof", "ceiling", "floor", "corridor", "hall", "galley", "arena", "armory", "theater", "vestibule", "trough", "fence", "barricade", "blockade", "board plank", "plank", "dike", "palisade", "post", "rampart", "stake", "stockade", "vessel", "soap", "handle object", "mechanism", "attic", "basement", "create", "brass", "figure_object", "vault place", "treasury" 
 	],
 
-	"COLOR": [
-		"BLACK", "BLUE", "BRIGHT", "COLOR", "DYE", "GREEN", "INK", "PAINT", "PALE", "PURPLE", "RED", "SILVER", "VIOLET", "WHITE", "YELLOW", "COPPER", "BRONZE", "JADE", "IVORY", "CRIMSON", "SABLE COLOR", "FAIR COLOR", "AMBER", "AMETHYST", "AQUA", "AQUAMARINE", "GRAY", "AUBURN", "AZURE", "BEIGE", "BRASS", "BROWN", "BUFF", "SIENNA", "UMBER", "CARDINAL_COLOR", "CARMINE", "CERULEAN", "CHARCOAL", "CHARTREUSE", "CHESTNUT", "CHOCOLATE", "CINNAMON", "COBALT", "INDIGO", "OLIVE", "PINK", "SCARLET", "TAN", "ECRU", "EMERALD", "FLAX", "FUCHSIA", "GOLDENROD", "HELIOTROPE", "LAVENDER", "LEMON", "LILAC", "LIME", "MAHOGANY", "MAROON_COLOR", "MAUVE", "TAUPE", "MINT", "MOSS", "OCHRE", "ORANGE", "PERIWINKLE", "PLUM", "PUCE", "PUMPKIN", "RUSSET", "SAFFRON", "SEPIA", "TEAL", "TURQUOISE", "VERMILION" 
+	"color": [
+		"black", "blue", "bright", "color", "dye", "green", "ink", "paint", "pale", "purple", "red", "silver", "violet", "white", "yellow", "copper", "bronze", "jade", "ivory", "crimson", "sable color", "fair color", "amber", "amethyst", "aqua", "aquamarine", "gray", "auburn", "azure", "beige", "brass", "brown", "buff", "sienna", "umber", "cardinal_color", "carmine", "cerulean", "charcoal", "chartreuse", "chestnut", "chocolate", "cinnamon", "cobalt", "indigo", "olive", "pink", "scarlet", "tan", "ecru", "emerald", "flax", "fuchsia", "goldenrod", "heliotrope", "lavender", "lemon", "lilac", "lime", "mahogany", "maroon_color", "mauve", "taupe", "mint", "moss", "ochre", "orange", "periwinkle", "plum", "puce", "pumpkin", "russet", "saffron", "sepia", "teal", "turquoise", "vermilion" 
 	],
 
-	"MYSTERY": [
-		"AURA", "BEGUILER", "BLACK", "BLIND", "CANDLE", "CAT", "CAVE", "CLOAK", "CREEP", "CREEPY", "DARK", "DEATH", "DECEIVER", "DEEP", "DUSK", "EERIE", "FOG", "GHOST", "GUISE", "HAUNT", "HOLE", "HOOD", "INVISIBLE", "KNOT", "LAST", "LIE", "LONE", "LOST", "LURK", "MIDNIGHT", "MIRROR", "MIST", "MOLE", "MOTH", "MYSTERY", "NIGHT", "OWL", "POCKET_VERB", "PROWL", "ROGUE", "RUMOR", "SECRET", "SEER", "SHADOW", "SILENCE", "SMOKE", "SPIDER", "SPIDERY", "SPY", "STALK", "THIEF", "TRICK", "TRICKERY", "TWILIGHT", "UNSEEN", "WHISPER", "WISP", "DREAM", "SUBTLE", "UNSPEAKABLE", "UNTHINKABLE", "UNNAMEABLE", "IMPERVIOUS", "INFINITE", "OBSCURE", "OCCULT", "VEIL", "TENEBROUS", "LABYRINTH", "MAZE", "WEB", "PUZZLE", "PERPLEX", "QUANDARY", "RIDDLE", "CONFUSE", "MUDDLE", "BEWILDER", "SNEAK", "VAULT PLACE" 
+	"mystery": [
+		"aura", "beguiler", "black", "blind", "candle", "cat", "cave", "cloak", "creep", "creepy", "dark", "death", "deceiver", "deep", "dusk", "eerie", "fog", "ghost", "guise", "haunt", "hole", "hood", "invisible", "knot", "last", "lie", "lone", "lost", "lurk", "midnight", "mirror", "mist", "mole", "moth", "mystery", "night", "owl", "pocket_verb", "prowl", "rogue", "rumor", "secret", "seer", "shadow", "silence", "smoke", "spider", "spidery", "spy", "stalk", "thief", "trick", "trickery", "twilight", "unseen", "whisper", "wisp", "dream", "subtle", "unspeakable", "unthinkable", "unnameable", "impervious", "infinite", "obscure", "occult", "veil", "tenebrous", "labyrinth", "maze", "web", "puzzle", "perplex", "quandary", "riddle", "confuse", "muddle", "bewilder", "sneak", "vault place" 
 	],
 
-	"NEGATIVE": [
-		"ANGER", "BEETLE", "BEGUILER", "BLIND", "BOG", "BURDEN", "CACKLE", "CAD", "CELL", "CHILL", "CHIP_VERB", "CLING", "CLUTTER", "COIL", "COLD", "CREEP", "CREEPY", "CROSS_VERB", "CROSS_ADJ", "CRUCIFY", "CRUMBLE", "DANK", "DARK", "DECAY", "DESPAIR", "DIRT", "DITCH", "DRAIN", "DRAWL", "DREG", "DRIP", "DRY", "DUMP", "EERIE", "FAMINE", "FAT", "FEAR", "FETID", "FLEA", "FLOOD", "FOOL", "FORK", "FRAGMENT", "FRAY", "FREEZE", "FUNGUS", "GAUNT", "GLUTTON", "GREED", "GRIM", "GUILE", "HAUNT", "HUNGER", "HUSTLE", "IDLE", "ILL", "IMPURE", "INSANITY", "JAUNDICE", "LAZY", "LEAK", "LEPER", "LEPROSY", "LOOT", "LURCH", "LURK", "MARSH", "MESS", "MISERY", "MUD", "NASTY", "NEGATIVE", "NEGATE", "NETTLE", "PAIN", "PIT", "PITCH", "PROWL", "RABBLE", "RAGE", "RAMPAGE", "RANDOM", "RAT", "ROGUE", "ROT", "RUIN", "RUST", "SALT", "SCREAM", "SERPENT", "SEWER", "SHRIEK", "SHUT", "SICK", "SICKNESS", "SILENCE", "SKIRT_VERB", "SLIM", "SLIT", "SLIVER", "SLOTH", "SMOULDER", "SNEER", "SOOT", "SORROW", "SPASM", "SPAWN", "SPOIL", "SPY", "SQUIRM", "STALK", "STEAL", "STICKY", "STRANGE", "STRETCH", "STUPID", "STUTTER", "SUFFERING", "SULLEN", "SWINE", "TAR", "TARNISH", "TEAR", "THIRST", "THRALL", "TOUCHY", "TRAP", "TRASH", "TRICKERY", "TROUBLE", "TUMBLE", "TURMOIL", "ULCER", "UNKEMPT", "UNTOWARD", "UNWELCOME", "USELESS", "VANDAL", "VEGETABLE", "VEGETATE", "VENOM", "VOID", "WAIL", "WEAR", "WEASEL", "WEED", "WEIRD", "WRATH", "WRETCH", "ZEALOT", "GURGLE", "LIMP", "WADDLE", "DESERTVERB", "LIMPVERB", "SLUDGE", "GOO", "TEPID", "DISMAL", "CHUNK", "GROSS", "STUMP", "NAUGHTY", "FLIMSY", "LESSER", "LEAST", "DREAD", "WALLOW", "WRACK", "SAD", "TRAGEDY", "UNSPEAKABLE", "UNTHINKABLE", "UNNAMEABLE", "CALAMITY", "TRITE", "TRIFLE", "RANK", "RANCOR", "BITTER", "TAINT", "CORRUPT", "MALIGN SLANDER V", "MALIGN ADJ", "MALIGNANT", "DISTRUST", "UNTRUSTWORTHY", "DISHONEST", "BLIGHT", "LONELY", "LONESOME", "BANDIT", "BRIGAND", "MONSTER", "INSENSITIVE", "MALODOROUS", "IGNORANT", "IGNOBLE", "IMMORAL", "INFERIOR", "FELL CRUEL", "UNDIGNIFIED", "DISLOYAL", "INCONSIDERATE", "INCONVENIENT", "FLIGHTY", "BUNION", "BLAME", "MEAN NASTY", "MEAN LOW", "SHAME", "ASHAMED", "WORRY", "BEWITCH", "STINK", "PIMPLE", "WART", "BLOTCH", "TORTURE", "WEEP", "STALE", "WORTHLESS", "FRIGHT", "REVOLTING", "DISGUST", "CRUEL", "DEVIANT", "DEVIOUS", "IMMORALITY", "GRIEF", "BRASH", "BRAZEN", "VICTIM", "DRAB", "OBSCENE", "VULGAR", "OMINOUS", "GUILT", "STIGMA", "DOUR", "GLOOM", "GLUM", "MOROSE", "PUNGENT", "MUSTY", "INFECT", "LESION", "AFFLICT", "ACHE", "EPIDEMIC", "GOAD", "SUICIDE", "SPURN", "SCORN", "CONTEMPT", "MALICE", "HATRED", "SPITE", "BRUTE", "HARSH", "BARBARITY", "SCANDAL", "ACRID", "DEPRESS SAD", "SAG", "ABYSMAL", "DWINDLE", "FAIL", "LANGUISH", "SHRIVEL", "WITHER", "MUDDLE", "MORASS", "DEFECT FAULT", "DREDGE", "SMEAR", "NADIR", "FRIGID", "BOREDOM", "DIRGE", "LAMENT", "MOURN", "THREAT", "WARNING", "HORROR", "TRIAL", "BETRAY", "TREASON", "SQUAT" 
+	"negative": [
+		"anger", "beetle", "beguiler", "blind", "bog", "burden", "cackle", "cad", "cell", "chill", "chip_verb", "cling", "clutter", "coil", "cold", "creep", "creepy", "cross_verb", "cross_adj", "crucify", "crumble", "dank", "dark", "decay", "despair", "dirt", "ditch", "drain", "drawl", "dreg", "drip", "dry", "dump", "eerie", "famine", "fat", "fear", "fetid", "flea", "flood", "fool", "fork", "fragment", "fray", "freeze", "fungus", "gaunt", "glutton", "greed", "grim", "guile", "haunt", "hunger", "hustle", "idle", "ill", "impure", "insanity", "jaundice", "lazy", "leak", "leper", "leprosy", "loot", "lurch", "lurk", "marsh", "mess", "misery", "mud", "nasty", "negative", "negate", "nettle", "pain", "pit", "pitch", "prowl", "rabble", "rage", "rampage", "random", "rat", "rogue", "rot", "ruin", "rust", "salt", "scream", "serpent", "sewer", "shriek", "shut", "sick", "sickness", "silence", "skirt_verb", "slim", "slit", "sliver", "sloth", "smoulder", "sneer", "soot", "sorrow", "spasm", "spawn", "spoil", "spy", "squirm", "stalk", "steal", "sticky", "strange", "stretch", "stupid", "stutter", "suffering", "sullen", "swine", "tar", "tarnish", "tear", "thirst", "thrall", "touchy", "trap", "trash", "trickery", "trouble", "tumble", "turmoil", "ulcer", "unkempt", "untoward", "unwelcome", "useless", "vandal", "vegetable", "vegetate", "venom", "void", "wail", "wear", "weasel", "weed", "weird", "wrath", "wretch", "zealot", "gurgle", "limp", "waddle", "desertverb", "limpverb", "sludge", "goo", "tepid", "dismal", "chunk", "gross", "stump", "naughty", "flimsy", "lesser", "least", "dread", "wallow", "wrack", "sad", "tragedy", "unspeakable", "unthinkable", "unnameable", "calamity", "trite", "trifle", "rank", "rancor", "bitter", "taint", "corrupt", "malign slander v", "malign adj", "malignant", "distrust", "untrustworthy", "dishonest", "blight", "lonely", "lonesome", "bandit", "brigand", "monster", "insensitive", "malodorous", "ignorant", "ignoble", "immoral", "inferior", "fell cruel", "undignified", "disloyal", "inconsiderate", "inconvenient", "flighty", "bunion", "blame", "mean nasty", "mean low", "shame", "ashamed", "worry", "bewitch", "stink", "pimple", "wart", "blotch", "torture", "weep", "stale", "worthless", "fright", "revolting", "disgust", "cruel", "deviant", "devious", "immorality", "grief", "brash", "brazen", "victim", "drab", "obscene", "vulgar", "ominous", "guilt", "stigma", "dour", "gloom", "glum", "morose", "pungent", "musty", "infect", "lesion", "afflict", "ache", "epidemic", "goad", "suicide", "spurn", "scorn", "contempt", "malice", "hatred", "spite", "brute", "harsh", "barbarity", "scandal", "acrid", "depress sad", "sag", "abysmal", "dwindle", "fail", "languish", "shrivel", "wither", "muddle", "morass", "defect fault", "dredge", "smear", "nadir", "frigid", "boredom", "dirge", "lament", "mourn", "threat", "warning", "horror", "trial", "betray", "treason", "squat" 
 	],
 
-	"ROMANTIC": [
-		"BODICE", "BRIDE", "CAD", "CHARM", "COUPLE", "CUDDLE", "DANCE", "DATE_VERB", "DEAR", "FLOWER", "HUG", "KISS", "LOVE", "LUST", "RED", "ROMANCE", "ROSE", "SEDUCE", "SEDUCER", "SILK", "SILKY", "SNUGGLE", "PETAL", "FANCYVERB", "FRAGRANCE", "SENSUAL", "LOVER", "BELOVED", "SUITOR", "CARNAL", "AFFECTION", "ADORE", "EMBRACE", "TENDER", "PASSION", "BLUSH", "BEAUTY" 
+	"romantic": [
+		"bodice", "bride", "cad", "charm", "couple", "cuddle", "dance", "date_verb", "dear", "flower", "hug", "kiss", "love", "lust", "red", "romance", "rose", "seduce", "seducer", "silk", "silky", "snuggle", "petal", "fancyverb", "fragrance", "sensual", "lover", "beloved", "suitor", "carnal", "affection", "adore", "embrace", "tender", "passion", "blush", "beauty" 
 	],
 
-	"ASSERTIVE": [
-		"AWE-INSPIRING", "BOLD", "BREACH", "BRISTLE", "BRILLIANT", "BUST_VERB", "CALL", "CANYON", "CASTLE", "COMET", "CROSS_ADJ", "DUTY", "FLY_VERB", "FREE", "GARISH", "GOLD", "HARVEST_VERB", "JUST", "KEY", "KNIGHT", "MIGHTY", "POWER", "PRIDE", "SAVIOR", "STAND", "STEEL", "STERN", "STRENGTH", "SWIFT", "TAKER", "WILL", "DIRECT", "PERSUADE", "PERSUADER", "CONTROL", "CONTROLLER", "DRIVE", "RADIANCE", "GREATER", "GREATEST", "TORCH", "GLEAM", "ROAR", "YELL", "METEOR", "IMPERVIOUS", "UNSWERVING", "SUPERIOR", "FELL CRUEL", "INDIGNATION", "RIGHT BETTER", "ABSOLUTE", "BRAVERY", "SCULPT", "MASSIVE", "LARGE", "SPORT", "SEARCH", "BRASH", "BRAZEN", "DECISIVE", "SPECIAL", "GOAL", "CERTAIN", "COMPETE", "CONTEST", "MATCH CONTEST", "ACTION", "CHAMPION", "APOGEE", "CLIMAX", "CULMINATE", "MOST", "TOP", "ZENITH", "HALE", "ROBUST", "HARDY", "VIGOR", "MASTERY", "CONFIDENT", "ESTEEM", "FAME", "PRESTIGE", "RENOWN", "COURAGE", "DOMINATE", "DOMINION", "INFLUENCE", "TENACITY", "PERFECT", "JEWEL", "APEX", "RAPID", "QUEST", "ADVENTURE", "THREAT", "JUDGE" 
+	"assertive": [
+		"awe-inspiring", "bold", "breach", "bristle", "brilliant", "bust_verb", "call", "canyon", "castle", "comet", "cross_adj", "duty", "fly_verb", "free", "garish", "gold", "harvest_verb", "just", "key", "knight", "mighty", "power", "pride", "savior", "stand", "steel", "stern", "strength", "swift", "taker", "will", "direct", "persuade", "persuader", "control", "controller", "drive", "radiance", "greater", "greatest", "torch", "gleam", "roar", "yell", "meteor", "impervious", "unswerving", "superior", "fell cruel", "indignation", "right better", "absolute", "bravery", "sculpt", "massive", "large", "sport", "search", "brash", "brazen", "decisive", "special", "goal", "certain", "compete", "contest", "match contest", "action", "champion", "apogee", "climax", "culminate", "most", "top", "zenith", "hale", "robust", "hardy", "vigor", "mastery", "confident", "esteem", "fame", "prestige", "renown", "courage", "dominate", "dominion", "influence", "tenacity", "perfect", "jewel", "apex", "rapid", "quest", "adventure", "threat", "judge" 
 	],
 
-	"AQUATIC": [
-		"BATH", "BOAT", "CLAM", "CRAB", "DROWNED", "EEL", "FIN", "FISH_ANIMAL", "FISH_VERB", "FLOOD", "GILL", "LAKE", "LEAK", "LOBSTER", "OAR", "OCEAN", "SEA", "SEAL_ANIMAL", "SHIP", "SQUID", "SWIM", "WAVE", "PADDLE", "WATER", "DRINK", "SHORE", "BEACH", "COAST", "SUBMERGE", "SPLASH", "DRENCH", "MOIST", "SLOSH", "SOAK", "SPRAY", "WASH", "SINK", "DIVE" 
+	"aquatic": [
+		"bath", "boat", "clam", "crab", "drowned", "eel", "fin", "fish_animal", "fish_verb", "flood", "gill", "lake", "leak", "lobster", "oar", "ocean", "sea", "seal_animal", "ship", "squid", "swim", "wave", "paddle", "water", "drink", "shore", "beach", "coast", "submerge", "splash", "drench", "moist", "slosh", "soak", "spray", "wash", "sink", "dive" 
 	],
 
-	"PROTECT": [
-		"ARMOR", "CASTLE", "COVER", "FORTIFY", "FORTRESS", "GATE", "GLOVE", "GUARD", "HELM", "KEEPER", "LAW", "PAD_NOUN", "PAD_VERB", "POCKET_NOUN", "SHELL", "SHELTER", "SHIELD", "TOWER", "LOYAL", "HELP", "BLANKET", "BLOCK DEFEND", "SEARCH", "SANCTUARY", "SANCTUM", "ESCORT", "CITADEL", "BASTION", "SAFE", "WARD", "FENCE", "BARRICADE", "BLOCKADE", "DEFEND", "DEFENSE", "PALISADE", "RAMPART", "STOCKADE", "CRADLE", "NOURISH", "MEDICINE", "HEAL", "BULWARK", "HEALING", "VAULT PLACE" 
+	"protect": [
+		"armor", "castle", "cover", "fortify", "fortress", "gate", "glove", "guard", "helm", "keeper", "law", "pad_noun", "pad_verb", "pocket_noun", "shell", "shelter", "shield", "tower", "loyal", "help", "blanket", "block defend", "search", "sanctuary", "sanctum", "escort", "citadel", "bastion", "safe", "ward", "fence", "barricade", "blockade", "defend", "defense", "palisade", "rampart", "stockade", "cradle", "nourish", "medicine", "heal", "bulwark", "healing", "vault place" 
 	],
 
-	"RESTRAIN": [
-		"BRIDLE", "CAGE", "CELL", "CHAIN", "CLASP", "HAME", "LAW", "NET", "SIEGE", "SILENCE", "STRAP", "TAME", "TRUSS", "BELT", "OBSTACLE", "JAIL", "PRISON", "JAILER", "FENCE", "BARRICADE", "BLOCKADE", "HOLD", "WEB", "TANGLE", "ENTANGLE", "CLENCH", "CLUTCH", "GRASP", "BIND", "CONFINE", "CONTAIN", "IMPRISON", "TRAMMEL", "VISE" 
+	"restrain": [
+		"bridle", "cage", "cell", "chain", "clasp", "hame", "law", "net", "siege", "silence", "strap", "tame", "truss", "belt", "obstacle", "jail", "prison", "jailer", "fence", "barricade", "blockade", "hold", "web", "tangle", "entangle", "clench", "clutch", "grasp", "bind", "confine", "contain", "imprison", "trammel", "vise" 
 	],
 
-	"THOUGHT": [
-		"ABBEY", "BOOK", "BRAIN", "CLOCK", "FOCUS", "INSANITY", "LENS", "LETTER", "LISTEN", "MEDITATION", "MIND", "NUMBER", "ORB", "PAGE", "PAPER", "PROPHECY", "PROPHET", "TOME", "WATCHFUL", "WONDER_VERB", "GENIUS", "INSIGHT", "SAVANT", "PONDER", "SCHOLAR", "VISIONARY", "ORACLE", "LIBRARY", "PLAN", "STRATEGY", "LESSON", "TEACH", "TRUTH", "POEM", "POETRY", "POET", "SCRIBE", "MONK", "LEARN", "WISDOM", "KNOW", "KNOWLEDGE", "REASON" 
+	"thought": [
+		"abbey", "book", "brain", "clock", "focus", "insanity", "lens", "letter", "listen", "meditation", "mind", "number", "orb", "page", "paper", "prophecy", "prophet", "tome", "watchful", "wonder_verb", "genius", "insight", "savant", "ponder", "scholar", "visionary", "oracle", "library", "plan", "strategy", "lesson", "teach", "truth", "poem", "poetry", "poet", "scribe", "monk", "learn", "wisdom", "know", "knowledge", "reason" 
 	],
 
-	"WILD": [
-		"ANGER", "BEAST", "CHAOS", "CRAZE", "CRAZY", "FRENZY", "GRIZZLE", "HOWL", "INSANITY", "JACK", "LUST", "MESS", "PRANK", "RED", "SAVAGE", "SAVAGERY", "SCREAM", "SHRIEK", "STRAY", "SURPRISE", "TURMOIL", "UNBRIDLED", "UNKEMPT", "WANDER", "WILD", "WRATH", "YEARLING", "ZEAL", "ZEALOT", "ZEPHYR", "CAVORT", "FROTH", "WHIRL", "LIVID", "PLAY FUN", "RUN", "DASH", "ROAR", "YELL", "INTENSE", "UNTAMED", "BURST", "FLIGHT", "OUTRAGE", "BRASH", "BRAZEN", "SPURT", "AVALANCHE", "IMPUNITY", "BRUTE", "FEROCITY", "FERAL", "FURY", "ONSLAUGHT", "SHATTER", "LEAP" 
+	"wild": [
+		"anger", "beast", "chaos", "craze", "crazy", "frenzy", "grizzle", "howl", "insanity", "jack", "lust", "mess", "prank", "red", "savage", "savagery", "scream", "shriek", "stray", "surprise", "turmoil", "unbridled", "unkempt", "wander", "wild", "wrath", "yearling", "zeal", "zealot", "zephyr", "cavort", "froth", "whirl", "livid", "play fun", "run", "dash", "roar", "yell", "intense", "untamed", "burst", "flight", "outrage", "brash", "brazen", "spurt", "avalanche", "impunity", "brute", "ferocity", "feral", "fury", "onslaught", "shatter", "leap" 
 	],
 
-	"NAME_SWAMP": [
-		"BILE", "BOG", "MARSH", "SWAMP", "SLUDGE", "GOO", "MURK", "MORASS", "MIRE" 
+	"name_swamp": [
+		"bile", "bog", "marsh", "swamp", "sludge", "goo", "murk", "morass", "mire" 
 	],
 
-	"NAME_DESERT": [
-		"WASTE", "DESERT", "DUNE" 
+	"name_desert": [
+		"waste", "desert", "dune" 
 	],
 
-	"NAME_FOREST": [
-		"FOREST", "JUNGLE" 
+	"name_forest": [
+		"forest", "jungle" 
 	],
 
-	"NAME_MOUNTAINS": [
-		"AXE", "BARB", "BEAK", "FINGER", "HORN", "SPIKE", "SPINE", "TOOTH", "TOWER", "MOUNTAIN", "POINT", "WALL", "CREST" 
+	"name_mountains": [
+		"axe", "barb", "beak", "finger", "horn", "spike", "spine", "tooth", "tower", "mountain", "point", "wall", "crest" 
 	],
 
-	"NAME_OCEAN": [
-		"BLUE", "OCEAN", "SEA", "WATER", "GULF SEA" 
+	"name_ocean": [
+		"blue", "ocean", "sea", "water", "gulf sea" 
 	],
 
-	"NAME_GLACIER": [
-		"ICE", "GLACIER", "BLIZZARD", "FROST" 
+	"name_glacier": [
+		"ice", "glacier", "blizzard", "frost" 
 	],
 
-	"NAME_TUNDRA": [
-		"WINTER", "TUNDRA", "BLIZZARD", "FROST" 
+	"name_tundra": [
+		"winter", "tundra", "blizzard", "frost" 
 	],
 
-	"NAME_GRASSLAND": [
-		"FIELD", "PLAIN", "PRAIRIE", "STEPPE" 
+	"name_grassland": [
+		"field", "plain", "prairie", "steppe" 
 	],
 
-	"NAME_HILLS": [
-		"HILL" 
+	"name_hills": [
+		"hill" 
 	],
 
-	"NAME_REGION": [
-		"DOMAIN", "LAND", "WORLD", "REALM", "PLANE", "DIMENSION", "UNIVERSE", "PLANET" 
+	"name_region": [
+		"domain", "land", "world", "realm", "plane", "dimension", "universe", "planet" 
 	],
 
-	"NAME_CAVE": [
-		"CAVE", "DANK", "DARK", "DEEP", "GUTTER", "HEART", "HELL", "HOLE", "NEST", "NIGHT", "PIT", "SCAR", "SEWER", "SHADOW", "SHAFT", "MINE", "ECHO", "HOLLOW", "GLOOM", "CAVERN", "DEPTH", "UMBRA", "MURK", "ABYSS", "CREVICE", "CRACK" 
+	"name_cave": [
+		"cave", "dank", "dark", "deep", "gutter", "heart", "hell", "hole", "nest", "night", "pit", "scar", "sewer", "shadow", "shaft", "mine", "echo", "hollow", "gloom", "cavern", "depth", "umbra", "murk", "abyss", "crevice", "crack" 
 	],
 
-	"EARTH": [
-		"CANYON", "CAVE", "CRYSTAL", "GOLD", "GORGE_NOUN", "IRON", "QUAKE", "ROCK", "SILVER", "STEEL", "VOLCANO", "EARTH", "DIAMOND", "TIN", "COPPER", "BRONZE", "GRANITE", "MOUNTAIN", "PEBBLE", "BOULDER", "MINE", "GRAVEL", "AVALANCHE", "OIL", "COAL", "GEM", "AMETHYST", "AQUAMARINE", "SIENNA", "UMBER", "COBALT", "OCHRE", "TURQUOISE" 
+	"earth": [
+		"canyon", "cave", "crystal", "gold", "gorge_noun", "iron", "quake", "rock", "silver", "steel", "volcano", "earth", "diamond", "tin", "copper", "bronze", "granite", "mountain", "pebble", "boulder", "mine", "gravel", "avalanche", "oil", "coal", "gem", "amethyst", "aquamarine", "sienna", "umber", "cobalt", "ochre", "turquoise" 
 	],
 
-	"NAME_LAKE": [
-		"BLUE", "LAKE", "WATER" 
+	"name_lake": [
+		"blue", "lake", "water" 
 	],
 
-	"NAME_ENTITY_KINGDOM": [
-		"REALM", "KINGDOM", "EMPIRE", "CONFEDERATION", "UNION", "CONFEDERACY", "NATION" 
+	"name_entity_kingdom": [
+		"realm", "kingdom", "empire", "confederation", "union", "confederacy", "nation" 
 	],
 
-	"NAME_ENTITY_TOWN_FOUNDER": [
-		"COUNCIL", "LEAGUE GROUP", "GROUP", "FELLOWSHIP", "SOCIETY", "BAND GROUP", "COALITION" 
+	"name_entity_town_founder": [
+		"council", "league group", "group", "fellowship", "society", "band group", "coalition" 
 	],
 
-	"GOOD": [
-		"ANGEL", "KINDNESS", "LOVE", "PEACE", "SAINT", "SAVIOR", "HONEST", "GLAD", "DIVINE", "TRUST", "TRUSTWORTHY", "MORAL", "DIGNITY", "RIGHT BETTER", "FAIR EVEN", "LOYAL", "HELP", "FRIEND", "COURTESY", "CHEERFUL", "BRAVERY", "CONSIDERATE", "BLAMELESS", "WORTHY", "MORALITY", "MIRTH", "GLEE", "COMPASSION", "SACRIFICE", "CHARITY", "CHERISH", "VIRTUE", "HONOR", "DECENT", "GOOD", "PURE", "TRUTH", "TRUTHFUL", "HOPE" 
+	"good": [
+		"angel", "kindness", "love", "peace", "saint", "savior", "honest", "glad", "divine", "trust", "trustworthy", "moral", "dignity", "right better", "fair even", "loyal", "help", "friend", "courtesy", "cheerful", "bravery", "considerate", "blameless", "worthy", "morality", "mirth", "glee", "compassion", "sacrifice", "charity", "cherish", "virtue", "honor", "decent", "good", "pure", "truth", "truthful", "hope" 
 	],
 
-	"NAME_CONTINENT": [
-		"LAND", "CONTINENT" 
+	"name_continent": [
+		"land", "continent" 
 	],
 
-	"NAME_ISLAND": [
-		"LAND", "ISLAND" 
+	"name_island": [
+		"land", "island" 
 	],
 
-	"NAME_ISLAND_SMALL": [
-		"LAND", "ISLAND" 
+	"name_island_small": [
+		"land", "island" 
 	],
 
-	"NAME_PEAK": [
-		"AXE", "BARB", "BEAK", "BLADE", "BROTHER", "FINGER", "HATCHET", "HELM", "HORN", "KING", "QUEEN", "RAZOR", "ROCK", "SISTER", "STONE", "SWORD", "TALON", "THORN", "THRONE", "TOOTH", "TOWER", "TUSK", "MOUNTAIN", "PINNACLE", "POINT", "PILLAR", "ANVIL", "PEAK", "SUMMIT", "ZENITH" 
+	"name_peak": [
+		"axe", "barb", "beak", "blade", "brother", "finger", "hatchet", "helm", "horn", "king", "queen", "razor", "rock", "sister", "stone", "sword", "talon", "thorn", "throne", "tooth", "tower", "tusk", "mountain", "pinnacle", "point", "pillar", "anvil", "peak", "summit", "zenith" 
 	],
 
-	"NAME_VOLCANO": [
-		"ASH", "BLAZE", "CINDER", "FIRE", "FLAME", "HEARTH", "RAGE", "VOLCANO", "TORCH", "FOUNTAIN", "FURNACE" 
+	"name_volcano": [
+		"ash", "blaze", "cinder", "fire", "flame", "hearth", "rage", "volcano", "torch", "fountain", "furnace" 
 	],
 
-	"NAME_COMMON_RELIGION": ["CULT", "COVEN", "SECT", "ORDER GROUP", "CREED", "COMMUNION", "DOCTRINE", "FAITH", "DENOMINATION", "FELLOWSHIP" 
+	"name_common_religion": ["cult", "coven", "sect", "order_group", "creed", "communion", "doctrine", "faith", "denomination", "fellowship" 
 	],
 
-	"BALANCE": [
-		"FAIR EVEN", "MATCH EQUAL", "EVEN", "BALANCE", "EQUITY", "EQUIVALENCE", "PARITY", "STASIS", "SYMMETRY", "EQUAL", "HARMONY", "NEUTRALIZE", "NEUTRAL", "STABLE UNCHANGING" 
+	"balance": [
+		"fair even", "match equal", "even", "balance", "equity", "equivalence", "parity", "stasis", "symmetry", "equal", "harmony", "neutralize", "neutral", "stable_unchanging" 
 	],
 
-	"BOUNDARY": [
-		"DOOR", "FRAME", "GATE", "SEAL_ART", "WALL", "LINE", "SHORE", "BEACH", "COAST" 
+	"boundary": [
+		"door", "frame", "gate", "seal_art", "wall", "line", "shore", "beach", "coast" 
 	],
 
-	"DANCE": [
-		"DANCE", "HOP_NOUN", "HOP_VERB", "CAVORT", "TROT", "RHYTHM", "FESTIVAL" 
+	"dance": [
+		"dance", "hop_noun", "hop_verb", "cavort", "trot", "rhythm", "festival" 
 	],
 
-	"DARKNESS": [
-		"BLACK", "DARK", "DUSK", "MIDNIGHT", "NIGHT", "SHADOW", "TWILIGHT", "SABLE COLOR", "GLOOM", "CAVERN", "SHADE", "UMBRA", "MURK", "FAINT INTENSITY", "TENEBROUS", "ABYSS", "FADE", "TUNNEL" 
+	"darkness": [
+		"black", "dark", "dusk", "midnight", "night", "shadow", "twilight", "sable color", "gloom", "cavern", "shade", "umbra", "murk", "faint intensity", "tenebrous", "abyss", "fade", "tunnel" 
 	],
 
-	"LIGHT": [
-		"BRIGHT", "DAWN", "DAY", "GLIMMER", "GLISTEN", "LIGHT", "SHEEN", "SHIMMER", "SUN", "WHITE", "RAY", "RADIANCE", "LANTERN", "TORCH", "GLITTER", "SPARK", "SPARKLE", "FLASH", "GLEAM", "SCINTILLATE", "FAIR COLOR", "TWINKLE", "LUSTER", "FLICKER", "GLOW" 
+	"light": [
+		"bright", "dawn", "day", "glimmer", "glisten", "light", "sheen", "shimmer", "sun", "white", "ray", "radiance", "lantern", "torch", "glitter", "spark", "sparkle", "flash", "gleam", "scintillate", "fair color", "twinkle", "luster", "flicker", "glow" 
 	],
 
-	"ORDER": [
-		"FRAME", "LAW", "REIN", "PATTERN", "CONTROL", "CONTROLLER", "SYSTEM", "CERTAIN", "SYMMETRY", "STABLE UNCHANGING", "ORGANIZE", "SQUARE", "JUDGE" 
+	"order": [
+		"frame", "law", "rein", "pattern", "control", "controller", "system", "certain", "symmetry", "stable_unchanging", "organize", "square", "judge" 
 	],
 
-	"FESTIVAL": [
-		"GARISH", "RITE", "CAVORT", "PLAY FUN", "PLAY PERFORM", "MIRTH", "GLEE", "FLAG", "BANNER", "WREATH", "ASSEMBLE", "MEET", "THEATER", "HUMOR", "COMEDY", "CELEBRATE", "ENJOY", "DELIGHT", "JOY", "FESTIVAL" 
+	"festival": [
+		"garish", "rite", "cavort", "play fun", "play perform", "mirth", "glee", "flag", "banner", "wreath", "assemble", "meet", "theater", "humor", "comedy", "celebrate", "enjoy", "delight", "joy", "festival" 
 	],
 
-	"FAMILY": [
-		"AUNT", "BRIDE", "BROTHER", "CHILD", "FATHER", "HOME", "MOTHER", "SISTER", "UNCLE", "BABY", "GIRL", "BOY", "WOMAN", "CLAN", "KIN", "BIRTH" 
+	"family": [
+		"aunt", "bride", "brother", "child", "father", "home", "mother", "sister", "uncle", "baby", "girl", "boy", "woman", "clan", "kin", "birth" 
 	],
 
-	"FIRE": [
-		"BLAZE", "BROIL", "BURN", "CHAR", "FIRE", "FLAME", "MOLTEN", "SPARK", "INFERNO", "CONFLAGRATION", "FLARE", "HEAT", "FURNACE", "SIZZLE", "SWELTER", "WARM", "TORRID", "FLICKER", "BRAND", "SINGE", "SEAR", "SCORCH", "ROAST", "PARCH", "IGNITE", "INCINERATE", "GLOW", "CREMATE" 
+	"fire": [
+		"blaze", "broil", "burn", "char", "fire", "flame", "molten", "spark", "inferno", "conflagration", "flare", "heat", "furnace", "sizzle", "swelter", "warm", "torrid", "flicker", "brand", "singe", "sear", "scorch", "roast", "parch", "ignite", "incinerate", "glow", "cremate" 
 	],
 
-	"FOOD": [
-		"APPLE", "BAKE", "BERRY", "BREAD", "BREAKFAST", "BRUNCH", "BUTTER", "CAKE", "CANDY", "COOK", "DATE_FRUIT", "DEVOURER", "DINE", "DINNER", "DUMPLING", "EAT", "FAMINE", "FAT", "FRUIT", "GARLIC", "GARNISH", "GLUTTON", "GORGE_VERB", "HARVEST", "HARVEST_VERB", "HONEY", "HUNGER", "LUNCH", "MEAL_DOM", "MOUTH", "MUFFIN", "MUNCH", "MUSHROOM", "NUT", "OAT", "ONION", "PEACH", "PEPPER", "SALT", "SNACK", "SPICE", "STARVE", "SUGAR", "SUPPER", "SWEET", "SYRUP", "TONGUE", "TOOTH", "DESSERT", "FRAGRANCE", "BELLY", "TUMMY", "BITTER", "SOUR", "CHESTNUT", "CHOCOLATE", "CINNAMON", "OLIVE", "LEMON", "LIME", "MINT", "ORANGE", "PLUM", "PUMPKIN", "SAFFRON" 
+	"food": [
+		"apple", "bake", "berry", "bread", "breakfast", "brunch", "butter", "cake", "candy", "cook", "date_fruit", "devourer", "dine", "dinner", "dumpling", "eat", "famine", "fat", "fruit", "garlic", "garnish", "glutton", "gorge_verb", "harvest", "harvest_verb", "honey", "hunger", "lunch", "meal_dom", "mouth", "muffin", "munch", "mushroom", "nut", "oat", "onion", "peach", "pepper", "salt", "snack", "spice", "starve", "sugar", "supper", "sweet", "syrup", "tongue", "tooth", "dessert", "fragrance", "belly", "tummy", "bitter", "sour", "chestnut", "chocolate", "cinnamon", "olive", "lemon", "lime", "mint", "orange", "plum", "pumpkin", "saffron" 
 	],
 
-	"FREEDOM": [
-		"FREE", "UNTAMED", "AUTONOMY", "EMANCIPATE", "EXTRICATE", "IMPUNITY", "LIBERATE", "LIBERTY", "RELEASE", "RELIEVE" 
+	"freedom": [
+		"free", "untamed", "autonomy", "emancipate", "extricate", "impunity", "liberate", "liberty", "release", "relieve" 
 	],
 
-	"GAMES": [
-		"GAME", "RANDOM", "PLAY FUN", "SPORT", "CHANCE", "AMUSE", "PASTIME", "DISTRACTION GAME", "DIVERSION GAME", "RECREATION GAME", "COMPETE", "CONTEST", "MATCH CONTEST", "TOURNAMENT", "PLAN", "SCENARIO", "STRATEGY", "TACTIC", "FESTIVAL" 
+	"games": [
+		"game", "random", "play fun", "sport", "chance", "amuse", "pastime", "distraction game", "diversion game", "recreation game", "compete", "contest", "match contest", "tournament", "plan", "scenario", "strategy", "tactic", "festival" 
 	],
 
-	"LUCK": [
-		"RANDOM", "CHANCE", "FORTUNE LUCK", "ACCIDENT", "CIRCUMSTANCE", "CONTINGENCY", "COINCIDENCE", "FLUKE", "LUCK", "UNCERTAIN", "FORTUITOUS", "INCIDENTAL" 
+	"luck": [
+		"random", "chance", "fortune luck", "accident", "circumstance", "contingency", "coincidence", "fluke", "luck", "uncertain", "fortuitous", "incidental" 
 	],
 
-	"MUSIC": [
-		"CHANT", "DRUM", "FLUTE", "HORN", "HUM", "LUTE", "LYRIC", "MUSIC", "RING_SOUND", "SING", "BELL", "TRUMPET", "TONE", "PHRASE", "RHYME", "RHYTHM", "VERSE", "DRUM VERB", "DIRGE" 
+	"music": [
+		"chant", "drum", "flute", "horn", "hum", "lute", "lyric", "music", "ring_sound", "sing", "bell", "trumpet", "tone", "phrase", "rhyme", "rhythm", "verse", "drum verb", "dirge" 
 	],
 
-	"SKY": [
-		"FLY_VERB", "LIGHTNING", "RAIN", "SKY", "STAR", "STORM", "TEMPEST", "THUNDER", "HEAVEN", "CLOUD", "CERULEAN" 
+	"sky": [
+		"fly_verb", "lightning", "rain", "sky", "star", "storm", "tempest", "thunder", "heaven", "cloud", "cerulean" 
 	],
 
-	"SILENCE": [
-		"SILENCE", "WHISPER", "STILL UNMOVING", "CALM", "HUSH", "LACONIC", "LULL", "MUTE", "NOISELESS", "QUIESCENT", "QUIET", "RETICENT", "SATURNINE", "SPEECHLESS", "TACITURN", "FAINT VERB" 
+	"silence": [
+		"silence", "whisper", "still unmoving", "calm", "hush", "laconic", "lull", "mute", "noiseless", "quiescent", "quiet", "reticent", "saturnine", "speechless", "taciturn", "faint verb" 
 	],
 
-	"TRADE": [
-		"MONGER", "GUILD", "MERCHANT", "TRADE", "PRICE", "SELL", "MARKET" 
+	"trade": [
+		"monger", "guild", "merchant", "trade", "price", "sell", "market" 
 	],
 
-	"TRAVEL": [
-		"EAST", "INN", "NORTH", "SOUTH", "WANDER", "WEST", "WHEEL", "WAY", "WAYWARD", "STRANGER", "BRIDGE", "WALK" 
+	"travel": [
+		"east", "inn", "north", "south", "wander", "west", "wheel", "way", "wayward", "stranger", "bridge", "walk" 
 	],
 
-	"TRUTH": [
-		"HONEST", "INSIGHT", "TRUST", "TRUSTWORTHY", "PRINCIPLE", "TRUTH", "TRUTHFUL", "WISDOM", "KNOW", "KNOWLEDGE", "REASON" 
+	"truth": [
+		"honest", "insight", "trust", "trustworthy", "principle", "truth", "truthful", "wisdom", "know", "knowledge", "reason" 
 	],
 
-	"WEALTH": [
-		"GOLD", "GREED", "SILVER", "TREASURE", "DIAMOND", "JADE", "IVORY", "WEALTH", "TAX", "LUXURY", "GILD", "PEARL", "FORTUNE WEALTH", "GEM", "JEWEL", "VAULT PLACE", "TREASURY" 
+	"wealth": [
+		"gold", "greed", "silver", "treasure", "diamond", "jade", "ivory", "wealth", "tax", "luxury", "gild", "pearl", "fortune wealth", "gem", "jewel", "vault place", "treasury" 
 	],
 
-	"NAME_BUILDING_TEMPLE": [
-		"ABBEY", "CHURCH", "TEMPLE", "SHRINE", "SANCTUARY", "MONASTERY", "CONVENT", "CATHEDRAL", "CHAPEL", "SANCTUM" 
+	"name_building_temple": [
+		"abbey", "church", "temple", "shrine", "sanctuary", "monastery", "convent", "cathedral", "chapel", "sanctum" 
 	],
 
-	"NAME_BUILDING_KEEP": [
-		"CASTLE", "FORTRESS", "TOWER", "CITADEL", "PALACE", "BASTION" 
+	"name_building_keep": [
+		"castle", "fortress", "tower", "citadel", "palace", "bastion" 
 	],
 
-	"NAME_WAR": [
-		"WAR", "CONFLICT" 
+	"name_war": [
+		"war", "conflict" 
 	],
 
-	"NAME_BATTLE": [
-		"BATTLE", "CLASH" 
+	"name_battle": [
+		"battle", "clash" 
 	],
 
-	"NAME_SIEGE": [
-		"SIEGE", "ASSAULT", "ATTACK", "ONSLAUGHT" 
+	"name_siege": [
+		"siege", "assault", "attack", "onslaught" 
 	],
 
-	"NAME_ROAD": [
-		"WAY", "ROAD", "PATH" 
+	"name_road": [
+		"way", "road", "path" 
 	],
 
-	"NAME_TUNNEL": [
-		"CAVE", "DARK", "DEEP", "GUTTER", "SEWER", "WAY", "PASSAGE", "CORRIDOR", "HALL", "TUNNEL", "BOWEL INTERIOR", "PATH" 
+	"name_tunnel": [
+		"cave", "dark", "deep", "gutter", "sewer", "way", "passage", "corridor", "hall", "tunnel", "bowel interior", "path" 
 	],
 
-	"NAME_BRIDGE": [
-		"BRIDGE" 
+	"name_bridge": [
+		"bridge" 
 	],
 
-	"NAME_WALL": [
-		"SHIELD", "WALL", "FENCE", "BARRICADE", "BLOCKADE", "DEFENSE", "RAMPART", "BULWARK" 
+	"name_wall": [
+		"shield", "wall", "fence", "barricade", "blockade", "defense", "rampart", "bulwark" 
 	],
 
-	"NAME_BUILDING_TOMB": [
-		"CRYPT", "GRAVE", "TOMB" 
+	"name_building_tomb": [
+		"crypt", "grave", "tomb" 
 	],
 
-	"NAME_BUILDING_LIBRARY": [
-		"HOME", "HOUSE", "LIBRARY", "SANCTUARY", "MANSION", "PALACE", "BASTION", "VAULT PLACE", "TREASURY" 
+	"name_building_library": [
+		"home", "house", "library", "sanctuary", "mansion", "palace", "bastion", "vault place", "treasury" 
 	],
 
-	"NAME_FESTIVAL": [
-		"CELEBRATE", "FESTIVAL"
+	"name_festival": [
+		"celebrate", "festival"
 	]
 }

@@ -4576,11 +4576,11 @@
     "translated": "ye‡a˜a"
   },
   {
-    "original": "play fun",
+    "original": "play_fun",
     "translated": "mithe"
   },
   {
-    "original": "play perform",
+    "original": "play_perform",
     "translated": "quathari"
   },
   {
@@ -4888,11 +4888,11 @@
     "translated": "fadethe"
   },
   {
-    "original": "malign slander v",
+    "original": "malign_slander_v",
     "translated": "mimamu"
   },
   {
-    "original": "malign adj",
+    "original": "malign_adj",
     "translated": "yeri"
   },
   {
@@ -5028,19 +5028,19 @@
     "translated": "cerete"
   },
   {
-    "original": "sable color",
+    "original": "sable_color",
     "translated": "tuthi"
   },
   {
-    "original": "fell cruel",
+    "original": "fell_cruel",
     "translated": "malethe"
   },
   {
-    "original": "fell hide",
+    "original": "fell_hide",
     "translated": "inefa"
   },
   {
-    "original": "pelt hide",
+    "original": "pelt_hide",
     "translated": "cacame"
   },
   {
@@ -5056,7 +5056,7 @@
     "translated": "wiyi"
   },
   {
-    "original": "right better",
+    "original": "right_better",
     "translated": "enore"
   },
   {
@@ -5064,11 +5064,11 @@
     "translated": "atle"
   },
   {
-    "original": "fair even",
+    "original": "fair_even",
     "translated": "ode"
   },
   {
-    "original": "fair color",
+    "original": "fair_color",
     "translated": "ewiwi"
   },
   {
@@ -5252,7 +5252,7 @@
     "translated": "mimi"
   },
   {
-    "original": "lock hair",
+    "original": "lock_hair",
     "translated": "athina"
   },
   {
@@ -5264,11 +5264,11 @@
     "translated": "thal£"
   },
   {
-    "original": "mean nasty",
+    "original": "mean_nasty",
     "translated": "osata"
   },
   {
-    "original": "mean low",
+    "original": "mean_low",
     "translated": "n‚tho"
   },
   {
@@ -5344,11 +5344,11 @@
     "translated": "mawada"
   },
   {
-    "original": "block defend",
+    "original": "block_defend",
     "translated": "canara"
   },
   {
-    "original": "block square",
+    "original": "block_square",
     "translated": "epuba"
   },
   {
@@ -5456,11 +5456,11 @@
     "translated": "¡ci"
   },
   {
-    "original": "wind storm",
+    "original": "wind_storm",
     "translated": "ametha"
   },
   {
-    "original": "wind clock",
+    "original": "wind_clock",
     "translated": "‚litho"
   },
   {
@@ -5580,7 +5580,7 @@
     "translated": "wumaya"
   },
   {
-    "original": "skin verb",
+    "original": "skin_verb",
     "translated": "feceve"
   },
   {
@@ -5788,7 +5788,7 @@
     "translated": "nalet¡"
   },
   {
-    "original": "order group",
+    "original": "order_group",
     "translated": "feri"
   },
   {
@@ -5812,7 +5812,7 @@
     "translated": "ofara"
   },
   {
-    "original": "temple head",
+    "original": "temple_head",
     "translated": "odi˜a"
   },
   {
@@ -5820,11 +5820,11 @@
     "translated": "neyamo"
   },
   {
-    "original": "order concept",
+    "original": "order_concept",
     "translated": "cadame"
   },
   {
-    "original": "faith loyalty",
+    "original": "faith_loyalty",
     "translated": "thari"
   },
   {
@@ -5864,7 +5864,7 @@
     "translated": "canira"
   },
   {
-    "original": "standard flag",
+    "original": "standard_flag",
     "translated": "falone"
   },
   {
@@ -5908,7 +5908,7 @@
     "translated": "lithate"
   },
   {
-    "original": "still unmoving",
+    "original": "still_unmoving",
     "translated": "a‡šya"
   },
   {
@@ -5960,11 +5960,11 @@
     "translated": "rer‚thi"
   },
   {
-    "original": "fortune luck",
+    "original": "fortune_luck",
     "translated": "favane"
   },
   {
-    "original": "fortune wealth",
+    "original": "fortune_wealth",
     "translated": "fawara"
   },
   {
@@ -6020,23 +6020,23 @@
     "translated": "asibi"
   },
   {
-    "original": "distract annoy",
+    "original": "distract_annoy",
     "translated": "riraci"
   },
   {
-    "original": "distraction game",
+    "original": "distraction_game",
     "translated": "arola"
   },
   {
-    "original": "diversion game",
+    "original": "diversion_game",
     "translated": "athame"
   },
   {
-    "original": "divert detour",
+    "original": "divert_detour",
     "translated": "mfo"
   },
   {
-    "original": "recreation game",
+    "original": "recreation_game",
     "translated": "cipame"
   },
   {
@@ -6048,11 +6048,11 @@
     "translated": "ita"
   },
   {
-    "original": "match contest",
+    "original": "match_contest",
     "translated": "pare"
   },
   {
-    "original": "match equal",
+    "original": "match_equal",
     "translated": "limili"
   },
   {
@@ -6152,11 +6152,11 @@
     "translated": "rise"
   },
   {
-    "original": "stable unchanging",
+    "original": "stable_unchanging",
     "translated": "uyane"
   },
   {
-    "original": "lull mislead",
+    "original": "lull_mislead",
     "translated": "civeri"
   },
   {
@@ -6236,7 +6236,7 @@
     "translated": "esaca"
   },
   {
-    "original": "arch noun",
+    "original": "arch_noun",
     "translated": "fis£"
   },
   {
@@ -6276,11 +6276,11 @@
     "translated": "meli"
   },
   {
-    "original": "faint intensity",
+    "original": "faint_intensity",
     "translated": "ac¡"
   },
   {
-    "original": "faint verb",
+    "original": "faint_verb",
     "translated": "webana"
   },
   {
@@ -6456,7 +6456,7 @@
     "translated": "parida"
   },
   {
-    "original": "marble ball",
+    "original": "marble_ball",
     "translated": "šri"
   },
   {
@@ -6604,7 +6604,7 @@
     "translated": "rafov"
   },
   {
-    "original": "gore noun",
+    "original": "gore_noun",
     "translated": "wive"
   },
   {
@@ -6704,15 +6704,15 @@
     "translated": "cadedi"
   },
   {
-    "original": "flank verb",
+    "original": "flank_verb",
     "translated": "tala"
   },
   {
-    "original": "pass mountain",
+    "original": "pass_mountain",
     "translated": "nelo"
   },
   {
-    "original": "pass verb",
+    "original": "pass_verb",
     "translated": "rane"
   },
   {
@@ -6852,11 +6852,11 @@
     "translated": "mothida"
   },
   {
-    "original": "depress sad",
+    "original": "depress_sad",
     "translated": "eyuca"
   },
   {
-    "original": "depression low",
+    "original": "depression_low",
     "translated": "iquisi"
   },
   {
@@ -6880,15 +6880,15 @@
     "translated": "racalu"
   },
   {
-    "original": "gulf sea",
+    "original": "gulf_sea",
     "translated": "emma"
   },
   {
-    "original": "gulf pit",
+    "original": "gulf_pit",
     "translated": "efara"
   },
   {
-    "original": "gulf distance",
+    "original": "gulf_distance",
     "translated": "aku"
   },
   {
@@ -6932,11 +6932,11 @@
     "translated": "yathine"
   },
   {
-    "original": "board plank",
+    "original": "board_plank",
     "translated": "bathiti"
   },
   {
-    "original": "board get on",
+    "original": "board_get_on",
     "translated": "celi"
   },
   {
@@ -7032,11 +7032,11 @@
     "translated": "ereyi"
   },
   {
-    "original": "hail greet",
+    "original": "hail_greet",
     "translated": "bili"
   },
   {
-    "original": "hail ice",
+    "original": "hail_ice",
     "translated": "eri˜a"
   },
   {
@@ -7468,11 +7468,11 @@
     "translated": "ethera"
   },
   {
-    "original": "scale verb",
+    "original": "scale_verb",
     "translated": "et‚we"
   },
   {
-    "original": "scale skin",
+    "original": "scale_skin",
     "translated": "mafi"
   },
   {
@@ -7600,7 +7600,7 @@
     "translated": "careci"
   },
   {
-    "original": "league group",
+    "original": "league_group",
     "translated": "cuwo"
   },
   {
@@ -7836,11 +7836,11 @@
     "translated": "ithaya"
   },
   {
-    "original": "band object",
+    "original": "band_object",
     "translated": "isi"
   },
   {
-    "original": "band group",
+    "original": "band_group",
     "translated": "ebe"
   },
   {
@@ -7888,11 +7888,11 @@
     "translated": "fora"
   },
   {
-    "original": "handle object",
+    "original": "handle_object",
     "translated": "mithi"
   },
   {
-    "original": "handle verb",
+    "original": "handle_verb",
     "translated": "thawa"
   },
   {
@@ -7920,7 +7920,7 @@
     "translated": "mideb¡"
   },
   {
-    "original": "defect fault",
+    "original": "defect_fault",
     "translated": "muce"
   },
   {
@@ -8004,7 +8004,7 @@
     "translated": "ilifi"
   },
   {
-    "original": "weather verb",
+    "original": "weather_verb",
     "translated": "ecemu"
   },
   {
@@ -8044,7 +8044,7 @@
     "translated": "thateme"
   },
   {
-    "original": "entrance verb",
+    "original": "entrance_verb",
     "translated": "afaya"
   },
   {
@@ -8080,23 +8080,23 @@
     "translated": "nef•la"
   },
   {
-    "original": "bowel gut",
+    "original": "bowel_gut",
     "translated": "iye"
   },
   {
-    "original": "bowel interior",
+    "original": "bowel_interior",
     "translated": "awi"
   },
   {
-    "original": "drill bore",
+    "original": "drill_bore",
     "translated": "weni"
   },
   {
-    "original": "drill routine",
+    "original": "drill_routine",
     "translated": "ecefe"
   },
   {
-    "original": "bore drill",
+    "original": "bore_drill",
     "translated": "ewe"
   },
   {
@@ -8172,7 +8172,7 @@
     "translated": "nicana"
   },
   {
-    "original": "drum verb",
+    "original": "drum_verb",
     "translated": "ilila"
   },
   {
@@ -8324,7 +8324,7 @@
     "translated": "lofi"
   },
   {
-    "original": "riddle holes",
+    "original": "riddle_holes",
     "translated": "wile"
   },
   {
@@ -8748,11 +8748,11 @@
     "translated": "fayoba"
   },
   {
-    "original": "vault verb",
+    "original": "vault_verb",
     "translated": "e˜e"
   },
   {
-    "original": "vault place",
+    "original": "vault_place",
     "translated": "thenaca"
   },
   {

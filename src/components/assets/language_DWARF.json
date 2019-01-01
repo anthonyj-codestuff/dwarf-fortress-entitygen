@@ -4576,11 +4576,11 @@
     "translated": "kednath"
   },
   {
-    "original": "play fun",
+    "original": "play_fun",
     "translated": "titthal"
   },
   {
-    "original": "play perform",
+    "original": "play_perform",
     "translated": "stistras"
   },
   {
@@ -4888,11 +4888,11 @@
     "translated": "shusug"
   },
   {
-    "original": "malign slander v",
+    "original": "malign_slander_v",
     "translated": "tongus"
   },
   {
-    "original": "malign adj",
+    "original": "malign_adj",
     "translated": "tustzal"
   },
   {
@@ -5028,19 +5028,19 @@
     "translated": "er"
   },
   {
-    "original": "sable color",
+    "original": "sable_color",
     "translated": "fenok"
   },
   {
-    "original": "fell cruel",
+    "original": "fell_cruel",
     "translated": "igrish"
   },
   {
-    "original": "fell hide",
+    "original": "fell_hide",
     "translated": "urus"
   },
   {
-    "original": "pelt hide",
+    "original": "pelt_hide",
     "translated": "rodem"
   },
   {
@@ -5056,7 +5056,7 @@
     "translated": "luskal"
   },
   {
-    "original": "right better",
+    "original": "right_better",
     "translated": "kirar"
   },
   {
@@ -5064,11 +5064,11 @@
     "translated": "ilas"
   },
   {
-    "original": "fair even",
+    "original": "fair_even",
     "translated": "anuz"
   },
   {
-    "original": "fair color",
+    "original": "fair_color",
     "translated": "angen"
   },
   {
@@ -5252,7 +5252,7 @@
     "translated": "stelmith"
   },
   {
-    "original": "lock hair",
+    "original": "lock_hair",
     "translated": "dolil"
   },
   {
@@ -5264,11 +5264,11 @@
     "translated": "kasben"
   },
   {
-    "original": "mean nasty",
+    "original": "mean_nasty",
     "translated": "fashuk"
   },
   {
-    "original": "mean low",
+    "original": "mean_low",
     "translated": "ubom"
   },
   {
@@ -5344,11 +5344,11 @@
     "translated": "nanges"
   },
   {
-    "original": "block defend",
+    "original": "block_defend",
     "translated": "rifot"
   },
   {
-    "original": "block square",
+    "original": "block_square",
     "translated": "kastar"
   },
   {
@@ -5456,11 +5456,11 @@
     "translated": "zimun"
   },
   {
-    "original": "wind storm",
+    "original": "wind_storm",
     "translated": "num"
   },
   {
-    "original": "wind clock",
+    "original": "wind_clock",
     "translated": "oslan"
   },
   {
@@ -5580,7 +5580,7 @@
     "translated": "ngithol"
   },
   {
-    "original": "skin verb",
+    "original": "skin_verb",
     "translated": "udesh"
   },
   {
@@ -5788,7 +5788,7 @@
     "translated": "evost"
   },
   {
-    "original": "order group",
+    "original": "order_group",
     "translated": "lotol"
   },
   {
@@ -5812,7 +5812,7 @@
     "translated": "miroth"
   },
   {
-    "original": "temple head",
+    "original": "temple_head",
     "translated": "mor"
   },
   {
@@ -5820,11 +5820,11 @@
     "translated": "asrath"
   },
   {
-    "original": "order concept",
+    "original": "order_concept",
     "translated": "shed"
   },
   {
-    "original": "faith loyalty",
+    "original": "faith_loyalty",
     "translated": "tabar"
   },
   {
@@ -5864,7 +5864,7 @@
     "translated": "stanir"
   },
   {
-    "original": "standard flag",
+    "original": "standard_flag",
     "translated": "lorbam"
   },
   {
@@ -5908,7 +5908,7 @@
     "translated": "fastam"
   },
   {
-    "original": "still unmoving",
+    "original": "still_unmoving",
     "translated": "isan"
   },
   {
@@ -5960,11 +5960,11 @@
     "translated": "dubmen"
   },
   {
-    "original": "fortune luck",
+    "original": "fortune_luck",
     "translated": "akam"
   },
   {
-    "original": "fortune wealth",
+    "original": "fortune_wealth",
     "translated": "osram"
   },
   {
@@ -6020,23 +6020,23 @@
     "translated": "gemsit"
   },
   {
-    "original": "distract annoy",
+    "original": "distract_annoy",
     "translated": "ashzos"
   },
   {
-    "original": "distraction game",
+    "original": "distraction_game",
     "translated": "enten"
   },
   {
-    "original": "diversion game",
+    "original": "diversion_game",
     "translated": "nomes"
   },
   {
-    "original": "divert detour",
+    "original": "divert_detour",
     "translated": "birir"
   },
   {
-    "original": "recreation game",
+    "original": "recreation_game",
     "translated": "kukon"
   },
   {
@@ -6048,11 +6048,11 @@
     "translated": "agesh"
   },
   {
-    "original": "match contest",
+    "original": "match_contest",
     "translated": "dalzat"
   },
   {
-    "original": "match equal",
+    "original": "match_equal",
     "translated": "tad"
   },
   {
@@ -6152,11 +6152,11 @@
     "translated": "ital"
   },
   {
-    "original": "stable unchanging",
+    "original": "stable_unchanging",
     "translated": "nulral"
   },
   {
-    "original": "lull mislead",
+    "original": "lull_mislead",
     "translated": "inal"
   },
   {
@@ -6236,7 +6236,7 @@
     "translated": "muthir"
   },
   {
-    "original": "arch noun",
+    "original": "arch_noun",
     "translated": "rovod"
   },
   {
@@ -6276,11 +6276,11 @@
     "translated": "bothon"
   },
   {
-    "original": "faint intensity",
+    "original": "faint_intensity",
     "translated": "losis"
   },
   {
-    "original": "faint verb",
+    "original": "faint_verb",
     "translated": "ildom"
   },
   {
@@ -6456,7 +6456,7 @@
     "translated": "moshnun"
   },
   {
-    "original": "marble ball",
+    "original": "marble_ball",
     "translated": "urir"
   },
   {
@@ -6604,7 +6604,7 @@
     "translated": "bocash"
   },
   {
-    "original": "gore noun",
+    "original": "gore_noun",
     "translated": "dedros"
   },
   {
@@ -6704,15 +6704,15 @@
     "translated": "ibel"
   },
   {
-    "original": "flank verb",
+    "original": "flank_verb",
     "translated": "lesast"
   },
   {
-    "original": "pass mountain",
+    "original": "pass_mountain",
     "translated": "etol"
   },
   {
-    "original": "pass verb",
+    "original": "pass_verb",
     "translated": "adas"
   },
   {
@@ -6852,11 +6852,11 @@
     "translated": "geb"
   },
   {
-    "original": "depress sad",
+    "original": "depress_sad",
     "translated": "ozon"
   },
   {
-    "original": "depression low",
+    "original": "depression_low",
     "translated": "ngegdol"
   },
   {
@@ -6880,15 +6880,15 @@
     "translated": "edtul"
   },
   {
-    "original": "gulf sea",
+    "original": "gulf_sea",
     "translated": "noleth"
   },
   {
-    "original": "gulf pit",
+    "original": "gulf_pit",
     "translated": "thabum"
   },
   {
-    "original": "gulf distance",
+    "original": "gulf_distance",
     "translated": "astod"
   },
   {
@@ -6932,11 +6932,11 @@
     "translated": "medtob"
   },
   {
-    "original": "board plank",
+    "original": "board_plank",
     "translated": "asob"
   },
   {
-    "original": "board get on",
+    "original": "board_get_on",
     "translated": "gakiz"
   },
   {
@@ -7032,11 +7032,11 @@
     "translated": "shotom"
   },
   {
-    "original": "hail greet",
+    "original": "hail_greet",
     "translated": "ilun"
   },
   {
-    "original": "hail ice",
+    "original": "hail_ice",
     "translated": "raluk"
   },
   {
@@ -7468,11 +7468,11 @@
     "translated": "cudist"
   },
   {
-    "original": "scale verb",
+    "original": "scale_verb",
     "translated": "laz"
   },
   {
-    "original": "scale skin",
+    "original": "scale_skin",
     "translated": "katak"
   },
   {
@@ -7600,7 +7600,7 @@
     "translated": "eral"
   },
   {
-    "original": "league group",
+    "original": "league_group",
     "translated": "ilash"
   },
   {
@@ -7836,11 +7836,11 @@
     "translated": "ethab"
   },
   {
-    "original": "band object",
+    "original": "band_object",
     "translated": "emath"
   },
   {
-    "original": "band group",
+    "original": "band_group",
     "translated": "konad"
   },
   {
@@ -7888,11 +7888,11 @@
     "translated": "gatiz"
   },
   {
-    "original": "handle object",
+    "original": "handle_object",
     "translated": "erush"
   },
   {
-    "original": "handle verb",
+    "original": "handle_verb",
     "translated": "shameb"
   },
   {
@@ -7920,7 +7920,7 @@
     "translated": "tost"
   },
   {
-    "original": "defect fault",
+    "original": "defect_fault",
     "translated": "aluth"
   },
   {
@@ -8004,7 +8004,7 @@
     "translated": "zeg"
   },
   {
-    "original": "weather verb",
+    "original": "weather_verb",
     "translated": "edol"
   },
   {
@@ -8044,7 +8044,7 @@
     "translated": "od"
   },
   {
-    "original": "entrance verb",
+    "original": "entrance_verb",
     "translated": "desor"
   },
   {
@@ -8080,23 +8080,23 @@
     "translated": "meban"
   },
   {
-    "original": "bowel gut",
+    "original": "bowel_gut",
     "translated": "gur"
   },
   {
-    "original": "bowel interior",
+    "original": "bowel_interior",
     "translated": "rodum"
   },
   {
-    "original": "drill bore",
+    "original": "drill_bore",
     "translated": "monang"
   },
   {
-    "original": "drill routine",
+    "original": "drill_routine",
     "translated": "thosbut"
   },
   {
-    "original": "bore drill",
+    "original": "bore_drill",
     "translated": "atek"
   },
   {
@@ -8172,7 +8172,7 @@
     "translated": "togum"
   },
   {
-    "original": "drum verb",
+    "original": "drum_verb",
     "translated": "asdug"
   },
   {
@@ -8324,7 +8324,7 @@
     "translated": "artum"
   },
   {
-    "original": "riddle holes",
+    "original": "riddle_holes",
     "translated": "dallith"
   },
   {
@@ -8748,11 +8748,11 @@
     "translated": "shoduk"
   },
   {
-    "original": "vault verb",
+    "original": "vault_verb",
     "translated": "ronstiz"
   },
   {
-    "original": "vault place",
+    "original": "vault_place",
     "translated": "ubbul"
   },
   {
