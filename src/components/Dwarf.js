@@ -33,10 +33,10 @@ class Dwarf extends Component
     let word = this.props.english[num];
     if(word)
     {
-        console.log("english word", word);
-        console.log("num", num);
-        console.log("type", type);
-        let typeArray = this.props.grammar[word.toUpperCase()];
+        // console.log("english word", word);
+        // console.log("num", num);
+        // console.log("type", type);
+        let typeArray = this.props.grammar[word];
         return (typeArray.includes(type));
     }
     else return true ;
@@ -52,8 +52,7 @@ class Dwarf extends Component
     do 
     {
         first = this.getRand();
-        console.log("New name", this.props.dwarf[first])
-    } while(!this.wordIsOfType(first, "NOUN"));
+    } while(!this.wordIsOfType(first, "noun"));
     let last1 = this.getRand();
     let last2 = this.getRand();
 
