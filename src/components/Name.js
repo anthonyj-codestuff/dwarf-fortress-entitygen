@@ -52,7 +52,7 @@ class Name extends Component
       firstName = this.getRand();
       // check first name to see if it is a noun. If not, get a new one
       // TODO: This solution has BigO of infinity. It's probably not a huge deal though
-    } while(!this.wordIsOfType(firstName, "NOUN"))
+    } while(!this.wordIsOfType(firstName, "noun"))
   }
 
   componentDidMount()
