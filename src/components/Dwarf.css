@@ -1,0 +1,6 @@
+/* VGA9 font is loaded in index.css, so it should never need a fallback */
+.dwarf-name {
+  font-family: VGA9, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+}
