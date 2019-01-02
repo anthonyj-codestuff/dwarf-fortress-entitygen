@@ -69,7 +69,7 @@
   },
   {
     "original": "artifice",
-    "translated": "l stta"
+    "translated": "lástta"
   },
   {
     "original": "ash",
@@ -89,7 +89,7 @@
   },
   {
     "original": "awe-inspiring",
-    "translated": "o¤od"
+    "translated": "oñod"
   },
   {
     "original": "axe",
@@ -109,7 +109,7 @@
   },
   {
     "original": "bake",
-    "translated": "hi¤er"
+    "translated": "hiñer"
   },
   {
     "original": "ball",
@@ -429,7 +429,7 @@
   },
   {
     "original": "cackle",
-    "translated": "ej "
+    "translated": "ejá"
   },
   {
     "original": "cad",
@@ -565,7 +565,7 @@
   },
   {
     "original": "clasp",
-    "translated": "r kfil"
+    "translated": "rákfil"
   },
   {
     "original": "claw",
@@ -605,7 +605,7 @@
   },
   {
     "original": "cloister",
-    "translated": "co¤u"
+    "translated": "coñu"
   },
   {
     "original": "closet",
@@ -625,7 +625,7 @@
   },
   {
     "original": "cobra",
-    "translated": "nas¤ok"
+    "translated": "nasñok"
   },
   {
     "original": "coil",
@@ -769,7 +769,7 @@
   },
   {
     "original": "cyst",
-    "translated": "c kuth"
+    "translated": "cákuth"
   },
   {
     "original": "dance",
@@ -921,7 +921,7 @@
   },
   {
     "original": "drinker",
-    "translated": "m s"
+    "translated": "más"
   },
   {
     "original": "drip",
@@ -1169,11 +1169,11 @@
   },
   {
     "original": "fly_animal",
-    "translated": "ng thi"
+    "translated": "ngáthi"
   },
   {
     "original": "fly_verb",
-    "translated": "a¤u"
+    "translated": "añu"
   },
   {
     "original": "focus",
@@ -1449,7 +1449,7 @@
   },
   {
     "original": "grove",
-    "translated": "¤imma"
+    "translated": "ñimma"
   },
   {
     "original": "grow",
@@ -1513,7 +1513,7 @@
   },
   {
     "original": "hand",
-    "translated": " m"
+    "translated": "ám"
   },
   {
     "original": "handy",
@@ -1533,7 +1533,7 @@
   },
   {
     "original": "hatchet",
-    "translated": "¤ethu"
+    "translated": "ñethu"
   },
   {
     "original": "hate",
@@ -1705,7 +1705,7 @@
   },
   {
     "original": "impure",
-    "translated": "¤olpu"
+    "translated": "ñolpu"
   },
   {
     "original": "incense",
@@ -1817,7 +1817,7 @@
   },
   {
     "original": "knead",
-    "translated": "m rbok"
+    "translated": "márbok"
   },
   {
     "original": "knife",
@@ -1949,7 +1949,7 @@
   },
   {
     "original": "lone",
-    "translated": "u¤am"
+    "translated": "uñam"
   },
   {
     "original": "long",
@@ -1965,7 +1965,7 @@
   },
   {
     "original": "lost",
-    "translated": "no¤i"
+    "translated": "noñi"
   },
   {
     "original": "louse",
@@ -1989,7 +1989,7 @@
   },
   {
     "original": "lurid",
-    "translated": "us¤ow"
+    "translated": "usñow"
   },
   {
     "original": "lurch",
@@ -2009,7 +2009,7 @@
   },
   {
     "original": "lute",
-    "translated": "o¤ec"
+    "translated": "oñec"
   },
   {
     "original": "lyric",
@@ -2045,7 +2045,7 @@
   },
   {
     "original": "master",
-    "translated": "si¤ur"
+    "translated": "siñur"
   },
   {
     "original": "maw",
@@ -2069,7 +2069,7 @@
   },
   {
     "original": "meat",
-    "translated": " tu"
+    "translated": "átu"
   },
   {
     "original": "meditation",
@@ -2077,7 +2077,7 @@
   },
   {
     "original": "mellow",
-    "translated": "pa¤ad"
+    "translated": "pañad"
   },
   {
     "original": "menace",
@@ -2209,7 +2209,7 @@
   },
   {
     "original": "music",
-    "translated": "jo¤u"
+    "translated": "joñu"
   },
   {
     "original": "mystery",
@@ -2281,7 +2281,7 @@
   },
   {
     "original": "nightmare",
-    "translated": "c ccast"
+    "translated": "cáccast"
   },
   {
     "original": "noble",
@@ -2373,7 +2373,7 @@
   },
   {
     "original": "owl",
-    "translated": " gen"
+    "translated": "ágen"
   },
   {
     "original": "ox",
@@ -2501,7 +2501,7 @@
   },
   {
     "original": "pride",
-    "translated": "th b"
+    "translated": "tháb"
   },
   {
     "original": "priest",
@@ -2573,7 +2573,7 @@
   },
   {
     "original": "queen",
-    "translated": "ash b"
+    "translated": "asháb"
   },
   {
     "original": "quick",
@@ -2673,7 +2673,7 @@
   },
   {
     "original": "reign",
-    "translated": " g"
+    "translated": "ág"
   },
   {
     "original": "rein",
@@ -2697,7 +2697,7 @@
   },
   {
     "original": "ring_sound",
-    "translated": "si¤a"
+    "translated": "siña"
   },
   {
     "original": "rip",
@@ -2709,7 +2709,7 @@
   },
   {
     "original": "ripper",
-    "translated": "jicl sh"
+    "translated": "jiclásh"
   },
   {
     "original": "rise",
@@ -2857,7 +2857,7 @@
   },
   {
     "original": "sea",
-    "translated": "i¤o"
+    "translated": "iño"
   },
   {
     "original": "seal_animal",
@@ -2877,7 +2877,7 @@
   },
   {
     "original": "secret",
-    "translated": "bikd "
+    "translated": "bikdá"
   },
   {
     "original": "seduce",
@@ -3017,7 +3017,7 @@
   },
   {
     "original": "sinew",
-    "translated": "¤ed"
+    "translated": "ñed"
   },
   {
     "original": "sing",
@@ -3085,7 +3085,7 @@
   },
   {
     "original": "sliver",
-    "translated": " piv"
+    "translated": "ápiv"
   },
   {
     "original": "sloth",
@@ -3101,7 +3101,7 @@
   },
   {
     "original": "smile",
-    "translated": "ca¤i"
+    "translated": "cañi"
   },
   {
     "original": "smith",
@@ -3189,7 +3189,7 @@
   },
   {
     "original": "spice",
-    "translated": "she¤e"
+    "translated": "sheñe"
   },
   {
     "original": "spider",
@@ -3281,7 +3281,7 @@
   },
   {
     "original": "steed",
-    "translated": "i¤u"
+    "translated": "iñu"
   },
   {
     "original": "starve",
@@ -3369,7 +3369,7 @@
   },
   {
     "original": "stupid",
-    "translated": " pbac"
+    "translated": "ápbac"
   },
   {
     "original": "stutter",
@@ -3409,7 +3409,7 @@
   },
   {
     "original": "sun",
-    "translated": "s thra"
+    "translated": "sáthra"
   },
   {
     "original": "sunder",
@@ -3637,7 +3637,7 @@
   },
   {
     "original": "trouble",
-    "translated": "b sko"
+    "translated": "básko"
   },
   {
     "original": "tug",
@@ -3649,7 +3649,7 @@
   },
   {
     "original": "tumble",
-    "translated": "slan "
+    "translated": "slaná"
   },
   {
     "original": "tumor",
@@ -3761,7 +3761,7 @@
   },
   {
     "original": "venom",
-    "translated": " mtoc"
+    "translated": "ámtoc"
   },
   {
     "original": "vermin",
@@ -3805,7 +3805,7 @@
   },
   {
     "original": "vulture",
-    "translated": " spast"
+    "translated": "áspast"
   },
   {
     "original": "wail",
@@ -3897,7 +3897,7 @@
   },
   {
     "original": "whisky",
-    "translated": " spka"
+    "translated": "áspka"
   },
   {
     "original": "whisper",
@@ -3969,7 +3969,7 @@
   },
   {
     "original": "yarn",
-    "translated": " to"
+    "translated": "áto"
   },
   {
     "original": "year",
@@ -4001,11 +4001,11 @@
   },
   {
     "original": "zealot",
-    "translated": "tithr "
+    "translated": "tithrá"
   },
   {
     "original": "zephyr",
-    "translated": "¤ithpa"
+    "translated": "ñithpa"
   },
   {
     "original": "earth",
@@ -4097,11 +4097,11 @@
   },
   {
     "original": "gurgle",
-    "translated": "bebd "
+    "translated": "bebdá"
   },
   {
     "original": "impale",
-    "translated": " tux"
+    "translated": "átux"
   },
   {
     "original": "join",
@@ -4209,7 +4209,7 @@
   },
   {
     "original": "test",
-    "translated": "o¤ust"
+    "translated": "oñust"
   },
   {
     "original": "trot",
@@ -4477,11 +4477,11 @@
   },
   {
     "original": "discover",
-    "translated": "shos "
+    "translated": "shosá"
   },
   {
     "original": "proliferate",
-    "translated": "e¤asm"
+    "translated": "eñasm"
   },
   {
     "original": "chunk",
@@ -4529,7 +4529,7 @@
   },
   {
     "original": "general",
-    "translated": "ca¤ar"
+    "translated": "cañar"
   },
   {
     "original": "memory",
@@ -4557,7 +4557,7 @@
   },
   {
     "original": "council",
-    "translated": "¤ilun"
+    "translated": "ñilun"
   },
   {
     "original": "counsel",
@@ -4665,7 +4665,7 @@
   },
   {
     "original": "melt",
-    "translated": "m kath"
+    "translated": "mákath"
   },
   {
     "original": "wrack",
@@ -4677,7 +4677,7 @@
   },
   {
     "original": "spark",
-    "translated": "ustr "
+    "translated": "ustrá"
   },
   {
     "original": "sparkle",
@@ -4709,7 +4709,7 @@
   },
   {
     "original": "yell",
-    "translated": "al "
+    "translated": "alá"
   },
   {
     "original": "echo",
@@ -4901,7 +4901,7 @@
   },
   {
     "original": "trust",
-    "translated": "mo¤ol"
+    "translated": "moñol"
   },
   {
     "original": "distrust",
@@ -5009,7 +5009,7 @@
   },
   {
     "original": "moral",
-    "translated": "cob r"
+    "translated": "cobár"
   },
   {
     "original": "immoral",
@@ -5033,7 +5033,7 @@
   },
   {
     "original": "fell_cruel",
-    "translated": "sh dor"
+    "translated": "shádor"
   },
   {
     "original": "fell_hide",
@@ -5097,7 +5097,7 @@
   },
   {
     "original": "cheerful",
-    "translated": "¤erib"
+    "translated": "ñerib"
   },
   {
     "original": "thrift",
@@ -5149,7 +5149,7 @@
   },
   {
     "original": "flight",
-    "translated": "so¤a"
+    "translated": "soña"
   },
   {
     "original": "flighty",
@@ -5317,7 +5317,7 @@
   },
   {
     "original": "shingle",
-    "translated": "busl "
+    "translated": "buslá"
   },
   {
     "original": "blanket",
@@ -5429,7 +5429,7 @@
   },
   {
     "original": "lancer",
-    "translated": "¤ita"
+    "translated": "ñita"
   },
   {
     "original": "stink",
@@ -5485,7 +5485,7 @@
   },
   {
     "original": "scholar",
-    "translated": "rush n"
+    "translated": "rushán"
   },
   {
     "original": "weep",
@@ -5573,7 +5573,7 @@
   },
   {
     "original": "morality",
-    "translated": "co¤ar"
+    "translated": "coñar"
   },
   {
     "original": "immorality",
@@ -5593,7 +5593,7 @@
   },
   {
     "original": "grief",
-    "translated": "beth s"
+    "translated": "bethás"
   },
   {
     "original": "belt",
@@ -5633,7 +5633,7 @@
   },
   {
     "original": "strangle",
-    "translated": "r lid"
+    "translated": "rálid"
   },
   {
     "original": "gallows",
@@ -5645,7 +5645,7 @@
   },
   {
     "original": "dim",
-    "translated": "o¤ir"
+    "translated": "oñir"
   },
   {
     "original": "spurt",
@@ -5709,11 +5709,11 @@
   },
   {
     "original": "decisive",
-    "translated": "luld n"
+    "translated": "luldán"
   },
   {
     "original": "special",
-    "translated": "¤om"
+    "translated": "ñom"
   },
   {
     "original": "author",
@@ -5797,11 +5797,11 @@
   },
   {
     "original": "communion",
-    "translated": "o¤i"
+    "translated": "oñi"
   },
   {
     "original": "doctrine",
-    "translated": "ge¤o"
+    "translated": "geño"
   },
   {
     "original": "faith",
@@ -5905,7 +5905,7 @@
   },
   {
     "original": "jailer",
-    "translated": "spat¤on"
+    "translated": "spatñon"
   },
   {
     "original": "still_unmoving",
@@ -5917,7 +5917,7 @@
   },
   {
     "original": "hush",
-    "translated": "espr "
+    "translated": "esprá"
   },
   {
     "original": "laconic",
@@ -5941,7 +5941,7 @@
   },
   {
     "original": "quiet",
-    "translated": "a¤a"
+    "translated": "aña"
   },
   {
     "original": "reticent",
@@ -6013,7 +6013,7 @@
   },
   {
     "original": "amuse",
-    "translated": "the¤i"
+    "translated": "theñi"
   },
   {
     "original": "pastime",
@@ -6309,7 +6309,7 @@
   },
   {
     "original": "suitor",
-    "translated": "i¤i"
+    "translated": "iñi"
   },
   {
     "original": "pungent",
@@ -6489,7 +6489,7 @@
   },
   {
     "original": "tempt",
-    "translated": "ri¤ih"
+    "translated": "riñih"
   },
   {
     "original": "spurn",
@@ -6641,7 +6641,7 @@
   },
   {
     "original": "weather",
-    "translated": "se¤am"
+    "translated": "señam"
   },
   {
     "original": "crest",
@@ -6669,7 +6669,7 @@
   },
   {
     "original": "roof",
-    "translated": "fat b"
+    "translated": "fatáb"
   },
   {
     "original": "ceiling",
@@ -6729,7 +6729,7 @@
   },
   {
     "original": "gallery",
-    "translated": "oj "
+    "translated": "ojá"
   },
   {
     "original": "galley",
@@ -6817,7 +6817,7 @@
   },
   {
     "original": "dell",
-    "translated": "l lcil"
+    "translated": "lálcil"
   },
   {
     "original": "glade",
@@ -6833,7 +6833,7 @@
   },
   {
     "original": "bowl",
-    "translated": "ba¤ec"
+    "translated": "bañec"
   },
   {
     "original": "cavity",
@@ -6957,7 +6957,7 @@
   },
   {
     "original": "palisade",
-    "translated": " wlist"
+    "translated": "áwlist"
   },
   {
     "original": "post",
@@ -7165,7 +7165,7 @@
   },
   {
     "original": "appear",
-    "translated": "u¤ir"
+    "translated": "uñir"
   },
   {
     "original": "disappear",
@@ -7253,7 +7253,7 @@
   },
   {
     "original": "languish",
-    "translated": "str th"
+    "translated": "stráth"
   },
   {
     "original": "lessen",
@@ -7321,7 +7321,7 @@
   },
   {
     "original": "adulate",
-    "translated": "tu¤ik"
+    "translated": "tuñik"
   },
   {
     "original": "celebrate",
@@ -7369,7 +7369,7 @@
   },
   {
     "original": "mortal",
-    "translated": " lat"
+    "translated": "álat"
   },
   {
     "original": "immortal",
@@ -7593,7 +7593,7 @@
   },
   {
     "original": "crew",
-    "translated": "¤esik"
+    "translated": "ñesik"
   },
   {
     "original": "vessel",
@@ -7733,7 +7733,7 @@
   },
   {
     "original": "catch",
-    "translated": "¤ik"
+    "translated": "ñik"
   },
   {
     "original": "confine",
@@ -7833,7 +7833,7 @@
   },
   {
     "original": "rinse",
-    "translated": "co¤e"
+    "translated": "coñe"
   },
   {
     "original": "band_object",
@@ -7917,7 +7917,7 @@
   },
   {
     "original": "vise",
-    "translated": "k d"
+    "translated": "kád"
   },
   {
     "original": "defect_fault",
@@ -8001,7 +8001,7 @@
   },
   {
     "original": "tattoo",
-    "translated": "¤absiz"
+    "translated": "ñabsiz"
   },
   {
     "original": "weather_verb",
@@ -8101,7 +8101,7 @@
   },
   {
     "original": "boredom",
-    "translated": "ro¤ad"
+    "translated": "roñad"
   },
   {
     "original": "fleck",
@@ -8289,7 +8289,7 @@
   },
   {
     "original": "anguish",
-    "translated": "¤od"
+    "translated": "ñod"
   },
   {
     "original": "taut",
@@ -8393,7 +8393,7 @@
   },
   {
     "original": "beige",
-    "translated": "the¤ic"
+    "translated": "theñic"
   },
   {
     "original": "brass",
@@ -8405,7 +8405,7 @@
   },
   {
     "original": "buff",
-    "translated": "se¤id"
+    "translated": "señid"
   },
   {
     "original": "sienna",
@@ -8421,7 +8421,7 @@
   },
   {
     "original": "carmine",
-    "translated": "buz¤ith"
+    "translated": "buzñith"
   },
   {
     "original": "cerulean",
@@ -8501,7 +8501,7 @@
   },
   {
     "original": "blush",
-    "translated": "do¤as"
+    "translated": "doñas"
   },
   {
     "original": "lemon",
@@ -8581,7 +8581,7 @@
   },
   {
     "original": "turquoise",
-    "translated": "ki¤ "
+    "translated": "kiñá"
   },
   {
     "original": "vermilion",
@@ -8665,7 +8665,7 @@
   },
   {
     "original": "judge",
-    "translated": "¤or"
+    "translated": "ñor"
   },
   {
     "original": "wish",
@@ -8769,7 +8769,7 @@
   },
   {
     "original": "reason",
-    "translated": "kab r"
+    "translated": "kabár"
   },
   {
     "original": "squat",
