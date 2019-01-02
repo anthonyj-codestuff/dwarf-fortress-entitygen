@@ -4,6 +4,7 @@ const ELF = require('../components/assets/language_ELF.json');
 const HUMAN = require('../components/assets/language_HUMAN.json');
 const GOBLIN = require('../components/assets/language_GOBLIN.json');
 const WORD_TYPES = require('../components/assets/language_words.json');
+const TOKENS = require('../components/assets/language_SYM.json');
 
 // FLAGS
 let languagesInitalized = false
@@ -21,7 +22,8 @@ const initialState =
   human: [],
   goblin: [],
   grammar: [],
-  merged: []
+  merged: [],
+  tokens: []
 };
 
 //REDUCER
@@ -42,7 +44,8 @@ export default function generalReducer(state = initialState, action)
           elf: action.payload.elf,
           human: action.payload.human,
           goblin: action.payload.goblin,
-          grammar: action.payload.grammar
+          grammar: action.payload.grammar,
+          tokens: action.payload.tokens
         };
       }
       else return state;
@@ -56,7 +59,7 @@ export default function generalReducer(state = initialState, action)
 
 export function initializeLanguages()
 {
-  let english, dwarf, elf, human, goblin, grammar;
+  let english, dwarf, elf, human, goblin, grammar, tokens;
   if(!languagesInitalized)
   {
     english = DWARF.map((e,i) => e.original);
@@ -65,6 +68,7 @@ export function initializeLanguages()
     human = HUMAN.map((e,i) => e.translated);
     goblin = GOBLIN.map((e,i) => e.translated);
     grammar = WORD_TYPES;
+    tokens = Object.keys(TOKENS);
     // All this mapping doesn't need to happen more than once, so allow Redux to check if it has already done the work
     languagesInitalized = true;
     return {
@@ -75,7 +79,8 @@ export function initializeLanguages()
         elf,
         human,
         goblin,
-        grammar
+        grammar, 
+        tokens
       }
     };
   }
