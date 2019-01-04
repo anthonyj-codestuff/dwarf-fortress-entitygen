@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import { initializeLanguages } from '../redux/reducer';
 import './Dwarf.css';
+const language_SYM = require('./assets/language_SYM.json');
+
+const LIST_OF_NAMES = ["aban", "ablel", "adil", "alath", "amost", "as", "asen", "asmel", "asob", "ast", "astesh", "athel", "atir", "atis", "avuz", "bembul", "ber", "besmar", "bim", "bomrek", "catten", "cerol", "cilob", "cog", "dakost", "dastot", "datan", "deduk", "degel", "deler", "dishmab", "dobar", "dodok", "domas", "doren", "ducim", "dumat", "dumed", "edem", "edzul", "endok", "eral", "erib", "erith", "erush", "eshtan", "etur", "ezum", "fath", "feb", "fikod", "geshud", "goden", "id", "iden", "ilral", "imush", "ineth", "ingish", "ingiz", "inod", "iteb", "iton", "kadol", "kel", "kib", "kikrost", "kivish", "kogan", "kogsak", "kol", "kosoth", "kubuk", "kulet", "kumil", "led", "libash", "likot", "limul", "litast", "logem", "lokum", "lolor", "lor", "lorbam", "mafol", "mebzuth", "medtob", "melbil", "meng", "mestthos", "minkot", "mistem", "moldath", "momuz", "monom", "morul", "mosus", "muthkat", "nil", "nish", "nomal", "obok", "oddom", "olin", "olon", "onget", "onol", "onul", "rakust", "ral", "reg", "rigoth", "rimtar", "risen", "rith", "rovod", "sakzul", "sarvesh", "sazir", "shem", "shorast", "sibrek", "sigun", "sodel", "solon", "stakud", "stinthad", "stodir", "stukos", "tekkud", "thikut", "thob", "tholtig", "tirist", "tobul", "tosid", "tulon", "tun", "ubbul", "udib", "udil", "unib", "urdim", "urist", "urvad", "ushat", "ushrir", "ustuth", "uvash", "uzol", "vabok", "vucar", "vutok", "zan", "zaneg", "zas", "zasit", "zefon", "zon", "zuglar", "zulban", "zuntir", "zutthan"];
 
 class Dwarf extends Component 
 {
@@ -48,8 +51,14 @@ class Dwarf extends Component
     else return true ;
   }
 
-  capitalize(string) {
+  capitalize(string) 
+  {
     return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+
+  deaccent(str)
+  {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
   }
 
   getDwarfName()
@@ -76,6 +85,19 @@ class Dwarf extends Component
       {this.state.currentDwarf.firstName} "{this.state.currentDwarf.transLastName}" {this.state.currentDwarf.lastName}<br/>
     </div>;
 
+    let nameAnalysis = LIST_OF_NAMES.map((e,i) => {
+      let deanglicized = this.props.dwarf.filter((f,j) => (e === this.deaccent(f)));
+      let indexOfName = this.props.dwarf.indexOf(deanglicized[0]);
+      let englishWord = this.props.english[indexOfName];
+      let listOfMatches = [];
+      if(englishWord){
+        listOfMatches = this.state.allNameTokens.filter((f,j) => {
+          //console.log(englishWord, f) //returns 'zutthan wealth' etc
+          return language_SYM[f].includes(englishWord);
+        })
+      }
+    return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
+
     return <div>
       <div className="dwarf-module">
         {this.state.namesThisSession > 0 ?
@@ -83,6 +105,7 @@ class Dwarf extends Component
           : null}
         <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
       </div>
+      {nameAnalysis}
     </div>;
   }
 }
