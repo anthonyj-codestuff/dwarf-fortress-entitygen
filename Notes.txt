@@ -175,167 +175,170 @@ NAME STATS (out of 3829):
   wimad x1 HUMAN
   zicab x2 HUMAN
   zuso x1 HUMAN
-  aban     x24 ARTIFICE
-  åblel    x10 ARTIFICE
-  adil     x41 ARTIFICE BOUNDARY
-  alåth    x26 ARTIFICE VIOLENT
-  amost    x10 ARTIFICE
-  as       x16 EARTH PRIMITIVE MYSTERY 
-  asën     x12 EARTH
-  asmel    x30 ARTIFICE TRADE
-  asob     x12 ARTIFICE
-  Âst      x24 NATURE PRIMITIVE (!)
-  astesh   x19 ARTIFICE VIOLENT PRIMITIVE
-  athel    x14 ARTIFICE MAGIC
-  atir     x24 ARTIFICE COLOR
-  atîs     x13 ARTIFICE
-  avuz     x26 EARTH
-  bëmbul   x32 ARTIFICE
-  ber      x21 EARTH NATURE
-  besmar   x09 ARTIFICE
-  bim      x11 ARTIFICE VIOLENT
-  bomrek   x30 ARTIFICE VIOLENT
-  catten   x24 ARTIFICE
-  cerol    x24 ARTIFICE THOUGHT
-  cilob    x25 ARTIFICE
-  cog      x23 ARTIFICE VIOLENT
-  dakost   x13 ARTIFICE
-  dastot   x29 
-  datan    x33 
-  deduk    x13 
-  degel    x16 
-  deler    x10 
-  dishmab  x11 
-  dobar    x16 
-  dodok    x25 
-  domas    x24 
-  doren    x39 
-  ducim    x30 
-  dumat    x17 
-  dumed    x12 
-  edem     x37 
-  edzul    x08 
-  endok    x08 
-  eral     x09 
-  erib     x20 
-  erith    x25 
-  erush    x21 
-  eshtan   x12 
-  etur     x25 
-  ezum     x22 
-  fath     x35 
-  feb      x20 
-  fikod    x30 
-  geshud   x12 
-  goden    x28 
-  id       x22 
-  iden     x29 
-  ilral    x29 
-  imush    x16 
-  ineth    x08 
-  ingish   x26 
-  ingiz    x29 
-  inod     x26 
-  iteb     x18 
-  iton     x27 
-  kadol    x44 
-  kel      x19 
-  kib      x48 
-  kikrost  x14 
-  kivish   x32 
-  kogan    x31 
-  kogsak   x14 
-  kol      x25 
-  kosoth   x12 
-  kubuk    x29 
-  kulet    x11 
-  kumil    x11 
-  led      x18 
-  libash   x23 
-  likot    x34 
-  limul    x16 
-  litast   x29 
-  logem    x35 
-  lokum    x30 
-  lolor    x18 
-  lor      x31 
-  lorbam   x38 
-  mafol    x23 
-  mebzuth  x27 
-  medtob   x18 
-  melbil   x25 
-  meng     x29 
-  mestthos x17 
-  minkot   x27 
-  mistem   x22 
-  moldath  x12 
-  momuz    x31 
-  monom    x28 
-  morul    x27 
-  mosus    x39 
-  muthkat  x20 
-  nil      x31 
-  nish     x20 
-  nomal    x15 
-  obok     x40 
-  oddom    x29 
-  olin     x26 
-  olon     x22 
-  onget    x11 
-  onol     x20 
-  onul     x24 
-  rakust   x36 
-  ral      x25 
-  reg      x32 
-  rigoth   x28 
-  rimtar   x18 
-  risen    x19 
-  rith     x31 
-  rovod    x25 
-  sakzul   x29 
-  sarvesh  x22 
-  sazir    x16 
-  shem     x12 
-  shorast  x25 
-  sibrek   x33 
-  sigun    x24 
-  sodel    x35 
-  solon    x26 
-  stakud   x19 
-  stinthad x15 
-  stodir   x16 
-  stukos   x26 
-  tekkud   x24 
-  thikut   x18 
-  thob     x39 
-  tholtig  x13 
-  tirist   x15 
-  tobul    x31 
-  tosid    x25 
-  tulon    x41 
-  tun      x32 
-  ubbul    x07 
-  udib     x23 
-  udil     x23 
-  unib     x27 
-  urdim    x29 
-  urist    x39 
-  urvad    x21 
-  ushat    x07 
-  ushrir   x22 
-  ustuth   x20 
-  uvash    x10 
-  uzol     x10 
-  vabok    x34 
-  vucar    x25 
-  vutok    x12 
-  zan      x10 
-  zaneg    x14 
-  zas      x18 
-  zasit    x29 
-  zefon    x23 
-  zon      x34 
-  zuglar   x28 
-  zulban   x19 
-  zuntir   x09 
-  zutthan  x11 
+DWARVEN NAMES
+  aban       x24 ARTIFICE
+  åblel      x10 ARTIFICE
+  adil       x41 ARTIFICE BOUNDARY
+  alåth      x26 ARTIFICE VIOLENT
+  amost      x10 ARTIFICE
+  äs         x16 EARTH MYSTERY PRIMITIVE
+  asën       x12 EARTH
+  asmel      x30 ARTIFICE TRADE
+  asob       x12 ARTIFICE
+  âst      	 x00 NATURE PRIMITIVE (false positive. This was probably never actually used. I just didn't notice immediately due to how LegendsBrowser strips accent marks)
+  ast		     x24 ARTIFICE VIOLENT
+  astesh     x19 ARTIFICE PRIMITIVE VIOLENT
+  athel      x14 ARTIFICE MAGIC
+  atír       x24 ARTIFICE COLOR
+  atîs       x13 ARTIFICE
+  avuz       x26 EARTH
+  bëmbul     x32 ARTIFICE
+  ber        x21 EARTH NATURE
+  besmar     x09 ARTIFICE
+  bim        x11 ARTIFICE VIOLENT
+  bomrek     x30 ARTIFICE VIOLENT
+  catten     x24 ARTIFICE
+  cerol      x24 ARTIFICE THOUGHT
+  cilob      x25 ARTIFICE
+  cog        x23 ARTIFICE VIOLENT
+  dakost     x13 ARTIFICE
+  dastot     x29 ARTIFICE VIOLENT
+  datan      x33 ARTIFICE EARTH
+  deduk      x13 ARTIFICE
+  degël      x16 ARTIFICE
+  deler      x10 ARTIFICE ASSERTIVE EARTH
+  dîshmab    x11 ARTIFICE PROTECT
+  dôbar      x16 ARTIFICE
+  dodók      x25 ARTIFICE RESTRAIN
+  domas      x24 ARTIFICE TRADE
+  doren      x39 EARTH WEALTH
+  ducim      x30 ARTIFICE
+  dumat      x17 ARTIFICE
+  dumed      x12 ARTIFICE PROTECT
+  edëm       x37 ARTIFICE ASSERTIVE
+  edzul      x08 ARTIFICE
+  endok      x08 ARTIFICE
+  eral       x09 ARTIFICE
+  erib       x20 EARTH NATURE
+  èrith	     x25 ARTIFICE
+  erush      x21 ARTIFICE
+  eshtân     x12 ARTIFICE
+  etur       x25 EARTH
+  èzum       x22 ARTIFICE RESTRAIN
+  fath       x35 ARTIFICE PRIMITIVE
+  feb        x20 ARTIFICE PRIMITIVE VIOLENT
+  fikod      x30 ARTIFICE
+  geshud     x12 ARTIFICE PROTECT
+  goden      x28 ARTIFICE
+  idîd       x22 EARTH NATURE PRIMITIVE
+  iden       x29 ARTIFICE AQUATIC
+  ilral      x29 ARTIFICE
+  imush      x16 ARTIFICE
+  ineth      x08 ARTIFICE
+  ingish     x26 ARTIFICE ROMANTIC
+  ïngiz      x29 ARTIFICE
+  inod       x26 ARTIFICE BOUNDARY PROTECT
+  ïteb       x18 ARTIFICE
+  îton       x27 ARTIFICE
+  kadol	     x44 ARTIFICE VIOLENT
+  kadôl 		     EARTH WEALTH (LegendsBrowser had both 'kadol's listed under the same name, so I'm not sure how many of each were picked)
+  kel        x19 ARTIFICE
+  kib        x48 ARTIFICE RESTRAIN
+  kikrost    x14 ARTIFICE PROTECT
+  kivish     x32 ARTIFICE VIOLENT
+  kogan      x31 ARTIFICE AQUATIC
+  kogsak     x14 ARTIFICE PROTECT
+  kol        x25 ARTIFICE TRAVEL
+  kosoth     x12 ARTIFICE
+  kûbuk      x29 ARTIFICE VIOLENT
+  kulet      x11 ARTIFICE HOLY THOUGHT
+  kumil      x11 ARTIFICE
+  led        x18 ARTIFICE DEATH VIOLENT
+  libash     x23 ARTIFICE PRIMITIVE VIOLENT
+  likot      x34 ARTIFICE COLOR
+  limul      x16 ASSERTIVE EARTH WEALTH
+  litast     x29 ARTIFICE ASSERTIVE LIGHT
+  logem      x35 ARTIFICE COLOR
+  lokum      x30 ARTIFICE VIOLENT
+  lolor      x18 ARTIFICE THOUGHT
+  lòr        x31 ARTIFICE
+  lorbam     x38 ARTIFICE LEADER
+  mafol      x23 ARTIFICE
+  mebzuth    x27 ARTIFICE AQUATIC
+  medtob     x18 ARTIFICE PROTECT RESTRAIN
+  melbil     x25 ARTIFICE OLD THOUGHT
+  meng       x29 ARTIFICE VIOLENT
+  mestthos   x17 ARTIFICE PROTECT
+  minkot     x27 ARTIFICE
+  mistêm     x22 ARTIFICE
+  moldath    x12 EARTH WILD
+  momuz      x31 ARTIFICE DEATH OLD
+  monom      x28 ARTIFICE THOUGHT
+  mörul      x27 ARTIFICE THOUGHT
+  mosus      x39 ARTIFICE
+  mûthkat    x20 ARTIFICE
+  nil        x31 ARTIFICE
+  nish       x20 ARTIFICE TRADE
+  nomal      x15 ARTIFICE MAGIC
+  obok       x40 ARTIFICE
+  oddom      x29 ARTIFICE HOLY
+  olin       x26 ARTIFICE
+  olon       x22 ARTIFICE
+  onget      x11 EARTH COLOR
+  onol       x20 EARTH NATURE
+  ònul   	   x24 ARTIFICE MYSTERY
+  rakust     x36 ARTIFICE DEATH OLD
+  ral        x25 COLOR EARTH WEALTH
+  reg        x32 ARTIFICE PROTECT
+  rigòth     x28 ARTIFICE
+  rimtar     x18 ARTIFICE ASSERTIVE LEADER PROTECT
+  rîsen      x19 EARTH
+  rith       x31 ARTIFICE MUSIC
+  rovod      x25 ARTIFICE
+  såkzul     x29 ARTIFICE MUSIC
+  sarvesh    x22 ARTIFICE FIRE
+  sazir      x16 ARTIFICE TRAVEL
+  shem       x12 ARTIFICE
+  shorast    x25 ARTIFICE
+  sibrek     x33 ARTIFICE
+  sigun      x24 ARTIFICE
+  sodel      x35 ARTIFICE PROTECT
+  solon      x26 ARTIFICE FESTIVAL LEADER
+  stâkud     x19 ARTIFICE
+  stinthäd   x15 ARTIFICE FESTIVAL
+  stodir     x16 EARTH NATURE VIOLENT
+  stukos     x26 ARTIFICE VIOLENT
+  tekkud     x24 ARTIFICE
+  thîkut     x18 ARTIFICE THOUGHT
+  thob       x39 ARTIFICE
+  tholtig    x13 ARTIFICE PROTECT RESTRAIN
+  tirist     x15 ARTIFICE
+  tobul      x31 ASSERTIVE EARTH NATURE
+  tosid      x25 ARTIFICE PROTECT
+  tulon      x41 ARTIFICE
+  tun        x32 ARTIFICE BOUNDARY
+  ubbul      x07 ARTIFICE MYSTERY PROTECT WEALTH
+  udib       x23 ARTIFICE FOOD
+  udil       x23 ARTIFICE LIGHT
+  unib       x27 ARTIFICE PRIMITIVE
+  urdim      x29 ARTIFICE PROTECT
+  urist      x39 ARTIFICE VIOLENT
+  urvad      x21 ARTIFICE BOUNDARY MAGIC
+  ushat      x07 ARTIFICE
+  ùshrir     x22 EARTH VIOLENT
+  ustuth     x20 ARTIFICE PROTECT RESTRAIN
+  uvash      x10 ARTIFICE
+  uzol       x10 EARTH
+  vabôk      x34 ARTIFICE MAGIC THOUGHT
+  vucar      x25 ARTIFICE DEATH
+  vutok      x12 ARTIFICE
+  zan        x10 ARTIFICE
+  zaneg      x14 ARTIFICE OLD
+  zas        x18 ARTIFICE EARTH MAGIC
+  zasit      x29 ARTIFICE VIOLENT
+  zefon      x23 ARTIFICE NEW
+  zon        x34 ARTIFICE PROTECT
+  zuglar     x28 ARTIFICE AQUATIC
+  zulban     x19 ARTIFICE FESTIVAL LEADER
+  zuntîr     x09 ARTIFICE
+  zutthan    x11 ARTIFICE WEALTH
