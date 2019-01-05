@@ -347,8 +347,13 @@ DWARVEN NAMES
               FORGOTTEN BEASTS
               ----------------
 
-  The Forgotten Beast Bikd  Julosmbaktur has come!  A huge three-eyed tick.
+  The Forgotten Beast Bikdá  Julosmbaktur has come!  A huge three-eyed tick.
   It has four long, spiral horns and it is ravening.  Its black exoskeleton
   is leathery.  Beware its poisonous vapors!
 
-  ***
+              ---------
+              ARTIFACTS
+              ---------
+
+  Istamvúsh, "Lightheated", a giant olm leather sandal  
+  This is a giant olm leather sandal.  All craftsdwarfship is of the highest quality.  It is decorated with giant olm leather and encircled with bands of llama wool.   
