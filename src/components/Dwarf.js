@@ -61,6 +61,12 @@ class Dwarf extends Component
     return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
   }
 
+  getEntityName(race)
+  // a generic name generation function for all races. TODO: Move this into a parent name generation class
+  {
+    let isOfNativeCiv = this.getRand
+  }
+
   getDwarfName()
   {
     let first;
@@ -85,18 +91,19 @@ class Dwarf extends Component
       {this.state.currentDwarf.firstName} "{this.state.currentDwarf.transLastName}" {this.state.currentDwarf.lastName}<br/>
     </div>;
 
-    let nameAnalysis = LIST_OF_NAMES.map((e,i) => {
-      let deanglicized = this.props.dwarf.filter((f,j) => (e === this.deaccent(f)));
-      let indexOfName = this.props.dwarf.indexOf(deanglicized[0]);
-      let englishWord = this.props.english[indexOfName];
-      let listOfMatches = [];
-      if(englishWord){
-        listOfMatches = this.state.allNameTokens.filter((f,j) => {
-          //console.log(englishWord, f) //returns 'zutthan wealth' etc
-          return language_SYM[f].includes(englishWord);
-        })
-      }
-    return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
+    // Skeleton for world analysis code. Do not delete without copying first
+    // let nameAnalysis = LIST_OF_NAMES.map((e,i) => {
+    //   let deanglicized = this.props.dwarf.filter((f,j) => (e === this.deaccent(f)));
+    //   let indexOfName = this.props.dwarf.indexOf(deanglicized[0]);
+    //   let englishWord = this.props.english[indexOfName];
+    //   let listOfMatches = [];
+    //   if(englishWord){
+    //     listOfMatches = this.state.allNameTokens.filter((f,j) => {
+    //       //console.log(englishWord, f) //returns 'zutthan wealth' etc
+    //       return language_SYM[f].includes(englishWord);
+    //     })
+    //   }
+    // return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
 
     return <div>
       <div className="dwarf-module">
@@ -105,7 +112,6 @@ class Dwarf extends Component
           : null}
         <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
       </div>
-      {nameAnalysis}
     </div>;
   }
 }
