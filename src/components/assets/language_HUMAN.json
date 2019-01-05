@@ -1,0 +1,8782 @@
+[
+  {
+    "original": "abbey",
+    "translated": "nithros"
+  },
+  {
+    "original": "ace",
+    "translated": "ilpi"
+  },
+  {
+    "original": "act",
+    "translated": "use"
+  },
+  {
+    "original": "after",
+    "translated": "agtha"
+  },
+  {
+    "original": "age",
+    "translated": "thad"
+  },
+  {
+    "original": "ageless",
+    "translated": "rom"
+  },
+  {
+    "original": "ale",
+    "translated": "kasmko"
+  },
+  {
+    "original": "ancient",
+    "translated": "woge"
+  },
+  {
+    "original": "angel",
+    "translated": "idla"
+  },
+  {
+    "original": "anger",
+    "translated": "othag"
+  },
+  {
+    "original": "animal",
+    "translated": "dik"
+  },
+  {
+    "original": "ape",
+    "translated": "tunem"
+  },
+  {
+    "original": "apple",
+    "translated": "ramet"
+  },
+  {
+    "original": "arch",
+    "translated": "icmon"
+  },
+  {
+    "original": "arm",
+    "translated": "ozi"
+  },
+  {
+    "original": "armor",
+    "translated": "stalcon"
+  },
+  {
+    "original": "arrow",
+    "translated": "nek"
+  },
+  {
+    "original": "artifice",
+    "translated": "lástta"
+  },
+  {
+    "original": "ash",
+    "translated": "cish"
+  },
+  {
+    "original": "aunt",
+    "translated": "ani"
+  },
+  {
+    "original": "aura",
+    "translated": "shato"
+  },
+  {
+    "original": "autumn",
+    "translated": "almef"
+  },
+  {
+    "original": "awe-inspiring",
+    "translated": "oñod"
+  },
+  {
+    "original": "axe",
+    "translated": "osp"
+  },
+  {
+    "original": "back",
+    "translated": "arin"
+  },
+  {
+    "original": "bad",
+    "translated": "umo"
+  },
+  {
+    "original": "bald",
+    "translated": "rostfen"
+  },
+  {
+    "original": "bake",
+    "translated": "hiñer"
+  },
+  {
+    "original": "ball",
+    "translated": "ohe"
+  },
+  {
+    "original": "bane",
+    "translated": "nazweng"
+  },
+  {
+    "original": "bar",
+    "translated": "tod"
+  },
+  {
+    "original": "barb",
+    "translated": "zomuth"
+  },
+  {
+    "original": "bath",
+    "translated": "bepa"
+  },
+  {
+    "original": "battle",
+    "translated": "noloc"
+  },
+  {
+    "original": "beak",
+    "translated": "kes"
+  },
+  {
+    "original": "beast",
+    "translated": "suku"
+  },
+  {
+    "original": "bear",
+    "translated": "rorec"
+  },
+  {
+    "original": "bear_verb",
+    "translated": "musda"
+  },
+  {
+    "original": "bee",
+    "translated": "uzu"
+  },
+  {
+    "original": "beer",
+    "translated": "onaf"
+  },
+  {
+    "original": "beetle",
+    "translated": "agthreb"
+  },
+  {
+    "original": "beguiler",
+    "translated": "kaslal"
+  },
+  {
+    "original": "belch",
+    "translated": "seggu"
+  },
+  {
+    "original": "berry",
+    "translated": "tikbo"
+  },
+  {
+    "original": "big",
+    "translated": "apu"
+  },
+  {
+    "original": "bile",
+    "translated": "sluste"
+  },
+  {
+    "original": "bin",
+    "translated": "itlud"
+  },
+  {
+    "original": "bird",
+    "translated": "eman"
+  },
+  {
+    "original": "black",
+    "translated": "oth"
+  },
+  {
+    "original": "blade",
+    "translated": "ushav"
+  },
+  {
+    "original": "blaze",
+    "translated": "asri"
+  },
+  {
+    "original": "blind",
+    "translated": "odu"
+  },
+  {
+    "original": "blister",
+    "translated": "ijat"
+  },
+  {
+    "original": "bloat",
+    "translated": "iquob"
+  },
+  {
+    "original": "blood",
+    "translated": "cadem"
+  },
+  {
+    "original": "bloody",
+    "translated": "caquot"
+  },
+  {
+    "original": "blossom",
+    "translated": "shibbi"
+  },
+  {
+    "original": "blue",
+    "translated": "aro"
+  },
+  {
+    "original": "boar",
+    "translated": "stral"
+  },
+  {
+    "original": "boat",
+    "translated": "leto"
+  },
+  {
+    "original": "bodice",
+    "translated": "renal"
+  },
+  {
+    "original": "bog",
+    "translated": "hoth"
+  },
+  {
+    "original": "boil",
+    "translated": "omsuth"
+  },
+  {
+    "original": "boil_v",
+    "translated": "birta"
+  },
+  {
+    "original": "bold",
+    "translated": "ring"
+  },
+  {
+    "original": "bolt",
+    "translated": "thora"
+  },
+  {
+    "original": "bone",
+    "translated": "sut"
+  },
+  {
+    "original": "book",
+    "translated": "thothil"
+  },
+  {
+    "original": "boot",
+    "translated": "ari"
+  },
+  {
+    "original": "bother",
+    "translated": "umac"
+  },
+  {
+    "original": "bow",
+    "translated": "ethro"
+  },
+  {
+    "original": "bow_verb",
+    "translated": "sodu"
+  },
+  {
+    "original": "brain",
+    "translated": "tura"
+  },
+  {
+    "original": "breach",
+    "translated": "ostsi"
+  },
+  {
+    "original": "breeches",
+    "translated": "ecroh"
+  },
+  {
+    "original": "bread",
+    "translated": "lam"
+  },
+  {
+    "original": "break",
+    "translated": "tet"
+  },
+  {
+    "original": "breakfast",
+    "translated": "zekdu"
+  },
+  {
+    "original": "breath",
+    "translated": "togi"
+  },
+  {
+    "original": "breed",
+    "translated": "loge"
+  },
+  {
+    "original": "brew",
+    "translated": "sumost"
+  },
+  {
+    "original": "bride",
+    "translated": "thina"
+  },
+  {
+    "original": "bridle",
+    "translated": "quispep"
+  },
+  {
+    "original": "bright",
+    "translated": "nepe"
+  },
+  {
+    "original": "bristle",
+    "translated": "spishab"
+  },
+  {
+    "original": "brilliant",
+    "translated": "daze"
+  },
+  {
+    "original": "brim",
+    "translated": "laka"
+  },
+  {
+    "original": "broil",
+    "translated": "mintut"
+  },
+  {
+    "original": "brother",
+    "translated": "age"
+  },
+  {
+    "original": "brunch",
+    "translated": "udda"
+  },
+  {
+    "original": "buck",
+    "translated": "ilan"
+  },
+  {
+    "original": "buckle",
+    "translated": "iddim"
+  },
+  {
+    "original": "bunch",
+    "translated": "dag"
+  },
+  {
+    "original": "burden",
+    "translated": "molu"
+  },
+  {
+    "original": "burn",
+    "translated": "istro"
+  },
+  {
+    "original": "bury",
+    "translated": "donu"
+  },
+  {
+    "original": "bush",
+    "translated": "iwo"
+  },
+  {
+    "original": "bushel",
+    "translated": "rimtil"
+  },
+  {
+    "original": "bust_noun",
+    "translated": "thrura"
+  },
+  {
+    "original": "bust_verb",
+    "translated": "mosmik"
+  },
+  {
+    "original": "business",
+    "translated": "rodi"
+  },
+  {
+    "original": "busy",
+    "translated": "cado"
+  },
+  {
+    "original": "butcher",
+    "translated": "rashcat"
+  },
+  {
+    "original": "butter",
+    "translated": "rozmo"
+  },
+  {
+    "original": "butterfly",
+    "translated": "loli"
+  },
+  {
+    "original": "button",
+    "translated": "atek"
+  },
+  {
+    "original": "buzzard",
+    "translated": "jozi"
+  },
+  {
+    "original": "cackle",
+    "translated": "ejá"
+  },
+  {
+    "original": "cad",
+    "translated": "nupto"
+  },
+  {
+    "original": "cage",
+    "translated": "tin"
+  },
+  {
+    "original": "cake",
+    "translated": "mispi"
+  },
+  {
+    "original": "call",
+    "translated": "uce"
+  },
+  {
+    "original": "camp",
+    "translated": "muthe"
+  },
+  {
+    "original": "cancer",
+    "translated": "rism"
+  },
+  {
+    "original": "candle",
+    "translated": "kofi"
+  },
+  {
+    "original": "candy",
+    "translated": "medi"
+  },
+  {
+    "original": "canker",
+    "translated": "ufsmat"
+  },
+  {
+    "original": "canyon",
+    "translated": "tequil"
+  },
+  {
+    "original": "carnage",
+    "translated": "stipoth"
+  },
+  {
+    "original": "casket",
+    "translated": "nod"
+  },
+  {
+    "original": "castle",
+    "translated": "ithru"
+  },
+  {
+    "original": "cat",
+    "translated": "usa"
+  },
+  {
+    "original": "cave",
+    "translated": "ngethac"
+  },
+  {
+    "original": "cell",
+    "translated": "umum"
+  },
+  {
+    "original": "chain",
+    "translated": "ekul"
+  },
+  {
+    "original": "chant",
+    "translated": "umci"
+  },
+  {
+    "original": "chaos",
+    "translated": "slibtu"
+  },
+  {
+    "original": "chamber",
+    "translated": "perom"
+  },
+  {
+    "original": "char",
+    "translated": "aquig"
+  },
+  {
+    "original": "charm",
+    "translated": "mel"
+  },
+  {
+    "original": "child",
+    "translated": "shin"
+  },
+  {
+    "original": "chill",
+    "translated": "nalki"
+  },
+  {
+    "original": "chip_noun",
+    "translated": "ongi"
+  },
+  {
+    "original": "chip_verb",
+    "translated": "sistru"
+  },
+  {
+    "original": "chirp",
+    "translated": "pib"
+  },
+  {
+    "original": "choke",
+    "translated": "thrislat"
+  },
+  {
+    "original": "chop",
+    "translated": "kupko"
+  },
+  {
+    "original": "chuck",
+    "translated": "cok"
+  },
+  {
+    "original": "cinder",
+    "translated": "enmu"
+  },
+  {
+    "original": "clam",
+    "translated": "nubpo"
+  },
+  {
+    "original": "clap",
+    "translated": "cengi"
+  },
+  {
+    "original": "clasp",
+    "translated": "rákfil"
+  },
+  {
+    "original": "claw",
+    "translated": "acik"
+  },
+  {
+    "original": "clear",
+    "translated": "ilid"
+  },
+  {
+    "original": "clearing",
+    "translated": "ligir"
+  },
+  {
+    "original": "cleave",
+    "translated": "kud"
+  },
+  {
+    "original": "cling",
+    "translated": "gumun"
+  },
+  {
+    "original": "cloak",
+    "translated": "iral"
+  },
+  {
+    "original": "clobber",
+    "translated": "ejed"
+  },
+  {
+    "original": "clock",
+    "translated": "ijam"
+  },
+  {
+    "original": "clod",
+    "translated": "ted"
+  },
+  {
+    "original": "cloister",
+    "translated": "coñu"
+  },
+  {
+    "original": "closet",
+    "translated": "ithev"
+  },
+  {
+    "original": "club",
+    "translated": "lulush"
+  },
+  {
+    "original": "cluster",
+    "translated": "itke"
+  },
+  {
+    "original": "clutter",
+    "translated": "rufo"
+  },
+  {
+    "original": "cobra",
+    "translated": "nasñok"
+  },
+  {
+    "original": "coil",
+    "translated": "leti"
+  },
+  {
+    "original": "cold",
+    "translated": "nor"
+  },
+  {
+    "original": "color",
+    "translated": "rusna"
+  },
+  {
+    "original": "comet",
+    "translated": "nadmi"
+  },
+  {
+    "original": "conqueror",
+    "translated": "apuk"
+  },
+  {
+    "original": "cook",
+    "translated": "lem"
+  },
+  {
+    "original": "cover",
+    "translated": "opi"
+  },
+  {
+    "original": "cotton",
+    "translated": "thixil"
+  },
+  {
+    "original": "couple",
+    "translated": "kamloc"
+  },
+  {
+    "original": "crab",
+    "translated": "julosm"
+  },
+  {
+    "original": "crawl",
+    "translated": "quiba"
+  },
+  {
+    "original": "craze",
+    "translated": "ithrek"
+  },
+  {
+    "original": "crazy",
+    "translated": "nedor"
+  },
+  {
+    "original": "cream",
+    "translated": "quogub"
+  },
+  {
+    "original": "creek",
+    "translated": "giqua"
+  },
+  {
+    "original": "creep",
+    "translated": "sagam"
+  },
+  {
+    "original": "creepy",
+    "translated": "culoc"
+  },
+  {
+    "original": "crescent",
+    "translated": "ebpel"
+  },
+  {
+    "original": "cross_noun",
+    "translated": "om"
+  },
+  {
+    "original": "cross_verb",
+    "translated": "zov"
+  },
+  {
+    "original": "cross_adj",
+    "translated": "vistrok"
+  },
+  {
+    "original": "crow",
+    "translated": "erthok"
+  },
+  {
+    "original": "crown",
+    "translated": "athis"
+  },
+  {
+    "original": "crucify",
+    "translated": "darek"
+  },
+  {
+    "original": "crumble",
+    "translated": "meral"
+  },
+  {
+    "original": "crush",
+    "translated": "inut"
+  },
+  {
+    "original": "crusher",
+    "translated": "uret"
+  },
+  {
+    "original": "cry",
+    "translated": "cema"
+  },
+  {
+    "original": "crypt",
+    "translated": "gogol"
+  },
+  {
+    "original": "crystal",
+    "translated": "thimeth"
+  },
+  {
+    "original": "cuddle",
+    "translated": "orspa"
+  },
+  {
+    "original": "cudgel",
+    "translated": "apug"
+  },
+  {
+    "original": "cup",
+    "translated": "wem"
+  },
+  {
+    "original": "curse",
+    "translated": "ngopex"
+  },
+  {
+    "original": "cut",
+    "translated": "uso"
+  },
+  {
+    "original": "cyst",
+    "translated": "cákuth"
+  },
+  {
+    "original": "dance",
+    "translated": "casser"
+  },
+  {
+    "original": "dangle",
+    "translated": "shimdo"
+  },
+  {
+    "original": "dank",
+    "translated": "amam"
+  },
+  {
+    "original": "dagger",
+    "translated": "olith"
+  },
+  {
+    "original": "dark",
+    "translated": "tuth"
+  },
+  {
+    "original": "date_fruit",
+    "translated": "begu"
+  },
+  {
+    "original": "date_verb",
+    "translated": "lon"
+  },
+  {
+    "original": "dawn",
+    "translated": "thran"
+  },
+  {
+    "original": "day",
+    "translated": "len"
+  },
+  {
+    "original": "dead",
+    "translated": "muthro"
+  },
+  {
+    "original": "dear",
+    "translated": "ime"
+  },
+  {
+    "original": "death",
+    "translated": "ura"
+  },
+  {
+    "original": "decay",
+    "translated": "methpu"
+  },
+  {
+    "original": "deceiver",
+    "translated": "ulash"
+  },
+  {
+    "original": "deep",
+    "translated": "galka"
+  },
+  {
+    "original": "deer",
+    "translated": "keth"
+  },
+  {
+    "original": "demon",
+    "translated": "rohir"
+  },
+  {
+    "original": "despair",
+    "translated": "golsin"
+  },
+  {
+    "original": "destroyer",
+    "translated": "datog"
+  },
+  {
+    "original": "destruction",
+    "translated": "tuthav"
+  },
+  {
+    "original": "devil",
+    "translated": "osel"
+  },
+  {
+    "original": "devourer",
+    "translated": "stom"
+  },
+  {
+    "original": "dine",
+    "translated": "izrol"
+  },
+  {
+    "original": "dinner",
+    "translated": "queh"
+  },
+  {
+    "original": "dirt",
+    "translated": "ubo"
+  },
+  {
+    "original": "ditch",
+    "translated": "ubet"
+  },
+  {
+    "original": "dog",
+    "translated": "sheka"
+  },
+  {
+    "original": "domestic",
+    "translated": "hustra"
+  },
+  {
+    "original": "donkey",
+    "translated": "tham"
+  },
+  {
+    "original": "doom",
+    "translated": "urbed"
+  },
+  {
+    "original": "door",
+    "translated": "as"
+  },
+  {
+    "original": "dragon",
+    "translated": "tamun"
+  },
+  {
+    "original": "drain",
+    "translated": "gare"
+  },
+  {
+    "original": "drawl",
+    "translated": "ogra"
+  },
+  {
+    "original": "dreg",
+    "translated": "olek"
+  },
+  {
+    "original": "dress_clothing",
+    "translated": "dether"
+  },
+  {
+    "original": "dress_general",
+    "translated": "upu"
+  },
+  {
+    "original": "drinker",
+    "translated": "más"
+  },
+  {
+    "original": "drip",
+    "translated": "kacu"
+  },
+  {
+    "original": "drool",
+    "translated": "nocpur"
+  },
+  {
+    "original": "drowned",
+    "translated": "burde"
+  },
+  {
+    "original": "drum",
+    "translated": "corud"
+  },
+  {
+    "original": "dry",
+    "translated": "ushix"
+  },
+  {
+    "original": "dump",
+    "translated": "ucshug"
+  },
+  {
+    "original": "dumpling",
+    "translated": "thine"
+  },
+  {
+    "original": "dung",
+    "translated": "rubsit"
+  },
+  {
+    "original": "dungeon",
+    "translated": "thudel"
+  },
+  {
+    "original": "dusk",
+    "translated": "disem"
+  },
+  {
+    "original": "dust",
+    "translated": "oce"
+  },
+  {
+    "original": "duty",
+    "translated": "mirding"
+  },
+  {
+    "original": "dye",
+    "translated": "asseg"
+  },
+  {
+    "original": "eagle",
+    "translated": "ica"
+  },
+  {
+    "original": "ear",
+    "translated": "tis"
+  },
+  {
+    "original": "east",
+    "translated": "ponon"
+  },
+  {
+    "original": "eat",
+    "translated": "ot"
+  },
+  {
+    "original": "ecto",
+    "translated": "thren"
+  },
+  {
+    "original": "eel",
+    "translated": "athrig"
+  },
+  {
+    "original": "eerie",
+    "translated": "olis"
+  },
+  {
+    "original": "egg",
+    "translated": "edi"
+  },
+  {
+    "original": "elder",
+    "translated": "elku"
+  },
+  {
+    "original": "entrails",
+    "translated": "thramak"
+  },
+  {
+    "original": "eternal",
+    "translated": "opu"
+  },
+  {
+    "original": "ever",
+    "translated": "op"
+  },
+  {
+    "original": "everlasting",
+    "translated": "orub"
+  },
+  {
+    "original": "everseeing",
+    "translated": "shagtho"
+  },
+  {
+    "original": "evil",
+    "translated": "xubkib"
+  },
+  {
+    "original": "execute",
+    "translated": "slasfed"
+  },
+  {
+    "original": "executioner",
+    "translated": "cusic"
+  },
+  {
+    "original": "eye",
+    "translated": "ape"
+  },
+  {
+    "original": "face",
+    "translated": "lalgi"
+  },
+  {
+    "original": "fall",
+    "translated": "pop"
+  },
+  {
+    "original": "false",
+    "translated": "nelo"
+  },
+  {
+    "original": "famine",
+    "translated": "ngersos"
+  },
+  {
+    "original": "fang",
+    "translated": "cuthroz"
+  },
+  {
+    "original": "fat",
+    "translated": "omep"
+  },
+  {
+    "original": "fatal",
+    "translated": "thretel"
+  },
+  {
+    "original": "father",
+    "translated": "alir"
+  },
+  {
+    "original": "fear",
+    "translated": "curuk"
+  },
+  {
+    "original": "feast",
+    "translated": "gipest"
+  },
+  {
+    "original": "fetid",
+    "translated": "gothte"
+  },
+  {
+    "original": "fiend",
+    "translated": "quothest"
+  },
+  {
+    "original": "fierce",
+    "translated": "adic"
+  },
+  {
+    "original": "filth",
+    "translated": "setrub"
+  },
+  {
+    "original": "fin",
+    "translated": "ino"
+  },
+  {
+    "original": "find",
+    "translated": "pumik"
+  },
+  {
+    "original": "finger",
+    "translated": "diso"
+  },
+  {
+    "original": "fire",
+    "translated": "usmok"
+  },
+  {
+    "original": "first",
+    "translated": "kise"
+  },
+  {
+    "original": "fish_animal",
+    "translated": "amsir"
+  },
+  {
+    "original": "fish_verb",
+    "translated": "edin"
+  },
+  {
+    "original": "fist",
+    "translated": "ac"
+  },
+  {
+    "original": "flame",
+    "translated": "accok"
+  },
+  {
+    "original": "flank",
+    "translated": "quadte"
+  },
+  {
+    "original": "flea",
+    "translated": "namnge"
+  },
+  {
+    "original": "flesh",
+    "translated": "ammen"
+  },
+  {
+    "original": "fling",
+    "translated": "asna"
+  },
+  {
+    "original": "flood",
+    "translated": "nonu"
+  },
+  {
+    "original": "flower",
+    "translated": "testri"
+  },
+  {
+    "original": "flute",
+    "translated": "ras"
+  },
+  {
+    "original": "fly_animal",
+    "translated": "ngáthi"
+  },
+  {
+    "original": "fly_verb",
+    "translated": "añu"
+  },
+  {
+    "original": "focus",
+    "translated": "ahdo"
+  },
+  {
+    "original": "fog",
+    "translated": "ared"
+  },
+  {
+    "original": "fool",
+    "translated": "tibep"
+  },
+  {
+    "original": "foot",
+    "translated": "jal"
+  },
+  {
+    "original": "forest",
+    "translated": "lesno"
+  },
+  {
+    "original": "fork",
+    "translated": "lastrik"
+  },
+  {
+    "original": "fortify",
+    "translated": "uvno"
+  },
+  {
+    "original": "fortress",
+    "translated": "thrathdad"
+  },
+  {
+    "original": "fragile",
+    "translated": "ric"
+  },
+  {
+    "original": "fragment",
+    "translated": "pimut"
+  },
+  {
+    "original": "frame",
+    "translated": "struslot"
+  },
+  {
+    "original": "fray",
+    "translated": "esut"
+  },
+  {
+    "original": "free",
+    "translated": "rama"
+  },
+  {
+    "original": "frenzy",
+    "translated": "oxul"
+  },
+  {
+    "original": "freeze",
+    "translated": "opoc"
+  },
+  {
+    "original": "frill",
+    "translated": "shessat"
+  },
+  {
+    "original": "frog",
+    "translated": "ihhi"
+  },
+  {
+    "original": "fruit",
+    "translated": "par"
+  },
+  {
+    "original": "fungus",
+    "translated": "meplul"
+  },
+  {
+    "original": "fur",
+    "translated": "ume"
+  },
+  {
+    "original": "gall",
+    "translated": "marat"
+  },
+  {
+    "original": "game",
+    "translated": "erab"
+  },
+  {
+    "original": "garish",
+    "translated": "galsek"
+  },
+  {
+    "original": "garlic",
+    "translated": "imec"
+  },
+  {
+    "original": "garnish",
+    "translated": "abuth"
+  },
+  {
+    "original": "gate",
+    "translated": "kir"
+  },
+  {
+    "original": "gaunt",
+    "translated": "mosh"
+  },
+  {
+    "original": "gaze",
+    "translated": "cikul"
+  },
+  {
+    "original": "gear",
+    "translated": "ago"
+  },
+  {
+    "original": "gerbil",
+    "translated": "ithrit"
+  },
+  {
+    "original": "ghost",
+    "translated": "tacnu"
+  },
+  {
+    "original": "ghoul",
+    "translated": "reko"
+  },
+  {
+    "original": "gift",
+    "translated": "kadi"
+  },
+  {
+    "original": "gill",
+    "translated": "buqui"
+  },
+  {
+    "original": "girdle",
+    "translated": "bil"
+  },
+  {
+    "original": "gland",
+    "translated": "spugac"
+  },
+  {
+    "original": "glaze",
+    "translated": "cango"
+  },
+  {
+    "original": "glen",
+    "translated": "zin"
+  },
+  {
+    "original": "glide",
+    "translated": "urde"
+  },
+  {
+    "original": "glimmer",
+    "translated": "ener"
+  },
+  {
+    "original": "glisten",
+    "translated": "ices"
+  },
+  {
+    "original": "gloss",
+    "translated": "em"
+  },
+  {
+    "original": "glove",
+    "translated": "durpul"
+  },
+  {
+    "original": "glutton",
+    "translated": "uquir"
+  },
+  {
+    "original": "goat",
+    "translated": "apsong"
+  },
+  {
+    "original": "god",
+    "translated": "anoth"
+  },
+  {
+    "original": "god-forsaken",
+    "translated": "lek"
+  },
+  {
+    "original": "gold",
+    "translated": "abli"
+  },
+  {
+    "original": "goose",
+    "translated": "jathbi"
+  },
+  {
+    "original": "gore",
+    "translated": "odang"
+  },
+  {
+    "original": "gorge_noun",
+    "translated": "us"
+  },
+  {
+    "original": "gorge_verb",
+    "translated": "thedle"
+  },
+  {
+    "original": "grain",
+    "translated": "copnut"
+  },
+  {
+    "original": "grand",
+    "translated": "darmad"
+  },
+  {
+    "original": "grape",
+    "translated": "sothro"
+  },
+  {
+    "original": "grass",
+    "translated": "kege"
+  },
+  {
+    "original": "grave",
+    "translated": "gamo"
+  },
+  {
+    "original": "grease",
+    "translated": "otsu"
+  },
+  {
+    "original": "great",
+    "translated": "umon"
+  },
+  {
+    "original": "greed",
+    "translated": "kostru"
+  },
+  {
+    "original": "green",
+    "translated": "el"
+  },
+  {
+    "original": "griffon",
+    "translated": "kajeth"
+  },
+  {
+    "original": "grill",
+    "translated": "cec"
+  },
+  {
+    "original": "grim",
+    "translated": "apru"
+  },
+  {
+    "original": "grind",
+    "translated": "thetud"
+  },
+  {
+    "original": "grip",
+    "translated": "citu"
+  },
+  {
+    "original": "gristle",
+    "translated": "slepon"
+  },
+  {
+    "original": "grizzle",
+    "translated": "damso"
+  },
+  {
+    "original": "grove",
+    "translated": "ñimma"
+  },
+  {
+    "original": "grow",
+    "translated": "rin"
+  },
+  {
+    "original": "growl",
+    "translated": "dothan"
+  },
+  {
+    "original": "growth",
+    "translated": "busbel"
+  },
+  {
+    "original": "grub",
+    "translated": "gut"
+  },
+  {
+    "original": "guard",
+    "translated": "ocgi"
+  },
+  {
+    "original": "guile",
+    "translated": "quelge"
+  },
+  {
+    "original": "guise",
+    "translated": "sahthet"
+  },
+  {
+    "original": "gut",
+    "translated": "ngok"
+  },
+  {
+    "original": "gutter",
+    "translated": "sasmcith"
+  },
+  {
+    "original": "hag",
+    "translated": "agwa"
+  },
+  {
+    "original": "hair",
+    "translated": "ad"
+  },
+  {
+    "original": "hairy",
+    "translated": "edet"
+  },
+  {
+    "original": "hame",
+    "translated": "rilstud"
+  },
+  {
+    "original": "hammer",
+    "translated": "ongu"
+  },
+  {
+    "original": "hammerer",
+    "translated": "gibam"
+  },
+  {
+    "original": "hand",
+    "translated": "ám"
+  },
+  {
+    "original": "handy",
+    "translated": "aslas"
+  },
+  {
+    "original": "hare",
+    "translated": "setduk"
+  },
+  {
+    "original": "harvest",
+    "translated": "gustem"
+  },
+  {
+    "original": "harvest_verb",
+    "translated": "zoku"
+  },
+  {
+    "original": "hatchet",
+    "translated": "ñethu"
+  },
+  {
+    "original": "hate",
+    "translated": "atac"
+  },
+  {
+    "original": "haunt",
+    "translated": "tuthid"
+  },
+  {
+    "original": "hawk",
+    "translated": "jathrur"
+  },
+  {
+    "original": "hay",
+    "translated": "thel"
+  },
+  {
+    "original": "head",
+    "translated": "aru"
+  },
+  {
+    "original": "heart",
+    "translated": "usan"
+  },
+  {
+    "original": "hearth",
+    "translated": "mothror"
+  },
+  {
+    "original": "heather",
+    "translated": "egesh"
+  },
+  {
+    "original": "hedge",
+    "translated": "hob"
+  },
+  {
+    "original": "hell",
+    "translated": "shoneth"
+  },
+  {
+    "original": "helm",
+    "translated": "ersi"
+  },
+  {
+    "original": "hero",
+    "translated": "usmen"
+  },
+  {
+    "original": "hex",
+    "translated": "othri"
+  },
+  {
+    "original": "hide",
+    "translated": "rakbin"
+  },
+  {
+    "original": "hideous",
+    "translated": "pewtha"
+  },
+  {
+    "original": "high",
+    "translated": "sast"
+  },
+  {
+    "original": "hill",
+    "translated": "apap"
+  },
+  {
+    "original": "hip",
+    "translated": "uda"
+  },
+  {
+    "original": "hoary",
+    "translated": "ziz"
+  },
+  {
+    "original": "hobble",
+    "translated": "thiso"
+  },
+  {
+    "original": "hog",
+    "translated": "celo"
+  },
+  {
+    "original": "holy",
+    "translated": "mon"
+  },
+  {
+    "original": "hoist",
+    "translated": "ipom"
+  },
+  {
+    "original": "hole",
+    "translated": "kul"
+  },
+  {
+    "original": "home",
+    "translated": "umcos"
+  },
+  {
+    "original": "honey",
+    "translated": "someg"
+  },
+  {
+    "original": "hood",
+    "translated": "kusut"
+  },
+  {
+    "original": "hoof",
+    "translated": "ret"
+  },
+  {
+    "original": "hop_noun",
+    "translated": "siru"
+  },
+  {
+    "original": "hop_verb",
+    "translated": "buh"
+  },
+  {
+    "original": "horn",
+    "translated": "iskak"
+  },
+  {
+    "original": "horse",
+    "translated": "mimap"
+  },
+  {
+    "original": "hound",
+    "translated": "cek"
+  },
+  {
+    "original": "howl",
+    "translated": "omli"
+  },
+  {
+    "original": "hug",
+    "translated": "thomod"
+  },
+  {
+    "original": "hum",
+    "translated": "nongos"
+  },
+  {
+    "original": "hunger",
+    "translated": "ubac"
+  },
+  {
+    "original": "hustle",
+    "translated": "istrir"
+  },
+  {
+    "original": "ice",
+    "translated": "isdi"
+  },
+  {
+    "original": "idle",
+    "translated": "oto"
+  },
+  {
+    "original": "idol",
+    "translated": "ikim"
+  },
+  {
+    "original": "ill",
+    "translated": "usluh"
+  },
+  {
+    "original": "impure",
+    "translated": "ñolpu"
+  },
+  {
+    "original": "incense",
+    "translated": "mab"
+  },
+  {
+    "original": "inch",
+    "translated": "kem"
+  },
+  {
+    "original": "ink",
+    "translated": "escu"
+  },
+  {
+    "original": "inn",
+    "translated": "nese"
+  },
+  {
+    "original": "insanity",
+    "translated": "zulen"
+  },
+  {
+    "original": "invisible",
+    "translated": "nulo"
+  },
+  {
+    "original": "iron",
+    "translated": "uzin"
+  },
+  {
+    "original": "itch",
+    "translated": "ohid"
+  },
+  {
+    "original": "ivy",
+    "translated": "lema"
+  },
+  {
+    "original": "jack",
+    "translated": "gagu"
+  },
+  {
+    "original": "jackal",
+    "translated": "baktur"
+  },
+  {
+    "original": "jaundice",
+    "translated": "defel"
+  },
+  {
+    "original": "jaw",
+    "translated": "ugrad"
+  },
+  {
+    "original": "jest",
+    "translated": "bistkash"
+  },
+  {
+    "original": "joke",
+    "translated": "pundik"
+  },
+  {
+    "original": "juggle",
+    "translated": "thratpin"
+  },
+  {
+    "original": "juice",
+    "translated": "mup"
+  },
+  {
+    "original": "jungle",
+    "translated": "wimad"
+  },
+  {
+    "original": "just",
+    "translated": "takru"
+  },
+  {
+    "original": "justify",
+    "translated": "amgis"
+  },
+  {
+    "original": "keeper",
+    "translated": "nushrat"
+  },
+  {
+    "original": "keg",
+    "translated": "aquos"
+  },
+  {
+    "original": "key",
+    "translated": "gel"
+  },
+  {
+    "original": "kindness",
+    "translated": "lin"
+  },
+  {
+    "original": "killer",
+    "translated": "cishrat"
+  },
+  {
+    "original": "kiss",
+    "translated": "furi"
+  },
+  {
+    "original": "king",
+    "translated": "deng"
+  },
+  {
+    "original": "knead",
+    "translated": "márbok"
+  },
+  {
+    "original": "knife",
+    "translated": "hok"
+  },
+  {
+    "original": "knight",
+    "translated": "rane"
+  },
+  {
+    "original": "knit",
+    "translated": "pika"
+  },
+  {
+    "original": "knot",
+    "translated": "mukca"
+  },
+  {
+    "original": "lace",
+    "translated": "pethit"
+  },
+  {
+    "original": "lake",
+    "translated": "hode"
+  },
+  {
+    "original": "lard",
+    "translated": "kislir"
+  },
+  {
+    "original": "lark",
+    "translated": "innu"
+  },
+  {
+    "original": "larva",
+    "translated": "eslim"
+  },
+  {
+    "original": "last",
+    "translated": "oshok"
+  },
+  {
+    "original": "law",
+    "translated": "nimu"
+  },
+  {
+    "original": "lazy",
+    "translated": "gawaw"
+  },
+  {
+    "original": "leader",
+    "translated": "sacath"
+  },
+  {
+    "original": "leaf",
+    "translated": "aso"
+  },
+  {
+    "original": "leak",
+    "translated": "genpud"
+  },
+  {
+    "original": "lean",
+    "translated": "mistrad"
+  },
+  {
+    "original": "leech",
+    "translated": "quigos"
+  },
+  {
+    "original": "legend",
+    "translated": "en"
+  },
+  {
+    "original": "lens",
+    "translated": "lum"
+  },
+  {
+    "original": "leopard",
+    "translated": "upur"
+  },
+  {
+    "original": "leper",
+    "translated": "strathge"
+  },
+  {
+    "original": "leprosy",
+    "translated": "isthrisp"
+  },
+  {
+    "original": "letter",
+    "translated": "cil"
+  },
+  {
+    "original": "lie",
+    "translated": "mothi"
+  },
+  {
+    "original": "light",
+    "translated": "milu"
+  },
+  {
+    "original": "lightning",
+    "translated": "gathre"
+  },
+  {
+    "original": "limb",
+    "translated": "uci"
+  },
+  {
+    "original": "lip",
+    "translated": "or"
+  },
+  {
+    "original": "listen",
+    "translated": "alkoc"
+  },
+  {
+    "original": "lizard",
+    "translated": "ramac"
+  },
+  {
+    "original": "lobster",
+    "translated": "duslud"
+  },
+  {
+    "original": "lock",
+    "translated": "gisep"
+  },
+  {
+    "original": "lone",
+    "translated": "uñam"
+  },
+  {
+    "original": "long",
+    "translated": "inid"
+  },
+  {
+    "original": "loot",
+    "translated": "thramad"
+  },
+  {
+    "original": "lord",
+    "translated": "kar"
+  },
+  {
+    "original": "lost",
+    "translated": "noñi"
+  },
+  {
+    "original": "louse",
+    "translated": "slupi"
+  },
+  {
+    "original": "love",
+    "translated": "sana"
+  },
+  {
+    "original": "low",
+    "translated": "tolon"
+  },
+  {
+    "original": "lunch",
+    "translated": "obu"
+  },
+  {
+    "original": "lung",
+    "translated": "sino"
+  },
+  {
+    "original": "lurid",
+    "translated": "usñow"
+  },
+  {
+    "original": "lurch",
+    "translated": "radsol"
+  },
+  {
+    "original": "lurk",
+    "translated": "quogot"
+  },
+  {
+    "original": "lush",
+    "translated": "ibor"
+  },
+  {
+    "original": "lust",
+    "translated": "slek"
+  },
+  {
+    "original": "lute",
+    "translated": "oñec"
+  },
+  {
+    "original": "lyric",
+    "translated": "athrab"
+  },
+  {
+    "original": "maggot",
+    "translated": "jeg"
+  },
+  {
+    "original": "magic",
+    "translated": "eri"
+  },
+  {
+    "original": "man",
+    "translated": "abo"
+  },
+  {
+    "original": "mange",
+    "translated": "dungda"
+  },
+  {
+    "original": "many",
+    "translated": "taca"
+  },
+  {
+    "original": "marsh",
+    "translated": "luko"
+  },
+  {
+    "original": "martyr",
+    "translated": "orma"
+  },
+  {
+    "original": "master",
+    "translated": "siñur"
+  },
+  {
+    "original": "maw",
+    "translated": "udma"
+  },
+  {
+    "original": "mead",
+    "translated": "tode"
+  },
+  {
+    "original": "meadow",
+    "translated": "ethba"
+  },
+  {
+    "original": "meal_dom",
+    "translated": "lonel"
+  },
+  {
+    "original": "meal_ground",
+    "translated": "pode"
+  },
+  {
+    "original": "meat",
+    "translated": "átu"
+  },
+  {
+    "original": "meditation",
+    "translated": "aba"
+  },
+  {
+    "original": "mellow",
+    "translated": "pañad"
+  },
+  {
+    "original": "menace",
+    "translated": "eslul"
+  },
+  {
+    "original": "mess",
+    "translated": "wolok"
+  },
+  {
+    "original": "metal",
+    "translated": "rigu"
+  },
+  {
+    "original": "midnight",
+    "translated": "unzo"
+  },
+  {
+    "original": "mighty",
+    "translated": "kalsi"
+  },
+  {
+    "original": "mightiness",
+    "translated": "kakpoth"
+  },
+  {
+    "original": "mile",
+    "translated": "dehit"
+  },
+  {
+    "original": "mince",
+    "translated": "cuslo"
+  },
+  {
+    "original": "mind",
+    "translated": "mubo"
+  },
+  {
+    "original": "minion",
+    "translated": "etdil"
+  },
+  {
+    "original": "mirror",
+    "translated": "doto"
+  },
+  {
+    "original": "misery",
+    "translated": "gofeng"
+  },
+  {
+    "original": "mist",
+    "translated": "sitsu"
+  },
+  {
+    "original": "mite",
+    "translated": "stumeb"
+  },
+  {
+    "original": "mold",
+    "translated": "thrireg"
+  },
+  {
+    "original": "mole",
+    "translated": "bezbin"
+  },
+  {
+    "original": "molten",
+    "translated": "deso"
+  },
+  {
+    "original": "monkey",
+    "translated": "taksmo"
+  },
+  {
+    "original": "moon",
+    "translated": "oku"
+  },
+  {
+    "original": "monger",
+    "translated": "huthra"
+  },
+  {
+    "original": "moth",
+    "translated": "dunem"
+  },
+  {
+    "original": "mother",
+    "translated": "rithma"
+  },
+  {
+    "original": "mouse",
+    "translated": "gegi"
+  },
+  {
+    "original": "mouth",
+    "translated": "ite"
+  },
+  {
+    "original": "muck",
+    "translated": "juwog"
+  },
+  {
+    "original": "mud",
+    "translated": "vum"
+  },
+  {
+    "original": "muffin",
+    "translated": "memim"
+  },
+  {
+    "original": "mule",
+    "translated": "tolmo"
+  },
+  {
+    "original": "munch",
+    "translated": "pibo"
+  },
+  {
+    "original": "murder",
+    "translated": "gulgud"
+  },
+  {
+    "original": "mush",
+    "translated": "eslas"
+  },
+  {
+    "original": "mushroom",
+    "translated": "bolli"
+  },
+  {
+    "original": "music",
+    "translated": "joñu"
+  },
+  {
+    "original": "mystery",
+    "translated": "radir"
+  },
+  {
+    "original": "myth",
+    "translated": "xem"
+  },
+  {
+    "original": "nail",
+    "translated": "nato"
+  },
+  {
+    "original": "nasty",
+    "translated": "udngi"
+  },
+  {
+    "original": "nature",
+    "translated": "evhol"
+  },
+  {
+    "original": "necro",
+    "translated": "nir"
+  },
+  {
+    "original": "negative",
+    "translated": "sogul"
+  },
+  {
+    "original": "negate",
+    "translated": "iggith"
+  },
+  {
+    "original": "neo",
+    "translated": "amo"
+  },
+  {
+    "original": "nest",
+    "translated": "ade"
+  },
+  {
+    "original": "nestle",
+    "translated": "rarses"
+  },
+  {
+    "original": "net",
+    "translated": "isi"
+  },
+  {
+    "original": "nettle",
+    "translated": "catig"
+  },
+  {
+    "original": "new",
+    "translated": "engi"
+  },
+  {
+    "original": "newt",
+    "translated": "sospin"
+  },
+  {
+    "original": "nibble",
+    "translated": "estem"
+  },
+  {
+    "original": "night",
+    "translated": "kulur"
+  },
+  {
+    "original": "nightmare",
+    "translated": "cáccast"
+  },
+  {
+    "original": "noble",
+    "translated": "hal"
+  },
+  {
+    "original": "noose",
+    "translated": "usit"
+  },
+  {
+    "original": "north",
+    "translated": "cuthom"
+  },
+  {
+    "original": "nose",
+    "translated": "uknol"
+  },
+  {
+    "original": "null",
+    "translated": "nopor"
+  },
+  {
+    "original": "number",
+    "translated": "idur"
+  },
+  {
+    "original": "nurture",
+    "translated": "duqueh"
+  },
+  {
+    "original": "nut",
+    "translated": "sas"
+  },
+  {
+    "original": "oak",
+    "translated": "ecen"
+  },
+  {
+    "original": "oar",
+    "translated": "itvid"
+  },
+  {
+    "original": "oat",
+    "translated": "ceslaz"
+  },
+  {
+    "original": "oblivion",
+    "translated": "zitha"
+  },
+  {
+    "original": "ocean",
+    "translated": "sota"
+  },
+  {
+    "original": "old",
+    "translated": "runa"
+  },
+  {
+    "original": "omen",
+    "translated": "rabin"
+  },
+  {
+    "original": "one",
+    "translated": "sive"
+  },
+  {
+    "original": "one_pref",
+    "translated": "ist"
+  },
+  {
+    "original": "onion",
+    "translated": "peklod"
+  },
+  {
+    "original": "ooze",
+    "translated": "zebu"
+  },
+  {
+    "original": "open",
+    "translated": "ule"
+  },
+  {
+    "original": "orb",
+    "translated": "mesm"
+  },
+  {
+    "original": "over",
+    "translated": "in"
+  },
+  {
+    "original": "owl",
+    "translated": "ágen"
+  },
+  {
+    "original": "ox",
+    "translated": "opte"
+  },
+  {
+    "original": "pack",
+    "translated": "lipi"
+  },
+  {
+    "original": "pad_noun",
+    "translated": "oko"
+  },
+  {
+    "original": "pad_verb",
+    "translated": "wumu"
+  },
+  {
+    "original": "page",
+    "translated": "anir"
+  },
+  {
+    "original": "pain",
+    "translated": "sungoth"
+  },
+  {
+    "original": "paint",
+    "translated": "mater"
+  },
+  {
+    "original": "pale",
+    "translated": "ele"
+  },
+  {
+    "original": "palm",
+    "translated": "esme"
+  },
+  {
+    "original": "pant",
+    "translated": "rujit"
+  },
+  {
+    "original": "panther",
+    "translated": "dixil"
+  },
+  {
+    "original": "pants",
+    "translated": "posek"
+  },
+  {
+    "original": "paper",
+    "translated": "ecod"
+  },
+  {
+    "original": "peace",
+    "translated": "bewa"
+  },
+  {
+    "original": "peach",
+    "translated": "smige"
+  },
+  {
+    "original": "pepper",
+    "translated": "tukstis"
+  },
+  {
+    "original": "phlegm",
+    "translated": "spothrib"
+  },
+  {
+    "original": "pig",
+    "translated": "pum"
+  },
+  {
+    "original": "pit",
+    "translated": "uta"
+  },
+  {
+    "original": "pitch",
+    "translated": "stihpa"
+  },
+  {
+    "original": "plague",
+    "translated": "maga"
+  },
+  {
+    "original": "plant",
+    "translated": "ona"
+  },
+  {
+    "original": "planter",
+    "translated": "apup"
+  },
+  {
+    "original": "plot",
+    "translated": "didde"
+  },
+  {
+    "original": "pocket_noun",
+    "translated": "gal"
+  },
+  {
+    "original": "pocket_verb",
+    "translated": "threz"
+  },
+  {
+    "original": "poison",
+    "translated": "quazi"
+  },
+  {
+    "original": "portal",
+    "translated": "imo"
+  },
+  {
+    "original": "power",
+    "translated": "zotho"
+  },
+  {
+    "original": "prank",
+    "translated": "kudpa"
+  },
+  {
+    "original": "pregnant",
+    "translated": "kupe"
+  },
+  {
+    "original": "pride",
+    "translated": "tháb"
+  },
+  {
+    "original": "priest",
+    "translated": "upi"
+  },
+  {
+    "original": "prim",
+    "translated": "strelas"
+  },
+  {
+    "original": "prime",
+    "translated": "aga"
+  },
+  {
+    "original": "primitive",
+    "translated": "hod"
+  },
+  {
+    "original": "profane",
+    "translated": "stithngat"
+  },
+  {
+    "original": "prophecy",
+    "translated": "acath"
+  },
+  {
+    "original": "prophet",
+    "translated": "pibang"
+  },
+  {
+    "original": "prowl",
+    "translated": "katga"
+  },
+  {
+    "original": "puke",
+    "translated": "bitrak"
+  },
+  {
+    "original": "pull",
+    "translated": "og"
+  },
+  {
+    "original": "pulley",
+    "translated": "penoc"
+  },
+  {
+    "original": "pulp",
+    "translated": "ushmal"
+  },
+  {
+    "original": "punch",
+    "translated": "otir"
+  },
+  {
+    "original": "purple",
+    "translated": "urom"
+  },
+  {
+    "original": "pus",
+    "translated": "vutu"
+  },
+  {
+    "original": "putrid",
+    "translated": "slismu"
+  },
+  {
+    "original": "quake",
+    "translated": "kothvir"
+  },
+  {
+    "original": "queen",
+    "translated": "asháb"
+  },
+  {
+    "original": "quick",
+    "translated": "nelti"
+  },
+  {
+    "original": "quill",
+    "translated": "suque"
+  },
+  {
+    "original": "rabbit",
+    "translated": "obler"
+  },
+  {
+    "original": "rabble",
+    "translated": "johek"
+  },
+  {
+    "original": "race_group",
+    "translated": "rodem"
+  },
+  {
+    "original": "race_verb",
+    "translated": "tosi"
+  },
+  {
+    "original": "rack",
+    "translated": "erod"
+  },
+  {
+    "original": "rag",
+    "translated": "edri"
+  },
+  {
+    "original": "rage",
+    "translated": "strir"
+  },
+  {
+    "original": "rain",
+    "translated": "sporro"
+  },
+  {
+    "original": "rake",
+    "translated": "ronum"
+  },
+  {
+    "original": "ram",
+    "translated": "goto"
+  },
+  {
+    "original": "rampage",
+    "translated": "dahbul"
+  },
+  {
+    "original": "random",
+    "translated": "zumdol"
+  },
+  {
+    "original": "ransack",
+    "translated": "gastmar"
+  },
+  {
+    "original": "raptor",
+    "translated": "tislur"
+  },
+  {
+    "original": "rat",
+    "translated": "othur"
+  },
+  {
+    "original": "raunch",
+    "translated": "bobe"
+  },
+  {
+    "original": "ravager",
+    "translated": "kedram"
+  },
+  {
+    "original": "raven",
+    "translated": "tuma"
+  },
+  {
+    "original": "raw",
+    "translated": "racon"
+  },
+  {
+    "original": "razor",
+    "translated": "setoc"
+  },
+  {
+    "original": "red",
+    "translated": "kasp"
+  },
+  {
+    "original": "regal",
+    "translated": "iro"
+  },
+  {
+    "original": "reign",
+    "translated": "ág"
+  },
+  {
+    "original": "rein",
+    "translated": "gisla"
+  },
+  {
+    "original": "rend",
+    "translated": "sunre"
+  },
+  {
+    "original": "rider",
+    "translated": "gite"
+  },
+  {
+    "original": "rim",
+    "translated": "pilat"
+  },
+  {
+    "original": "ring_object",
+    "translated": "curo"
+  },
+  {
+    "original": "ring_sound",
+    "translated": "siña"
+  },
+  {
+    "original": "rip",
+    "translated": "thretoh"
+  },
+  {
+    "original": "ripe",
+    "translated": "cilom"
+  },
+  {
+    "original": "ripper",
+    "translated": "jiclásh"
+  },
+  {
+    "original": "rise",
+    "translated": "jir"
+  },
+  {
+    "original": "rite",
+    "translated": "stralir"
+  },
+  {
+    "original": "river",
+    "translated": "omba"
+  },
+  {
+    "original": "rock",
+    "translated": "ur"
+  },
+  {
+    "original": "rogue",
+    "translated": "esthun"
+  },
+  {
+    "original": "romance",
+    "translated": "bengel"
+  },
+  {
+    "original": "room",
+    "translated": "coni"
+  },
+  {
+    "original": "roomy",
+    "translated": "kasmi"
+  },
+  {
+    "original": "root",
+    "translated": "tegism"
+  },
+  {
+    "original": "rose",
+    "translated": "tawki"
+  },
+  {
+    "original": "rot",
+    "translated": "suthro"
+  },
+  {
+    "original": "rough",
+    "translated": "atlel"
+  },
+  {
+    "original": "royal",
+    "translated": "kashmez"
+  },
+  {
+    "original": "ruin",
+    "translated": "bistra"
+  },
+  {
+    "original": "ruin_v",
+    "translated": "jamak"
+  },
+  {
+    "original": "ruler",
+    "translated": "kastrol"
+  },
+  {
+    "original": "rumor",
+    "translated": "imi"
+  },
+  {
+    "original": "rust",
+    "translated": "atu"
+  },
+  {
+    "original": "sabre",
+    "translated": "vispol"
+  },
+  {
+    "original": "sack",
+    "translated": "das"
+  },
+  {
+    "original": "saint",
+    "translated": "kazis"
+  },
+  {
+    "original": "salt",
+    "translated": "oni"
+  },
+  {
+    "original": "salve",
+    "translated": "bemta"
+  },
+  {
+    "original": "sap",
+    "translated": "ikka"
+  },
+  {
+    "original": "satin",
+    "translated": "smenre"
+  },
+  {
+    "original": "savage",
+    "translated": "rulac"
+  },
+  {
+    "original": "savagery",
+    "translated": "ramstom"
+  },
+  {
+    "original": "savior",
+    "translated": "girus"
+  },
+  {
+    "original": "scab",
+    "translated": "purog"
+  },
+  {
+    "original": "scar",
+    "translated": "fensast"
+  },
+  {
+    "original": "scold",
+    "translated": "strepuv"
+  },
+  {
+    "original": "scorpion",
+    "translated": "dothrem"
+  },
+  {
+    "original": "scratch",
+    "translated": "tohwot"
+  },
+  {
+    "original": "scourge",
+    "translated": "etuk"
+  },
+  {
+    "original": "scream",
+    "translated": "uho"
+  },
+  {
+    "original": "scum",
+    "translated": "rustrul"
+  },
+  {
+    "original": "sea",
+    "translated": "iño"
+  },
+  {
+    "original": "seal_animal",
+    "translated": "epo"
+  },
+  {
+    "original": "seal_art",
+    "translated": "quenir"
+  },
+  {
+    "original": "seam",
+    "translated": "bir"
+  },
+  {
+    "original": "season",
+    "translated": "ked"
+  },
+  {
+    "original": "secret",
+    "translated": "bikdá"
+  },
+  {
+    "original": "seduce",
+    "translated": "lerdi"
+  },
+  {
+    "original": "seducer",
+    "translated": "masli"
+  },
+  {
+    "original": "seed",
+    "translated": "ase"
+  },
+  {
+    "original": "seer",
+    "translated": "atkil"
+  },
+  {
+    "original": "seize",
+    "translated": "muk"
+  },
+  {
+    "original": "serpent",
+    "translated": "ithrat"
+  },
+  {
+    "original": "servant",
+    "translated": "smomper"
+  },
+  {
+    "original": "sever",
+    "translated": "koto"
+  },
+  {
+    "original": "sewer",
+    "translated": "fubag"
+  },
+  {
+    "original": "shadow",
+    "translated": "osman"
+  },
+  {
+    "original": "shaft",
+    "translated": "oxut"
+  },
+  {
+    "original": "shank",
+    "translated": "epxa"
+  },
+  {
+    "original": "shark",
+    "translated": "gorhax"
+  },
+  {
+    "original": "shear",
+    "translated": "ika"
+  },
+  {
+    "original": "sheen",
+    "translated": "ibu"
+  },
+  {
+    "original": "shell",
+    "translated": "luthi"
+  },
+  {
+    "original": "shelter",
+    "translated": "jasro"
+  },
+  {
+    "original": "shield",
+    "translated": "cemir"
+  },
+  {
+    "original": "shimmer",
+    "translated": "ene"
+  },
+  {
+    "original": "ship",
+    "translated": "aril"
+  },
+  {
+    "original": "shoot",
+    "translated": "oti"
+  },
+  {
+    "original": "show",
+    "translated": "lershi"
+  },
+  {
+    "original": "shred",
+    "translated": "gitoth"
+  },
+  {
+    "original": "shriek",
+    "translated": "rash"
+  },
+  {
+    "original": "shut",
+    "translated": "epek"
+  },
+  {
+    "original": "sick",
+    "translated": "usmel"
+  },
+  {
+    "original": "sickness",
+    "translated": "shamsig"
+  },
+  {
+    "original": "siege",
+    "translated": "rislu"
+  },
+  {
+    "original": "silence",
+    "translated": "udul"
+  },
+  {
+    "original": "silk",
+    "translated": "sushsath"
+  },
+  {
+    "original": "silky",
+    "translated": "desli"
+  },
+  {
+    "original": "silt",
+    "translated": "epah"
+  },
+  {
+    "original": "silver",
+    "translated": "obin"
+  },
+  {
+    "original": "sin",
+    "translated": "githu"
+  },
+  {
+    "original": "sinew",
+    "translated": "ñed"
+  },
+  {
+    "original": "sing",
+    "translated": "thruni"
+  },
+  {
+    "original": "sister",
+    "translated": "lani"
+  },
+  {
+    "original": "skirt_clothing",
+    "translated": "beksur"
+  },
+  {
+    "original": "skirt_verb",
+    "translated": "apa"
+  },
+  {
+    "original": "skunk",
+    "translated": "slenshi"
+  },
+  {
+    "original": "skull",
+    "translated": "sath"
+  },
+  {
+    "original": "sky",
+    "translated": "cilko"
+  },
+  {
+    "original": "slaughter",
+    "translated": "rosmic"
+  },
+  {
+    "original": "slave",
+    "translated": "cubnor"
+  },
+  {
+    "original": "slayer",
+    "translated": "rongquan"
+  },
+  {
+    "original": "slim",
+    "translated": "enas"
+  },
+  {
+    "original": "slime",
+    "translated": "voled"
+  },
+  {
+    "original": "sling",
+    "translated": "ivak"
+  },
+  {
+    "original": "slink",
+    "translated": "sothi"
+  },
+  {
+    "original": "slit",
+    "translated": "kehe"
+  },
+  {
+    "original": "slither",
+    "translated": "ostra"
+  },
+  {
+    "original": "sliver",
+    "translated": "ápiv"
+  },
+  {
+    "original": "sloth",
+    "translated": "thruque"
+  },
+  {
+    "original": "slug",
+    "translated": "dush"
+  },
+  {
+    "original": "smash",
+    "translated": "athroc"
+  },
+  {
+    "original": "smile",
+    "translated": "cañi"
+  },
+  {
+    "original": "smith",
+    "translated": "semod"
+  },
+  {
+    "original": "smoke",
+    "translated": "ipan"
+  },
+  {
+    "original": "smooth",
+    "translated": "unbeh"
+  },
+  {
+    "original": "smoulder",
+    "translated": "eblow"
+  },
+  {
+    "original": "snack",
+    "translated": "sizet"
+  },
+  {
+    "original": "snake",
+    "translated": "rosha"
+  },
+  {
+    "original": "sneer",
+    "translated": "stimze"
+  },
+  {
+    "original": "snot",
+    "translated": "quula"
+  },
+  {
+    "original": "snuggle",
+    "translated": "woru"
+  },
+  {
+    "original": "soil",
+    "translated": "ocul"
+  },
+  {
+    "original": "soldier",
+    "translated": "tath"
+  },
+  {
+    "original": "soot",
+    "translated": "ultho"
+  },
+  {
+    "original": "soothe",
+    "translated": "gelom"
+  },
+  {
+    "original": "sorrow",
+    "translated": "nul"
+  },
+  {
+    "original": "soul",
+    "translated": "atho"
+  },
+  {
+    "original": "sound",
+    "translated": "lide"
+  },
+  {
+    "original": "south",
+    "translated": "darok"
+  },
+  {
+    "original": "spasm",
+    "translated": "tilesh"
+  },
+  {
+    "original": "spawn",
+    "translated": "throsh"
+  },
+  {
+    "original": "spear",
+    "translated": "asi"
+  },
+  {
+    "original": "spell",
+    "translated": "reloth"
+  },
+  {
+    "original": "spice",
+    "translated": "sheñe"
+  },
+  {
+    "original": "spider",
+    "translated": "azoc"
+  },
+  {
+    "original": "spidery",
+    "translated": "oshgeth"
+  },
+  {
+    "original": "spike",
+    "translated": "umil"
+  },
+  {
+    "original": "spin",
+    "translated": "famo"
+  },
+  {
+    "original": "spine",
+    "translated": "artha"
+  },
+  {
+    "original": "spirit",
+    "translated": "omud"
+  },
+  {
+    "original": "spit",
+    "translated": "smemak"
+  },
+  {
+    "original": "spittle",
+    "translated": "uquud"
+  },
+  {
+    "original": "spoil",
+    "translated": "vuca"
+  },
+  {
+    "original": "spoon",
+    "translated": "tamed"
+  },
+  {
+    "original": "spring_noun",
+    "translated": "tolis"
+  },
+  {
+    "original": "spring_season",
+    "translated": "bisan"
+  },
+  {
+    "original": "spring_verb",
+    "translated": "pude"
+  },
+  {
+    "original": "spry",
+    "translated": "iqui"
+  },
+  {
+    "original": "spy",
+    "translated": "ustol"
+  },
+  {
+    "original": "squid",
+    "translated": "galel"
+  },
+  {
+    "original": "squirm",
+    "translated": "quefo"
+  },
+  {
+    "original": "stab",
+    "translated": "vope"
+  },
+  {
+    "original": "staff",
+    "translated": "ebdi"
+  },
+  {
+    "original": "stalk",
+    "translated": "kod"
+  },
+  {
+    "original": "stand",
+    "translated": "wur"
+  },
+  {
+    "original": "star",
+    "translated": "ama"
+  },
+  {
+    "original": "steed",
+    "translated": "iñu"
+  },
+  {
+    "original": "starve",
+    "translated": "loslal"
+  },
+  {
+    "original": "steal",
+    "translated": "icev"
+  },
+  {
+    "original": "steel",
+    "translated": "kadest"
+  },
+  {
+    "original": "stench",
+    "translated": "nagnod"
+  },
+  {
+    "original": "stern",
+    "translated": "rug"
+  },
+  {
+    "original": "stick_wood",
+    "translated": "oqui"
+  },
+  {
+    "original": "stick_verb",
+    "translated": "sipkat"
+  },
+  {
+    "original": "sticky",
+    "translated": "thrumok"
+  },
+  {
+    "original": "stone",
+    "translated": "ado"
+  },
+  {
+    "original": "storm",
+    "translated": "issha"
+  },
+  {
+    "original": "strange",
+    "translated": "mumot"
+  },
+  {
+    "original": "strap",
+    "translated": "ini"
+  },
+  {
+    "original": "strapping_adj",
+    "translated": "cebe"
+  },
+  {
+    "original": "straw",
+    "translated": "pak"
+  },
+  {
+    "original": "stray",
+    "translated": "ido"
+  },
+  {
+    "original": "strength",
+    "translated": "birod"
+  },
+  {
+    "original": "stretch",
+    "translated": "epru"
+  },
+  {
+    "original": "strike",
+    "translated": "casot"
+  },
+  {
+    "original": "stroke",
+    "translated": "adi"
+  },
+  {
+    "original": "stunt",
+    "translated": "banspo"
+  },
+  {
+    "original": "stunted",
+    "translated": "punet"
+  },
+  {
+    "original": "stupid",
+    "translated": "ápbac"
+  },
+  {
+    "original": "stutter",
+    "translated": "thrithur"
+  },
+  {
+    "original": "style",
+    "translated": "gicast"
+  },
+  {
+    "original": "subordinate",
+    "translated": "med"
+  },
+  {
+    "original": "suck",
+    "translated": "engo"
+  },
+  {
+    "original": "suffering",
+    "translated": "pogush"
+  },
+  {
+    "original": "sugar",
+    "translated": "duka"
+  },
+  {
+    "original": "sully",
+    "translated": "thacsum"
+  },
+  {
+    "original": "sullen",
+    "translated": "ong"
+  },
+  {
+    "original": "summer",
+    "translated": "anthil"
+  },
+  {
+    "original": "sun",
+    "translated": "sáthra"
+  },
+  {
+    "original": "sunder",
+    "translated": "slun"
+  },
+  {
+    "original": "supper",
+    "translated": "est"
+  },
+  {
+    "original": "surprise",
+    "translated": "lastret"
+  },
+  {
+    "original": "swamp",
+    "translated": "monal"
+  },
+  {
+    "original": "sweat",
+    "translated": "gabe"
+  },
+  {
+    "original": "sweet",
+    "translated": "ciko"
+  },
+  {
+    "original": "swift",
+    "translated": "kose"
+  },
+  {
+    "original": "swim",
+    "translated": "laslem"
+  },
+  {
+    "original": "swine",
+    "translated": "budaw"
+  },
+  {
+    "original": "sword",
+    "translated": "thil"
+  },
+  {
+    "original": "syrup",
+    "translated": "heju"
+  },
+  {
+    "original": "taker",
+    "translated": "lenge"
+  },
+  {
+    "original": "tail",
+    "translated": "duto"
+  },
+  {
+    "original": "talon",
+    "translated": "teshil"
+  },
+  {
+    "original": "tar",
+    "translated": "ustom"
+  },
+  {
+    "original": "tarnish",
+    "translated": "rusus"
+  },
+  {
+    "original": "tell",
+    "translated": "arli"
+  },
+  {
+    "original": "tempest",
+    "translated": "artuk"
+  },
+  {
+    "original": "tear",
+    "translated": "madum"
+  },
+  {
+    "original": "terror",
+    "translated": "ost"
+  },
+  {
+    "original": "thief",
+    "translated": "sewat"
+  },
+  {
+    "original": "thirst",
+    "translated": "ethgath"
+  },
+  {
+    "original": "thorn",
+    "translated": "pik"
+  },
+  {
+    "original": "thrall",
+    "translated": "ganra"
+  },
+  {
+    "original": "three",
+    "translated": "akku"
+  },
+  {
+    "original": "throat",
+    "translated": "kosha"
+  },
+  {
+    "original": "throne",
+    "translated": "sathrel"
+  },
+  {
+    "original": "thrower",
+    "translated": "kom"
+  },
+  {
+    "original": "thunder",
+    "translated": "turot"
+  },
+  {
+    "original": "tick_animal",
+    "translated": "slushu"
+  },
+  {
+    "original": "tick_clock",
+    "translated": "puc"
+  },
+  {
+    "original": "tight",
+    "translated": "ithros"
+  },
+  {
+    "original": "time",
+    "translated": "atir"
+  },
+  {
+    "original": "toad",
+    "translated": "budok"
+  },
+  {
+    "original": "toe",
+    "translated": "domi"
+  },
+  {
+    "original": "tomb",
+    "translated": "lomoth"
+  },
+  {
+    "original": "tome",
+    "translated": "nithim"
+  },
+  {
+    "original": "tongue",
+    "translated": "ote"
+  },
+  {
+    "original": "tooth",
+    "translated": "nocam"
+  },
+  {
+    "original": "torment",
+    "translated": "kushet"
+  },
+  {
+    "original": "touch",
+    "translated": "dema"
+  },
+  {
+    "original": "touchy",
+    "translated": "moncu"
+  },
+  {
+    "original": "tour",
+    "translated": "tal"
+  },
+  {
+    "original": "tower",
+    "translated": "ono"
+  },
+  {
+    "original": "trail",
+    "translated": "fanu"
+  },
+  {
+    "original": "trance",
+    "translated": "tuco"
+  },
+  {
+    "original": "trap",
+    "translated": "losric"
+  },
+  {
+    "original": "trash",
+    "translated": "othra"
+  },
+  {
+    "original": "treasure",
+    "translated": "mistrum"
+  },
+  {
+    "original": "treat",
+    "translated": "giki"
+  },
+  {
+    "original": "treaty",
+    "translated": "threbe"
+  },
+  {
+    "original": "trench",
+    "translated": "rel"
+  },
+  {
+    "original": "tribe",
+    "translated": "alho"
+  },
+  {
+    "original": "trick",
+    "translated": "engdul"
+  },
+  {
+    "original": "trickery",
+    "translated": "mestri"
+  },
+  {
+    "original": "trim",
+    "translated": "ocda"
+  },
+  {
+    "original": "trouble",
+    "translated": "básko"
+  },
+  {
+    "original": "tug",
+    "translated": "inin"
+  },
+  {
+    "original": "tulip",
+    "translated": "lasiv"
+  },
+  {
+    "original": "tumble",
+    "translated": "slaná"
+  },
+  {
+    "original": "tumor",
+    "translated": "ongul"
+  },
+  {
+    "original": "turmoil",
+    "translated": "imthor"
+  },
+  {
+    "original": "tusk",
+    "translated": "icar"
+  },
+  {
+    "original": "tweet",
+    "translated": "esti"
+  },
+  {
+    "original": "twilight",
+    "translated": "bekor"
+  },
+  {
+    "original": "twine",
+    "translated": "atthem"
+  },
+  {
+    "original": "twist",
+    "translated": "tokri"
+  },
+  {
+    "original": "two",
+    "translated": "lad"
+  },
+  {
+    "original": "ugly",
+    "translated": "setnu"
+  },
+  {
+    "original": "ulcer",
+    "translated": "focon"
+  },
+  {
+    "original": "ultimate",
+    "translated": "anar"
+  },
+  {
+    "original": "ultra",
+    "translated": "ishra"
+  },
+  {
+    "original": "unbridled",
+    "translated": "uque"
+  },
+  {
+    "original": "uncle",
+    "translated": "mokun"
+  },
+  {
+    "original": "ungodly",
+    "translated": "marcest"
+  },
+  {
+    "original": "unholy",
+    "translated": "seng"
+  },
+  {
+    "original": "unkempt",
+    "translated": "jekash"
+  },
+  {
+    "original": "unseen",
+    "translated": "ehrath"
+  },
+  {
+    "original": "untoward",
+    "translated": "gucem"
+  },
+  {
+    "original": "unwelcome",
+    "translated": "toxuth"
+  },
+  {
+    "original": "urn",
+    "translated": "uja"
+  },
+  {
+    "original": "useless",
+    "translated": "ngangal"
+  },
+  {
+    "original": "vandal",
+    "translated": "acak"
+  },
+  {
+    "original": "vegetable",
+    "translated": "losmo"
+  },
+  {
+    "original": "vegetate",
+    "translated": "fod"
+  },
+  {
+    "original": "vegetation",
+    "translated": "lucmen"
+  },
+  {
+    "original": "velvet",
+    "translated": "gostrim"
+  },
+  {
+    "original": "venom",
+    "translated": "ámtoc"
+  },
+  {
+    "original": "vermin",
+    "translated": "strilu"
+  },
+  {
+    "original": "vile",
+    "translated": "pod"
+  },
+  {
+    "original": "violator",
+    "translated": "tarusp"
+  },
+  {
+    "original": "violence",
+    "translated": "gust"
+  },
+  {
+    "original": "violet",
+    "translated": "risli"
+  },
+  {
+    "original": "viper",
+    "translated": "fathri"
+  },
+  {
+    "original": "voice",
+    "translated": "perad"
+  },
+  {
+    "original": "void",
+    "translated": "ung"
+  },
+  {
+    "original": "volcano",
+    "translated": "amak"
+  },
+  {
+    "original": "vomit",
+    "translated": "sethbap"
+  },
+  {
+    "original": "vulture",
+    "translated": "áspast"
+  },
+  {
+    "original": "wail",
+    "translated": "tubu"
+  },
+  {
+    "original": "wander",
+    "translated": "lico"
+  },
+  {
+    "original": "war",
+    "translated": "ashro"
+  },
+  {
+    "original": "warrior",
+    "translated": "strildo"
+  },
+  {
+    "original": "wasp",
+    "translated": "gadoc"
+  },
+  {
+    "original": "waste",
+    "translated": "tob"
+  },
+  {
+    "original": "watch",
+    "translated": "kiwan"
+  },
+  {
+    "original": "watchful",
+    "translated": "staddat"
+  },
+  {
+    "original": "wave",
+    "translated": "irum"
+  },
+  {
+    "original": "wavy",
+    "translated": "gorpu"
+  },
+  {
+    "original": "wear",
+    "translated": "damar"
+  },
+  {
+    "original": "weasel",
+    "translated": "lussum"
+  },
+  {
+    "original": "weaver",
+    "translated": "galir"
+  },
+  {
+    "original": "weed",
+    "translated": "thish"
+  },
+  {
+    "original": "weight",
+    "translated": "ketas"
+  },
+  {
+    "original": "weird",
+    "translated": "zemri"
+  },
+  {
+    "original": "were",
+    "translated": "hixur"
+  },
+  {
+    "original": "west",
+    "translated": "sturos"
+  },
+  {
+    "original": "wheat",
+    "translated": "athra"
+  },
+  {
+    "original": "wheel",
+    "translated": "pobe"
+  },
+  {
+    "original": "whip",
+    "translated": "uthret"
+  },
+  {
+    "original": "whisk",
+    "translated": "tuc"
+  },
+  {
+    "original": "whisky",
+    "translated": "áspka"
+  },
+  {
+    "original": "whisper",
+    "translated": "ithbi"
+  },
+  {
+    "original": "white",
+    "translated": "mela"
+  },
+  {
+    "original": "wicked",
+    "translated": "koru"
+  },
+  {
+    "original": "wild",
+    "translated": "kozi"
+  },
+  {
+    "original": "will",
+    "translated": "mata"
+  },
+  {
+    "original": "wing",
+    "translated": "emtha"
+  },
+  {
+    "original": "winter",
+    "translated": "niwir"
+  },
+  {
+    "original": "wisp",
+    "translated": "ulet"
+  },
+  {
+    "original": "witch",
+    "translated": "lural"
+  },
+  {
+    "original": "wonder_noun",
+    "translated": "ashi"
+  },
+  {
+    "original": "wonder_verb",
+    "translated": "cathi"
+  },
+  {
+    "original": "wood",
+    "translated": "pado"
+  },
+  {
+    "original": "work",
+    "translated": "pan"
+  },
+  {
+    "original": "worm",
+    "translated": "slinpa"
+  },
+  {
+    "original": "wraith",
+    "translated": "zothrol"
+  },
+  {
+    "original": "wrath",
+    "translated": "golo"
+  },
+  {
+    "original": "wretch",
+    "translated": "gumse"
+  },
+  {
+    "original": "yarn",
+    "translated": "áto"
+  },
+  {
+    "original": "year",
+    "translated": "tol"
+  },
+  {
+    "original": "yearling",
+    "translated": "leteng"
+  },
+  {
+    "original": "yellow",
+    "translated": "sutad"
+  },
+  {
+    "original": "yore",
+    "translated": "uthral"
+  },
+  {
+    "original": "young",
+    "translated": "setshi"
+  },
+  {
+    "original": "youth",
+    "translated": "kethi"
+  },
+  {
+    "original": "zeal",
+    "translated": "issok"
+  },
+  {
+    "original": "zealot",
+    "translated": "tithrá"
+  },
+  {
+    "original": "zephyr",
+    "translated": "ñithpa"
+  },
+  {
+    "original": "earth",
+    "translated": "etru"
+  },
+  {
+    "original": "artifact",
+    "translated": "ricdil"
+  },
+  {
+    "original": "bed",
+    "translated": "ina"
+  },
+  {
+    "original": "bud",
+    "translated": "nifih"
+  },
+  {
+    "original": "cavort",
+    "translated": "bihe"
+  },
+  {
+    "original": "common",
+    "translated": "romo"
+  },
+  {
+    "original": "daub",
+    "translated": "legu"
+  },
+  {
+    "original": "desert",
+    "translated": "asto"
+  },
+  {
+    "original": "dessert",
+    "translated": "ismir"
+  },
+  {
+    "original": "diamond",
+    "translated": "palath"
+  },
+  {
+    "original": "domain",
+    "translated": "udon"
+  },
+  {
+    "original": "dream",
+    "translated": "kamca"
+  },
+  {
+    "original": "tin",
+    "translated": "irnat"
+  },
+  {
+    "original": "copper",
+    "translated": "gugir"
+  },
+  {
+    "original": "bronze",
+    "translated": "zobsha"
+  },
+  {
+    "original": "granite",
+    "translated": "quab"
+  },
+  {
+    "original": "fancy",
+    "translated": "dastre"
+  },
+  {
+    "original": "farm",
+    "translated": "ab"
+  },
+  {
+    "original": "field",
+    "translated": "jeha"
+  },
+  {
+    "original": "froth",
+    "translated": "ukla"
+  },
+  {
+    "original": "genius",
+    "translated": "sula"
+  },
+  {
+    "original": "glacier",
+    "translated": "shace"
+  },
+  {
+    "original": "gurgle",
+    "translated": "bebdá"
+  },
+  {
+    "original": "impale",
+    "translated": "átux"
+  },
+  {
+    "original": "join",
+    "translated": "kicu"
+  },
+  {
+    "original": "jade",
+    "translated": "kesmel"
+  },
+  {
+    "original": "ivory",
+    "translated": "bemeh"
+  },
+  {
+    "original": "land",
+    "translated": "tar"
+  },
+  {
+    "original": "lather",
+    "translated": "zangur"
+  },
+  {
+    "original": "limp",
+    "translated": "cub"
+  },
+  {
+    "original": "lucid",
+    "translated": "halir"
+  },
+  {
+    "original": "mountain",
+    "translated": "thakom"
+  },
+  {
+    "original": "mucus",
+    "translated": "gulsheb"
+  },
+  {
+    "original": "pattern",
+    "translated": "rope"
+  },
+  {
+    "original": "pebble",
+    "translated": "reb"
+  },
+  {
+    "original": "boulder",
+    "translated": "mudi"
+  },
+  {
+    "original": "petal",
+    "translated": "bese"
+  },
+  {
+    "original": "droplet",
+    "translated": "timta"
+  },
+  {
+    "original": "pinnacle",
+    "translated": "isa"
+  },
+  {
+    "original": "plain",
+    "translated": "leba"
+  },
+  {
+    "original": "plainadj",
+    "translated": "othi"
+  },
+  {
+    "original": "point",
+    "translated": "xidel"
+  },
+  {
+    "original": "pot",
+    "translated": "utag"
+  },
+  {
+    "original": "prairie",
+    "translated": "nebo"
+  },
+  {
+    "original": "rush",
+    "translated": "ete"
+  },
+  {
+    "original": "slap",
+    "translated": "alat"
+  },
+  {
+    "original": "sleeve",
+    "translated": "nac"
+  },
+  {
+    "original": "speck",
+    "translated": "icuk"
+  },
+  {
+    "original": "steppe",
+    "translated": "kost"
+  },
+  {
+    "original": "tentacle",
+    "translated": "nenpe"
+  },
+  {
+    "original": "test",
+    "translated": "oñust"
+  },
+  {
+    "original": "trot",
+    "translated": "lofi"
+  },
+  {
+    "original": "tub",
+    "translated": "urir"
+  },
+  {
+    "original": "tube",
+    "translated": "ilum"
+  },
+  {
+    "original": "tundra",
+    "translated": "tor"
+  },
+  {
+    "original": "un",
+    "translated": "ob"
+  },
+  {
+    "original": "waddle",
+    "translated": "pima"
+  },
+  {
+    "original": "wealth",
+    "translated": "ostri"
+  },
+  {
+    "original": "weevil",
+    "translated": "kithpa"
+  },
+  {
+    "original": "whim",
+    "translated": "mizbo"
+  },
+  {
+    "original": "whirl",
+    "translated": "amil"
+  },
+  {
+    "original": "world",
+    "translated": "onra"
+  },
+  {
+    "original": "desert_verb",
+    "translated": "rulku"
+  },
+  {
+    "original": "fancy_verb",
+    "translated": "pim"
+  },
+  {
+    "original": "limp_verb",
+    "translated": "ilur"
+  },
+  {
+    "original": "point_verb",
+    "translated": "es"
+  },
+  {
+    "original": "pantomime",
+    "translated": "dinrit"
+  },
+  {
+    "original": "sludge",
+    "translated": "pupi"
+  },
+  {
+    "original": "goo",
+    "translated": "luggu"
+  },
+  {
+    "original": "realm",
+    "translated": "omon"
+  },
+  {
+    "original": "plane",
+    "translated": "ramul"
+  },
+  {
+    "original": "dimension",
+    "translated": "xah"
+  },
+  {
+    "original": "universe",
+    "translated": "orid"
+  },
+  {
+    "original": "planet",
+    "translated": "thadar"
+  },
+  {
+    "original": "livid",
+    "translated": "ush"
+  },
+  {
+    "original": "tepid",
+    "translated": "athrum"
+  },
+  {
+    "original": "honest",
+    "translated": "kasat"
+  },
+  {
+    "original": "kingdom",
+    "translated": "behal"
+  },
+  {
+    "original": "empire",
+    "translated": "dur"
+  },
+  {
+    "original": "confederation",
+    "translated": "anthath"
+  },
+  {
+    "original": "simple",
+    "translated": "thon"
+  },
+  {
+    "original": "trooper",
+    "translated": "omnol"
+  },
+  {
+    "original": "crimson",
+    "translated": "mithreb"
+  },
+  {
+    "original": "dune",
+    "translated": "ador"
+  },
+  {
+    "original": "direct",
+    "translated": "cor"
+  },
+  {
+    "original": "clash",
+    "translated": "osush"
+  },
+  {
+    "original": "forever",
+    "translated": "oru"
+  },
+  {
+    "original": "subtle",
+    "translated": "kashi"
+  },
+  {
+    "original": "puppet",
+    "translated": "tustral"
+  },
+  {
+    "original": "hegemon",
+    "translated": "sapa"
+  },
+  {
+    "original": "amaze",
+    "translated": "zilta"
+  },
+  {
+    "original": "alchemy",
+    "translated": "jasmuk"
+  },
+  {
+    "original": "insight",
+    "translated": "pabat"
+  },
+  {
+    "original": "union",
+    "translated": "gil"
+  },
+  {
+    "original": "confederacy",
+    "translated": "pesor"
+  },
+  {
+    "original": "speak",
+    "translated": "mita"
+  },
+  {
+    "original": "speaker",
+    "translated": "mastrosp"
+  },
+  {
+    "original": "persuade",
+    "translated": "thram"
+  },
+  {
+    "original": "persuader",
+    "translated": "thudu"
+  },
+  {
+    "original": "control",
+    "translated": "kas"
+  },
+  {
+    "original": "controller",
+    "translated": "lekla"
+  },
+  {
+    "original": "worker",
+    "translated": "inan"
+  },
+  {
+    "original": "basic",
+    "translated": "isun"
+  },
+  {
+    "original": "system",
+    "translated": "histek"
+  },
+  {
+    "original": "ray",
+    "translated": "ile"
+  },
+  {
+    "original": "target",
+    "translated": "siti"
+  },
+  {
+    "original": "bank",
+    "translated": "adet"
+  },
+  {
+    "original": "clean",
+    "translated": "enil"
+  },
+  {
+    "original": "drive",
+    "translated": "ratheg"
+  },
+  {
+    "original": "soar",
+    "translated": "peme"
+  },
+  {
+    "original": "glory",
+    "translated": "an"
+  },
+  {
+    "original": "dismal",
+    "translated": "wuthrog"
+  },
+  {
+    "original": "radiance",
+    "translated": "posa"
+  },
+  {
+    "original": "pine",
+    "translated": "kafit"
+  },
+  {
+    "original": "messiah",
+    "translated": "zulur"
+  },
+  {
+    "original": "craft",
+    "translated": "specut"
+  },
+  {
+    "original": "labor",
+    "translated": "ebe"
+  },
+  {
+    "original": "discover",
+    "translated": "shosá"
+  },
+  {
+    "original": "proliferate",
+    "translated": "eñasm"
+  },
+  {
+    "original": "chunk",
+    "translated": "gorve"
+  },
+  {
+    "original": "slip",
+    "translated": "gole"
+  },
+  {
+    "original": "slide",
+    "translated": "ciro"
+  },
+  {
+    "original": "single",
+    "translated": "luh"
+  },
+  {
+    "original": "pick",
+    "translated": "tekud"
+  },
+  {
+    "original": "tongs",
+    "translated": "ilre"
+  },
+  {
+    "original": "permanency",
+    "translated": "lar"
+  },
+  {
+    "original": "responsible",
+    "translated": "kammat"
+  },
+  {
+    "original": "require",
+    "translated": "tikes"
+  },
+  {
+    "original": "root_verb",
+    "translated": "duli"
+  },
+  {
+    "original": "blizzard",
+    "translated": "rismal"
+  },
+  {
+    "original": "general",
+    "translated": "cañar"
+  },
+  {
+    "original": "memory",
+    "translated": "arkur"
+  },
+  {
+    "original": "construct",
+    "translated": "gisu"
+  },
+  {
+    "original": "lamb",
+    "translated": "shishen"
+  },
+  {
+    "original": "toast",
+    "translated": "mastrod"
+  },
+  {
+    "original": "gross",
+    "translated": "fawko"
+  },
+  {
+    "original": "paddle",
+    "translated": "abe"
+  },
+  {
+    "original": "council",
+    "translated": "ñilun"
+  },
+  {
+    "original": "counsel",
+    "translated": "nisam"
+  },
+  {
+    "original": "gnarled",
+    "translated": "nupash"
+  },
+  {
+    "original": "stump",
+    "translated": "sothmu"
+  },
+  {
+    "original": "naughty",
+    "translated": "jono"
+  },
+  {
+    "original": "play_fun",
+    "translated": "beru"
+  },
+  {
+    "original": "play_perform",
+    "translated": "stathra"
+  },
+  {
+    "original": "flimsy",
+    "translated": "ledi"
+  },
+  {
+    "original": "greater",
+    "translated": "ing"
+  },
+  {
+    "original": "greatest",
+    "translated": "illud"
+  },
+  {
+    "original": "lesser",
+    "translated": "ul"
+  },
+  {
+    "original": "least",
+    "translated": "ugam"
+  },
+  {
+    "original": "beard",
+    "translated": "resmi"
+  },
+  {
+    "original": "dread",
+    "translated": "lodraz"
+  },
+  {
+    "original": "wall",
+    "translated": "olo"
+  },
+  {
+    "original": "wallow",
+    "translated": "stramo"
+  },
+  {
+    "original": "tax",
+    "translated": "luto"
+  },
+  {
+    "original": "fragrance",
+    "translated": "adil"
+  },
+  {
+    "original": "lantern",
+    "translated": "seba"
+  },
+  {
+    "original": "torch",
+    "translated": "islas"
+  },
+  {
+    "original": "water",
+    "translated": "thomo"
+  },
+  {
+    "original": "wine",
+    "translated": "tista"
+  },
+  {
+    "original": "line",
+    "translated": "kon"
+  },
+  {
+    "original": "mine",
+    "translated": "bora"
+  },
+  {
+    "original": "wax",
+    "translated": "ganuh"
+  },
+  {
+    "original": "shove",
+    "translated": "bathru"
+  },
+  {
+    "original": "shovel",
+    "translated": "shebi"
+  },
+  {
+    "original": "melt",
+    "translated": "mákath"
+  },
+  {
+    "original": "wrack",
+    "translated": "upan"
+  },
+  {
+    "original": "glitter",
+    "translated": "pena"
+  },
+  {
+    "original": "spark",
+    "translated": "ustrá"
+  },
+  {
+    "original": "sparkle",
+    "translated": "tiquo"
+  },
+  {
+    "original": "flash",
+    "translated": "ejas"
+  },
+  {
+    "original": "gleam",
+    "translated": "lecit"
+  },
+  {
+    "original": "run",
+    "translated": "baze"
+  },
+  {
+    "original": "dash",
+    "translated": "atra"
+  },
+  {
+    "original": "savant",
+    "translated": "enthep"
+  },
+  {
+    "original": "roar",
+    "translated": "budo"
+  },
+  {
+    "original": "yell",
+    "translated": "alá"
+  },
+  {
+    "original": "echo",
+    "translated": "simo"
+  },
+  {
+    "original": "hollow",
+    "translated": "usu"
+  },
+  {
+    "original": "full",
+    "translated": "enem"
+  },
+  {
+    "original": "empty",
+    "translated": "esh"
+  },
+  {
+    "original": "word",
+    "translated": "pebu"
+  },
+  {
+    "original": "intense",
+    "translated": "stram"
+  },
+  {
+    "original": "sad",
+    "translated": "saquel"
+  },
+  {
+    "original": "glad",
+    "translated": "dacap"
+  },
+  {
+    "original": "tragedy",
+    "translated": "smonguh"
+  },
+  {
+    "original": "bell",
+    "translated": "komo"
+  },
+  {
+    "original": "belly",
+    "translated": "nitho"
+  },
+  {
+    "original": "tummy",
+    "translated": "uram"
+  },
+  {
+    "original": "shock",
+    "translated": "osplek"
+  },
+  {
+    "original": "ponder",
+    "translated": "atem"
+  },
+  {
+    "original": "ponderous",
+    "translated": "worna"
+  },
+  {
+    "original": "heaven",
+    "translated": "caspa"
+  },
+  {
+    "original": "round",
+    "translated": "toke"
+  },
+  {
+    "original": "rounded",
+    "translated": "warul"
+  },
+  {
+    "original": "unspeakable",
+    "translated": "bareng"
+  },
+  {
+    "original": "unthinkable",
+    "translated": "odo"
+  },
+  {
+    "original": "unnameable",
+    "translated": "osha"
+  },
+  {
+    "original": "calamity",
+    "translated": "kadel"
+  },
+  {
+    "original": "cyclopean",
+    "translated": "boldol"
+  },
+  {
+    "original": "tame",
+    "translated": "ega"
+  },
+  {
+    "original": "untamed",
+    "translated": "serec"
+  },
+  {
+    "original": "burst",
+    "translated": "bupe"
+  },
+  {
+    "original": "meteor",
+    "translated": "asa"
+  },
+  {
+    "original": "trite",
+    "translated": "ofi"
+  },
+  {
+    "original": "trifle",
+    "translated": "pastro"
+  },
+  {
+    "original": "rank",
+    "translated": "hubos"
+  },
+  {
+    "original": "rancor",
+    "translated": "ijal"
+  },
+  {
+    "original": "bitter",
+    "translated": "ikash"
+  },
+  {
+    "original": "sour",
+    "translated": "gujom"
+  },
+  {
+    "original": "danger",
+    "translated": "ases"
+  },
+  {
+    "original": "impervious",
+    "translated": "cucam"
+  },
+  {
+    "original": "unswerving",
+    "translated": "facak"
+  },
+  {
+    "original": "sway",
+    "translated": "nagwa"
+  },
+  {
+    "original": "luxury",
+    "translated": "lelgo"
+  },
+  {
+    "original": "euphoria",
+    "translated": "justras"
+  },
+  {
+    "original": "scintillate",
+    "translated": "nicast"
+  },
+  {
+    "original": "divine",
+    "translated": "nirno"
+  },
+  {
+    "original": "divide",
+    "translated": "ralsud"
+  },
+  {
+    "original": "taint",
+    "translated": "slera"
+  },
+  {
+    "original": "corrupt",
+    "translated": "roth"
+  },
+  {
+    "original": "malign_slander_v",
+    "translated": "ceku"
+  },
+  {
+    "original": "malign_adj",
+    "translated": "sathen"
+  },
+  {
+    "original": "malignant",
+    "translated": "sloro"
+  },
+  {
+    "original": "trust",
+    "translated": "moñol"
+  },
+  {
+    "original": "distrust",
+    "translated": "smoh"
+  },
+  {
+    "original": "trustworthy",
+    "translated": "emas"
+  },
+  {
+    "original": "untrustworthy",
+    "translated": "amast"
+  },
+  {
+    "original": "dishonest",
+    "translated": "ussmi"
+  },
+  {
+    "original": "blight",
+    "translated": "seroc"
+  },
+  {
+    "original": "cunning",
+    "translated": "citast"
+  },
+  {
+    "original": "sly",
+    "translated": "juthi"
+  },
+  {
+    "original": "rustic",
+    "translated": "momi"
+  },
+  {
+    "original": "homely",
+    "translated": "tedo"
+  },
+  {
+    "original": "lonely",
+    "translated": "metu"
+  },
+  {
+    "original": "lonesome",
+    "translated": "pujor"
+  },
+  {
+    "original": "close",
+    "translated": "adis"
+  },
+  {
+    "original": "ford",
+    "translated": "jirdo"
+  },
+  {
+    "original": "way",
+    "translated": "ukap"
+  },
+  {
+    "original": "wayward",
+    "translated": "lestruh"
+  },
+  {
+    "original": "bandit",
+    "translated": "litop"
+  },
+  {
+    "original": "brigand",
+    "translated": "ishdem"
+  },
+  {
+    "original": "monster",
+    "translated": "slodi"
+  },
+  {
+    "original": "sense",
+    "translated": "ecsha"
+  },
+  {
+    "original": "insensitive",
+    "translated": "karze"
+  },
+  {
+    "original": "sensual",
+    "translated": "ula"
+  },
+  {
+    "original": "odor",
+    "translated": "uhos"
+  },
+  {
+    "original": "malodorous",
+    "translated": "slaru"
+  },
+  {
+    "original": "ignorant",
+    "translated": "bucsu"
+  },
+  {
+    "original": "ignoble",
+    "translated": "uplesh"
+  },
+  {
+    "original": "humble",
+    "translated": "emmun"
+  },
+  {
+    "original": "moral",
+    "translated": "cobár"
+  },
+  {
+    "original": "immoral",
+    "translated": "soxa"
+  },
+  {
+    "original": "superior",
+    "translated": "kera"
+  },
+  {
+    "original": "inferior",
+    "translated": "ath"
+  },
+  {
+    "original": "infinite",
+    "translated": "kolob"
+  },
+  {
+    "original": "sable_color",
+    "translated": "jubu"
+  },
+  {
+    "original": "fell_cruel",
+    "translated": "shádor"
+  },
+  {
+    "original": "fell_hide",
+    "translated": "bekat"
+  },
+  {
+    "original": "pelt_hide",
+    "translated": "therset"
+  },
+  {
+    "original": "dignity",
+    "translated": "udir"
+  },
+  {
+    "original": "undignified",
+    "translated": "injit"
+  },
+  {
+    "original": "indignation",
+    "translated": "sestah"
+  },
+  {
+    "original": "right_better",
+    "translated": "nemen"
+  },
+  {
+    "original": "absolute",
+    "translated": "osa"
+  },
+  {
+    "original": "fair_even",
+    "translated": "keje"
+  },
+  {
+    "original": "fair_color",
+    "translated": "bibe"
+  },
+  {
+    "original": "snarl",
+    "translated": "vicu"
+  },
+  {
+    "original": "loyal",
+    "translated": "omosh"
+  },
+  {
+    "original": "disloyal",
+    "translated": "pogast"
+  },
+  {
+    "original": "help",
+    "translated": "sudem"
+  },
+  {
+    "original": "friend",
+    "translated": "oled"
+  },
+  {
+    "original": "courtesy",
+    "translated": "thabi"
+  },
+  {
+    "original": "cheerful",
+    "translated": "ñerib"
+  },
+  {
+    "original": "thrift",
+    "translated": "ilosp"
+  },
+  {
+    "original": "bravery",
+    "translated": "egu"
+  },
+  {
+    "original": "revere",
+    "translated": "zicab"
+  },
+  {
+    "original": "venerate",
+    "translated": "onuth"
+  },
+  {
+    "original": "salute",
+    "translated": "ejem"
+  },
+  {
+    "original": "nation",
+    "translated": "mong"
+  },
+  {
+    "original": "drink",
+    "translated": "dirlu"
+  },
+  {
+    "original": "considerate",
+    "translated": "telsta"
+  },
+  {
+    "original": "convenient",
+    "translated": "rafeb"
+  },
+  {
+    "original": "inconsiderate",
+    "translated": "olud"
+  },
+  {
+    "original": "inconvenient",
+    "translated": "ulmog"
+  },
+  {
+    "original": "continent",
+    "translated": "ero"
+  },
+  {
+    "original": "flight",
+    "translated": "soña"
+  },
+  {
+    "original": "flighty",
+    "translated": "secik"
+  },
+  {
+    "original": "gild",
+    "translated": "kamde"
+  },
+  {
+    "original": "guild",
+    "translated": "hibor"
+  },
+  {
+    "original": "merchant",
+    "translated": "hathur"
+  },
+  {
+    "original": "trade",
+    "translated": "batow"
+  },
+  {
+    "original": "plait",
+    "translated": "aspa"
+  },
+  {
+    "original": "braid",
+    "translated": "bugi"
+  },
+  {
+    "original": "pleat",
+    "translated": "iki"
+  },
+  {
+    "original": "fold",
+    "translated": "gib"
+  },
+  {
+    "original": "bunion",
+    "translated": "wewtuk"
+  },
+  {
+    "original": "uncommon",
+    "translated": "nuto"
+  },
+  {
+    "original": "rare",
+    "translated": "uler"
+  },
+  {
+    "original": "scarce",
+    "translated": "isel"
+  },
+  {
+    "original": "remarkable",
+    "translated": "arus"
+  },
+  {
+    "original": "unremarkable",
+    "translated": "jamol"
+  },
+  {
+    "original": "solitary",
+    "translated": "oquil"
+  },
+  {
+    "original": "bend",
+    "translated": "puja"
+  },
+  {
+    "original": "blame",
+    "translated": "shen"
+  },
+  {
+    "original": "blameless",
+    "translated": "olat"
+  },
+  {
+    "original": "twig",
+    "translated": "ak"
+  },
+  {
+    "original": "girder",
+    "translated": "gulo"
+  },
+  {
+    "original": "truss",
+    "translated": "asthi"
+  },
+  {
+    "original": "skewer",
+    "translated": "istpi"
+  },
+  {
+    "original": "sculpt",
+    "translated": "uthra"
+  },
+  {
+    "original": "tress",
+    "translated": "tiqua"
+  },
+  {
+    "original": "lock_hair",
+    "translated": "onec"
+  },
+  {
+    "original": "curl",
+    "translated": "luki"
+  },
+  {
+    "original": "tuft",
+    "translated": "thuthu"
+  },
+  {
+    "original": "mean_nasty",
+    "translated": "strem"
+  },
+  {
+    "original": "mean_low",
+    "translated": "gol"
+  },
+  {
+    "original": "shame",
+    "translated": "sur"
+  },
+  {
+    "original": "ashamed",
+    "translated": "engasp"
+  },
+  {
+    "original": "steam",
+    "translated": "xaked"
+  },
+  {
+    "original": "fern",
+    "translated": "senre"
+  },
+  {
+    "original": "ferry",
+    "translated": "cosla"
+  },
+  {
+    "original": "gully",
+    "translated": "ithra"
+  },
+  {
+    "original": "worry",
+    "translated": "vit"
+  },
+  {
+    "original": "lion",
+    "translated": "san"
+  },
+  {
+    "original": "cactus",
+    "translated": "stasbo"
+  },
+  {
+    "original": "desk",
+    "translated": "edu"
+  },
+  {
+    "original": "bottle",
+    "translated": "ceru"
+  },
+  {
+    "original": "shingle",
+    "translated": "buslá"
+  },
+  {
+    "original": "blanket",
+    "translated": "kado"
+  },
+  {
+    "original": "cloud",
+    "translated": "atal"
+  },
+  {
+    "original": "plate",
+    "translated": "mori"
+  },
+  {
+    "original": "road",
+    "translated": "udal"
+  },
+  {
+    "original": "house",
+    "translated": "ettad"
+  },
+  {
+    "original": "bean",
+    "translated": "seto"
+  },
+  {
+    "original": "block_defend",
+    "translated": "eslik"
+  },
+  {
+    "original": "block_square",
+    "translated": "xugot"
+  },
+  {
+    "original": "fountain",
+    "translated": "subi"
+  },
+  {
+    "original": "pearl",
+    "translated": "kima"
+  },
+  {
+    "original": "pear",
+    "translated": "onmo"
+  },
+  {
+    "original": "thimble",
+    "translated": "thrun"
+  },
+  {
+    "original": "bunny",
+    "translated": "nusbi"
+  },
+  {
+    "original": "rope",
+    "translated": "idil"
+  },
+  {
+    "original": "string",
+    "translated": "ip"
+  },
+  {
+    "original": "wire",
+    "translated": "pis"
+  },
+  {
+    "original": "lash",
+    "translated": "ramkal"
+  },
+  {
+    "original": "sorcery",
+    "translated": "cespi"
+  },
+  {
+    "original": "sorcerer",
+    "translated": "cadi"
+  },
+  {
+    "original": "ensorcel",
+    "translated": "cenan"
+  },
+  {
+    "original": "bewitch",
+    "translated": "mithrup"
+  },
+  {
+    "original": "magician",
+    "translated": "ontha"
+  },
+  {
+    "original": "conjure",
+    "translated": "ispran"
+  },
+  {
+    "original": "conjurer",
+    "translated": "astri"
+  },
+  {
+    "original": "enchant",
+    "translated": "tadin"
+  },
+  {
+    "original": "enchanter",
+    "translated": "amkash"
+  },
+  {
+    "original": "lance",
+    "translated": "angir"
+  },
+  {
+    "original": "lancer",
+    "translated": "ñita"
+  },
+  {
+    "original": "stink",
+    "translated": "smath"
+  },
+  {
+    "original": "freckle",
+    "translated": "icop"
+  },
+  {
+    "original": "pimple",
+    "translated": "slege"
+  },
+  {
+    "original": "wart",
+    "translated": "vuk"
+  },
+  {
+    "original": "blotch",
+    "translated": "hocu"
+  },
+  {
+    "original": "callus",
+    "translated": "acmot"
+  },
+  {
+    "original": "wind_storm",
+    "translated": "alu"
+  },
+  {
+    "original": "wind_clock",
+    "translated": "kortil"
+  },
+  {
+    "original": "haze",
+    "translated": "asu"
+  },
+  {
+    "original": "skin",
+    "translated": "lubbe"
+  },
+  {
+    "original": "shin",
+    "translated": "destis"
+  },
+  {
+    "original": "torture",
+    "translated": "manoth"
+  },
+  {
+    "original": "tool",
+    "translated": "shem"
+  },
+  {
+    "original": "scholar",
+    "translated": "rushán"
+  },
+  {
+    "original": "weep",
+    "translated": "oda"
+  },
+  {
+    "original": "massive",
+    "translated": "don"
+  },
+  {
+    "original": "large",
+    "translated": "lod"
+  },
+  {
+    "original": "small",
+    "translated": "semo"
+  },
+  {
+    "original": "loaf",
+    "translated": "dubmith"
+  },
+  {
+    "original": "tile",
+    "translated": "lir"
+  },
+  {
+    "original": "sport",
+    "translated": "ol"
+  },
+  {
+    "original": "search",
+    "translated": "uxen"
+  },
+  {
+    "original": "stale",
+    "translated": "lolpo"
+  },
+  {
+    "original": "fresh",
+    "translated": "esem"
+  },
+  {
+    "original": "rub",
+    "translated": "onu"
+  },
+  {
+    "original": "worthy",
+    "translated": "alle"
+  },
+  {
+    "original": "worthless",
+    "translated": "ubteng"
+  },
+  {
+    "original": "fright",
+    "translated": "umtha"
+  },
+  {
+    "original": "revolting",
+    "translated": "ishush"
+  },
+  {
+    "original": "disgust",
+    "translated": "mesgel"
+  },
+  {
+    "original": "outrage",
+    "translated": "ratad"
+  },
+  {
+    "original": "cruel",
+    "translated": "kitur"
+  },
+  {
+    "original": "deviant",
+    "translated": "gath"
+  },
+  {
+    "original": "devious",
+    "translated": "tusus"
+  },
+  {
+    "original": "fabulous",
+    "translated": "taro"
+  },
+  {
+    "original": "morality",
+    "translated": "coñar"
+  },
+  {
+    "original": "immorality",
+    "translated": "puva"
+  },
+  {
+    "original": "skin_verb",
+    "translated": "kateng"
+  },
+  {
+    "original": "skinny",
+    "translated": "kila"
+  },
+  {
+    "original": "narrow",
+    "translated": "eslat"
+  },
+  {
+    "original": "grief",
+    "translated": "bethás"
+  },
+  {
+    "original": "belt",
+    "translated": "xetan"
+  },
+  {
+    "original": "sandal",
+    "translated": "kuda"
+  },
+  {
+    "original": "future",
+    "translated": "kenom"
+  },
+  {
+    "original": "past",
+    "translated": "adre"
+  },
+  {
+    "original": "present",
+    "translated": "ocna"
+  },
+  {
+    "original": "bite",
+    "translated": "guki"
+  },
+  {
+    "original": "split",
+    "translated": "paro"
+  },
+  {
+    "original": "brash",
+    "translated": "pethar"
+  },
+  {
+    "original": "brazen",
+    "translated": "thrasos"
+  },
+  {
+    "original": "strangle",
+    "translated": "rálid"
+  },
+  {
+    "original": "gallows",
+    "translated": "lotash"
+  },
+  {
+    "original": "muscle",
+    "translated": "sina"
+  },
+  {
+    "original": "dim",
+    "translated": "oñir"
+  },
+  {
+    "original": "spurt",
+    "translated": "gopet"
+  },
+  {
+    "original": "gravel",
+    "translated": "rud"
+  },
+  {
+    "original": "risk",
+    "translated": "sirep"
+  },
+  {
+    "original": "chance",
+    "translated": "ishas"
+  },
+  {
+    "original": "channel",
+    "translated": "innah"
+  },
+  {
+    "original": "mirth",
+    "translated": "mebas"
+  },
+  {
+    "original": "glee",
+    "translated": "raji"
+  },
+  {
+    "original": "victim",
+    "translated": "nesa"
+  },
+  {
+    "original": "stranger",
+    "translated": "vanod"
+  },
+  {
+    "original": "drab",
+    "translated": "duwar"
+  },
+  {
+    "original": "vision",
+    "translated": "kisnast"
+  },
+  {
+    "original": "visionary",
+    "translated": "sekel"
+  },
+  {
+    "original": "oracle",
+    "translated": "ledir"
+  },
+  {
+    "original": "utter",
+    "translated": "getak"
+  },
+  {
+    "original": "decide",
+    "translated": "secen"
+  },
+  {
+    "original": "decisive",
+    "translated": "luldán"
+  },
+  {
+    "original": "special",
+    "translated": "ñom"
+  },
+  {
+    "original": "author",
+    "translated": "sorus"
+  },
+  {
+    "original": "authority",
+    "translated": "dosheb"
+  },
+  {
+    "original": "portent",
+    "translated": "mudung"
+  },
+  {
+    "original": "momentous",
+    "translated": "gebbis"
+  },
+  {
+    "original": "infallible",
+    "translated": "anram"
+  },
+  {
+    "original": "ambiguous",
+    "translated": "rere"
+  },
+  {
+    "original": "curious",
+    "translated": "colli"
+  },
+  {
+    "original": "obscure",
+    "translated": "mobmu"
+  },
+  {
+    "original": "obscene",
+    "translated": "agho"
+  },
+  {
+    "original": "obstacle",
+    "translated": "nedun"
+  },
+  {
+    "original": "vulgar",
+    "translated": "nermum"
+  },
+  {
+    "original": "ominous",
+    "translated": "uthing"
+  },
+  {
+    "original": "island",
+    "translated": "ethra"
+  },
+  {
+    "original": "church",
+    "translated": "laspar"
+  },
+  {
+    "original": "temple",
+    "translated": "olum"
+  },
+  {
+    "original": "cult",
+    "translated": "gocta"
+  },
+  {
+    "original": "coven",
+    "translated": "kacnu"
+  },
+  {
+    "original": "sect",
+    "translated": "calthath"
+  },
+  {
+    "original": "order_group",
+    "translated": "cika"
+  },
+  {
+    "original": "creed",
+    "translated": "alim"
+  },
+  {
+    "original": "communion",
+    "translated": "oñi"
+  },
+  {
+    "original": "doctrine",
+    "translated": "geño"
+  },
+  {
+    "original": "faith",
+    "translated": "kel"
+  },
+  {
+    "original": "denomination",
+    "translated": "jath"
+  },
+  {
+    "original": "temple_head",
+    "translated": "milo"
+  },
+  {
+    "original": "occult",
+    "translated": "othron"
+  },
+  {
+    "original": "order_concept",
+    "translated": "kor"
+  },
+  {
+    "original": "faith_loyalty",
+    "translated": "cilba"
+  },
+  {
+    "original": "guilt",
+    "translated": "nuc"
+  },
+  {
+    "original": "baby",
+    "translated": "badu"
+  },
+  {
+    "original": "bleed",
+    "translated": "siser"
+  },
+  {
+    "original": "girl",
+    "translated": "anba"
+  },
+  {
+    "original": "boy",
+    "translated": "omo"
+  },
+  {
+    "original": "woman",
+    "translated": "genam"
+  },
+  {
+    "original": "flag",
+    "translated": "githa"
+  },
+  {
+    "original": "banner",
+    "translated": "dilol"
+  },
+  {
+    "original": "wreath",
+    "translated": "iqua"
+  },
+  {
+    "original": "standard_flag",
+    "translated": "sinur"
+  },
+  {
+    "original": "trumpet",
+    "translated": "quazo"
+  },
+  {
+    "original": "goal",
+    "translated": "irol"
+  },
+  {
+    "original": "jail",
+    "translated": "cudal"
+  },
+  {
+    "original": "prison",
+    "translated": "kathroc"
+  },
+  {
+    "original": "library",
+    "translated": "adith"
+  },
+  {
+    "original": "avalanche",
+    "translated": "eggu"
+  },
+  {
+    "original": "stigma",
+    "translated": "zabip"
+  },
+  {
+    "original": "slick",
+    "translated": "ivik"
+  },
+  {
+    "original": "talk",
+    "translated": "enna"
+  },
+  {
+    "original": "jailer",
+    "translated": "spatñon"
+  },
+  {
+    "original": "still_unmoving",
+    "translated": "ar"
+  },
+  {
+    "original": "calm",
+    "translated": "er"
+  },
+  {
+    "original": "hush",
+    "translated": "esprá"
+  },
+  {
+    "original": "laconic",
+    "translated": "lopuk"
+  },
+  {
+    "original": "lull",
+    "translated": "othla"
+  },
+  {
+    "original": "mute",
+    "translated": "oquoh"
+  },
+  {
+    "original": "noiseless",
+    "translated": "kash"
+  },
+  {
+    "original": "quiescent",
+    "translated": "osmah"
+  },
+  {
+    "original": "quiet",
+    "translated": "aña"
+  },
+  {
+    "original": "reticent",
+    "translated": "shethbah"
+  },
+  {
+    "original": "saturnine",
+    "translated": "themsol"
+  },
+  {
+    "original": "speechless",
+    "translated": "erdap"
+  },
+  {
+    "original": "taciturn",
+    "translated": "tethak"
+  },
+  {
+    "original": "fortune_luck",
+    "translated": "jalew"
+  },
+  {
+    "original": "fortune_wealth",
+    "translated": "bestra"
+  },
+  {
+    "original": "accident",
+    "translated": "kepfu"
+  },
+  {
+    "original": "circumstance",
+    "translated": "speski"
+  },
+  {
+    "original": "contingent",
+    "translated": "minat"
+  },
+  {
+    "original": "contingency",
+    "translated": "kisho"
+  },
+  {
+    "original": "coincidence",
+    "translated": "nani"
+  },
+  {
+    "original": "fluke",
+    "translated": "sulthu"
+  },
+  {
+    "original": "luck",
+    "translated": "ralin"
+  },
+  {
+    "original": "certain",
+    "translated": "ceshshed"
+  },
+  {
+    "original": "uncertain",
+    "translated": "akmol"
+  },
+  {
+    "original": "fortuitous",
+    "translated": "daka"
+  },
+  {
+    "original": "incidental",
+    "translated": "alpeth"
+  },
+  {
+    "original": "amuse",
+    "translated": "theñi"
+  },
+  {
+    "original": "pastime",
+    "translated": "bale"
+  },
+  {
+    "original": "distract_annoy",
+    "translated": "pesli"
+  },
+  {
+    "original": "distraction_game",
+    "translated": "pevit"
+  },
+  {
+    "original": "diversion_game",
+    "translated": "irsi"
+  },
+  {
+    "original": "divert_detour",
+    "translated": "sliri"
+  },
+  {
+    "original": "recreation_game",
+    "translated": "doce"
+  },
+  {
+    "original": "compete",
+    "translated": "cadap"
+  },
+  {
+    "original": "contest",
+    "translated": "caslu"
+  },
+  {
+    "original": "match_contest",
+    "translated": "luth"
+  },
+  {
+    "original": "match_equal",
+    "translated": "ala"
+  },
+  {
+    "original": "tournament",
+    "translated": "riloth"
+  },
+  {
+    "original": "plan",
+    "translated": "zapas"
+  },
+  {
+    "original": "scenario",
+    "translated": "sufol"
+  },
+  {
+    "original": "strategy",
+    "translated": "ormol"
+  },
+  {
+    "original": "tactic",
+    "translated": "xaki"
+  },
+  {
+    "original": "autonomy",
+    "translated": "quistra"
+  },
+  {
+    "original": "emancipate",
+    "translated": "quesa"
+  },
+  {
+    "original": "extricate",
+    "translated": "bushik"
+  },
+  {
+    "original": "impunity",
+    "translated": "gognav"
+  },
+  {
+    "original": "liberate",
+    "translated": "mapo"
+  },
+  {
+    "original": "liberty",
+    "translated": "ilda"
+  },
+  {
+    "original": "release",
+    "translated": "sasir"
+  },
+  {
+    "original": "relieve",
+    "translated": "slada"
+  },
+  {
+    "original": "even",
+    "translated": "dasmir"
+  },
+  {
+    "original": "balance",
+    "translated": "zostra"
+  },
+  {
+    "original": "equity",
+    "translated": "ather"
+  },
+  {
+    "original": "equivalence",
+    "translated": "kedom"
+  },
+  {
+    "original": "parity",
+    "translated": "lega"
+  },
+  {
+    "original": "stasis",
+    "translated": "luhmat"
+  },
+  {
+    "original": "symmetry",
+    "translated": "ngekil"
+  },
+  {
+    "original": "equal",
+    "translated": "emoth"
+  },
+  {
+    "original": "harmony",
+    "translated": "ebir"
+  },
+  {
+    "original": "neutralize",
+    "translated": "quice"
+  },
+  {
+    "original": "neutral",
+    "translated": "quabu"
+  },
+  {
+    "original": "stable_unchanging",
+    "translated": "manba"
+  },
+  {
+    "original": "lull_mislead",
+    "translated": "toquem"
+  },
+  {
+    "original": "dour",
+    "translated": "wala"
+  },
+  {
+    "original": "gloom",
+    "translated": "puwog"
+  },
+  {
+    "original": "severe",
+    "translated": "uthal"
+  },
+  {
+    "original": "glum",
+    "translated": "dolra"
+  },
+  {
+    "original": "image",
+    "translated": "stran"
+  },
+  {
+    "original": "shrine",
+    "translated": "lipul"
+  },
+  {
+    "original": "sanctuary",
+    "translated": "dari"
+  },
+  {
+    "original": "monastery",
+    "translated": "vusdom"
+  },
+  {
+    "original": "convent",
+    "translated": "ellum"
+  },
+  {
+    "original": "cathedral",
+    "translated": "kaslun"
+  },
+  {
+    "original": "chapel",
+    "translated": "gaval"
+  },
+  {
+    "original": "sanctum",
+    "translated": "tomca"
+  },
+  {
+    "original": "inferno",
+    "translated": "thrathnu"
+  },
+  {
+    "original": "conflagration",
+    "translated": "othral"
+  },
+  {
+    "original": "flare",
+    "translated": "akkar"
+  },
+  {
+    "original": "heat",
+    "translated": "kara"
+  },
+  {
+    "original": "sand",
+    "translated": "zar"
+  },
+  {
+    "original": "pillar",
+    "translated": "kanil"
+  },
+  {
+    "original": "column",
+    "translated": "opra"
+  },
+  {
+    "original": "arch_noun",
+    "translated": "ulco"
+  },
+  {
+    "original": "grotto",
+    "translated": "gasin"
+  },
+  {
+    "original": "cavern",
+    "translated": "rushan"
+  },
+  {
+    "original": "depth",
+    "translated": "siga"
+  },
+  {
+    "original": "shade",
+    "translated": "gorbe"
+  },
+  {
+    "original": "veil",
+    "translated": "naquuv"
+  },
+  {
+    "original": "relic",
+    "translated": "othdo"
+  },
+  {
+    "original": "umbra",
+    "translated": "omsos"
+  },
+  {
+    "original": "phantom",
+    "translated": "warosp"
+  },
+  {
+    "original": "murk",
+    "translated": "sedme"
+  },
+  {
+    "original": "faint_intensity",
+    "translated": "saquo"
+  },
+  {
+    "original": "faint_verb",
+    "translated": "ohu"
+  },
+  {
+    "original": "somber",
+    "translated": "saning"
+  },
+  {
+    "original": "tenebrous",
+    "translated": "geso"
+  },
+  {
+    "original": "morose",
+    "translated": "slurac"
+  },
+  {
+    "original": "lover",
+    "translated": "ano"
+  },
+  {
+    "original": "beloved",
+    "translated": "jomsa"
+  },
+  {
+    "original": "escort",
+    "translated": "thrut"
+  },
+  {
+    "original": "suitor",
+    "translated": "iñi"
+  },
+  {
+    "original": "pungent",
+    "translated": "wakox"
+  },
+  {
+    "original": "musty",
+    "translated": "slemar"
+  },
+  {
+    "original": "infect",
+    "translated": "fek"
+  },
+  {
+    "original": "lesion",
+    "translated": "goce"
+  },
+  {
+    "original": "afflict",
+    "translated": "doge"
+  },
+  {
+    "original": "ache",
+    "translated": "kitew"
+  },
+  {
+    "original": "epidemic",
+    "translated": "spotug"
+  },
+  {
+    "original": "fight",
+    "translated": "usel"
+  },
+  {
+    "original": "scuffle",
+    "translated": "ngosp"
+  },
+  {
+    "original": "yawn",
+    "translated": "otnge"
+  },
+  {
+    "original": "action",
+    "translated": "ibon"
+  },
+  {
+    "original": "assault",
+    "translated": "okgush"
+  },
+  {
+    "original": "carnal",
+    "translated": "elloz"
+  },
+  {
+    "original": "strife",
+    "translated": "lic"
+  },
+  {
+    "original": "combat",
+    "translated": "thec"
+  },
+  {
+    "original": "citadel",
+    "translated": "sathar"
+  },
+  {
+    "original": "city",
+    "translated": "eno"
+  },
+  {
+    "original": "town",
+    "translated": "ricgo"
+  },
+  {
+    "original": "village",
+    "translated": "ugan"
+  },
+  {
+    "original": "manor",
+    "translated": "mekgos"
+  },
+  {
+    "original": "mansion",
+    "translated": "moto"
+  },
+  {
+    "original": "palace",
+    "translated": "belza"
+  },
+  {
+    "original": "cottage",
+    "translated": "esu"
+  },
+  {
+    "original": "shack",
+    "translated": "dak"
+  },
+  {
+    "original": "hut",
+    "translated": "paru"
+  },
+  {
+    "original": "hovel",
+    "translated": "shukbu"
+  },
+  {
+    "original": "bastion",
+    "translated": "shodec"
+  },
+  {
+    "original": "furnace",
+    "translated": "nganiz"
+  },
+  {
+    "original": "anvil",
+    "translated": "utdar"
+  },
+  {
+    "original": "bridge",
+    "translated": "ori"
+  },
+  {
+    "original": "safe",
+    "translated": "icen"
+  },
+  {
+    "original": "goad",
+    "translated": "osmul"
+  },
+  {
+    "original": "machine",
+    "translated": "tumwist"
+  },
+  {
+    "original": "flay",
+    "translated": "kigok"
+  },
+  {
+    "original": "oil",
+    "translated": "konli"
+  },
+  {
+    "original": "suicide",
+    "translated": "kur"
+  },
+  {
+    "original": "marble_ball",
+    "translated": "pamud"
+  },
+  {
+    "original": "bait",
+    "translated": "edquek"
+  },
+  {
+    "original": "lure",
+    "translated": "kixi"
+  },
+  {
+    "original": "reward",
+    "translated": "rakel"
+  },
+  {
+    "original": "ward",
+    "translated": "kawe"
+  },
+  {
+    "original": "price",
+    "translated": "owba"
+  },
+  {
+    "original": "prince",
+    "translated": "stredac"
+  },
+  {
+    "original": "princess",
+    "translated": "arul"
+  },
+  {
+    "original": "tempt",
+    "translated": "riñih"
+  },
+  {
+    "original": "spurn",
+    "translated": "saja"
+  },
+  {
+    "original": "scorn",
+    "translated": "mitstu"
+  },
+  {
+    "original": "contempt",
+    "translated": "sopstu"
+  },
+  {
+    "original": "affection",
+    "translated": "elu"
+  },
+  {
+    "original": "compassion",
+    "translated": "unpa"
+  },
+  {
+    "original": "sacrifice",
+    "translated": "mido"
+  },
+  {
+    "original": "charity",
+    "translated": "bethri"
+  },
+  {
+    "original": "cherish",
+    "translated": "isha"
+  },
+  {
+    "original": "trample",
+    "translated": "oxa"
+  },
+  {
+    "original": "malice",
+    "translated": "spuxi"
+  },
+  {
+    "original": "hatred",
+    "translated": "imcor"
+  },
+  {
+    "original": "spite",
+    "translated": "mevus"
+  },
+  {
+    "original": "shore",
+    "translated": "eslo"
+  },
+  {
+    "original": "beach",
+    "translated": "thefin"
+  },
+  {
+    "original": "coast",
+    "translated": "aco"
+  },
+  {
+    "original": "insect",
+    "translated": "esmma"
+  },
+  {
+    "original": "bug",
+    "translated": "zusmo"
+  },
+  {
+    "original": "critter",
+    "translated": "nikom"
+  },
+  {
+    "original": "brute",
+    "translated": "mogsut"
+  },
+  {
+    "original": "pet",
+    "translated": "pathril"
+  },
+  {
+    "original": "barbarian",
+    "translated": "rorte"
+  },
+  {
+    "original": "harsh",
+    "translated": "aksu"
+  },
+  {
+    "original": "pristine",
+    "translated": "bel"
+  },
+  {
+    "original": "ferocity",
+    "translated": "kerleb"
+  },
+  {
+    "original": "barbarity",
+    "translated": "rithreh"
+  },
+  {
+    "original": "feral",
+    "translated": "behgon"
+  },
+  {
+    "original": "fury",
+    "translated": "ngira"
+  },
+  {
+    "original": "ruthless",
+    "translated": "paboz"
+  },
+  {
+    "original": "gore_noun",
+    "translated": "gistrib"
+  },
+  {
+    "original": "champion",
+    "translated": "zilar"
+  },
+  {
+    "original": "virtue",
+    "translated": "otu"
+  },
+  {
+    "original": "scandal",
+    "translated": "bakki"
+  },
+  {
+    "original": "apogee",
+    "translated": "iwa"
+  },
+  {
+    "original": "spire",
+    "translated": "papos"
+  },
+  {
+    "original": "spiral",
+    "translated": "pictham"
+  },
+  {
+    "original": "climax",
+    "translated": "serid"
+  },
+  {
+    "original": "climate",
+    "translated": "quinbor"
+  },
+  {
+    "original": "weather",
+    "translated": "señam"
+  },
+  {
+    "original": "crest",
+    "translated": "pirni"
+  },
+  {
+    "original": "culminate",
+    "translated": "ospram"
+  },
+  {
+    "original": "cusp",
+    "translated": "kopka"
+  },
+  {
+    "original": "most",
+    "translated": "dom"
+  },
+  {
+    "original": "peak",
+    "translated": "uquur"
+  },
+  {
+    "original": "blunt",
+    "translated": "honu"
+  },
+  {
+    "original": "roof",
+    "translated": "fatáb"
+  },
+  {
+    "original": "ceiling",
+    "translated": "anri"
+  },
+  {
+    "original": "floor",
+    "translated": "dolak"
+  },
+  {
+    "original": "summit",
+    "translated": "suril"
+  },
+  {
+    "original": "tip",
+    "translated": "mec"
+  },
+  {
+    "original": "top",
+    "translated": "acal"
+  },
+  {
+    "original": "bottom",
+    "translated": "tuthu"
+  },
+  {
+    "original": "side",
+    "translated": "ibid"
+  },
+  {
+    "original": "zenith",
+    "translated": "ata"
+  },
+  {
+    "original": "flank_verb",
+    "translated": "ic"
+  },
+  {
+    "original": "pass_mountain",
+    "translated": "stren"
+  },
+  {
+    "original": "pass_verb",
+    "translated": "duko"
+  },
+  {
+    "original": "passage",
+    "translated": "ehil"
+  },
+  {
+    "original": "corridor",
+    "translated": "rura"
+  },
+  {
+    "original": "hall",
+    "translated": "gatshi"
+  },
+  {
+    "original": "gallery",
+    "translated": "ojá"
+  },
+  {
+    "original": "galley",
+    "translated": "dem"
+  },
+  {
+    "original": "arena",
+    "translated": "lomam"
+  },
+  {
+    "original": "armory",
+    "translated": "namar"
+  },
+  {
+    "original": "assemble",
+    "translated": "corust"
+  },
+  {
+    "original": "meet",
+    "translated": "jamas"
+  },
+  {
+    "original": "theater",
+    "translated": "meben"
+  },
+  {
+    "original": "entrance",
+    "translated": "simin"
+  },
+  {
+    "original": "exit",
+    "translated": "suwu"
+  },
+  {
+    "original": "entry",
+    "translated": "neni"
+  },
+  {
+    "original": "vestibule",
+    "translated": "strohe"
+  },
+  {
+    "original": "frost",
+    "translated": "tirin"
+  },
+  {
+    "original": "fever",
+    "translated": "okol"
+  },
+  {
+    "original": "humid",
+    "translated": "ussam"
+  },
+  {
+    "original": "humor",
+    "translated": "belom"
+  },
+  {
+    "original": "comedy",
+    "translated": "sithe"
+  },
+  {
+    "original": "sizzle",
+    "translated": "anstrid"
+  },
+  {
+    "original": "swelter",
+    "translated": "rulu"
+  },
+  {
+    "original": "warm",
+    "translated": "tul"
+  },
+  {
+    "original": "torrid",
+    "translated": "ushnil"
+  },
+  {
+    "original": "acrid",
+    "translated": "slinam"
+  },
+  {
+    "original": "dale",
+    "translated": "nihde"
+  },
+  {
+    "original": "dell",
+    "translated": "lálcil"
+  },
+  {
+    "original": "glade",
+    "translated": "shama"
+  },
+  {
+    "original": "vale",
+    "translated": "thola"
+  },
+  {
+    "original": "basin",
+    "translated": "rulak"
+  },
+  {
+    "original": "bowl",
+    "translated": "bañec"
+  },
+  {
+    "original": "cavity",
+    "translated": "ulum"
+  },
+  {
+    "original": "crater",
+    "translated": "urwa"
+  },
+  {
+    "original": "den",
+    "translated": "mogem"
+  },
+  {
+    "original": "dent",
+    "translated": "dof"
+  },
+  {
+    "original": "depress_sad",
+    "translated": "bowu"
+  },
+  {
+    "original": "depression_low",
+    "translated": "melbe"
+  },
+  {
+    "original": "dimple",
+    "translated": "lapip"
+  },
+  {
+    "original": "dip",
+    "translated": "irne"
+  },
+  {
+    "original": "dish",
+    "translated": "ushcen"
+  },
+  {
+    "original": "excavate",
+    "translated": "menung"
+  },
+  {
+    "original": "groove",
+    "translated": "nacu"
+  },
+  {
+    "original": "gulf_sea",
+    "translated": "ulde"
+  },
+  {
+    "original": "gulf_pit",
+    "translated": "rono"
+  },
+  {
+    "original": "gulf_distance",
+    "translated": "aggung"
+  },
+  {
+    "original": "distance",
+    "translated": "bedo"
+  },
+  {
+    "original": "notch",
+    "translated": "amec"
+  },
+  {
+    "original": "sag",
+    "translated": "bomu"
+  },
+  {
+    "original": "scoop",
+    "translated": "kunod"
+  },
+  {
+    "original": "socket",
+    "translated": "inspuz"
+  },
+  {
+    "original": "trough",
+    "translated": "daseb"
+  },
+  {
+    "original": "valley",
+    "translated": "wom"
+  },
+  {
+    "original": "fence",
+    "translated": "iguk"
+  },
+  {
+    "original": "barricade",
+    "translated": "gosath"
+  },
+  {
+    "original": "blockade",
+    "translated": "sothbod"
+  },
+  {
+    "original": "board_plank",
+    "translated": "adu"
+  },
+  {
+    "original": "board_get_on",
+    "translated": "sagmo"
+  },
+  {
+    "original": "plank",
+    "translated": "bini"
+  },
+  {
+    "original": "defend",
+    "translated": "joddo"
+  },
+  {
+    "original": "defense",
+    "translated": "talde"
+  },
+  {
+    "original": "dike",
+    "translated": "tunul"
+  },
+  {
+    "original": "palisade",
+    "translated": "áwlist"
+  },
+  {
+    "original": "post",
+    "translated": "jol"
+  },
+  {
+    "original": "rampart",
+    "translated": "rirdest"
+  },
+  {
+    "original": "stake",
+    "translated": "kopoh"
+  },
+  {
+    "original": "stop",
+    "translated": "kiros"
+  },
+  {
+    "original": "stockade",
+    "translated": "katslet"
+  },
+  {
+    "original": "abyss",
+    "translated": "nomar"
+  },
+  {
+    "original": "chasm",
+    "translated": "ustres"
+  },
+  {
+    "original": "crevice",
+    "translated": "utesh"
+  },
+  {
+    "original": "rift",
+    "translated": "xim"
+  },
+  {
+    "original": "fissure",
+    "translated": "ishes"
+  },
+  {
+    "original": "under",
+    "translated": "ngir"
+  },
+  {
+    "original": "abysmal",
+    "translated": "usca"
+  },
+  {
+    "original": "submerge",
+    "translated": "nohus"
+  },
+  {
+    "original": "cyclone",
+    "translated": "zurko"
+  },
+  {
+    "original": "typhoon",
+    "translated": "kafek"
+  },
+  {
+    "original": "hurricane",
+    "translated": "satheth"
+  },
+  {
+    "original": "gale",
+    "translated": "irka"
+  },
+  {
+    "original": "tornado",
+    "translated": "idri"
+  },
+  {
+    "original": "hail_greet",
+    "translated": "reme"
+  },
+  {
+    "original": "hail_ice",
+    "translated": "gelu"
+  },
+  {
+    "original": "hale",
+    "translated": "ashcir"
+  },
+  {
+    "original": "robust",
+    "translated": "atup"
+  },
+  {
+    "original": "hardy",
+    "translated": "vost"
+  },
+  {
+    "original": "vigor",
+    "translated": "bok"
+  },
+  {
+    "original": "air",
+    "translated": "idem"
+  },
+  {
+    "original": "splash",
+    "translated": "ofo"
+  },
+  {
+    "original": "dabble",
+    "translated": "bekdil"
+  },
+  {
+    "original": "douse",
+    "translated": "togir"
+  },
+  {
+    "original": "drench",
+    "translated": "ispsug"
+  },
+  {
+    "original": "moist",
+    "translated": "sedast"
+  },
+  {
+    "original": "plunge",
+    "translated": "nulce"
+  },
+  {
+    "original": "shower",
+    "translated": "ethlal"
+  },
+  {
+    "original": "slop",
+    "translated": "quihu"
+  },
+  {
+    "original": "slosh",
+    "translated": "uki"
+  },
+  {
+    "original": "soak",
+    "translated": "budzu"
+  },
+  {
+    "original": "spatter",
+    "translated": "samspi"
+  },
+  {
+    "original": "splatter",
+    "translated": "gethdaz"
+  },
+  {
+    "original": "spray",
+    "translated": "taba"
+  },
+  {
+    "original": "spread",
+    "translated": "pos"
+  },
+  {
+    "original": "sprinkle",
+    "translated": "cosin"
+  },
+  {
+    "original": "twinkle",
+    "translated": "istra"
+  },
+  {
+    "original": "squirt",
+    "translated": "tuthru"
+  },
+  {
+    "original": "wad",
+    "translated": "dap"
+  },
+  {
+    "original": "wade",
+    "translated": "huro"
+  },
+  {
+    "original": "wet",
+    "translated": "ukor"
+  },
+  {
+    "original": "fade",
+    "translated": "lomu"
+  },
+  {
+    "original": "colorless",
+    "translated": "otod"
+  },
+  {
+    "original": "blanch",
+    "translated": "oprig"
+  },
+  {
+    "original": "bleach",
+    "translated": "thremlu"
+  },
+  {
+    "original": "blench",
+    "translated": "vesh"
+  },
+  {
+    "original": "flinch",
+    "translated": "cac"
+  },
+  {
+    "original": "appear",
+    "translated": "uñir"
+  },
+  {
+    "original": "disappear",
+    "translated": "norod"
+  },
+  {
+    "original": "dissolve",
+    "translated": "xat"
+  },
+  {
+    "original": "dull",
+    "translated": "nid"
+  },
+  {
+    "original": "evaporate",
+    "translated": "kelkif"
+  },
+  {
+    "original": "luster",
+    "translated": "icgil"
+  },
+  {
+    "original": "tone",
+    "translated": "imbo"
+  },
+  {
+    "original": "vanish",
+    "translated": "vithba"
+  },
+  {
+    "original": "wash",
+    "translated": "tega"
+  },
+  {
+    "original": "abate",
+    "translated": "nogu"
+  },
+  {
+    "original": "decline",
+    "translated": "zengtho"
+  },
+  {
+    "original": "deteriorate",
+    "translated": "sulak"
+  },
+  {
+    "original": "diminish",
+    "translated": "mota"
+  },
+  {
+    "original": "disperse",
+    "translated": "jori"
+  },
+  {
+    "original": "droop",
+    "translated": "smoma"
+  },
+  {
+    "original": "dwindle",
+    "translated": "dugvur"
+  },
+  {
+    "original": "kindle",
+    "translated": "radi"
+  },
+  {
+    "original": "stoke",
+    "translated": "ezif"
+  },
+  {
+    "original": "poke",
+    "translated": "cobi"
+  },
+  {
+    "original": "stir",
+    "translated": "lemhuh"
+  },
+  {
+    "original": "feed",
+    "translated": "lapa"
+  },
+  {
+    "original": "fail",
+    "translated": "nusko"
+  },
+  {
+    "original": "languish",
+    "translated": "stráth"
+  },
+  {
+    "original": "lessen",
+    "translated": "odod"
+  },
+  {
+    "original": "lesson",
+    "translated": "teme"
+  },
+  {
+    "original": "teach",
+    "translated": "rossu"
+  },
+  {
+    "original": "mastery",
+    "translated": "bastsan"
+  },
+  {
+    "original": "perish",
+    "translated": "zulshag"
+  },
+  {
+    "original": "shrivel",
+    "translated": "shasik"
+  },
+  {
+    "original": "sink",
+    "translated": "ewom"
+  },
+  {
+    "original": "taper",
+    "translated": "meka"
+  },
+  {
+    "original": "thin",
+    "translated": "isac"
+  },
+  {
+    "original": "tire",
+    "translated": "sug"
+  },
+  {
+    "original": "wane",
+    "translated": "dolil"
+  },
+  {
+    "original": "weak",
+    "translated": "rith"
+  },
+  {
+    "original": "wilt",
+    "translated": "nathob"
+  },
+  {
+    "original": "wither",
+    "translated": "omre"
+  },
+  {
+    "original": "honor",
+    "translated": "uthros"
+  },
+  {
+    "original": "adore",
+    "translated": "emim"
+  },
+  {
+    "original": "adulate",
+    "translated": "tuñik"
+  },
+  {
+    "original": "celebrate",
+    "translated": "shanum"
+  },
+  {
+    "original": "confident",
+    "translated": "izem"
+  },
+  {
+    "original": "deference",
+    "translated": "arod"
+  },
+  {
+    "original": "deity",
+    "translated": "ahang"
+  },
+  {
+    "original": "distinct",
+    "translated": "thili"
+  },
+  {
+    "original": "elevate",
+    "translated": "geral"
+  },
+  {
+    "original": "esteem",
+    "translated": "anlar"
+  },
+  {
+    "original": "exalt",
+    "translated": "zoka"
+  },
+  {
+    "original": "fame",
+    "translated": "rogon"
+  },
+  {
+    "original": "fealty",
+    "translated": "mathras"
+  },
+  {
+    "original": "homage",
+    "translated": "upnal"
+  },
+  {
+    "original": "mortal",
+    "translated": "álat"
+  },
+  {
+    "original": "immortal",
+    "translated": "athri"
+  },
+  {
+    "original": "laud",
+    "translated": "ilo"
+  },
+  {
+    "original": "obeisance",
+    "translated": "degnu"
+  },
+  {
+    "original": "praise",
+    "translated": "on"
+  },
+  {
+    "original": "prestige",
+    "translated": "piral"
+  },
+  {
+    "original": "renown",
+    "translated": "pessal"
+  },
+  {
+    "original": "reputation",
+    "translated": "thinir"
+  },
+  {
+    "original": "tribute",
+    "translated": "bendi"
+  },
+  {
+    "original": "worship",
+    "translated": "isman"
+  },
+  {
+    "original": "chastity",
+    "translated": "laro"
+  },
+  {
+    "original": "courage",
+    "translated": "sol"
+  },
+  {
+    "original": "decent",
+    "translated": "risas"
+  },
+  {
+    "original": "good",
+    "translated": "are"
+  },
+  {
+    "original": "innocent",
+    "translated": "astan"
+  },
+  {
+    "original": "modest",
+    "translated": "orda"
+  },
+  {
+    "original": "principle",
+    "translated": "bal"
+  },
+  {
+    "original": "pure",
+    "translated": "kemsa"
+  },
+  {
+    "original": "righteousness",
+    "translated": "lihost"
+  },
+  {
+    "original": "truth",
+    "translated": "cusal"
+  },
+  {
+    "original": "truthful",
+    "translated": "ada"
+  },
+  {
+    "original": "virgin",
+    "translated": "cisli"
+  },
+  {
+    "original": "virginity",
+    "translated": "esmmi"
+  },
+  {
+    "original": "hold",
+    "translated": "fel"
+  },
+  {
+    "original": "scald",
+    "translated": "ronik"
+  },
+  {
+    "original": "scale_verb",
+    "translated": "thalo"
+  },
+  {
+    "original": "scale_skin",
+    "translated": "thep"
+  },
+  {
+    "original": "clan",
+    "translated": "gabat"
+  },
+  {
+    "original": "labyrinth",
+    "translated": "nethrez"
+  },
+  {
+    "original": "maze",
+    "translated": "espir"
+  },
+  {
+    "original": "web",
+    "translated": "mete"
+  },
+  {
+    "original": "crowd",
+    "translated": "gospo"
+  },
+  {
+    "original": "family",
+    "translated": "abla"
+  },
+  {
+    "original": "kin",
+    "translated": "sisha"
+  },
+  {
+    "original": "mob",
+    "translated": "shasttol"
+  },
+  {
+    "original": "organ",
+    "translated": "stama"
+  },
+  {
+    "original": "organize",
+    "translated": "jestri"
+  },
+  {
+    "original": "mesh",
+    "translated": "upek"
+  },
+  {
+    "original": "tangle",
+    "translated": "spibsa"
+  },
+  {
+    "original": "entangle",
+    "translated": "spepip"
+  },
+  {
+    "original": "puzzle",
+    "translated": "necar"
+  },
+  {
+    "original": "perplex",
+    "translated": "dencoth"
+  },
+  {
+    "original": "quandary",
+    "translated": "daslut"
+  },
+  {
+    "original": "combine",
+    "translated": "abpa"
+  },
+  {
+    "original": "flicker",
+    "translated": "eve"
+  },
+  {
+    "original": "brand",
+    "translated": "ebbak"
+  },
+  {
+    "original": "singe",
+    "translated": "thetal"
+  },
+  {
+    "original": "sear",
+    "translated": "adoth"
+  },
+  {
+    "original": "scorch",
+    "translated": "belrok"
+  },
+  {
+    "original": "roast",
+    "translated": "stoltad"
+  },
+  {
+    "original": "parch",
+    "translated": "nesim"
+  },
+  {
+    "original": "ignite",
+    "translated": "streti"
+  },
+  {
+    "original": "incinerate",
+    "translated": "tedaz"
+  },
+  {
+    "original": "glow",
+    "translated": "quemer"
+  },
+  {
+    "original": "cremate",
+    "translated": "thrimes"
+  },
+  {
+    "original": "faction",
+    "translated": "ozo"
+  },
+  {
+    "original": "crew",
+    "translated": "ñesik"
+  },
+  {
+    "original": "vessel",
+    "translated": "emeg"
+  },
+  {
+    "original": "league_group",
+    "translated": "thaguk"
+  },
+  {
+    "original": "cooperate",
+    "translated": "ame"
+  },
+  {
+    "original": "group",
+    "translated": "besti"
+  },
+  {
+    "original": "gang",
+    "translated": "dotep"
+  },
+  {
+    "original": "fellowship",
+    "translated": "dasar"
+  },
+  {
+    "original": "partner",
+    "translated": "zemel"
+  },
+  {
+    "original": "riddle",
+    "translated": "pestrat"
+  },
+  {
+    "original": "rout",
+    "translated": "lasod"
+  },
+  {
+    "original": "scrape",
+    "translated": "bujit"
+  },
+  {
+    "original": "scrap",
+    "translated": "pob"
+  },
+  {
+    "original": "scour",
+    "translated": "iclo"
+  },
+  {
+    "original": "scrub",
+    "translated": "desa"
+  },
+  {
+    "original": "shake",
+    "translated": "aloc"
+  },
+  {
+    "original": "soap",
+    "translated": "kamven"
+  },
+  {
+    "original": "sponge",
+    "translated": "muma"
+  },
+  {
+    "original": "sweep",
+    "translated": "begi"
+  },
+  {
+    "original": "whisker",
+    "translated": "zega"
+  },
+  {
+    "original": "fasten",
+    "translated": "bithar"
+  },
+  {
+    "original": "winnow",
+    "translated": "nosta"
+  },
+  {
+    "original": "wipe",
+    "translated": "ladgi"
+  },
+  {
+    "original": "clench",
+    "translated": "thuslax"
+  },
+  {
+    "original": "clinch",
+    "translated": "dipug"
+  },
+  {
+    "original": "clout",
+    "translated": "obol"
+  },
+  {
+    "original": "clutch",
+    "translated": "cero"
+  },
+  {
+    "original": "dominate",
+    "translated": "utast"
+  },
+  {
+    "original": "dominion",
+    "translated": "alnos"
+  },
+  {
+    "original": "grasp",
+    "translated": "asmur"
+  },
+  {
+    "original": "influence",
+    "translated": "thur"
+  },
+  {
+    "original": "own",
+    "translated": "rodoh"
+  },
+  {
+    "original": "ownership",
+    "translated": "pusap"
+  },
+  {
+    "original": "tenacity",
+    "translated": "uzo"
+  },
+  {
+    "original": "bind",
+    "translated": "uti"
+  },
+  {
+    "original": "carry",
+    "translated": "ucaf"
+  },
+  {
+    "original": "catch",
+    "translated": "ñik"
+  },
+  {
+    "original": "confine",
+    "translated": "tokda"
+  },
+  {
+    "original": "contain",
+    "translated": "puti"
+  },
+  {
+    "original": "cradle",
+    "translated": "wuspin"
+  },
+  {
+    "original": "embrace",
+    "translated": "cusith"
+  },
+  {
+    "original": "pool",
+    "translated": "nique"
+  },
+  {
+    "original": "society",
+    "translated": "thespde"
+  },
+  {
+    "original": "circle",
+    "translated": "aslu"
+  },
+  {
+    "original": "square",
+    "translated": "aquov"
+  },
+  {
+    "original": "triangle",
+    "translated": "amic"
+  },
+  {
+    "original": "connect",
+    "translated": "geb"
+  },
+  {
+    "original": "merge",
+    "translated": "lecbe"
+  },
+  {
+    "original": "confuse",
+    "translated": "devsem"
+  },
+  {
+    "original": "complex",
+    "translated": "nedul"
+  },
+  {
+    "original": "meander",
+    "translated": "tapstren"
+  },
+  {
+    "original": "muddle",
+    "translated": "nothra"
+  },
+  {
+    "original": "bewilder",
+    "translated": "quamun"
+  },
+  {
+    "original": "morass",
+    "translated": "milub"
+  },
+  {
+    "original": "problem",
+    "translated": "strospi"
+  },
+  {
+    "original": "intricate",
+    "translated": "naspa"
+  },
+  {
+    "original": "flush",
+    "translated": "thudas"
+  },
+  {
+    "original": "mop",
+    "translated": "gom"
+  },
+  {
+    "original": "polish",
+    "translated": "eko"
+  },
+  {
+    "original": "purge",
+    "translated": "caku"
+  },
+  {
+    "original": "rasp",
+    "translated": "boki"
+  },
+  {
+    "original": "rinse",
+    "translated": "coñe"
+  },
+  {
+    "original": "band_object",
+    "translated": "mones"
+  },
+  {
+    "original": "band_group",
+    "translated": "osda"
+  },
+  {
+    "original": "tall",
+    "translated": "rismu"
+  },
+  {
+    "original": "short",
+    "translated": "pasub"
+  },
+  {
+    "original": "bulbous",
+    "translated": "lucog"
+  },
+  {
+    "original": "bulb",
+    "translated": "timik"
+  },
+  {
+    "original": "ally",
+    "translated": "abba"
+  },
+  {
+    "original": "alliance",
+    "translated": "betca"
+  },
+  {
+    "original": "allegiance",
+    "translated": "nubi"
+  },
+  {
+    "original": "coalition",
+    "translated": "lusko"
+  },
+  {
+    "original": "coal",
+    "translated": "shud"
+  },
+  {
+    "original": "enjoy",
+    "translated": "almo"
+  },
+  {
+    "original": "fondle",
+    "translated": "dapen"
+  },
+  {
+    "original": "handle_object",
+    "translated": "mim"
+  },
+  {
+    "original": "handle_verb",
+    "translated": "samo"
+  },
+  {
+    "original": "imprison",
+    "translated": "usmik"
+  },
+  {
+    "original": "nourish",
+    "translated": "apo"
+  },
+  {
+    "original": "squeeze",
+    "translated": "laroth"
+  },
+  {
+    "original": "trammel",
+    "translated": "ushus"
+  },
+  {
+    "original": "vice",
+    "translated": "bazsa"
+  },
+  {
+    "original": "vise",
+    "translated": "kád"
+  },
+  {
+    "original": "defect_fault",
+    "translated": "ngab"
+  },
+  {
+    "original": "perfect",
+    "translated": "esmin"
+  },
+  {
+    "original": "gem",
+    "translated": "ves"
+  },
+  {
+    "original": "jewel",
+    "translated": "cobim"
+  },
+  {
+    "original": "wield",
+    "translated": "ir"
+  },
+  {
+    "original": "wring",
+    "translated": "ismig"
+  },
+  {
+    "original": "conjunction",
+    "translated": "stalith"
+  },
+  {
+    "original": "blot",
+    "translated": "nastrisp"
+  },
+  {
+    "original": "blow",
+    "translated": "uslig"
+  },
+  {
+    "original": "brush",
+    "translated": "puji"
+  },
+  {
+    "original": "clarify",
+    "translated": "luc"
+  },
+  {
+    "original": "cleanse",
+    "translated": "lelku"
+  },
+  {
+    "original": "dredge",
+    "translated": "sethag"
+  },
+  {
+    "original": "erase",
+    "translated": "slecol"
+  },
+  {
+    "original": "morsel",
+    "translated": "pasmug"
+  },
+  {
+    "original": "mongrel",
+    "translated": "wuvul"
+  },
+  {
+    "original": "tender",
+    "translated": "amsan"
+  },
+  {
+    "original": "urge",
+    "translated": "gasom"
+  },
+  {
+    "original": "mechanism",
+    "translated": "jepum"
+  },
+  {
+    "original": "smear",
+    "translated": "rir"
+  },
+  {
+    "original": "tattoo",
+    "translated": "ñabsiz"
+  },
+  {
+    "original": "weather_verb",
+    "translated": "equo"
+  },
+  {
+    "original": "crux",
+    "translated": "boshkuc"
+  },
+  {
+    "original": "peek",
+    "translated": "leru"
+  },
+  {
+    "original": "sneak",
+    "translated": "rorkek"
+  },
+  {
+    "original": "attic",
+    "translated": "pidud"
+  },
+  {
+    "original": "basement",
+    "translated": "jonic"
+  },
+  {
+    "original": "dearth",
+    "translated": "ngahen"
+  },
+  {
+    "original": "apex",
+    "translated": "sted"
+  },
+  {
+    "original": "nadir",
+    "translated": "cugo"
+  },
+  {
+    "original": "tunnel",
+    "translated": "gujeg"
+  },
+  {
+    "original": "entrance_verb",
+    "translated": "ulo"
+  },
+  {
+    "original": "delight",
+    "translated": "kemus"
+  },
+  {
+    "original": "joy",
+    "translated": "ebka"
+  },
+  {
+    "original": "frigid",
+    "translated": "ponoc"
+  },
+  {
+    "original": "ankle",
+    "translated": "ikar"
+  },
+  {
+    "original": "elbow",
+    "translated": "sesle"
+  },
+  {
+    "original": "passion",
+    "translated": "hethre"
+  },
+  {
+    "original": "ardent",
+    "translated": "rotec"
+  },
+  {
+    "original": "stream",
+    "translated": "ebi"
+  },
+  {
+    "original": "bowel_gut",
+    "translated": "ngilsho"
+  },
+  {
+    "original": "bowel_interior",
+    "translated": "istrul"
+  },
+  {
+    "original": "drill_bore",
+    "translated": "strul"
+  },
+  {
+    "original": "drill_routine",
+    "translated": "arat"
+  },
+  {
+    "original": "bore_drill",
+    "translated": "aguv"
+  },
+  {
+    "original": "boredom",
+    "translated": "roñad"
+  },
+  {
+    "original": "fleck",
+    "translated": "ipiz"
+  },
+  {
+    "original": "spot",
+    "translated": "lurit"
+  },
+  {
+    "original": "dot",
+    "translated": "catet"
+  },
+  {
+    "original": "create",
+    "translated": "sekur"
+  },
+  {
+    "original": "poem",
+    "translated": "oli"
+  },
+  {
+    "original": "poetry",
+    "translated": "saquar"
+  },
+  {
+    "original": "poet",
+    "translated": "pimra"
+  },
+  {
+    "original": "scribe",
+    "translated": "dosla"
+  },
+  {
+    "original": "monk",
+    "translated": "emung"
+  },
+  {
+    "original": "hermit",
+    "translated": "mothec"
+  },
+  {
+    "original": "recluse",
+    "translated": "zinga"
+  },
+  {
+    "original": "name",
+    "translated": "ucim"
+  },
+  {
+    "original": "language",
+    "translated": "ashthal"
+  },
+  {
+    "original": "phrase",
+    "translated": "gido"
+  },
+  {
+    "original": "rhyme",
+    "translated": "wisho"
+  },
+  {
+    "original": "rhythm",
+    "translated": "bortu"
+  },
+  {
+    "original": "verse",
+    "translated": "godan"
+  },
+  {
+    "original": "drum_verb",
+    "translated": "arad"
+  },
+  {
+    "original": "creature",
+    "translated": "mos"
+  },
+  {
+    "original": "snail",
+    "translated": "copgur"
+  },
+  {
+    "original": "vine",
+    "translated": "gili"
+  },
+  {
+    "original": "squash",
+    "translated": "malstral"
+  },
+  {
+    "original": "never",
+    "translated": "usmo"
+  },
+  {
+    "original": "dwell",
+    "translated": "etus"
+  },
+  {
+    "original": "habit",
+    "translated": "tup"
+  },
+  {
+    "original": "chew",
+    "translated": "mipbi"
+  },
+  {
+    "original": "swallow",
+    "translated": "cocu"
+  },
+  {
+    "original": "disembowel",
+    "translated": "cawcul"
+  },
+  {
+    "original": "eviscerate",
+    "translated": "mogast"
+  },
+  {
+    "original": "rapid",
+    "translated": "beso"
+  },
+  {
+    "original": "medicine",
+    "translated": "samas"
+  },
+  {
+    "original": "heal",
+    "translated": "asla"
+  },
+  {
+    "original": "sell",
+    "translated": "taram"
+  },
+  {
+    "original": "market",
+    "translated": "poshi"
+  },
+  {
+    "original": "slow",
+    "translated": "puwun"
+  },
+  {
+    "original": "mire",
+    "translated": "moquu"
+  },
+  {
+    "original": "admire",
+    "translated": "emsi"
+  },
+  {
+    "original": "dirge",
+    "translated": "xusta"
+  },
+  {
+    "original": "lament",
+    "translated": "uwshe"
+  },
+  {
+    "original": "funeral",
+    "translated": "sor"
+  },
+  {
+    "original": "quest",
+    "translated": "akul"
+  },
+  {
+    "original": "adventure",
+    "translated": "rithod"
+  },
+  {
+    "original": "mourn",
+    "translated": "ransa"
+  },
+  {
+    "original": "morning",
+    "translated": "sabu"
+  },
+  {
+    "original": "bulwark",
+    "translated": "buslon"
+  },
+  {
+    "original": "cosmos",
+    "translated": "ana"
+  },
+  {
+    "original": "anguish",
+    "translated": "ñod"
+  },
+  {
+    "original": "taut",
+    "translated": "espo"
+  },
+  {
+    "original": "deify",
+    "translated": "shadu"
+  },
+  {
+    "original": "infamy",
+    "translated": "cogith"
+  },
+  {
+    "original": "mortality",
+    "translated": "ejel"
+  },
+  {
+    "original": "immortality",
+    "translated": "camu"
+  },
+  {
+    "original": "mortify",
+    "translated": "ngojo"
+  },
+  {
+    "original": "obey",
+    "translated": "ceshca"
+  },
+  {
+    "original": "worshipper",
+    "translated": "pabpath"
+  },
+  {
+    "original": "riddle_holes",
+    "translated": "gigol"
+  },
+  {
+    "original": "dwelling",
+    "translated": "odda"
+  },
+  {
+    "original": "disembowelment",
+    "translated": "awthrar"
+  },
+  {
+    "original": "evisceration",
+    "translated": "esxac"
+  },
+  {
+    "original": "healing",
+    "translated": "onbir"
+  },
+  {
+    "original": "admiration",
+    "translated": "lami"
+  },
+  {
+    "original": "conflict",
+    "translated": "sesta"
+  },
+  {
+    "original": "attack",
+    "translated": "nashra"
+  },
+  {
+    "original": "onslaught",
+    "translated": "gencesh"
+  },
+  {
+    "original": "tree",
+    "translated": "akan"
+  },
+  {
+    "original": "amber",
+    "translated": "kuppo"
+  },
+  {
+    "original": "amethyst",
+    "translated": "zebna"
+  },
+  {
+    "original": "aqua",
+    "translated": "boha"
+  },
+  {
+    "original": "aquamarine",
+    "translated": "tihsa"
+  },
+  {
+    "original": "gray",
+    "translated": "zido"
+  },
+  {
+    "original": "auburn",
+    "translated": "gusa"
+  },
+  {
+    "original": "azure",
+    "translated": "edlal"
+  },
+  {
+    "original": "beige",
+    "translated": "theñic"
+  },
+  {
+    "original": "brass",
+    "translated": "athod"
+  },
+  {
+    "original": "brown",
+    "translated": "tasar"
+  },
+  {
+    "original": "buff",
+    "translated": "señid"
+  },
+  {
+    "original": "sienna",
+    "translated": "rossi"
+  },
+  {
+    "original": "umber",
+    "translated": "shedosh"
+  },
+  {
+    "original": "cardinal_color",
+    "translated": "shigo"
+  },
+  {
+    "original": "carmine",
+    "translated": "buzñith"
+  },
+  {
+    "original": "cerulean",
+    "translated": "rosced"
+  },
+  {
+    "original": "charcoal",
+    "translated": "casast"
+  },
+  {
+    "original": "chartreuse",
+    "translated": "erquin"
+  },
+  {
+    "original": "chestnut",
+    "translated": "cubra"
+  },
+  {
+    "original": "chocolate",
+    "translated": "molcet"
+  },
+  {
+    "original": "cinnamon",
+    "translated": "ronu"
+  },
+  {
+    "original": "cobalt",
+    "translated": "bote"
+  },
+  {
+    "original": "indigo",
+    "translated": "kakthril"
+  },
+  {
+    "original": "olive",
+    "translated": "lunda"
+  },
+  {
+    "original": "pink",
+    "translated": "itlip"
+  },
+  {
+    "original": "scarlet",
+    "translated": "thecek"
+  },
+  {
+    "original": "tan",
+    "translated": "dalic"
+  },
+  {
+    "original": "ecru",
+    "translated": "runi"
+  },
+  {
+    "original": "emerald",
+    "translated": "hehan"
+  },
+  {
+    "original": "flax",
+    "translated": "cegad"
+  },
+  {
+    "original": "fuchsia",
+    "translated": "gicthosm"
+  },
+  {
+    "original": "goldenrod",
+    "translated": "xaddul"
+  },
+  {
+    "original": "heliotrope",
+    "translated": "cingshu"
+  },
+  {
+    "original": "lavender",
+    "translated": "deshsul"
+  },
+  {
+    "original": "blush",
+    "translated": "doñas"
+  },
+  {
+    "original": "lemon",
+    "translated": "gebdum"
+  },
+  {
+    "original": "lilac",
+    "translated": "shal"
+  },
+  {
+    "original": "lime",
+    "translated": "vuli"
+  },
+  {
+    "original": "mahogany",
+    "translated": "quoshas"
+  },
+  {
+    "original": "maroon_color",
+    "translated": "athru"
+  },
+  {
+    "original": "mauve",
+    "translated": "poreb"
+  },
+  {
+    "original": "taupe",
+    "translated": "upril"
+  },
+  {
+    "original": "mint",
+    "translated": "quaka"
+  },
+  {
+    "original": "moss",
+    "translated": "zih"
+  },
+  {
+    "original": "ochre",
+    "translated": "segok"
+  },
+  {
+    "original": "orange",
+    "translated": "omthu"
+  },
+  {
+    "original": "periwinkle",
+    "translated": "xiza"
+  },
+  {
+    "original": "plum",
+    "translated": "ube"
+  },
+  {
+    "original": "puce",
+    "translated": "zepboc"
+  },
+  {
+    "original": "pumpkin",
+    "translated": "munosh"
+  },
+  {
+    "original": "russet",
+    "translated": "ubhuth"
+  },
+  {
+    "original": "saffron",
+    "translated": "shezpa"
+  },
+  {
+    "original": "sepia",
+    "translated": "theh"
+  },
+  {
+    "original": "teal",
+    "translated": "muwi"
+  },
+  {
+    "original": "turquoise",
+    "translated": "kiñá"
+  },
+  {
+    "original": "vermilion",
+    "translated": "aszed"
+  },
+  {
+    "original": "path",
+    "translated": "anur"
+  },
+  {
+    "original": "threat",
+    "translated": "cihir"
+  },
+  {
+    "original": "warning",
+    "translated": "gistri"
+  },
+  {
+    "original": "fate",
+    "translated": "sutar"
+  },
+  {
+    "original": "destiny",
+    "translated": "tetha"
+  },
+  {
+    "original": "horror",
+    "translated": "vuthe"
+  },
+  {
+    "original": "little",
+    "translated": "istel"
+  },
+  {
+    "original": "early",
+    "translated": "rashed"
+  },
+  {
+    "original": "late",
+    "translated": "cuthu"
+  },
+  {
+    "original": "life",
+    "translated": "kimen"
+  },
+  {
+    "original": "cheese",
+    "translated": "anig"
+  },
+  {
+    "original": "figure_object",
+    "translated": "udi"
+  },
+  {
+    "original": "hope",
+    "translated": "dana"
+  },
+  {
+    "original": "body",
+    "translated": "shalo"
+  },
+  {
+    "original": "walk",
+    "translated": "oma"
+  },
+  {
+    "original": "hour",
+    "translated": "ocba"
+  },
+  {
+    "original": "sit",
+    "translated": "aslap"
+  },
+  {
+    "original": "moment",
+    "translated": "mistir"
+  },
+  {
+    "original": "beauty",
+    "translated": "sattha"
+  },
+  {
+    "original": "judge",
+    "translated": "ñor"
+  },
+  {
+    "original": "wish",
+    "translated": "quosa"
+  },
+  {
+    "original": "respect",
+    "translated": "medon"
+  },
+  {
+    "original": "mark",
+    "translated": "kesp"
+  },
+  {
+    "original": "heavy",
+    "translated": "thogsloc"
+  },
+  {
+    "original": "trial",
+    "translated": "wure"
+  },
+  {
+    "original": "practice",
+    "translated": "dopod"
+  },
+  {
+    "original": "end",
+    "translated": "zuso"
+  },
+  {
+    "original": "start",
+    "translated": "tad"
+  },
+  {
+    "original": "begin",
+    "translated": "dujan"
+  },
+  {
+    "original": "birth",
+    "translated": "onru"
+  },
+  {
+    "original": "learn",
+    "translated": "cando"
+  },
+  {
+    "original": "mischief",
+    "translated": "quesh"
+  },
+  {
+    "original": "wisdom",
+    "translated": "mospar"
+  },
+  {
+    "original": "know",
+    "translated": "agal"
+  },
+  {
+    "original": "knowledge",
+    "translated": "fedem"
+  },
+  {
+    "original": "crack",
+    "translated": "emat"
+  },
+  {
+    "original": "shatter",
+    "translated": "throm"
+  },
+  {
+    "original": "leap",
+    "translated": "kupek"
+  },
+  {
+    "original": "jump",
+    "translated": "itni"
+  },
+  {
+    "original": "dive",
+    "translated": "odi"
+  },
+  {
+    "original": "vault_verb",
+    "translated": "zop"
+  },
+  {
+    "original": "vault_place",
+    "translated": "pamnot"
+  },
+  {
+    "original": "treasury",
+    "translated": "somlis"
+  },
+  {
+    "original": "betray",
+    "translated": "zewoth"
+  },
+  {
+    "original": "treason",
+    "translated": "tixom"
+  },
+  {
+    "original": "reason",
+    "translated": "kabár"
+  },
+  {
+    "original": "squat",
+    "translated": "smoro"
+  },
+  {
+    "original": "festival",
+    "translated": "raqui"
+  }
+]

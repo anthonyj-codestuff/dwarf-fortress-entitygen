@@ -1,0 +1,344 @@
+              -------------
+              EXAMPLE NAMES
+              -------------
+==DWARVES==
+  Ingish Ecemnish,        "Bodice Tube-trade"
+                          NOUN NOUN-NOUN
+  Eral Gembishlor,        "Vessel seal_animal-tool"
+                          NOUN NOUN-NOUN
+  Tirist Irolmeng         "Rim North-lash"
+                          NOUN ADJ-NOUN
+  Tun Kadolmishos         "Door Hatchet-Beach"
+                          NOUN NOUN-NOUN
+  Tholtig Ableltitthal    "Barricade Bust_noun-play_fun"
+                          NOUN NOUN-ANY
+  Rakust Oddomlokum       "Tomb Cloister-Spear"
+                          NOUN NOUN-NOUN
+  Lokum Nazomzuglar       "Spear Dream-Ship"
+  Zuglar Ostarkeskal      "Ship Bury-Shoot"
+==ELVES==
+  Lema Ceralicayii
+  --Generated--
+  Liceyi Sutheithafe,     "Liceyi Lesionfray"
+  Nere Ipolacifa,         "Nere Utterlarge"
+  Nifi Tiyiporelimi,      "Nifi Tacticmartyr"
+  Lulo Isifesluyi,        "Lulo Bandedjaundice"
+  Fuvi Menadirire,        "Fuvi Combinedbreaker"
+  Cera Mobacuthe,         "Cera Lurkally"
+  Moduve Tobafiali,       "Moduve Farmpath"
+==HUMANS==
+  --Generated--
+  Zin Smoroinid,          "Zin Squatlong"
+  Ngekil Etusaru,         "Ngekil Dwellhead"
+  Bir Gethdazatac,        "Bir Splatteredhate"
+  Onust Imbotol,          "Onust Toneyear"
+  Thabi Anothteshil,      "Thabi Godtalon"
+  Ocba Juwogulco,         "Ocba Muckarch"
+==GOBLINS==
+  --Generated--
+  Umsest Obmoklo,         "Umsest Frameache"
+  Bungmo Obmunako,        "Bungmo Drabtorment"
+  Smestre Xudomur,        "Smestre Slitpainful"
+  Lospad Agkuduluz,       "Lospad Slowtreason"
+  Zak Ngasmaal,           "Zak Pleatedstop"
+  Rodaz Osnusmlomu,       "Rodaz Stenchdiminished"
+  Dozo Utostxoxo,         "Dozo Moleyoung"
+
+              ------------------------
+              RULES FOR CHOOSING NAMES
+              ------------------------
+
+First Names are always nouns
+Second Names are always two-word pairs and can be any combination of word types
+  Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
+
+Each race has its own sphere of names to pick from. These spheres are listed in language_SYM and the sphere rules are listed in entity_default. 
+Dwarves generally pick from the ARTIFICE group (198 possible names) and their last names avoid use of the FLOWERY group
+
+ALL VALID TOKENS: "flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", 
+                  "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", 
+                  "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"
+
+DWARVES:
+  PREFERRED:  "artifice", "earth"
+  UNUSUAL?:   "nature", "primitive", "holy", "magic", "violent", "peace", "death", "old", "leader", "new", "mythic", "color", "mystery", "romantic", "assertive", "aquatic", "protect", "restrain", 
+              "thought", "wild", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", 
+              "trade", "travel", "truth", "wealth"
+  FORBIDDEN:  "domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"
+
+HUMANS:
+  PREFERRED:  none
+  FORBIDDEN:  "subordinate", "evil", "negative", "ugly", "negator"
+
+  RESEARCH :  A survey of 3829 dwarves in a newly-generated world yielded a pool of 249 unique names
+              Out of 3829 generated dwarves, 89 had non-dwarven names
+                Of these, 4 were Goblin and 85 were Human
+              Chance of having a foreign name:  (2.32%)
+              Chance of having a human name:    (2.22%)
+              Chance of having a goblin name:   (0.1 %)
+              Chance of having an elf name:     (0.0 %)
+
+
+    NAMES:    ["aban", "ablel", "abuth", "acal", "adil", "ado", "alath", "amkash", "amost", "amsan", "ape", "as", "asen", "asi", "asmel", "asob", "aspa", "ast", "astesh", "athel", "ather", "atir", "atis", "ato", "avuz", "bekat", "bembul", "ber", "besmar", "bim", "bomrek", "busla", "buslon", "catten", "cerol", "ciko", "cil", "cilob", "cog", "cogith", "dakost", "dap", "dastot", "datan", "deduk", "degel", "deler", "dishmab", "dobar", "dodok", "dof", "domas", "doren", "dostngosp", "ducim", "dumat", "dumed", "edem", "edzul", "eman", "endok", "eral", "erib", "erith", "erush", "eshtan", 
+              "etur", "ezif", "ezum", "fanu", "fath", "fathri", "feb", "fikod", "galel", "gatshi", "gaval", "geno", "geshud", "gib", "gipest", "girus", "goden", "hathur", "icop", "id", "iden", "ilral", "imi", 
+              "imush", "ineth", "ingish", "ingiz", "inod", "inspuz", "irum", "isdi", "islas", "iteb", "ithbi", "ithra", "iton", "jath", "jathbi", "jonu", "kadol", "kammat", "kel", "kes", "kib", "kikrost", 
+              "kivish", "kiwan", "kogan", "kogsak", "kol", "kosoth", "kozi", "kubuk", "kulet", "kumil", "kupe", "lasod", "led", "libash", "likot", "limul", "litast", "logem", "lokum", "lolor", "lor", "lorbam", 
+              "mafol", "mebzuth", "medtob", "melbil", "meng", "mestthos", "minkot", "mirding", "mistem", "mokun", "moldath", "momuz", "monom", "morul", "mosus", "munosh", "muthkat", "naquuv", "naspa", "ngahen", 
+              "ngokang", "nil", "nimu", "nish", "nomal", "obok", "oce", "oddom", "olin", "olon", "onget", "ongi", "onmo", "onol", "onul", "osush", "pictham", "quenir", "rakust", "ral", "ramul", "ras", "reg", 
+              "renal", "rigoth", "rimtar", "risen", "rith", "rorec", "rovod", "rushan", "sakzul", "sarvesh", "sazir", "senre", "shem", "shorast", "sibrek", "sigun", "sodel", "solon", "stakud", 
+              "stinthad", "stodir", "stral", "strodno", "strospi", "stukos", "tar", "tekkud", "thikut", "thob", "tholtig", "thomo", "thudu", "thuthu", "tirist", "tis", "tobul", "tol", "tosid", "tulon", "tun", 
+              "tunem", "tura", "ubbul", "udib", "udil", "unib", "urdim", "urir", "urist", "urvad", "ushat", "ushrir", "uso", "ustuth", "uvash", "uzol", "vabok", "vucar", "vutok", "wimad", "zan", "zaneg", "zas", 
+              "zasit", "zefon", "zicab", "zon", "zuglar", "zulban", "zuntir", "zuso", "zutthan"]
+
+NAME STATS (out of 3829):
+  abuth x1 HUMAN
+  acal x1 HUMAN
+  ado x1 HUMAN
+  amkash x1 HUMAN
+  amsan x1 HUMAN
+  ape x1 HUMAN
+  asi x1 HUMAN
+  aspa x1 HUMAN
+  ather x1 HUMAN
+  ato x1 HUMAN
+  bekat x1 HUMAN
+  busla x1 HUMAN
+  buslon x1 HUMAN
+  ciko x1 HUMAN
+  cil x1 HUMAN
+  cogith x1 HUMAN
+  dap x1 HUMAN
+  dof x1 HUMAN
+  dostngosp x1 GOBLIN
+  eman x1 HUMAN
+  ezif x1 HUMAN
+  fanu x1 HUMAN
+  fathri x1 HUMAN
+  galel x1 HUMAN
+  gatshi x1 HUMAN
+  gaval x1 HUMAN
+  geno x1 HUMAN
+  gib x1 HUMAN
+  gipest x1 HUMAN
+  girus x1 HUMAN
+  hathur x1 HUMAN
+  icop x1 HUMAN
+  imi x1 HUMAN
+  inspuz x1 HUMAN
+  irum x1 HUMAN
+  isdi x1 HUMAN
+  islas x1 HUMAN
+  ithbi x1 HUMAN
+  ithra x1 HUMAN
+  jath x1 HUMAN
+  jathbi x1 HUMAN
+  jonu x1 HUMAN
+  kammat x1 HUMAN
+  kes x1 HUMAN (Kes is a VIOLENT word in Dwarven, but a NATURE word in Human. I think both are possible)
+  kiwan x1 HUMAN
+  kozi x1 HUMAN
+  kupe x1 HUMAN
+  lasod x1 HUMAN
+  mirding x1 HUMAN
+  mokun x1 HUMAN
+  munosh x1 HUMAN
+  naquuv x1 HUMAN
+  naspa x1 HUMAN
+  ngahen x1 HUMAN
+  ngokang x2 GOBLIN
+  nimu x1 HUMAN
+  oce x1 HUMAN
+  ongi x1 HUMAN
+  onmo x2 HUMAN
+  osush x1 HUMAN
+  pictham x1 HUMAN
+  quenir x1 HUMAN
+  ramul x1 HUMAN
+  ras x1 HUMAN
+  renal x1 HUMAN
+  rorec x1 HUMAN
+  rushan x1 HUMAN
+  senre x2 HUMAN
+  stral x2 HUMAN
+  strodno x1 GOBLIN
+  strospi x1 HUMAN
+  tar x1 HUMAN (MAYBE GOBLIN?)
+  thomo x1 HUMAN
+  thudu x1 HUMAN
+  thuthu x1 HUMAN
+  tis x1 HUMAN
+  tol x1 HUMAN (MAYBE GOBLIN?)
+  tunem x1 HUMAN
+  tura x1 HUMAN
+  urir x1 HUMAN (ARTIFICE and DOMESTIC in Dwarven, but only DOMESTIC in Human. Maybe it's being culled by Dwarf naming rules?)
+  uso x2 HUMAN
+  wimad x1 HUMAN
+  zicab x2 HUMAN
+  zuso x1 HUMAN
+DWARVEN NAMES
+  aban       x24 ARTIFICE
+  åblel      x10 ARTIFICE
+  adil       x41 ARTIFICE BOUNDARY
+  alåth      x26 ARTIFICE VIOLENT
+  amost      x10 ARTIFICE
+  äs         x16 EARTH MYSTERY PRIMITIVE
+  asën       x12 EARTH
+  asmel      x30 ARTIFICE TRADE
+  asob       x12 ARTIFICE
+  âst      	 x00 NATURE PRIMITIVE (false positive. This was probably never actually used. I just didn't notice immediately due to how LegendsBrowser strips accent marks)
+  ast		     x24 ARTIFICE VIOLENT
+  astesh     x19 ARTIFICE PRIMITIVE VIOLENT
+  athel      x14 ARTIFICE MAGIC
+  atír       x24 ARTIFICE COLOR
+  atîs       x13 ARTIFICE
+  avuz       x26 EARTH
+  bëmbul     x32 ARTIFICE
+  ber        x21 EARTH NATURE
+  besmar     x09 ARTIFICE
+  bim        x11 ARTIFICE VIOLENT
+  bomrek     x30 ARTIFICE VIOLENT
+  catten     x24 ARTIFICE
+  cerol      x24 ARTIFICE THOUGHT
+  cilob      x25 ARTIFICE
+  cog        x23 ARTIFICE VIOLENT
+  dakost     x13 ARTIFICE
+  dastot     x29 ARTIFICE VIOLENT
+  datan      x33 ARTIFICE EARTH
+  deduk      x13 ARTIFICE
+  degël      x16 ARTIFICE
+  deler      x10 ARTIFICE ASSERTIVE EARTH
+  dîshmab    x11 ARTIFICE PROTECT
+  dôbar      x16 ARTIFICE
+  dodók      x25 ARTIFICE RESTRAIN
+  domas      x24 ARTIFICE TRADE
+  doren      x39 EARTH WEALTH
+  ducim      x30 ARTIFICE
+  dumat      x17 ARTIFICE
+  dumed      x12 ARTIFICE PROTECT
+  edëm       x37 ARTIFICE ASSERTIVE
+  edzul      x08 ARTIFICE
+  endok      x08 ARTIFICE
+  eral       x09 ARTIFICE
+  erib       x20 EARTH NATURE
+  èrith	     x25 ARTIFICE
+  erush      x21 ARTIFICE
+  eshtân     x12 ARTIFICE
+  etur       x25 EARTH
+  èzum       x22 ARTIFICE RESTRAIN
+  fath       x35 ARTIFICE PRIMITIVE
+  feb        x20 ARTIFICE PRIMITIVE VIOLENT
+  fikod      x30 ARTIFICE
+  geshud     x12 ARTIFICE PROTECT
+  goden      x28 ARTIFICE
+  idîd       x22 EARTH NATURE PRIMITIVE
+  iden       x29 ARTIFICE AQUATIC
+  ilral      x29 ARTIFICE
+  imush      x16 ARTIFICE
+  ineth      x08 ARTIFICE
+  ingish     x26 ARTIFICE ROMANTIC
+  ïngiz      x29 ARTIFICE
+  inod       x26 ARTIFICE BOUNDARY PROTECT
+  ïteb       x18 ARTIFICE
+  îton       x27 ARTIFICE
+  kadol	     x44 ARTIFICE VIOLENT
+  kadôl 		     EARTH WEALTH (LegendsBrowser had both 'kadol's listed under the same name, so I'm not sure how many of each were picked)
+  kel        x19 ARTIFICE
+  kib        x48 ARTIFICE RESTRAIN
+  kikrost    x14 ARTIFICE PROTECT
+  kivish     x32 ARTIFICE VIOLENT
+  kogan      x31 ARTIFICE AQUATIC
+  kogsak     x14 ARTIFICE PROTECT
+  kol        x25 ARTIFICE TRAVEL
+  kosoth     x12 ARTIFICE
+  kûbuk      x29 ARTIFICE VIOLENT
+  kulet      x11 ARTIFICE HOLY THOUGHT
+  kumil      x11 ARTIFICE
+  led        x18 ARTIFICE DEATH VIOLENT
+  libash     x23 ARTIFICE PRIMITIVE VIOLENT
+  likot      x34 ARTIFICE COLOR
+  limul      x16 ASSERTIVE EARTH WEALTH
+  litast     x29 ARTIFICE ASSERTIVE LIGHT
+  logem      x35 ARTIFICE COLOR
+  lokum      x30 ARTIFICE VIOLENT
+  lolor      x18 ARTIFICE THOUGHT
+  lòr        x31 ARTIFICE
+  lorbam     x38 ARTIFICE LEADER
+  mafol      x23 ARTIFICE
+  mebzuth    x27 ARTIFICE AQUATIC
+  medtob     x18 ARTIFICE PROTECT RESTRAIN
+  melbil     x25 ARTIFICE OLD THOUGHT
+  meng       x29 ARTIFICE VIOLENT
+  mestthos   x17 ARTIFICE PROTECT
+  minkot     x27 ARTIFICE
+  mistêm     x22 ARTIFICE
+  moldath    x12 EARTH WILD
+  momuz      x31 ARTIFICE DEATH OLD
+  monom      x28 ARTIFICE THOUGHT
+  mörul      x27 ARTIFICE THOUGHT
+  mosus      x39 ARTIFICE
+  mûthkat    x20 ARTIFICE
+  nil        x31 ARTIFICE
+  nish       x20 ARTIFICE TRADE
+  nomal      x15 ARTIFICE MAGIC
+  obok       x40 ARTIFICE
+  oddom      x29 ARTIFICE HOLY
+  olin       x26 ARTIFICE
+  olon       x22 ARTIFICE
+  onget      x11 EARTH COLOR
+  onol       x20 EARTH NATURE
+  ònul   	   x24 ARTIFICE MYSTERY
+  rakust     x36 ARTIFICE DEATH OLD
+  ral        x25 COLOR EARTH WEALTH
+  reg        x32 ARTIFICE PROTECT
+  rigòth     x28 ARTIFICE
+  rimtar     x18 ARTIFICE ASSERTIVE LEADER PROTECT
+  rîsen      x19 EARTH
+  rith       x31 ARTIFICE MUSIC
+  rovod      x25 ARTIFICE
+  såkzul     x29 ARTIFICE MUSIC
+  sarvesh    x22 ARTIFICE FIRE
+  sazir      x16 ARTIFICE TRAVEL
+  shem       x12 ARTIFICE
+  shorast    x25 ARTIFICE
+  sibrek     x33 ARTIFICE
+  sigun      x24 ARTIFICE
+  sodel      x35 ARTIFICE PROTECT
+  solon      x26 ARTIFICE FESTIVAL LEADER
+  stâkud     x19 ARTIFICE
+  stinthäd   x15 ARTIFICE FESTIVAL
+  stodir     x16 EARTH NATURE VIOLENT
+  stukos     x26 ARTIFICE VIOLENT
+  tekkud     x24 ARTIFICE
+  thîkut     x18 ARTIFICE THOUGHT
+  thob       x39 ARTIFICE
+  tholtig    x13 ARTIFICE PROTECT RESTRAIN
+  tirist     x15 ARTIFICE
+  tobul      x31 ASSERTIVE EARTH NATURE
+  tosid      x25 ARTIFICE PROTECT
+  tulon      x41 ARTIFICE
+  tun        x32 ARTIFICE BOUNDARY
+  ubbul      x07 ARTIFICE MYSTERY PROTECT WEALTH
+  udib       x23 ARTIFICE FOOD
+  udil       x23 ARTIFICE LIGHT
+  unib       x27 ARTIFICE PRIMITIVE
+  urdim      x29 ARTIFICE PROTECT
+  urist      x39 ARTIFICE VIOLENT
+  urvad      x21 ARTIFICE BOUNDARY MAGIC
+  ushat      x07 ARTIFICE
+  ùshrir     x22 EARTH VIOLENT
+  ustuth     x20 ARTIFICE PROTECT RESTRAIN
+  uvash      x10 ARTIFICE
+  uzol       x10 EARTH
+  vabôk      x34 ARTIFICE MAGIC THOUGHT
+  vucar      x25 ARTIFICE DEATH
+  vutok      x12 ARTIFICE
+  zan        x10 ARTIFICE
+  zaneg      x14 ARTIFICE OLD
+  zas        x18 ARTIFICE EARTH MAGIC
+  zasit      x29 ARTIFICE VIOLENT
+  zefon      x23 ARTIFICE NEW
+  zon        x34 ARTIFICE PROTECT
+  zuglar     x28 ARTIFICE AQUATIC
+  zulban     x19 ARTIFICE FESTIVAL LEADER
+  zuntîr     x09 ARTIFICE
+  zutthan    x11 ARTIFICE WEALTH
