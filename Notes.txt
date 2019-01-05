@@ -342,3 +342,13 @@ DWARVEN NAMES
   zulban     x19 ARTIFICE FESTIVAL LEADER
   zuntîr     x09 ARTIFICE
   zutthan    x11 ARTIFICE WEALTH
+
+              ----------------
+              FORGOTTEN BEASTS
+              ----------------
+
+  The Forgotten Beast Bikd  Julosmbaktur has come!  A huge three-eyed tick.
+  It has four long, spiral horns and it is ravening.  Its black exoskeleton
+  is leathery.  Beware its poisonous vapors!
+
+  ***
