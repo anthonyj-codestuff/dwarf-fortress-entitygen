@@ -31,7 +31,7 @@ class Dwarf extends Component
     await this.props.initializeLanguages();
   }
 
-  getRand()
+  getRandomDwarfWordIndex()
   {
     return Math.floor(Math.random() * this.props.dwarf.length);
   }
@@ -64,7 +64,11 @@ class Dwarf extends Component
   getEntityName(race)
   // a generic name generation function for all races. TODO: Move this into a parent name generation class
   {
-    let isOfNativeCiv = this.getRand
+    // Vanilla numbers for dwarves: 
+    // 0-976: Dwarf
+    // 977-999: Human
+    // 1000: Goblin
+    let isOfNativeCiv = Math.floor(Math.random() * 1000);
   }
 
   getDwarfName()
@@ -72,10 +76,10 @@ class Dwarf extends Component
     let first;
     do 
     {
-      first = this.getRand();
+      first = this.getRandomDwarfWordIndex();
     } while(!this.wordIsOfType(first, "noun"));
-    let last1 = this.getRand();
-    let last2 = this.getRand();
+    let last1 = this.getRandomDwarfWordIndex();
+    let last2 = this.getRandomDwarfWordIndex();
 
     let dwarfName = {
       firstName: this.capitalize(this.props.dwarf[first]),
@@ -100,7 +104,7 @@ class Dwarf extends Component
     //   if(englishWord){
     //     listOfMatches = this.state.allNameTokens.filter((f,j) => {
     //       //console.log(englishWord, f) //returns 'zutthan wealth' etc
-    //       return language_SYM[f].includes(englishWord);
+    //       return language_SYM[f].includes(english Word);
     //     })
     //   }
     // return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})

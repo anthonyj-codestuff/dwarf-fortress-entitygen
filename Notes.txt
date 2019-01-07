@@ -352,6 +352,11 @@ Other Entities
   It has four long, spiral horns and it is ravening.  Its black exoskeleton
   is leathery.  Beware its poisonous vapors!
 
+  The Forgotten Beast Arel Gom֫themthir Idgagurnût Teling has come!  A
+  great feathered click beetle.  It has wings and it appears to be
+  emaciated.  Its golden yellow feathers are long and sparse.  Beware its
+  deadly spittle!
+
               ---------
               ARTIFACTS
               ---------
@@ -384,3 +389,13 @@ Other Entities
 
   Zikeläkig Kumil Onget, "Fiercestretches the Armory of Turquoise", a elk bird leather bag
   This is a elk bird leather bag.  All craftsdwarfship is of the highest quality.  It is decorated with goose leather and encircled with bands of mule bone.  This object menaces with spikes of elk bird leather and demantoid.
+
+  Semorcudïst Akir Bisól, "Unitedscalded the Reward of Peace", a hazel wood scepter
+  This is a hazel wood scepter.  All craftsdwarfship is of the highest quality.  It is decorated with chestnut and encircled with bands of hazel wood and peach wood.  
+  On the item is an image of Asno Jawlie the goblin and Submergemusty the giant wolf in schist.  Submergemusty is striking down Asno Jawlie.  The artwork relates to the killing of the goblin Asno Jawlie by the giant wolf Submergemusty in The Uncommon Hills in 650.
+
+  Led Sub, "The Rack of Drips", a sphalerite ring  
+  This is a sphalerite ring.  All craftsdwarfship is of the highest quality.  It is encrusted with oval sphalerite cabochons and rose cut red zircons, decorated with badger bone and encircled with bands of oval red zircon cabochons.  This object menaces with spikes of red zircon.  
+  On the item is an image of Nako Dredgethieves the goblin and Bookbrutes the giant wolf in badger bone.  Bookbrutes is striking down Nako Dredgethieves.  The artwork relates to the killing of the goblin Nako Dredgethieves by the giant wolf Bookbrutes in The Uncommon Hills in 515.  
+  On the item is an image of Nish Leanclasp the dwarf in cougar leather.  
+  On the item is an image of a grape vine in apple wood. 
