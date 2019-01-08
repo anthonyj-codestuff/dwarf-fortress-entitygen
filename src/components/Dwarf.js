@@ -2,9 +2,6 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import { initializeLanguages } from '../redux/reducer';
 import './Dwarf.css';
-const language_SYM = require('./assets/language_SYM.json');
-
-const LIST_OF_NAMES = ["aban", "ablel", "adil", "alath", "amost", "as", "asen", "asmel", "asob", "ast", "astesh", "athel", "atir", "atis", "avuz", "bembul", "ber", "besmar", "bim", "bomrek", "catten", "cerol", "cilob", "cog", "dakost", "dastot", "datan", "deduk", "degel", "deler", "dishmab", "dobar", "dodok", "domas", "doren", "ducim", "dumat", "dumed", "edem", "edzul", "endok", "eral", "erib", "erith", "erush", "eshtan", "etur", "ezum", "fath", "feb", "fikod", "geshud", "goden", "id", "iden", "ilral", "imush", "ineth", "ingish", "ingiz", "inod", "iteb", "iton", "kadol", "kel", "kib", "kikrost", "kivish", "kogan", "kogsak", "kol", "kosoth", "kubuk", "kulet", "kumil", "led", "libash", "likot", "limul", "litast", "logem", "lokum", "lolor", "lor", "lorbam", "mafol", "mebzuth", "medtob", "melbil", "meng", "mestthos", "minkot", "mistem", "moldath", "momuz", "monom", "morul", "mosus", "muthkat", "nil", "nish", "nomal", "obok", "oddom", "olin", "olon", "onget", "onol", "onul", "rakust", "ral", "reg", "rigoth", "rimtar", "risen", "rith", "rovod", "sakzul", "sarvesh", "sazir", "shem", "shorast", "sibrek", "sigun", "sodel", "solon", "stakud", "stinthad", "stodir", "stukos", "tekkud", "thikut", "thob", "tholtig", "tirist", "tobul", "tosid", "tulon", "tun", "ubbul", "udib", "udil", "unib", "urdim", "urist", "urvad", "ushat", "ushrir", "ustuth", "uvash", "uzol", "vabok", "vucar", "vutok", "zan", "zaneg", "zas", "zasit", "zefon", "zon", "zuglar", "zulban", "zuntir", "zutthan"];
 
 class Dwarf extends Component 
 {
@@ -31,15 +28,9 @@ class Dwarf extends Component
     await this.props.initializeLanguages();
   }
 
-  getRandomDwarfWordIndex()
-  {
-    return Math.floor(Math.random() * this.props.dwarf.length);
-  }
-
-  wordIsOfType(num, type)
+  wordIsOfType(word, type)
   {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
-    let word = this.props.english[num];
     if(word)
     {
       // console.log("english word", word);
@@ -49,6 +40,21 @@ class Dwarf extends Component
       return (typeArray.includes(type));
     }
     else return true ;
+  }
+
+  cullForbiddenNames(pool, forbiddenArray)
+  {
+    // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
+    let forbiddenPool = [];
+    for(let i in forbiddenArray)
+    {
+      // take the token, grab the list from Redux, and add all of the relative arrays together
+      forbiddenPool = forbiddenPool.concat(this.props.tokens[forbiddenArray[i]]);
+    }
+    // Remove dupes
+    forbiddenPool = forbiddenPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
+    // Filter one more time and remove any word that appears in the pool of forbidden names
+    return pool.filter((e, i) => (!forbiddenPool.includes(e)));
   }
 
   capitalize(string) 
@@ -79,18 +85,24 @@ class Dwarf extends Component
     // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
     // Include a small chance to also choose from other valid pools
     let first;
-    let pool = this.props
+    // Defines a standard pool of names by adding together the two normal name lists
+    let pool = this.props.tokens["earth"].concat(this.props.tokens["artifice"])
+    // filtering out duplicates
+    pool = pool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
+    // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
+    pool = this.cullForbiddenNames(pool, this.state.dwarfNameTokens[1]);
+
     do 
     {
-      first = this.getRandomDwarfWordIndex();
+      first = pool[Math.floor(Math.random() * pool.length)]
     } while(!this.wordIsOfType(first, "noun"));
-    let last1 = this.getRandomDwarfWordIndex();
-    let last2 = this.getRandomDwarfWordIndex();
+    let last1 = pool[Math.floor(Math.random() * pool.length)];
+    let last2 = pool[Math.floor(Math.random() * pool.length)];
 
     let dwarfName = {
-      firstName: this.capitalize(this.props.dwarf[first]),
-      lastName: this.capitalize(this.props.dwarf[last1] + this.props.dwarf[last2]),
-      transLastName: this.capitalize(this.props.english[last1] + this.props.english[last2])
+      firstName: this.capitalize(this.props.dwarf[this.props.english.indexOf(first)]),
+      lastName: this.capitalize(this.props.dwarf[this.props.english.indexOf(last1)] + this.props.dwarf[this.props.english.indexOf(last2)]),
+      transLastName: this.capitalize(last1 + last2)
     };
     this.setState({ currentDwarf: dwarfName, namesThisSession: this.state.namesThisSession+1 })
   }
@@ -98,7 +110,7 @@ class Dwarf extends Component
   render() 
   {
     let nameBlock = <div className="dwarf-name">
-      {this.state.currentDwarf.firstName} "{this.state.currentDwarf.transLastName}" {this.state.currentDwarf.lastName}<br/>
+      <span title={this.state.currentDwarf.firstName + ' ' + this.state.currentDwarf.transLastName}>{this.state.currentDwarf.firstName} {this.state.currentDwarf.lastName}</span><br/>
     </div>;
 
     // Skeleton for world analysis code. Do not delete without copying first
