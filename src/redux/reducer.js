@@ -68,7 +68,7 @@ export function initializeLanguages()
     human = HUMAN.map((e,i) => e.translated);
     goblin = GOBLIN.map((e,i) => e.translated);
     grammar = WORD_TYPES;
-    tokens = Object.keys(TOKENS);
+    tokens = TOKENS;
     // All this mapping doesn't need to happen more than once, so allow Redux to check if it has already done the work
     languagesInitalized = true;
     return {
