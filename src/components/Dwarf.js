@@ -63,6 +63,8 @@ class Dwarf extends Component
 
   getEntityName(race)
   // a generic name generation function for all races. TODO: Move this into a parent name generation class
+  // Every entity has a chance of getting a name from another civilization based on their upbringing
+  // Use the requested 'race' to determine which name to retrieve
   {
     // Vanilla numbers for dwarves: 
     // 0-976: Dwarf
@@ -73,7 +75,11 @@ class Dwarf extends Component
 
   getDwarfName()
   {
+    // To get a dwarf name, first determine the pool of names to choose from. Dwarves take all words from "artifice" and "earth" by default
+    // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
+    // Include a small chance to also choose from other valid pools
     let first;
+    let pool = this.props
     do 
     {
       first = this.getRandomDwarfWordIndex();
