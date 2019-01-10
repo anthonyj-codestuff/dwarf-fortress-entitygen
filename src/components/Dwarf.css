@@ -4,3 +4,20 @@
   "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
   sans-serif;
 }
+
+.text-minor {
+  font-size: 12px;
+}
+
+.dwarf-module {
+  padding: 30px;
+  border: 2px solid cyan;
+}
+
+.dwarf-module-controls {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid cyan;
+  justify-content: center;
+  align-items: center;
+}
