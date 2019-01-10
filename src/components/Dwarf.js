@@ -11,6 +11,7 @@ class Dwarf extends Component
     this.state =
     {
       namesThisSession: 0,
+      cullForbidden: true,
       currentDwarf: {
         firstName: "",
         lastName: ""
@@ -89,9 +90,11 @@ class Dwarf extends Component
     let pool = this.props.tokens["earth"].concat(this.props.tokens["artifice"])
     // filtering out duplicates
     pool = pool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
-    // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-    pool = this.cullForbiddenNames(pool, this.state.dwarfNameTokens[1]);
 
+    if(this.state.cullForbidden) {
+      // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
+      pool = this.cullForbiddenNames(pool, this.state.dwarfNameTokens[1]);
+    }
     do 
     {
       first = pool[Math.floor(Math.random() * pool.length)]
@@ -132,7 +135,15 @@ class Dwarf extends Component
         {this.state.namesThisSession > 0 ?
           nameBlock
           : null}
-        <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
+        <div className="dwarf-module-controls">
+          <div style={{border : "1px solid red", marginRight : "10px"}}>
+            <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
+          </div>
+          <div style={{border : "1px solid red"}}>
+            <span className="text-minor">Cull Forbidden?</span>
+            <input type="checkbox" checked={this.state.cullForbidden} onClick={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
+          </div>
+        </div>
       </div>
     </div>;
   }
