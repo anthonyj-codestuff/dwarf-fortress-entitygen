@@ -49,7 +49,7 @@ class Dwarf extends Component
   {
     let fullPool = [];
     for(let i=0; i<tokenArray.length; i++){
-      fullPool.concat(this.props.tokens[tokenArray[i]]);
+      fullPool = fullPool.concat(this.props.tokens[tokenArray[i]]);
     }
     return fullPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
   }
@@ -99,14 +99,13 @@ class Dwarf extends Component
     let first;
     // Defines a standard pool of names by adding together the two normal name lists
     let pool = this.buildFullPool(this.state.dwarfNameTokens[0])
+    console.log("pool", pool)
 
     if(this.state.cullForbidden) {
       // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
       pool = this.cullForbiddenNames(pool, this.state.dwarfNameTokens[1]);
     }
-    for(let i=0; i<pool.length;i++){
-      console.log(this.capitalize(this.props.dwarf[this.props.english.indexOf(pool[i])]))
-    }
+    //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do 
     {
       first = pool[Math.floor(Math.random() * pool.length)]
@@ -142,7 +141,7 @@ class Dwarf extends Component
     //   }
     // return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
 
-    return <div>
+    return (<div>
       <div className="dwarf-module">
         {this.state.namesThisSession > 0 ?
           nameBlock
@@ -157,7 +156,7 @@ class Dwarf extends Component
           </div>
         </div>
       </div>
-    </div>;
+    </div>)
   }
 }
 
