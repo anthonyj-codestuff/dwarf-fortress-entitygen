@@ -16,6 +16,8 @@ class Dwarf extends Component
         firstName: "",
         lastName: ""
       },
+      currentPool: [],
+      currentForbidden: [],
       allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"],
       dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
       elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
@@ -41,6 +43,15 @@ class Dwarf extends Component
       return (typeArray.includes(type));
     }
     else return true ;
+  }
+
+  buildFullPool(tokenArray)
+  {
+    let fullPool = [];
+    for(let i=0; i<tokenArray.length; i++){
+      fullPool.concat(this.props.tokens[tokenArray[i]]);
+    }
+    return fullPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
   }
 
   cullForbiddenNames(pool, forbiddenArray)
@@ -87,13 +98,14 @@ class Dwarf extends Component
     // Include a small chance to also choose from other valid pools
     let first;
     // Defines a standard pool of names by adding together the two normal name lists
-    let pool = this.props.tokens["earth"].concat(this.props.tokens["artifice"])
-    // filtering out duplicates
-    pool = pool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
+    let pool = this.buildFullPool(this.state.dwarfNameTokens[0])
 
     if(this.state.cullForbidden) {
       // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
       pool = this.cullForbiddenNames(pool, this.state.dwarfNameTokens[1]);
+    }
+    for(let i=0; i<pool.length;i++){
+      console.log(this.capitalize(this.props.dwarf[this.props.english.indexOf(pool[i])]))
     }
     do 
     {
