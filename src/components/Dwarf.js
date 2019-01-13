@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
 import { initializeLanguages } from '../redux/reducer';
-import './Dwarf.css';
+// import './Dwarf.css';
+import './Dwarf.scss';
 
 class Dwarf extends Component 
 {
