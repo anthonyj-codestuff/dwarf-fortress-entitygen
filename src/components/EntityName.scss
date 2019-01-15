@@ -1,0 +1,31 @@
+$font-pixel: VGA9;
+$inner-border: 1px solid cyan;
+$outer-border: 1px solid yellow;
+
+
+/* VGA9 font is loaded in index.css, so it should never need a fallback */
+.entity-name {
+  font-family: $font-pixel, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+}
+
+.text-minor {
+  font-size: 12px;
+}
+
+.entity-module {
+  padding: 30px;
+  border: $outer-border;
+  .entity-module-controls {
+    display: flex;
+    flex-direction: row;
+    border: $inner-border;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.token-list {
+  border: $outer-border;
+}
