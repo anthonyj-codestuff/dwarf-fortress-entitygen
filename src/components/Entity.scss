@@ -3,7 +3,7 @@ $test-border: 2px solid cyan;
 
 
 /* VGA9 font is loaded in index.css, so it should never need a fallback */
-.dwarf-name {
+.entity-name {
   font-family: $font-pixel, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
   "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
   sans-serif;
@@ -13,10 +13,10 @@ $test-border: 2px solid cyan;
   font-size: 12px;
 }
 
-.dwarf-module {
+.entity-module {
   padding: 30px;
   border: $test-border;
-  .dwarf-module-controls {
+  .entity-module-controls {
     display: flex;
     flex-direction: row;
     border: $test-border;

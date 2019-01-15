@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
+import List from '@material-ui/core';
 import { initializeLanguages } from '../redux/reducer';
-// import './Dwarf.css';
-import './Dwarf.scss';
+import './Entity.scss';
 
-class Dwarf extends Component 
+class Entity extends Component 
 {
   constructor()
   {
@@ -13,12 +13,13 @@ class Dwarf extends Component
     {
       namesThisSession: 0,
       cullForbidden: true,
-      currentDwarf: {
+      currentEntity: {
         firstName: "",
         lastName: ""
       },
       currentPool: [],
       currentForbidden: [],
+      races: ["dwarf", "elf", "human", "goblin"],
       allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"],
       dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
       elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
@@ -81,7 +82,10 @@ class Dwarf extends Component
   }
 
   getEntityName(race)
-  // a generic name generation function for all races. TODO: Move this into a parent name generation class
+  getEntityName.propTypes = {
+    race: PropTypes.string
+  };
+  // a generic name generation function for all races.
   // Every entity has a chance of getting a name from another civilization based on their upbringing
   // Use the requested 'race' to determine which name to retrieve
   {
@@ -90,6 +94,7 @@ class Dwarf extends Component
     // 977-999: Human
     // 1000: Goblin
     let isOfNativeCiv = Math.floor(Math.random() * 1000);
+    console.log('isOfNativeCiv', isOfNativeCiv);
   }
 
   getDwarfName()
@@ -100,7 +105,6 @@ class Dwarf extends Component
     let first;
     // Defines a standard pool of names by adding together the two normal name lists
     let pool = this.buildFullPool(this.state.dwarfNameTokens[0])
-    console.log("pool", pool)
 
     if(this.state.cullForbidden) {
       // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
@@ -119,13 +123,13 @@ class Dwarf extends Component
       lastName: this.capitalize(this.props.dwarf[this.props.english.indexOf(last1)] + this.props.dwarf[this.props.english.indexOf(last2)]),
       transLastName: this.capitalize(last1 + last2)
     };
-    this.setState({ currentDwarf: dwarfName, namesThisSession: this.state.namesThisSession+1 })
+    this.setState({ currentEntity: dwarfName, namesThisSession: this.state.namesThisSession+1 })
   }
 
   render() 
   {
-    let nameBlock = <div className="dwarf-name">
-      <span title={this.state.currentDwarf.firstName + ' ' + this.state.currentDwarf.transLastName}>{this.state.currentDwarf.firstName} {this.state.currentDwarf.lastName}</span><br/>
+    let nameBlock = <div className="entity-name">
+      <span title={this.state.currentEntity.firstName + ' ' + this.state.currentEntity.transLastName}>{this.state.currentEntity.firstName} {this.state.currentEntity.lastName}</span><br/>
     </div>;
 
     // Skeleton for world analysis code. Do not delete without copying first
@@ -140,20 +144,20 @@ class Dwarf extends Component
     //       return language_SYM[f].includes(english Word);
     //     })
     //   }
-    // return <p className="dwarf-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
+    // return <p className="entity-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
 
     return (<div>
-      <div className="dwarf-module">
+      <div className="entity-module">
         {this.state.namesThisSession > 0 ?
           nameBlock
           : null}
-        <div className="dwarf-module-controls">
+        <div className="entity-module-controls">
           <div style={{border : "1px solid red", marginRight : "10px"}}>
             <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
           </div>
           <div style={{border : "1px solid red"}}>
             <span className="text-minor">Cull Forbidden?</span>
-            <input type="checkbox" checked={this.state.cullForbidden} onClick={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
+            <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
           </div>
         </div>
       </div>
@@ -163,4 +167,4 @@ class Dwarf extends Component
 
 const mapStateToProps = state => state;
 
-export default connect(mapStateToProps,{initializeLanguages})(Dwarf);
+export default connect(mapStateToProps,{initializeLanguages})(Entity);

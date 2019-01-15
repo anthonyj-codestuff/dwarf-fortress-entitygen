@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Name from './components/Name';
-import Dwarf from './components/Dwarf';
+import Entity from './components/Entity';
 
 class App extends Component {
   render() {
@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           {/* <Name/> */}
-          <Dwarf/>
+          <Entity/>
         </header>
       </div>
     );
