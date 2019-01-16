@@ -29,3 +29,10 @@ $outer-border: 1px solid yellow;
 .token-list {
   border: $outer-border;
 }
+
+.token-toggle-row {
+  border: 1px solid pink;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
