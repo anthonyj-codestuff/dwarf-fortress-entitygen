@@ -52,19 +52,24 @@ class EntityName extends Component
   {
     let newPool = [];
     if(this.state.selectedCurrent === this.state.selectedPrev){
+      console.log('Same as last set!');
       return;
     }
     // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
     for(let i=0; i<this.state.selectedCurrent[0].length; i++){
-      newPool = newPool.concat(this.props.tokens[this.state.selectedCurrent[i]]);
+      newPool = newPool.concat(this.props.tokens[this.state.selectedCurrent[0][i]]);
     }
+    console.log('newPool', newPool);
     newPool = newPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
 
     if(this.state.cullForbidden) {
       // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
       newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
     }
-    console.log('newPool', newPool);
+    //update the previous pool so that rapid queries can be faster
+    this.setState({selectedPrev: this.state.selectedCurrent});
+    // put the new pool of names on state for easy access
+    this.setState({namePool: newPool});
     return newPool;
   }
 
