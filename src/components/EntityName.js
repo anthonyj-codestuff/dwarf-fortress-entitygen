@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
 import List from '@material-ui/core';
+import Switch from 'react-bootstrap-switch';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
 
@@ -46,6 +47,12 @@ class EntityName extends Component
       return (typeArray.includes(type));
     }
     else return true ;
+  }
+
+  handleSwitch(elem, state) {
+    console.log('handleSwitch. elem:', elem);
+    console.log('name:', elem.props.name);
+    console.log('new state:', state);
   }
 
   buildNamePool()
@@ -176,7 +183,10 @@ class EntityName extends Component
       </div>
       <div className="token-list">
         {this.state.allNameTokens.map((e,i) => {
-          return(<div key="i">{e}</div>);
+          return(<div key={"token-"+i} class="token-toggle-row">
+            <span>{e}</span>
+            <Switch class="token-toggle" defaultValue="null" tristate="true"/>
+          </div>);
         })}
       </div>
     </div>)
