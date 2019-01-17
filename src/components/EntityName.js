@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
 import List from '@material-ui/core';
-import Switch from 'react-bootstrap-switch';
+import ThreeState from './ThreeState';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
 
@@ -185,7 +185,7 @@ class EntityName extends Component
         {this.state.allNameTokens.map((e,i) => {
           return(<div key={"token-"+i} class="token-toggle-row">
             <span>{e}</span>
-            <Switch class="token-toggle" defaultValue="null" tristate="true"/>
+            <ThreeState id={"ts-"+i}/>
           </div>);
         })}
       </div>
