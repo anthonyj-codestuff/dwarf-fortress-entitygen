@@ -13,7 +13,7 @@ class ThreeState extends Component {
       <div>
         <input 
           className="trinary-toggle"
-          style={{background: "red"}}
+          // style={{background: "red"}}
           type="range"
           value={this.state.value}
           onChange={(e) => this.setState({value: e.target.value})}
