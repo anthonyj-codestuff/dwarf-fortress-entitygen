@@ -4,7 +4,6 @@ import List from '@material-ui/core';
 import ThreeState from './ThreeState';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
-import './ThreeState.scss';
 
 class EntityName extends Component 
 {
@@ -186,19 +185,7 @@ class EntityName extends Component
         {this.state.allNameTokens.map((e,i) => {
           return(<div key={"token-"+i} class="token-toggle-row">
             <span>{e}</span>
-            <div>
-              <input
-                id={"ts-"+i}
-                className="trinary-toggle"
-                // style={{background: "red"}}
-                type="range"
-                value={this.state.value}
-                onChange={(e) => this.props.value = e.target.value}
-                min="-1"
-                max="1"
-                step="1"
-              />
-            </div>
+            <ThreeState id={"ts-"+i}/>
           </div>);
         })}
       </div>
