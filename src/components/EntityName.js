@@ -53,6 +53,7 @@ class EntityName extends Component
     console.log('handleSwitch. elem:', elem);
     console.log('name:', elem.props.name);
     console.log('new state:', state);
+    return this.value;
   }
 
   buildNamePool()
@@ -185,7 +186,7 @@ class EntityName extends Component
         {this.state.allNameTokens.map((e,i) => {
           return(<div key={"token-"+i} class="token-toggle-row">
             <span>{e}</span>
-            <ThreeState id={"ts-"+i}/>
+            <ThreeState id={"ts-"+i} getValue={this.handleSwitch()}/>
           </div>);
         })}
       </div>
