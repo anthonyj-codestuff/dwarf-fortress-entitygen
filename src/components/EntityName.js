@@ -49,11 +49,44 @@ class EntityName extends Component
     else return true ;
   }
 
-  handleSwitch(elem, state) {
-    console.log('handleSwitch. elem:', elem);
-    console.log('name:', elem.props.name);
-    console.log('new state:', state);
-    return this.value;
+  handleSwitch(name, value) {
+    // value = -1: Add name to this.state.selectedCurrent[1] (forbidden array) and remove from selectedCurrent[0]
+    // value = 1:  Add name to this.state.selectedCurrent[0] (required array) and remove from selectedCurrent[1]
+    // value = 0:  Remove name from both arrays
+    let tempArray = []
+    console.log('name :', name, typeof(name));
+    console.log("value", value, typeof(value))
+    switch (value) {
+      case "-1":
+        // if the element is not already forbidden, add it to the forbidden array
+        if (!this.state.selectedCurrent[1].includes(name)) {
+          this.setState({
+            selectedCurrent: [[...this.state.selectedCurrent[0]], [...this.state.selectedCurrent[1], name]]
+          });
+        }
+        // if the element is found in the required array, remove it
+        if(this.state.selectedCurrent[0].indexOf(name) !== -1){
+          this.setState({
+            selectedCurrent: [
+              [...this.state.selectedCurrent[0].filter(e => {return e !== name})], 
+            [...this.state.selectedCurrent[1]]
+          ]
+          })
+        }
+        break;
+      case "1":
+      if (!this.state.selectedCurrent[0].includes(name)) {
+        this.setState({
+          selectedCurrent: [[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]]
+        })
+      }
+        break;
+      case "0":
+        break;
+      default:
+        console.log('ERROR: default state reached in handleSwitch() with name', name, 'and value', value);
+        break;
+    }
   }
 
   buildNamePool()
@@ -167,26 +200,38 @@ class EntityName extends Component
     //   }
     // return <p className="entity-name">{deanglicized} {listOfMatches.sort().map((e) => <span>{e.toUpperCase()} </span>)}</p>})
 
-    return (<div style={{display : "flex", flexDirection : "row"}}>
+    return (<div style={{ display: "flex", flexDirection: "row" }}>
       <div className="entity-module">
         {this.state.namesThisSession > 0 ?
           nameBlock
           : null}
         <div className="entity-module-controls">
-          <div style={{border : "1px solid red", marginRight : "10px"}}>
+          <div style={{ border: "1px solid red", marginRight: "10px" }}>
             <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
           </div>
-          <div style={{border : "1px solid red"}}>
+          <div style={{ border: "1px solid red" }}>
             <span className="text-minor">Cull Forbidden?</span>
             <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
           </div>
         </div>
       </div>
       <div className="token-list">
-        {this.state.allNameTokens.map((e,i) => {
-          return(<div key={"token-"+i} class="token-toggle-row">
+        {this.state.allNameTokens.map((e, i) => {
+          return (<div key={"token-" + i} class="token-toggle-row">
             <span>{e}</span>
-            <ThreeState id={"ts-"+i} getValue={this.handleSwitch()}/>
+            <div>
+              <input
+                id={"ts-" + i}
+                className="trinary-toggle"
+                // style={{background: "red"}}
+                type="range"
+                value={this.state.value}
+                onChange={(event) => this.handleSwitch(e, event.target.value)}
+                min="-1"
+                max="1"
+                step="1"
+              />
+            </div>
           </div>);
         })}
       </div>
