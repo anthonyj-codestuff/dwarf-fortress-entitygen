@@ -1,0 +1,56 @@
+{
+  "material": {
+    "STONE": {
+      "cut": true,
+      "table": "stone"
+    },
+    "GEM": {
+      "cut": true,
+      "table": "gem"
+    },
+    "WOOD": {
+      "cut": true,
+      "table": "wood"
+    },
+    "BONE": {
+      "cut": true,
+      "table": "animal"
+    },
+    "METAL": {
+      "cut": true,
+      "table": "metal"
+    },
+    "WAX": {
+      "cut": false,
+      "table": "wax"
+    },
+    "GLASS": {
+      "cut": true,
+      "table": "glass"
+    },
+    "SHELL": {
+      "cut": false,
+      "table": "shell"
+    },
+    "LEATHER": {
+      "cut": false,
+      "table": "animal"
+    },
+    "CLOTH": {
+      "cut": false,
+      "table": "cloth"
+    }
+  },
+  "cut": ["baguette", "brilliant", "briolette", "cushion", "emerald", "marquise", "octagon", "oval", "pear", "point", "radiant", "rectangular", "round", "single", "square", "table", "tapered", "trillion"],
+  "tables": {
+    "stone": ["chalk", "chert", "claystone", "conglomerate", "dolomite", "limestone", "mudstone", "rock salt", "sandstone", "shale", "siltstone", "diorite", "gabbro", "granite", "andesite", "basalt", "dacite", "obsidian", "rhyolite", "gneiss", "marble", "phyllite", "quartzite", "schist", "slate"],
+    "gem": [],
+    "wood": [],
+    "animal": [],
+    "metal": [],
+    "wax": [],
+    "glass": [],
+    "shell": [],
+    "cloth": []
+  }
+}
