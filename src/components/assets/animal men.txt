@@ -1,0 +1,192 @@
+aardvark man
+adder man
+albatross man
+alligator man
+amphibian man
+anaconda man
+anole man
+armadillo man
+axolotl man
+aye-aye man
+badger man
+bark scorpion man
+barn owl man
+bat man
+beaver man
+beetle man
+black bear man
+black mamba man
+blizzard man
+blood man
+bluejay man
+bobcat man
+brown recluse spider man
+bushmaster man
+bushtit man
+buzzard man
+capuchin man
+capybara man
+cardinal man
+cassowary man
+cave fish man
+cave swallow man
+chameleon man
+cheetah man
+chinchilla man
+chipmunk man
+coati man
+cockatiel man
+copperhead snake man
+cougar man
+coyote man
+crab man
+crow man
+cuttlefish man
+damselfly man
+deer man
+desert tortoise man
+dingo man
+dragonfly man
+eagle man
+echidna man
+elephant man
+elephant seal man
+elk man
+emu man
+firefly man
+fly man
+flying squirrel man
+fox man
+gazelle man
+giant tortoise man
+gila monster man
+giraffe man
+grackle man
+grasshopper man
+gray langur man
+gray squirrel man
+great horned owl man
+green tree frog man
+grey parrot man
+grizzly bear man
+groundhog man
+hamster man
+hare man
+harp seal man
+hedgehog man
+hippo man
+hoary marmot man
+honey badger man
+hornbill man
+horseshoe crab man
+hyena man
+ibex man
+iguana man
+impala man
+jackal man
+jaguar man
+jumping spider man
+kakapo man
+kangaroo man
+kea man
+kestrel man
+king cobra man
+kingsnake man
+kiwi man
+koala man
+leech man
+leopard gecko man
+leopard man
+leopard seal man
+lion man
+lion tamarin man
+lizard man
+loon man
+lorikeet man
+louse man
+lynx man
+magpie man
+mandrill man
+mantis man
+masked lovebird man
+mink man
+monarch butterfly man
+mongoose man
+monitor lizard man
+moon snail man
+moose man
+mosquito man
+moth man
+mountain goat man
+muskox man
+narwhal man
+nautilus man
+ocelot man
+octopus man
+olm man
+one-humped camel man
+opossum man
+orca man
+oriole man
+osprey man
+ostrich man
+otter man
+panda man
+pangolin man
+parakeet man
+peach-faced lovebird man
+penguin man
+peregrine falcon man
+platypus man
+plump helmet man
+polar bear man
+pond turtle man
+porcupine man
+puffin man
+python man
+raccoon man
+rat man
+rattlesnake man
+raven man
+red panda man
+red squirrel man
+red-winged blackbird man
+reptile man
+rhesus macaque man
+rhinoceros man
+roach man
+rodent man
+saltwater crocodile man
+serpent man
+skink man
+skunk man
+sloth bear man
+sloth man
+slug man
+snail man
+snapping turtle man
+snowy owl man
+sparrow man
+sperm whale man
+spider monkey man
+sponge man
+squid man
+stoat man
+swan man
+tapir man
+thrips man
+tick man
+tiger man
+toad man
+two-humped camel man
+vulture man
+walrus man
+warthog man
+weasel man
+white stork man
+wild boar man
+wolf man
+wolverine man
+wombat man
+worm man
+wren man
