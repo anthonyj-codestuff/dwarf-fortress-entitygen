@@ -5,48 +5,43 @@ import ThreeState from './ThreeState';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
 
-class EntityName extends Component 
-{
-  constructor()
-  {
+class EntityName extends Component {
+  constructor() {
     super();
     this.state =
-    {
-      namesThisSession: 0,
-      cullForbidden: true,
-      currentEntity: {
-        firstName: "",
-        lastName: ""
-      },
-      namePool: [],
-      selectedCurrent: [["artifice", "earth"],["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
-      selectedPrev: [],
-      races: ["dwarf", "elf", "human", "goblin"],
-      allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"],
-      dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
-      elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
-      humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
-      goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
-    };
+      {
+        namesThisSession: 0,
+        cullForbidden: true,
+        currentEntity: {
+          firstName: "",
+          lastName: ""
+        },
+        namePool: [],
+        selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
+        selectedPrev: [],
+        races: ["dwarf", "elf", "human", "goblin"],
+        allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"],
+        dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
+        elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
+        humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
+        goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
+      };
   }
 
-  async componentDidMount()
-  {
+  async componentDidMount() {
     await this.props.initializeLanguages();
   }
 
-  wordIsOfType(word, type)
-  {
+  wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
-    if(word)
-    {
+    if (word) {
       // console.log("english word", word);
       // console.log("num", num);
       // console.log("type", type);
       let typeArray = this.props.grammar[word];
       return (typeArray.includes(type));
     }
-    else return true ;
+    else return true;
   }
 
   handleSwitch(name, value) {
@@ -54,34 +49,51 @@ class EntityName extends Component
     // value = 1:  Add name to this.state.selectedCurrent[0] (required array) and remove from selectedCurrent[1]
     // value = 0:  Remove name from both arrays
     let tempArray = []
-    console.log('name :', name, typeof(name));
-    console.log("value", value, typeof(value))
     switch (value) {
-      case "-1":
-        // if the element is not already forbidden, add it to the forbidden array
+      case "-1": //Add name to this.state.selectedCurrent[1] (forbidden array) and remove from selectedCurrent[0]
         if (!this.state.selectedCurrent[1].includes(name)) {
+          //append name to forbidden
           this.setState({
             selectedCurrent: [[...this.state.selectedCurrent[0]], [...this.state.selectedCurrent[1], name]]
           });
         }
         // if the element is found in the required array, remove it
-        if(this.state.selectedCurrent[0].indexOf(name) !== -1){
+        if (this.state.selectedCurrent[0].indexOf(name) !== -1) {
           this.setState({
+            // filter the element out of the permitted array. Don't touch the second one
             selectedCurrent: [
-              [...this.state.selectedCurrent[0].filter(e => {return e !== name})], 
-            [...this.state.selectedCurrent[1]]
-          ]
-          })
+              [...this.state.selectedCurrent[0].filter(e => { return e !== name })],
+              [...this.state.selectedCurrent[1]]
+            ]
+          });
         }
         break;
       case "1":
-      if (!this.state.selectedCurrent[0].includes(name)) {
-        this.setState({
-          selectedCurrent: [[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]]
-        })
-      }
+        // everything here should be the same as in "-1" but reversed
+        if (!this.state.selectedCurrent[0].includes(name)) {
+          console.log([[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]])
+          this.setState({
+            selectedCurrent: [[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]]
+          });
+        }
+        if (this.state.selectedCurrent[1].indexOf(name) !== -1) {
+          this.setState({
+            // filter the element out of the permitted array. Don't touch the second one
+            selectedCurrent: [
+              [...this.state.selectedCurrent[0]],
+              [...this.state.selectedCurrent[1].filter(e => { return e !== name })]
+            ]
+          });
+        }
         break;
       case "0":
+        // remove name from both arrays
+        this.setState({
+          selectedCurrent: [
+            [...this.state.selectedCurrent[0].filter(e => { return e !== name })],
+            [...this.state.selectedCurrent[1].filter(e => { return e !== name })]
+          ]
+        });
         break;
       default:
         console.log('ERROR: default state reached in handleSwitch() with name', name, 'and value', value);
@@ -89,37 +101,34 @@ class EntityName extends Component
     }
   }
 
-  buildNamePool()
-  {
+  buildNamePool() {
     let newPool = [];
-    if(this.state.selectedCurrent === this.state.selectedPrev){
+    if (this.state.selectedCurrent === this.state.selectedPrev) {
       console.log('Same as last set!');
       return;
     }
     // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
-    for(let i=0; i<this.state.selectedCurrent[0].length; i++){
+    for (let i = 0; i < this.state.selectedCurrent[0].length; i++) {
       newPool = newPool.concat(this.props.tokens[this.state.selectedCurrent[0][i]]);
     }
     console.log('newPool', newPool);
     newPool = newPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
 
-    if(this.state.cullForbidden) {
+    if (this.state.cullForbidden) {
       // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
       newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
     }
     //update the previous pool so that rapid queries can be faster
-    this.setState({selectedPrev: this.state.selectedCurrent});
+    this.setState({ selectedPrev: this.state.selectedCurrent });
     // put the new pool of names on state for easy access
-    this.setState({namePool: newPool});
+    this.setState({ namePool: newPool });
     return newPool;
   }
 
-  cullForbiddenNames(pool, forbiddenArray)
-  {
+  cullForbiddenNames(pool, forbiddenArray) {
     // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
-    for(let i in forbiddenArray)
-    {
+    for (let i in forbiddenArray) {
       // take the token, grab the list from Redux, and add all of the relative arrays together
       forbiddenPool = forbiddenPool.concat(this.props.tokens[forbiddenArray[i]]);
     }
@@ -129,13 +138,11 @@ class EntityName extends Component
     return pool.filter((e, i) => (!forbiddenPool.includes(e)));
   }
 
-  capitalize(string) 
-  {
+  capitalize(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
   }
 
-  deaccent(str)
-  {
+  deaccent(str) {
     return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
   }
 
@@ -165,10 +172,9 @@ class EntityName extends Component
     let pool = this.state.namePool;
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
-    do 
-    {
+    do {
       first = pool[Math.floor(Math.random() * pool.length)]
-    } while(!this.wordIsOfType(first, "noun"));
+    } while (!this.wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -177,13 +183,12 @@ class EntityName extends Component
       lastName: this.capitalize(this.props.dwarf[this.props.english.indexOf(last1)] + this.props.dwarf[this.props.english.indexOf(last2)]),
       transLastName: this.capitalize(last1 + last2)
     };
-    this.setState({ currentEntity: dwarfName, namesThisSession: this.state.namesThisSession+1 })
+    this.setState({ currentEntity: dwarfName, namesThisSession: this.state.namesThisSession + 1 })
   }
 
-  render() 
-  {
+  render() {
     let nameBlock = <div className="entity-name">
-      <span title={this.state.currentEntity.firstName + ' ' + this.state.currentEntity.transLastName}>{this.state.currentEntity.firstName} {this.state.currentEntity.lastName}</span><br/>
+      <span title={this.state.currentEntity.firstName + ' ' + this.state.currentEntity.transLastName}>{this.state.currentEntity.firstName} {this.state.currentEntity.lastName}</span><br />
     </div>;
 
     // Skeleton for world analysis code. Do not delete without copying first
@@ -225,7 +230,11 @@ class EntityName extends Component
                 className="trinary-toggle"
                 // style={{background: "red"}}
                 type="range"
-                value={this.state.value}
+                value={
+                  // Set the initial value of the toggle based on what values are found in the selectedCurrent arrays
+                  (this.state.selectedCurrent[0].includes(e) && !this.state.selectedCurrent[1].includes(e))
+                    ? 1 : (this.state.selectedCurrent[1].includes(e) && !this.state.selectedCurrent[0].includes(e))
+                      ? -1 : 0 }
                 onChange={(event) => this.handleSwitch(e, event.target.value)}
                 min="-1"
                 max="1"
@@ -241,4 +250,4 @@ class EntityName extends Component
 
 const mapStateToProps = state => state;
 
-export default connect(mapStateToProps,{initializeLanguages})(EntityName);
+export default connect(mapStateToProps, { initializeLanguages })(EntityName);
