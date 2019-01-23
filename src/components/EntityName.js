@@ -35,9 +35,6 @@ class EntityName extends Component {
   wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
-      // console.log("english word", word);
-      // console.log("num", num);
-      // console.log("type", type);
       let typeArray = this.props.grammar[word];
       return (typeArray.includes(type));
     }
@@ -71,14 +68,12 @@ class EntityName extends Component {
       case "1":
         // everything here should be the same as in "-1" but reversed
         if (!this.state.selectedCurrent[0].includes(name)) {
-          console.log([[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]])
           this.setState({
             selectedCurrent: [[...this.state.selectedCurrent[0], name], [...this.state.selectedCurrent[1]]]
           });
         }
         if (this.state.selectedCurrent[1].indexOf(name) !== -1) {
           this.setState({
-            // filter the element out of the permitted array. Don't touch the second one
             selectedCurrent: [
               [...this.state.selectedCurrent[0]],
               [...this.state.selectedCurrent[1].filter(e => { return e !== name })]
@@ -186,10 +181,18 @@ class EntityName extends Component {
     this.setState({ currentEntity: dwarfName, namesThisSession: this.state.namesThisSession + 1 })
   }
 
+  getSliderValue(sliderWord) {
+    // Set the initial value of the toggle based on what values are found in the selectedCurrent arrays
+    return (this.state.selectedCurrent[0].includes(sliderWord) && !this.state.selectedCurrent[1].includes(sliderWord))
+      ? 1 : (this.state.selectedCurrent[1].includes(sliderWord) && !this.state.selectedCurrent[0].includes(sliderWord))
+        ? -1 : 0
+  }
+
   render() {
     let nameBlock = <div className="entity-name">
       <span title={this.state.currentEntity.firstName + ' ' + this.state.currentEntity.transLastName}>{this.state.currentEntity.firstName} {this.state.currentEntity.lastName}</span><br />
     </div>;
+    const toggleStateColor = ["trinary-toggle-red", "trinary-toggle-default", "trinary-toggle-green"];
 
     // Skeleton for world analysis code. Do not delete without copying first
     // let nameAnalysis = LIST_OF_NAMES.map((e,i) => {
@@ -227,15 +230,13 @@ class EntityName extends Component {
             <div>
               <input
                 id={"ts-" + i}
-                className="trinary-toggle"
-                // style={{background: "red"}}
+                className={'trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]}
                 type="range"
-                value={
-                  // Set the initial value of the toggle based on what values are found in the selectedCurrent arrays
-                  (this.state.selectedCurrent[0].includes(e) && !this.state.selectedCurrent[1].includes(e))
-                    ? 1 : (this.state.selectedCurrent[1].includes(e) && !this.state.selectedCurrent[0].includes(e))
-                      ? -1 : 0 }
-                onChange={(event) => this.handleSwitch(e, event.target.value)}
+                value={this.getSliderValue(e)}
+                onChange={(event) => {
+                  console.log('trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]);
+                  return this.handleSwitch(e, event.target.value)
+                }}
                 min="-1"
                 max="1"
                 step="1"
