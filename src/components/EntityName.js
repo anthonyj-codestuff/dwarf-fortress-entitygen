@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import Modal from '@material-ui/core/Modal';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
-import './ToggleSwitches.scss';
+import './NamePoolModal.scss';
 
 
 class EntityName extends Component {
@@ -20,6 +20,7 @@ class EntityName extends Component {
         namePool: [],
         selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
         selectedPrev: [],
+        selectedLanguage: "dwarf",
         races: ["dwarf", "elf", "human", "goblin"],
         allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"].sort(),
         dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
@@ -196,8 +197,8 @@ class EntityName extends Component {
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
     let dwarfName = {
-      firstName: this.capitalize(this.props.dwarf[this.props.english.indexOf(first)]),
-      lastName: this.capitalize(this.props.dwarf[this.props.english.indexOf(last1)] + this.props.dwarf[this.props.english.indexOf(last2)]),
+      firstName: this.capitalize(this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]),
+      lastName: this.capitalize(this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] + this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]),
       transLastName: this.capitalize(last1 + last2)
     };
     this.setState({ currentEntity: dwarfName, namesThisSession: this.state.namesThisSession + 1 })
@@ -221,8 +222,21 @@ class EntityName extends Component {
     const toggleStateColor = ["trinary-toggle-red", "trinary-toggle-default", "trinary-toggle-green"];
 
     let toggleList = <div className="token-list">
-      <div style={{ display: "flex", flexDirection: "row" }}>
-        <input></input>
+      <div className="token-list-head">
+        <div style={{ border: "1px solid red" }}>
+          <span className="text-minor">Race </span>
+          <select onChange={(event) => this.setState({selectedCurrent: this.state[event.target.value + "NameTokens"]})}>
+            {/* fill the dropdown box with the values from the race list */}
+            {this.state.races.map((e,i) => <option value={e}>{this.capitalize(e)}</option>)}
+          </select>
+        </div>
+        <div style={{ border: "1px solid red" }}>
+          <span className="text-minor">Language </span>
+          <select onChange={(event) => this.setState({selectedLanguage: event.target.value})}>
+            {/* fill the dropdown box with the values from the race list */}
+            {this.state.races.map((e,i) => <option value={e}>{this.capitalize(e)}</option>)}
+          </select>
+        </div>
         <div style={{ border: "1px solid red" }}>
           <span className="text-minor">Cull Forbidden?</span>
           <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
@@ -270,20 +284,15 @@ class EntityName extends Component {
           nameBlock
           : null}
         <div className="entity-module-controls">
-          <div style={{ border: "1px solid red", marginRight: "10px" }}>
-            <button onClick={() => this.getDwarfName()}>Get Name</button>
-          </div>
-          {/* button here */}
-        </div>
-        <div>
-          <button onClick={() => this.toggleModal()}>Settings</button>
+          <button className="button-entity-name" onClick={() => this.getDwarfName()}>Get Name</button>
+          <button className="button-entity-name" onClick={() => this.toggleModal()}>Settings</button>
         </div>
       </div>
-      <Modal 
+      <Modal
         open={this.state.modalIsOpen}
         onClose={() => this.toggleModal()}
       >
-          {toggleList}
+        {toggleList}
       </Modal>
     </div>)
   }
