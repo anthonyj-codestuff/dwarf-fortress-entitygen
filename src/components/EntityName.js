@@ -21,6 +21,7 @@ class EntityName extends Component {
         selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
         selectedPrev: [],
         selectedLanguage: "dwarf",
+        selectedRace: "dwarf",
         races: ["dwarf", "elf", "human", "goblin"],
         allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"].sort(),
         dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
@@ -223,21 +224,25 @@ class EntityName extends Component {
 
     let toggleList = <div className="token-list">
       <div className="token-list-head">
-        <div style={{ border: "1px solid red" }}>
+        <div>
           <span className="text-minor">Race </span>
-          <select onChange={(event) => this.setState({selectedCurrent: this.state[event.target.value + "NameTokens"]})}>
+          <select onChange={(event) => this.setState({selectedCurrent: this.state[event.target.value + "NameTokens"], selectedRace: event.target.value})}>
             {/* fill the dropdown box with the values from the race list */}
-            {this.state.races.map((e,i) => <option value={e}>{this.capitalize(e)}</option>)}
+            {this.state.races.map((e,i) => <option 
+                                              value={e}
+                                              selected={this.state.selectedRace === e ? "selected" : ""}>{this.capitalize(e)}</option>)}
           </select>
         </div>
-        <div style={{ border: "1px solid red" }}>
+        <div>
           <span className="text-minor">Language </span>
           <select onChange={(event) => this.setState({selectedLanguage: event.target.value})}>
             {/* fill the dropdown box with the values from the race list */}
-            {this.state.races.map((e,i) => <option value={e}>{this.capitalize(e)}</option>)}
+            {this.state.races.map((e,i) => <option 
+                                              value={e}
+                                              selected={this.state.selectedLanguage === e ? "selected" : ""}>{this.capitalize(e)}</option>)}
           </select>
         </div>
-        <div style={{ border: "1px solid red" }}>
+        <div>
           <span className="text-minor">Cull Forbidden?</span>
           <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
         </div>
