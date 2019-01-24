@@ -1,3 +1,13 @@
+.text-minor {
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.token-list-head {
+  border-bottom: 2px solid #9c9c9c85;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
 
 .token-list {
   width: 50vw;
