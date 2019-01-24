@@ -1,17 +1,18 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
-import List from '@material-ui/core';
-import ThreeState from './ThreeState';
+import Modal from '@material-ui/core/Modal';
 import { initializeLanguages } from '../redux/reducer';
 import './EntityName.scss';
+import './ToggleSwitches.scss';
+
 
 class EntityName extends Component {
   constructor() {
     super();
-    this.state =
-      {
+    this.state = {
         namesThisSession: 0,
         cullForbidden: true,
+        modalIsOpen: false,
         currentEntity: {
           firstName: "",
           lastName: ""
@@ -20,12 +21,22 @@ class EntityName extends Component {
         selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
         selectedPrev: [],
         races: ["dwarf", "elf", "human", "goblin"],
-        allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"],
+        allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"].sort(),
         dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
         elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
         humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
         goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
-      };
+    };
+    this.wordIsOfType = this.wordIsOfType.bind(this);
+    this.handleSwitch = this.handleSwitch.bind(this);
+    this.buildNamePool = this.buildNamePool.bind(this);
+    this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
+    this.capitalize = this.capitalize.bind(this);
+    this.deaccent = this.deaccent.bind(this);
+    this.getEntityName = this.getEntityName.bind(this);
+    this.getDwarfName = this.getDwarfName.bind(this);
+    this.getSliderValue = this.getSliderValue.bind(this);
+    this.toggleModal = this.toggleModal.bind(this);
   }
 
   async componentDidMount() {
@@ -103,9 +114,20 @@ class EntityName extends Component {
       return;
     }
     // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
-    for (let i = 0; i < this.state.selectedCurrent[0].length; i++) {
-      newPool = newPool.concat(this.props.tokens[this.state.selectedCurrent[0][i]]);
+    // If the selectedCurrent[0] array is empty, the user has not selected any tags to be applied. Add all available names to the pool
+    if(this.state.selectedCurrent[0].length > 0){
+      // add only the activated names to the pool
+      for (let i = 0; i < this.state.selectedCurrent[0].length; i++) {
+        newPool = newPool.concat(this.props.tokens[this.state.selectedCurrent[0][i]]);
+      }
     }
+    else {
+      // add all available names to the pool
+      for (let i = 0; i < this.state.allNameTokens.length; i++) {
+        newPool = newPool.concat(this.props.tokens[this.state.allNameTokens[i]]);
+      }
+    }    
+
     console.log('newPool', newPool);
     newPool = newPool.filter((e, i, self) => (e !== '') && (i === self.indexOf(e)));
 
@@ -188,11 +210,45 @@ class EntityName extends Component {
         ? -1 : 0
   }
 
+  toggleModal() {
+    this.setState({modalIsOpen: !this.state.modalIsOpen});
+  }
+
   render() {
     let nameBlock = <div className="entity-name">
       <span title={this.state.currentEntity.firstName + ' ' + this.state.currentEntity.transLastName}>{this.state.currentEntity.firstName} {this.state.currentEntity.lastName}</span><br />
     </div>;
     const toggleStateColor = ["trinary-toggle-red", "trinary-toggle-default", "trinary-toggle-green"];
+
+    let toggleList = <div className="token-list">
+      <div style={{ display: "flex", flexDirection: "row" }}>
+        <input></input>
+        <div style={{ border: "1px solid red" }}>
+          <span className="text-minor">Cull Forbidden?</span>
+          <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
+        </div>
+      </div>
+      {this.state.allNameTokens.map((e, i) => {
+        return (<div key={"token-" + i} class="token-toggle-row">
+          <span>{e}</span>
+          <div>
+            <input
+              id={"ts-" + i}
+              className={'trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]}
+              type="range"
+              value={this.getSliderValue(e)}
+              onChange={(event) => {
+                console.log('trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]);
+                return this.handleSwitch(e, event.target.value)
+              }}
+              min="-1"
+              max="1"
+              step="1"
+            />
+          </div>
+        </div>);
+      })}
+    </div>
 
     // Skeleton for world analysis code. Do not delete without copying first
     // let nameAnalysis = LIST_OF_NAMES.map((e,i) => {
@@ -215,36 +271,20 @@ class EntityName extends Component {
           : null}
         <div className="entity-module-controls">
           <div style={{ border: "1px solid red", marginRight: "10px" }}>
-            <button onClick={() => this.getDwarfName()}>Get D0rf Name</button>
+            <button onClick={() => this.getDwarfName()}>Get Name</button>
           </div>
-          <div style={{ border: "1px solid red" }}>
-            <span className="text-minor">Cull Forbidden?</span>
-            <input type="checkbox" checked={this.state.cullForbidden} onChange={() => this.setState({ cullForbidden: !this.state.cullForbidden })} />
-          </div>
+          {/* button here */}
+        </div>
+        <div>
+          <button onClick={() => this.toggleModal()}>Settings</button>
         </div>
       </div>
-      <div className="token-list">
-        {this.state.allNameTokens.map((e, i) => {
-          return (<div key={"token-" + i} class="token-toggle-row">
-            <span>{e}</span>
-            <div>
-              <input
-                id={"ts-" + i}
-                className={'trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]}
-                type="range"
-                value={this.getSliderValue(e)}
-                onChange={(event) => {
-                  console.log('trinary-toggle ' + toggleStateColor[+this.getSliderValue(e) + 1]);
-                  return this.handleSwitch(e, event.target.value)
-                }}
-                min="-1"
-                max="1"
-                step="1"
-              />
-            </div>
-          </div>);
-        })}
-      </div>
+      <Modal 
+        open={this.state.modalIsOpen}
+        onClose={() => this.toggleModal()}
+      >
+          {toggleList}
+      </Modal>
     </div>)
   }
 }
