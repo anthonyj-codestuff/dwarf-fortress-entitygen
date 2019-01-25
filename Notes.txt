@@ -44,6 +44,11 @@
   Rodaz Osnusmlomu,       "Rodaz Stenchdiminished"
   Dozo Utostxoxo,         "Dozo Moleyoung"
 
+              --------------
+              NAMES + TITLES
+              --------------
+  Ariyilithemeseye Vera
+
               ------------------------
               RULES FOR CHOOSING NAMES
               ------------------------
@@ -53,7 +58,7 @@ Second Names are always two-word pairs and can be any combination of word types
   Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
 
 Each race has its own sphere of names to pick from. These spheres are listed in language_SYM and the sphere rules are listed in entity_default. 
-Dwarves generally pick from the ARTIFICE group (198 possible names) and their last names avoid use of the FLOWERY group
+Dwarves generally pick from the ARTIFICE and EARTH group (198 possible names) and their last names avoid use of the forbidden groups
 
 ALL VALID TOKENS: "flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", 
                   "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", 
