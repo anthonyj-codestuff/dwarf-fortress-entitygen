@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import Modal from '@material-ui/core/Modal';
 import { initializeLanguages } from '../redux/reducer';
-import './EntityName.scss';
+import './Entity.scss';
 import './NamePoolModal.scss';
 
 
