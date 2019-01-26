@@ -47,7 +47,30 @@
               --------------
               NAMES + TITLES
               --------------
-  Ariyilithemeseye Vera
+  Ariyilithémeseye Vera
+    royal-night-mole clam
+    The Royal Night-Mole of Clams
+  Asngek Dakotu Spos ûrer
+    Coast Paddle-Fish Abyss Moist
+    Asngek Paddledfishes the Abyss of Moistening
+  Vesh Sárekmessog
+    Dust Echo-Tumor
+    Vesh Echoedtumor
+  Uthimi Oquarí Nidela
+    Poison Nightmare Dusk
+    Uthimi the Nightmares of Dusk
+  Osman Slekiquob Sedast
+    Shadow Lust-Bloat Moist
+    Osman the Lustful Bloat of Moistening
+  Meli
+    Murk
+    Meli
+  Ezuk Inrus
+    Raunch Poison
+    The Raunch of Poisoning
+  Ulspa Ngerxungätkust
+    Dagger Wicked-Mirror
+    Ulspa Wickedmirrors
 
               ------------------------
               RULES FOR CHOOSING NAMES
