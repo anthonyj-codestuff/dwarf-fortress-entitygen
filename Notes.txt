@@ -83,6 +83,7 @@
     Normally 1 or 2, occasionally 3. Further stats needed
     If it is 1 word, it should be a noun
     If it is 2 or 3 words, the first one should have an ADJ form
+  Pick a form for the FB's name and generat the pieces as needed
 
               ------------------------
               RULES FOR CHOOSING NAMES
