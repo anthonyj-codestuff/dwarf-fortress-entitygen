@@ -44,6 +44,47 @@
   Rodaz Osnusmlomu,       "Rodaz Stenchdiminished"
   Dozo Utostxoxo,         "Dozo Moleyoung"
 
+              ---------------------
+              FORGOTTEN BEAST NAMES
+              ---------------------
+  Ariyilithémeseye Vera                           The Y of Z
+    royal-night-mole clam                         Y = royal-night-mole
+    The Royal Night-Mole of Clams                 
+  Asngek Dakotu Spos ûrer                         Xx the Y of Z
+    Coast Paddle-Fish Abyss Moist                 Y = abyss
+    Asngek Paddledfishes the Abyss of Moistening  
+  Vesh Sárekmessog                                Xx
+    Dust Echo-Tumor                               
+    Vesh Echoedtumor                              
+  Uthimi Oquarí Nidela                            X the Y of Z
+    Poison Nightmare Dusk                         Y = nightmare
+    Uthimi the Nightmares of Dusk                 
+  Osman Slekiquob Sedast                          X the Y of Z
+    Shadow Lust-Bloat Moist                       Y = lust-bloat
+    Osman the Lustful Bloat of Moistening         
+  Meli                                            X
+    Murk                                          
+    Meli                                          
+  Ezuk Inrus                                      The Y of Z
+    Raunch Poison                                 Y = raunch
+    The Raunch of Poisoning                       
+  Ulspa Ngerxungätkust                            Xx
+    Dagger Wicked-Mirror                          
+    Ulspa Wickedmirrors                           
+  
+  Formats:
+  X
+  Xx
+  The Y of Z
+  X the Y of Z
+  Where X is a NOUN
+  Where Xx is a standard NOUN WORDWORD name
+  Where Y is a number of words
+    Normally 1 or 2, occasionally 3. Further stats needed
+    If it is 1 word, it should be a noun
+    If it is 2 or 3 words, the first one should have an ADJ form
+  Pick a form for the FB's name and generat the pieces as needed
+
               ------------------------
               RULES FOR CHOOSING NAMES
               ------------------------
