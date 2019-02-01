@@ -17,15 +17,15 @@
   Lokum Nazomzuglar       "Spear Dream-Ship"
   Zuglar Ostarkeskal      "Ship Bury-Shoot"
 ==ELVES==
-  Lema Ceralicayii
+  Lèma Ceralíceyi         "Hill Will-Petal"
   --Generated--
-  Liceyi Sutheithafe,     "Liceyi Lesionfray"
-  Nere Ipolacifa,         "Nere Utterlarge"
-  Nifi Tiyiporelimi,      "Nifi Tacticmartyr"
-  Lulo Isifesluyi,        "Lulo Bandedjaundice"
-  Fuvi Menadirire,        "Fuvi Combinedbreaker"
-  Cera Mobacuthe,         "Cera Lurkally"
-  Moduve Tobafiali,       "Moduve Farmpath"
+  Liceyi Sutheithafe,     "Petal Lesion-Fray"
+  Nere Ipolacifa,        "Nere Utter-Large"
+  Nifi Tiyiporelimi,     "Nifi Tactic-Martyr"
+  Lulo Isifesluyi,       "Lulo Banded-Jaundice"
+  Fuvi Menadirire,       "Fuvi Combined-Breaker"
+  Cera Mobacuthe,         "Will Lurk-Ally"
+  Moduve Tobafiali,      "Moduve Farm-Path"
 ==HUMANS==
   --Generated--
   Zin Smoroinid,          "Zin Squatlong"
@@ -53,11 +53,27 @@ Second Names are always two-word pairs and can be any combination of word types
   Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
 
 Each race has its own sphere of names to pick from. These spheres are listed in language_SYM and the sphere rules are listed in entity_default. 
-Dwarves generally pick from the ARTIFICE group (198 possible names) and their last names avoid use of the FLOWERY group
+Dwarves pick from the ARTIFICE and EARTH group (231 possible names?) and their last names avoid use of the FLOWERY (and other culled) group
 
-ALL VALID TOKENS: "flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", 
-                  "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", 
-                  "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"
+    TAKEN FROM THE WIKI
+      Dwarf first names come from a combination of symbol sets as defined in the raw file language_SYM.txt.
+      175 Dwarf names = (ARTIFICE ∪ EARTH) \ (DOMESTIC ∪ FLOWERY ∪ NEGATOR ∪ NEGATIVE ∪ UGLY ∪ EVIL) 
+      First names also need to have [THE_NOUN_SING] in their language_words.txt entry. This filters out an additional 10, leaving a total of 165 valid names.[1]
+      Valid Names:
+        Aban 	Adil 	Alåth 	Amost 	Asmel 	Asob 	Ast 	Astesh 	Asën 	Athel Atír 	Atîs 	Avuz 	Ber 	Besmar 	Bim 	Bomrek 	Bëmbul 	Catten 	Cerol Cilob 	Cog 	Dakost 	Dastot 	Datan 	Deduk 	Degël 	Deler 	Dodók 	Domas Doren 	Ducim 	Dumat 	Dumed 	Dîshmab 	Dôbar 	Edzul 	Edëm 	Endok 	Eral Erib 	Erush 	Eshtân 	Etur 	Fath 	Feb 	Fikod 	Geshud 	Goden 	Id Iden 	Ilral 	Imush 	Ineth 	Ingish 	Inod 	Kadol 	Kadôl 	Kel 	Kib Kikrost 	Kivish 	Kogan 	Kogsak 	Kol 	Kosoth 	Kulet 	Kumil 	Kûbuk 	Led Libash 	Likot 	Limul 	Litast 	Logem 	Lokum 	Lolor 	Lorbam 	Lòr 	Mafol Mebzuth 	Medtob 	Melbil 	Meng 	Mestthos 	Minkot 	Mistêm 	Moldath 	Momuz 	Monom Mosus 	Mörul 	Mûthkat 	Nil 	Nish 	Nomal 	Obok 	Oddom 	Olin 	Olon Onget 	Onol 	Rakust 	Ral 	Reg 	Rigòth 	Rimtar 	Rith 	Rovod 	Rîsen Sarvesh 	Sazir 	Shem 	Shorast 	Sibrek 	Sigun 	Sodel 	Solon 	Stinthäd 	Stodir Stukos 	Stâkud 	Såkzul 	Tekkud 	Thob 	Tholtig 	Thîkut 	Tirist 	Tobul 	Tosid Tulon 	Tun 	Ubbul 	Udib 	Udil 	Unib 	Urdim 	Urist 	Urvad 	Ushat Ustuth 	Uvash 	Uzol 	Vabôk 	Vucar 	Vutok 	Zan 	Zaneg 	Zas 	Zasit Zefon 	Zon 	Zuglar 	Zulban 	Zuntîr 	Zutthan 	Äs 	Åblel 	Èrith 	Èzum Îton 	Ïngiz 	Ïteb 	Ònul 	Ùshrir 
+      Epithets
+        When a creature scores five notable kills (typically creatures belonging to a civilization, but also any creature that has scored a notable kill itself), it is given an epithet by its civilization. The epithet is most often two names, but can also occasionally be one, though each of these names can be a compound word. The words appear to be selected somewhat randomly, leading to epithets that translate as gibberish such as "the Hardy Ring-Cobra of Dashing". On occasion, the epithet can be surprisingly apt. The epithet is translated in the same places the creature's second name is translated.
+      Animal and megabeast names
+        Animals who are not pets can gain a name by acquiring notable kills or becoming an enemy of a civilization. The language of the animal's name is determined by the civilization that named it, though the relationship is not always straightforward--a wild crundle that kills an elven-named forgotten beast at a dwarven site may receive an elven name, for instance. Most animals who acquire a name in world generation do not ever acquire additional ones, though it is possible. Animals can acquire multiple names more frequently either in fortress mode by killing your dwarves, invaders, or uninvited guests, or in adventurer mode by killing your adventurers or members of their parties.
+        Megabeasts acquire names in an unusual fashion. Unlike other creatures, they do not have a parent civilization. However, all megabeasts have at least one name and typically have more, up to four. Megabeasts appear to gain their original names from the first civilization they have contact with, and in most cases gain epithets from conflict with others. Megabeasts with only one or two names have likely led uneventful lives.
+      Other names
+        On occasion, your dwarves will decide to give names to the creatures inhabiting the area around a fortress. It appears that only creatures who can talk will get names; additionally, the creature must remain on the map for an extended period of time, usually limiting the namings to creatures that inhabit chasms, bottomless pits, underground rivers, and underground pools. However, any creature that can speak, such as a snailman who has become stuck in a ditch, can be given a name. Other than that, the impetus for naming creatures is murky. Some creatures are named after only a few seasons, while others may go unnamed for decades. It may be that a creature must be in the preferences of a dwarf to receive a name, or the naming may occur randomly.
+        Trees near elven settlements may also be named, though this currently has no known effect. 
+
+ALL VALID TOKENS (for entities, not sites or battles):
+    "flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", 
+    "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", 
+    "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"
 
 DWARVES:
   PREFERRED:  "artifice", "earth"
@@ -69,6 +85,10 @@ DWARVES:
 HUMANS:
   PREFERRED:  none
   FORBIDDEN:  "subordinate", "evil", "negative", "ugly", "negator"
+
+            --------------
+            CENSUS RESULTS
+            --------------
 
   RESEARCH :  A survey of 3829 dwarves in a newly-generated world yielded a pool of 249 unique names
               Out of 3829 generated dwarves, 89 had non-dwarven names
@@ -170,7 +190,7 @@ NAME STATS (out of 3829):
   tol x1 HUMAN (MAYBE GOBLIN?)
   tunem x1 HUMAN
   tura x1 HUMAN
-  urir x1 HUMAN (ARTIFICE and DOMESTIC in Dwarven, but only DOMESTIC in Human. Maybe it's being culled by Dwarf naming rules?)
+  urir x1 HUMAN (ARTIFICE and DOMESTIC in Dwarven, but only DOMESTIC in Human. This word is normally culled by Dwarf naming rules, but is valid for Humans)
   uso x2 HUMAN
   wimad x1 HUMAN
   zicab x2 HUMAN
@@ -185,7 +205,6 @@ DWARVEN NAMES
   asën       x12 EARTH
   asmel      x30 ARTIFICE TRADE
   asob       x12 ARTIFICE
-  âst      	 x00 NATURE PRIMITIVE (false positive. This was probably never actually used. I just didn't notice immediately due to how LegendsBrowser strips accent marks)
   ast		     x24 ARTIFICE VIOLENT
   astesh     x19 ARTIFICE PRIMITIVE VIOLENT
   athel      x14 ARTIFICE MAGIC
@@ -342,60 +361,3 @@ DWARVEN NAMES
   zulban     x19 ARTIFICE FESTIVAL LEADER
   zuntîr     x09 ARTIFICE
   zutthan    x11 ARTIFICE WEALTH
-
-Other Entities
-              ----------------
-              FORGOTTEN BEASTS
-              ----------------
-
-  The Forgotten Beast Bikdá  Julosmbaktur has come!  A huge three-eyed tick.
-  It has four long, spiral horns and it is ravening.  Its black exoskeleton
-  is leathery.  Beware its poisonous vapors!
-
-  The Forgotten Beast Arel Gom֫themthir Idgagurnût Teling has come!  A
-  great feathered click beetle.  It has wings and it appears to be
-  emaciated.  Its golden yellow feathers are long and sparse.  Beware its
-  deadly spittle!
-
-              ---------
-              ARTIFACTS
-              ---------
-
-  Istamvúsh, "Lightheated", a giant olm leather sandal  
-  This is a giant olm leather sandal.  All craftsdwarfship is of the highest quality.  It is decorated with giant olm leather and encircled with bands of llama wool.
-
-  Osor ùst, "The Kingdom of Breaching", a raw adamantine crown  
-  This is a raw adamantine crown.  All craftsdwarfship is of the highest quality.  It is encircled with bands of skunk leather.  This object menaces with spikes of red zircon.  
-  On the item is an image of Hauntedrare the wolf woman and Amxu Cursemansion the goblin in raw adamantine.  Amxu Cursemansion is striking down Hauntedrare.  The artwork relates to the killing of the wolf woman Hauntedrare by the goblin Amxu Cursemansion in The Uncommon Hills in 423.
-
-  Kat Izkil, "The Goal of Intricacies", a llama bone earring  
-  This is a llama bone earring.  All craftsdwarfship is of the highest quality.  It is encircled with bands of llama bone.  This object menaces with spikes of rubicelle.  On the item is an image of a giant tortoise man in adamantine.  
-
-  Äkigåm, "Stretchedyawn", a steel short sword
-  This is a steel short sword.  All craftsdwarfship is of the highest quality.  It is decorated with birch and encircled with bands of peach wood. This object menaces with spikes of chicken bone.  On the item is an image of a half moon in steel.
-  On the item is an image of Ubbul Roughnessplane the dwarf and dwarves in red zircon.  Ubbul Roughnessplane is surrounded by the dwarves.  The artwork relates to the appointment of the dwarf Ubbul Roughnessplane to the position of general of The Routed Hammer in 25.
-
-  Teshkadkûbuk, "Pricedlance", a chestnut animal trap
-  This is a chestnut animal trap.  All craftsdwarfship is of the highest quality.  It is encrusted with rose cut rock crystals and decorated with chestnut.  This object menaces with spikes of honey yellow beryl.  On the item is an image of a cheese in rock crystal.  On the item is an image of clouds in honey yellow beryl.  On the item is an image of single cut gems in gabbro.
-
-  Kosoththatthil, "Palaceautumn", a gabbro statue of Ubbul Roughnessplane
-  This is a gabbro statue of Ubbul Roughnessplane.  All craftsdwarfship is of the highest quality.
-  The item is a masterfully designed image of Ubbul Roughnessplane the dwarf and dwarves in gabbro by Onol Keskalilir.  Ubbul Roughnessplane is surrounded by the dwarves.  The artwork relates to the appointment of the dwarf Ubbul Roughnessplane to the position of general of The Routed Hammer in 25.
-  This object menaces with spikes of gabbro.  On the item is an image of dwarves in gabbro.  On the item is an image of Blushtunneled the mule bone bracelet in gabbro.
-
-  Totmonbogsosh Gesullod, "Flowerbrigand the Cross One", a green glass hatch cover
-  This is a green glass hatch cover.  All craftsdwarfship is of the highest quality.  It is decorated with sheep wool.
-  On the item is an image of Mûthkat Greaterclasps the dwarf and dwarves in green glass.  Mûthkat Greaterclasps is surrounded by the dwarves.  The artwork relates to the ascension of the dwarf Mûthkat Greaterclasps to the position of king of The Routed Hammer in 125.
-
-  Zikeläkig Kumil Onget, "Fiercestretches the Armory of Turquoise", a elk bird leather bag
-  This is a elk bird leather bag.  All craftsdwarfship is of the highest quality.  It is decorated with goose leather and encircled with bands of mule bone.  This object menaces with spikes of elk bird leather and demantoid.
-
-  Semorcudïst Akir Bisól, "Unitedscalded the Reward of Peace", a hazel wood scepter
-  This is a hazel wood scepter.  All craftsdwarfship is of the highest quality.  It is decorated with chestnut and encircled with bands of hazel wood and peach wood.  
-  On the item is an image of Asno Jawlie the goblin and Submergemusty the giant wolf in schist.  Submergemusty is striking down Asno Jawlie.  The artwork relates to the killing of the goblin Asno Jawlie by the giant wolf Submergemusty in The Uncommon Hills in 650.
-
-  Led Sub, "The Rack of Drips", a sphalerite ring  
-  This is a sphalerite ring.  All craftsdwarfship is of the highest quality.  It is encrusted with oval sphalerite cabochons and rose cut red zircons, decorated with badger bone and encircled with bands of oval red zircon cabochons.  This object menaces with spikes of red zircon.  
-  On the item is an image of Nako Dredgethieves the goblin and Bookbrutes the giant wolf in badger bone.  Bookbrutes is striking down Nako Dredgethieves.  The artwork relates to the killing of the goblin Nako Dredgethieves by the giant wolf Bookbrutes in The Uncommon Hills in 515.  
-  On the item is an image of Nish Leanclasp the dwarf in cougar leather.  
-  On the item is an image of a grape vine in apple wood. 
