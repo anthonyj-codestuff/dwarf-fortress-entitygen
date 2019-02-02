@@ -10,7 +10,6 @@ class EntityName extends Component {
     super();
     this.state = {
       namesThisSession: 0,
-      cullForbidden: true,
       modalIsOpen: false,
       currentEntity: {
         firstName: "",
@@ -164,10 +163,9 @@ class EntityName extends Component {
     console.log("newPool", newPool);
     newPool = newPool.filter((e, i, self) => e !== "" && i === self.indexOf(e));
 
-    if (this.state.cullForbidden) {
-      // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-      newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
-    }
+    // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
+    newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
+    
     //update the previous pool so that rapid queries can be faster
     this.setState({ selectedPrev: this.state.selectedCurrent });
     // put the new pool of names on state for easy access
@@ -360,16 +358,6 @@ class EntityName extends Component {
                 </option>
               ))}
             </select>
-          </div>
-          <div>
-            <span className="text-minor">Cull Forbidden?</span>
-            <input
-              type="checkbox"
-              checked={this.state.cullForbidden}
-              onChange={() =>
-                this.setState({ cullForbidden: !this.state.cullForbidden })
-              }
-            />
           </div>
         </div>
         {this.state.allNameTokens.map((e, i) => {
