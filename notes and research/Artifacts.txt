@@ -70,3 +70,8 @@ Steps to create an artifact:
         Pros: Can easily select item types by workshop and set percentages for each workshop
         Cons: More complex. Will require a lot more checking and setup
   2:  Get Artifact Name
+      Pick from naming schemes
+      Xx
+      The Y
+      The Y of Z
+      X the Y of Z
