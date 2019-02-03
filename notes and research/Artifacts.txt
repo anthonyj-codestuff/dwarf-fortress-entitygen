@@ -60,3 +60,13 @@
     On the item is an image of a grape vine in apple wood.
     The Y of Z
     Rack Drip
+    
+Steps to create an artifact:
+  1:  Determine the base item
+      Method A: Huge array of base items
+        Pros: Simple, easy to read
+        Cons: Completely random; Breastplates are just as common as toy anvils
+      Method B: Workshop object with weighted values
+        Pros: Can easily select item types by workshop and set percentages for each workshop
+        Cons: More complex. Will require a lot more checking and setup
+  2:  Get Artifact Name
