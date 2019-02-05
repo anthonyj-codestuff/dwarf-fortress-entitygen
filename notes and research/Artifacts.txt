@@ -88,14 +88,14 @@ Individual Decorations
 ----------------------
   First Phrase
     It is decorated with giant olm leather and encircled with bands of llama wool.
-    It is encircled with bands of skunk leather.  
-    It is encircled with bands of llama bone.
     It is decorated with birch and encircled with bands of peach wood.
-    It is encrusted with rose cut rock crystals and decorated with chestnut.
     It is decorated with sheep wool.
     It is decorated with goose leather and encircled with bands of mule bone.
     It is decorated with chestnut and encircled with bands of hazel wood and peach wood.  
+    It is encrusted with rose cut rock crystals and decorated with chestnut.
     It is encrusted with oval sphalerite cabochons and rose cut red zircons, decorated with badger bone and encircled with bands of oval red zircon cabochons.
+    It is encircled with bands of skunk leather.  
+    It is encircled with bands of llama bone.
     STATUE: The item is a masterfully designed image of Ubbul Roughnessplane the dwarf and dwarves in gabbro by Onol Keskalilir.  Ubbul Roughnessplane is surrounded by the dwarves.
   Menacing Spikes
     This object menaces with spikes of red zircon.
@@ -139,5 +139,5 @@ Steps to create an artifact:
       Any item can be made of any material (I think)
       Check to see if the material has a sub-type (bone vs dog bone / wood vs oak)
   4:  Determine the number of decorations and/or encrustings
-      The first decoration is always "It is decorated with" or "It is encrusted with" UNLESS the item is a statue
+      The first decoration is always "It is decorated with", "It is encrusted with", or "It is encircled with" UNLESS the item is a statue
       MOST artifacts have one or two decoration paragraphs, but there is a chance of getting more
