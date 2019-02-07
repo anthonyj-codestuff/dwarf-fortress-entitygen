@@ -7,7 +7,7 @@ The end product should be able to replicate:
   - The X of Y names
   - Artifacts
   - Engravings
-  - Books/Songs/Poetry
+  - Books/Songs/Poetry (Names Only. I'm not crazy)
   - Instruments
   - Other things I hadn't considered
   - Syndromes
