@@ -1,0 +1,76 @@
+              -------------------------
+              DESCRIPTIONS AND ANALYSIS
+              -------------------------
+
+  The Forgotten Beast Bikdá  Julosmbaktur has come!  A huge three-eyed tick.
+  It has four long, spiral horns and it is ravening.  Its black exoskeleton
+  is leathery.  Beware its poisonous vapors!
+    Name: Bikdá  Julosmbaktur / The Y of Z / Secret Crab-Jackal / The Secret of Crabjackal
+    Body: Tick
+    Quirk: Three-eyed (requires non-three number of eyes)
+    Description: it has [four] [long] [spiral] horns
+    Demeanor: Ravening
+    Body Mod: Its [black] exoskeleton is [leathery]
+    Weapon: Poisonous Vapors
+
+  The Forgotten Beast Arel Gom֫themthir Idgagurnût Teling has come!  A
+  great feathered click beetle.  It has wings and it appears to be
+  emaciated.  Its golden yellow feathers are long and sparse.  Beware its
+  deadly spittle!
+    Name: Arel Gom֫themthir Idgagurnût Teling / 
+    Body: Click Beetle
+    Quirk: Feathered (requires no feathers)
+    Description: It has [wings]
+    Demeanor: appears to be emaciated
+    Body Mod: Its [golden yellow] feathers are [long] and [sparce]
+    Weapon: Deadly Spittle
+
+              ---------------
+              GENERATED NAMES
+              ---------------
+  Ariyilithémeseye Vera                           The Y of Z
+    royal-night-mole clam                         Y = royal-night-mole
+    The Royal Night-Mole of Clams
+  Asngek Dakotu Spos ûrer                         Xx the Y of Z
+    Coast Paddle-Fish Abyss Moist                 Y = abyss
+    Asngek Paddledfishes the Abyss of Moistening
+  Vesh Sárekmessog                                Xx
+    Dust Echo-Tumor
+    Vesh Echoedtumor
+  Uthimi Oquarí Nidela                            X the Y of Z
+    Poison Nightmare Dusk                         Y = nightmare
+    Uthimi the Nightmares of Dusk
+  Osman Slekiquob Sedast                          X the Y of Z
+    Shadow Lust-Bloat Moist                       Y = lust-bloat
+    Osman the Lustful Bloat of Moistening
+  Meli                                            X
+    Murk
+    Meli
+  Ezuk Inrus                                      The Y of Z
+    Raunch Poison                                 Y = raunch
+    The Raunch of Poisoning                       
+  Ulspa Ngerxungätkust                            Xx
+    Dagger Wicked-Mirror
+    Ulspa Wickedmirrors
+  Oggez Rashas                                    The Y of Z
+    Hole ___                                      Y = Hole
+    The Hole of ___
+  
+  Formats:
+    X
+    Xx
+    The Y of Z
+    X the Y of Z
+  Where X is a NOUN
+  Where Xx is a standard NOUN WORDWORD name
+  Where Y is a number of words
+    Normally 1 or 2, occasionally 3. Further stats needed
+    If it is 1 word, it should be a noun
+    If it is 2 or 3 words, the first one should have an ADJ form
+Pick a form for the FB's name and generate the pieces as needed
+
+Steps to create a FB:
+  1:  Give it a Name
+      Pick one of the four valid naming schemes (certain name might be more common. Don't worry about that yet)
+        If the result is Xx, just use the regular naming function and give it a random language
+  2:  Pick a body type

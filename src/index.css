@@ -1,3 +1,12 @@
+/* Gets rid of that irritating dotted border in Firefox */
+a:active { 
+  outline: none; 
+}  
+a:focus { 
+  -moz-outline-style: none;
+  outline-style: none; 
+}
+
 @font-face {
   font-family: 'VGA9';
   font-style: normal;
