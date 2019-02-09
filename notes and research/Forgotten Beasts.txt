@@ -74,3 +74,7 @@ Steps to create a FB:
       Pick one of the four valid naming schemes (certain name might be more common. Don't worry about that yet)
         If the result is Xx, just use the regular naming function and give it a random language
   2:  Pick a body type
+      Choose an animal or a form at random
+      This may be dictated by desired difficulty level
+  3:  Pick a quirk
+      The body form is unusual in some drastic way. Maybe it's composed of a strange material or it has more or fewer body parts than normal
