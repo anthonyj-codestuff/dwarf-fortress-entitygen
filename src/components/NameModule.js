@@ -2,10 +2,11 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Modal from "@material-ui/core/Modal";
 import { initializeLanguages } from "../redux/reducer";
-import "./EntityName.scss";
+
+import "./NameModule.scss";
 import "./NamePoolModal.scss";
 
-class EntityName extends Component {
+class NameModule extends Component {
   constructor() {
     super();
     this.state = {
@@ -36,7 +37,7 @@ class EntityName extends Component {
     this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
     this.capitalize = this.capitalize.bind(this);
     this.deaccent = this.deaccent.bind(this);
-    this.getEntityName = this.getEntityName.bind(this);
+    this.getNameModule = this.getNameModule.bind(this);
     this.getDwarfName = this.getDwarfName.bind(this);
     this.getSliderValue = this.getSliderValue.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
@@ -198,7 +199,7 @@ class EntityName extends Component {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
 
-  getEntityName(
+  getNameModule(
     race = "dwarf"
   ) // a generic name generation function for all races.
   // Every entity has a chance of getting a name from another civilization based on their upbringing
@@ -212,7 +213,12 @@ class EntityName extends Component {
     console.log("isOfNativeCiv", isOfNativeCiv);
   }
 
-  async getDwarfName() { //change to getEntityName()
+  async getDwarfName() { //change to getName()
+
+    //
+    //DO THIS NEXT: All this button should do is compile a name pool and send it to the generic name function along with a desired language
+    //
+
     // To get a dwarf name, first determine the pool of names to choose from. Dwarves take all words from "artifice" and "earth" by default
     // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
     // Include a small chance to also choose from other valid pools
@@ -437,4 +443,4 @@ const mapStateToProps = state => state;
 export default connect(
   mapStateToProps,
   { initializeLanguages }
-)(EntityName);
+)(NameModule);

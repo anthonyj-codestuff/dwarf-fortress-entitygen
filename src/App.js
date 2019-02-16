@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 import Name from './components/Name';
-import EntityName from './components/EntityName';
+import NameModule from './components/NameModule';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <EntityName/>
+          <NameModule/>
         </header>
       </div>
     );
