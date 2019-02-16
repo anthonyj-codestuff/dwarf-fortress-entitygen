@@ -37,8 +37,7 @@ class NameModule extends Component {
     this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
     this.capitalize = this.capitalize.bind(this);
     this.deaccent = this.deaccent.bind(this);
-    this.getNameModule = this.getNameModule.bind(this);
-    this.getDwarfName = this.getDwarfName.bind(this);
+    this.getName = this.getName.bind(this);
     this.getSliderValue = this.getSliderValue.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
   }
@@ -199,21 +198,7 @@ class NameModule extends Component {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
 
-  getNameModule(
-    race = "dwarf"
-  ) // a generic name generation function for all races.
-  // Every entity has a chance of getting a name from another civilization based on their upbringing
-  // Use the requested 'race' to determine which name to retrieve
-  {
-    // Vanilla numbers for dwarves:
-    // 0-976: Dwarf
-    // 977-999: Human
-    // 1000: Goblin
-    let isOfNativeCiv = Math.floor(Math.random() * 1000);
-    console.log("isOfNativeCiv", isOfNativeCiv);
-  }
-
-  async getDwarfName() { //change to getName()
+  async getName() {
 
     //
     //DO THIS NEXT: All this button should do is compile a name pool and send it to the generic name function along with a desired language
@@ -418,7 +403,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => this.getDwarfName()}
+              onClick={() => this.getName()}
             >
               Get Name
             </button>
