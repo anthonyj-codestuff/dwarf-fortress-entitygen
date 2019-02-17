@@ -8,10 +8,8 @@
 // wordIsOfType() //Grammar chaecking function. Checks to see that a given word has a given form
 
 class NameFunctions {
-  async getName() { //change to getEntityName()
-    // To get a dwarf name, first determine the pool of names to choose from. Dwarves take all words from "artifice" and "earth" by default
-    // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
-    // Include a small chance to also choose from other valid pools
+  async getName(pool = []) { //change to getEntityName()
+    // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;
     let isOfNativeCiv = Math.floor(Math.random() * 1000);
     console.log("isOfNativeCiv", isOfNativeCiv);
