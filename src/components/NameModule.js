@@ -6,6 +6,13 @@ import { initializeLanguages } from "../redux/reducer";
 import "./NameModule.scss";
 import "./NamePoolModal.scss";
 
+import {
+  wordIsOfType,
+  capitalize,
+  deaccent,
+  getName
+} from '../Name';
+
 class NameModule extends Component {
   constructor() {
     super();
@@ -31,12 +38,9 @@ class NameModule extends Component {
       humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
       goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
   };
-    this.wordIsOfType = this.wordIsOfType.bind(this);
     this.handleSwitch = this.handleSwitch.bind(this);
     this.buildNamePool = this.buildNamePool.bind(this);
     this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
-    this.capitalize = this.capitalize.bind(this);
-    this.deaccent = this.deaccent.bind(this);
     this.getName = this.getName.bind(this);
     this.getSliderValue = this.getSliderValue.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
@@ -44,14 +48,6 @@ class NameModule extends Component {
 
   async componentDidMount() {
     await this.props.initializeLanguages();
-  }
-
-  wordIsOfType(word, type) {
-    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
-    if (word) {
-      let typeArray = this.props.grammar[word];
-      return typeArray.includes(type);
-    } else return true;
   }
 
   handleSwitch(name, value) {
@@ -190,14 +186,6 @@ class NameModule extends Component {
     return pool.filter((e, i) => !forbiddenPool.includes(e));
   }
 
-  capitalize(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-  }
-
-  deaccent(str) {
-    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  }
-
   async getName() {
 
     //
@@ -217,7 +205,7 @@ class NameModule extends Component {
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (!this.wordIsOfType(first, "noun"));
+    } while (wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -226,18 +214,18 @@ class NameModule extends Component {
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
-        : this.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
-        : this.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
               this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
-      : this.capitalize(last1) + "-" + this.capitalize(last2)
+      : capitalize(last1) + "-" + capitalize(last2)
     };
     this.setState({
       currentEntity: dwarfName,
@@ -327,7 +315,8 @@ class NameModule extends Component {
                   value={e}
                   selected={this.state.selectedRace === e ? "selected" : ""}
                 >
-                  {this.capitalize(e)}
+                  {/* {capitalize(e)} */}
+                  +OPTION+
                 </option>
               ))}
             </select>
@@ -345,10 +334,14 @@ class NameModule extends Component {
                   value={e}
                   selected={this.state.selectedLanguage === e ? "selected" : ""}
                 >
-                  {this.capitalize(e)}
+                  {/* {capitalize(e)} */}
+                  -OPTION-
                 </option>
               ))}
             </select>
+          </div>
+          <div>
+            <button onClick={() => this.setState({ selectedCurrent: [ [], [] ] })}>Clear all options</button>
           </div>
         </div>
         {this.state.allNameTokens.map((e, i) => {
@@ -403,7 +396,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => this.getName()}
+              onClick={() => getName()}
             >
               Get Name
             </button>

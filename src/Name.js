@@ -7,20 +7,30 @@
 
 // wordIsOfType() //Grammar chaecking function. Checks to see that a given word has a given form
 
-class NameFunctions {
-  async getName(pool = []) { //change to getEntityName()
+  export function wordIsOfType(word, type) {
+    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+    if (word) {
+      let typeArray = this.props.grammar[word];
+      return typeArray.includes(type);
+    } else return true;
+  }
+
+  export const capitalize = string => {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  };
+
+  export function deaccent(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  export function getName(pool = []) { //change to getEntityName()
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
-    let first, last1, last2;
-    let isOfNativeCiv = Math.floor(Math.random() * 1000);
-    console.log("isOfNativeCiv", isOfNativeCiv);
-    // Defines a standard pool of names by adding together the two normal name lists
-    await this.buildNamePool();
-    let pool = this.state.namePool;
+    let first, last1, last2;  
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (!this.wordIsOfType(first, "noun"));
+    } while (!wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -29,22 +39,21 @@ class NameFunctions {
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
-        : this.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
-        : this.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
               this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
-      : this.capitalize(last1) + "-" + this.capitalize(last2)
+      : capitalize(last1) + "-" + capitalize(last2)
     };
     this.setState({
       currentEntity: dwarfName,
       namesThisSession: this.state.namesThisSession + 1
     });
   }
-}
