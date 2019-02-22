@@ -5,7 +5,7 @@
 
 // getName() //Should take in a language and a word pool. Outputs a standard name in the given language using the given pool
 
-// wordIsOfType() //Grammar chaecking function. Checks to see that a given word has a given form
+// wordIsOfType() //Grammar checking function. Checks to see that a given word has a given form
 
   export function wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
