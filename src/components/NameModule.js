@@ -132,43 +132,6 @@ class NameModule extends Component {
     }
   }
 
-  buildNamePool() {
-    let newPool = [];
-    if (this.state.selectedCurrent === this.state.selectedPrev) {
-      console.log("Same as last set!");
-      return;
-    }
-    // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
-    // If the selectedCurrent[0] array is empty, the user has not selected any tags to be applied. Add all available names to the pool
-    if (this.state.selectedCurrent[0].length > 0) {
-      // add only the activated names to the pool
-      for (let i = 0; i < this.state.selectedCurrent[0].length; i++) {
-        newPool = newPool.concat(
-          this.props.tokens[this.state.selectedCurrent[0][i]]
-        );
-      }
-    } else {
-      // add all available names to the pool
-      for (let i = 0; i < this.state.allNameTokens.length; i++) {
-        newPool = newPool.concat(
-          this.props.tokens[this.state.allNameTokens[i]]
-        );
-      }
-    }
-
-    console.log("newPool", newPool);
-    newPool = newPool.filter((e, i, self) => e !== "" && i === self.indexOf(e));
-
-    // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-    newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
-    
-    //update the previous pool so that rapid queries can be faster
-    this.setState({ selectedPrev: this.state.selectedCurrent });
-    // put the new pool of names on state for easy access
-    this.setState({ namePool: newPool });
-    return newPool;
-  }
-
   cullForbiddenNames(pool, forbiddenArray) {
     // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
