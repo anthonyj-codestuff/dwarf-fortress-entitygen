@@ -10,7 +10,10 @@ import {
   wordIsOfType,
   capitalize,
   deaccent,
-  getName
+  getName,
+  buildNamePool,
+  cullForbiddenNames
+
 } from '../Name';
 
 class NameModule extends Component {
@@ -39,7 +42,6 @@ class NameModule extends Component {
       goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
   };
     this.handleSwitch = this.handleSwitch.bind(this);
-    this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
     this.getName = this.getName.bind(this);
     this.getSliderValue = this.getSliderValue.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
@@ -131,24 +133,7 @@ class NameModule extends Component {
     }
   }
 
-  cullForbiddenNames(pool, forbiddenArray) {
-    // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
-    let forbiddenPool = [];
-    for (let i in forbiddenArray) {
-      // take the token, grab the list from Redux, and add all of the relative arrays together
-      forbiddenPool = forbiddenPool.concat(
-        this.props.tokens[forbiddenArray[i]]
-      );
-    }
-    // Remove dupes
-    forbiddenPool = forbiddenPool.filter(
-      (e, i, self) => e !== "" && i === self.indexOf(e)
-    );
-    // Filter one more time and remove any word that appears in the pool of forbidden names
-    return pool.filter((e, i) => !forbiddenPool.includes(e));
-  }
-
-  async getName() {
+  getName() {
 
     //
     //DO THIS NEXT: All this button should do is compile a name pool and send it to the generic name function along with a desired language
@@ -158,10 +143,10 @@ class NameModule extends Component {
     // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
     // Include a small chance to also choose from other valid pools
     let first, last1, last2;
-    let isOfNativeCiv = Math.floor(Math.random() * 1000);
-    console.log("isOfNativeCiv", isOfNativeCiv);
     // Defines a standard pool of names by adding together the two normal name lists
-    await this.buildNamePool();
+    if(this.state.selectedCurrent !== this.state.selectedPrev) {
+      buildNamePool(this.state.selectedCurrent);
+    }
     let pool = this.state.namePool;
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
@@ -219,42 +204,31 @@ class NameModule extends Component {
               this.state.currentEntity.firstNameHeld ? "held-name" : ""
             }
             onClick={() =>
-              this.setState({
-                currentEntity: {
-                  ...this.state.currentEntity,
-                  firstNameHeld: !this.state.currentEntity.firstNameHeld
-                }
-              })
+              this.setState({ currrentEntity: {...this.state.currentEntity, firstNameHeld: !this.state.currentEntity.firstNameHeld} })
             }
           >
-            {this.state.currentEntity.firstName}{" "}
+            {this.state.currentEntity.firstName + " "} {/* print first name with a held or unheld class*/}
           </span>
           <span
             className={this.state.currentEntity.lastNameHeld ? "held-name" : ""}
             onClick={() =>
-              this.setState({
-                currentEntity: {
-                  ...this.state.currentEntity,
-                  lastNameHeld: !this.state.currentEntity.lastNameHeld
-                }
-              })
+              this.setState({ currentEntity: {...this.state.currentEntity, lastNameHeld: !this.state.currentEntity.lastNameHeld} })
             }
           >
-            {this.state.currentEntity.lastName}
+            {this.state.currentEntity.lastName} {/* print last name with a held or unheld class*/}
           </span>
         </p>
         <p className="translated">
-          {this.state.currentEntity.firstName +
-            " " +
-            this.state.currentEntity.transLastName}
+          {this.state.currentEntity.firstName + " " + this.state.currentEntity.transLastName} {/* print translated name with smaller font*/}
         </p>
       </div>
-    );
+    ); //nameBlock - Just a few words wrapped in spans
+
     const toggleStateColor = [
       "trinary-toggle-red",
       "trinary-toggle-default",
       "trinary-toggle-green"
-    ];
+    ]; //used to set toggle switch classes based on value
 
     let toggleList = (
       <div className="token-list">

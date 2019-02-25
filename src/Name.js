@@ -3,6 +3,8 @@
 // Not suitable for FBs or artifacts except in special cases.
 //
 
+import { connect } from "react-redux";
+
 // getName() //Should take in a language and a word pool. Outputs a standard name in the given language using the given pool
 
 // wordIsOfType() //Grammar checking function. Checks to see that a given word has a given form
@@ -23,19 +25,20 @@
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
 
-  export function buildNamePool() {
+  export function buildNamePool(selectedPools) {
+    //selectedPools should be an array with two arrays inside it.
+      //the first is a list of required pools
+      //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
+    //TODO: Convert this to create a name pool and nothing else. Return the array of valid names
     let newPool = [];
-    if (this.state.selectedCurrent === this.state.selectedPrev) {
-      console.log("Same as last set!");
-      return;
-    }
+
     // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
     // If the selectedCurrent[0] array is empty, the user has not selected any tags to be applied. Add all available names to the pool
-    if (this.state.selectedCurrent[0].length > 0) {
+    if (selectedPools[0].length > 0) {
       // add only the activated names to the pool
-      for (let i = 0; i < this.state.selectedCurrent[0].length; i++) {
+      for (let i = 0; i < selectedPools[0].length; i++) {
         newPool = newPool.concat(
-          this.props.tokens[this.state.selectedCurrent[0][i]]
+          this.props.tokens[selectedPools[0][i]]
         );
       }
     } else {
@@ -51,10 +54,10 @@
     newPool = newPool.filter((e, i, self) => e !== "" && i === self.indexOf(e));
 
     // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-    newPool = this.cullForbiddenNames(newPool, this.state.selectedCurrent[1]);
+    newPool = this.cullForbiddenNames(newPool, selectedPools[1]);
     
     //update the previous pool so that rapid queries can be faster
-    this.setState({ selectedPrev: this.state.selectedCurrent });
+    this.setState({ selectedPrev: selectedPools });
     // put the new pool of names on state for easy access
     this.setState({ namePool: newPool });
     return newPool;
@@ -93,4 +96,21 @@
       currentEntity: dwarfName,
       namesThisSession: this.state.namesThisSession + 1
     });
+  }
+
+  export function cullForbiddenNames(pool, forbiddenArray) {
+    // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
+    let forbiddenPool = [];
+    for (let i in forbiddenArray) {
+      // take the token, grab the list from Redux, and add all of the relative arrays together
+      forbiddenPool = forbiddenPool.concat(
+        this.props.tokens[forbiddenArray[i]]
+      );
+    }
+    // Remove dupes
+    forbiddenPool = forbiddenPool.filter(
+      (e, i, self) => e !== "" && i === self.indexOf(e)
+    );
+    // Filter one more time and remove any word that appears in the pool of forbidden names
+    return pool.filter((e, i) => !forbiddenPool.includes(e));
   }
