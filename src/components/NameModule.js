@@ -39,7 +39,6 @@ class NameModule extends Component {
       goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
   };
     this.handleSwitch = this.handleSwitch.bind(this);
-    this.buildNamePool = this.buildNamePool.bind(this);
     this.cullForbiddenNames = this.cullForbiddenNames.bind(this);
     this.getName = this.getName.bind(this);
     this.getSliderValue = this.getSliderValue.bind(this);
