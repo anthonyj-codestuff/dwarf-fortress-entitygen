@@ -3,13 +3,16 @@
 // Not suitable for FBs or artifacts except in special cases.
 //
 
+import React, { Component } from 'react';
 import { connect } from "react-redux";
 
 // getName() //Should take in a language and a word pool. Outputs a standard name in the given language using the given pool
 
 // wordIsOfType() //Grammar checking function. Checks to see that a given word has a given form
 
-  export function wordIsOfType(word, type) {
+class NameFunctions extends Component {
+
+  wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
       let typeArray = this.props.grammar[word];
@@ -17,15 +20,15 @@ import { connect } from "react-redux";
     } else return true;
   }
 
-  export const capitalize = string => {
+  capitalize = string => {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
 
-  export function deaccent(str) {
+  deaccent(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
 
-  export function buildNamePool(selectedPools) {
+  buildNamePool(selectedPools) {
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
@@ -63,14 +66,14 @@ import { connect } from "react-redux";
     return newPool;
   }
 
-  export function getName(pool = []) { //change to getEntityName()
+  getName(pool = []) { //change to getEntityName()
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;  
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (!wordIsOfType(first, "noun"));
+    } while (!this.wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -79,18 +82,18 @@ import { connect } from "react-redux";
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
-        : capitalize(
+        : this.capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
-        : capitalize(
+        : this.capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
               this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
-      : capitalize(last1) + "-" + capitalize(last2)
+      : this.capitalize(last1) + "-" + this.capitalize(last2)
     };
     this.setState({
       currentEntity: dwarfName,
@@ -98,7 +101,7 @@ import { connect } from "react-redux";
     });
   }
 
-  export function cullForbiddenNames(pool, forbiddenArray) {
+  cullForbiddenNames(pool, forbiddenArray) {
     // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
     for (let i in forbiddenArray) {
@@ -114,3 +117,9 @@ import { connect } from "react-redux";
     // Filter one more time and remove any word that appears in the pool of forbidden names
     return pool.filter((e, i) => !forbiddenPool.includes(e));
   }
+
+}
+
+const mapStateToProps = state => state;
+
+export default connect(mapStateToProps)(NameFunctions);
