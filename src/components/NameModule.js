@@ -6,7 +6,7 @@ import { initializeLanguages } from "../redux/reducer";
 import "./NameModule.scss";
 import "./NamePoolModal.scss";
 
-import NameFunctions from '../NameFunctions';
+import * as NF from '../NF';
 
 class NameModule extends Component {
   constructor() {
@@ -137,14 +137,14 @@ class NameModule extends Component {
     let first, last1, last2;
     // Defines a standard pool of names by adding together the two normal name lists
     if(this.state.selectedCurrent !== this.state.selectedPrev) {
-      NameFunctions.buildNamePool(this.state.selectedCurrent);
+      NF.buildNamePool(this.state.selectedCurrent);
     }
     let pool = this.state.namePool;
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (NameFunctions.wordIsOfType(first, "noun"));
+    } while (NF.wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -153,18 +153,18 @@ class NameModule extends Component {
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
-        : NameFunctions.capitalize(
+        : NF.capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
-        : NameFunctions.capitalize(
+        : NF.capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
               this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
-      : NameFunctions.capitalize(last1) + "-" + NameFunctions.capitalize(last2)
+      : NF.capitalize(last1) + "-" + NF.capitalize(last2)
     };
     this.setState({
       currentEntity: dwarfName,
