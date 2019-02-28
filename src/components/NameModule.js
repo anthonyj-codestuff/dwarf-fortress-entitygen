@@ -128,16 +128,13 @@ class NameModule extends Component {
   getName() {
 
     //
-    //DO THIS NEXT: All this button should do is compile a name pool and send it to the generic name function along with a desired language
+    //DO THIS NEXT: All this button should do is ask for a new name pool and send it to the generic name function along with a desired language
     //
 
-    // To get a dwarf name, first determine the pool of names to choose from. Dwarves take all words from "artifice" and "earth" by default
-    // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
-    // Include a small chance to also choose from other valid pools
     let first, last1, last2;
     // Defines a standard pool of names by adding together the two normal name lists
     if(this.state.selectedCurrent !== this.state.selectedPrev) {
-      NameFunctions.buildNamePool(this.state.selectedCurrent);
+      this.setState({ namePool:NameFunctions.buildNamePool(this.state.selectedCurrent) });
     }
     let pool = this.state.namePool;
 
