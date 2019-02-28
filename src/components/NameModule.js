@@ -134,7 +134,10 @@ class NameModule extends Component {
     let first, last1, last2;
     // Defines a standard pool of names by adding together the two normal name lists
     if(this.state.selectedCurrent !== this.state.selectedPrev) {
-      this.setState({ namePool:NameFunctions.buildNamePool(this.state.selectedCurrent) });
+      this.setState({ namePool:NameFunctions.buildNamePool(this.state.selectedCurrent) }); 
+      
+      //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
+      this.setState({ selectedPrev: this.state.selectedCurrent });
     }
     let pool = this.state.namePool;
 

@@ -29,8 +29,6 @@ class NameFunctions extends Component {
   }
 
   buildNamePool(selectedPools) {
-    // To get a dwarf name, first determine the pool of names to choose from. Dwarves take all words from "artifice" and "earth" by default
-    // and strip all words from "domestic", "subordinate", "evil", "flowery", "negative", "ugly", and "negator"
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
@@ -60,11 +58,7 @@ class NameFunctions extends Component {
 
     // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
     newPool = this.cullForbiddenNames(newPool, selectedPools[1]);
-    
-    //update the previous pool so that rapid queries can be faster
-    this.setState({ selectedPrev: selectedPools });
-    // put the new pool of names on state for easy access
-    this.setState({ namePool: newPool });
+
     return newPool;
   }
 
