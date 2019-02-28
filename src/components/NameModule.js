@@ -149,7 +149,7 @@ class NameModule extends Component {
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
     let dwarfName = {
-      //set new names only if the user has not opted to hold the name
+      //set new names only if the user has not chosen to hold the name
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
