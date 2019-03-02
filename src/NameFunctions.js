@@ -12,6 +12,10 @@ import { connect } from "react-redux";
 
 class NameFunctions extends Component {
 
+  cl() {
+    console.log("hit!");
+  }
+
   wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
