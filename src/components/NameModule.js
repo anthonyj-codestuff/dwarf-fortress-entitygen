@@ -6,7 +6,13 @@ import { initializeLanguages } from "../redux/reducer";
 import "./NameModule.scss";
 import "./NamePoolModal.scss";
 
-import NameFunctions from '../NameFunctions';
+import {
+  cl,
+  buildNamePool,
+  getName,
+  capitalize,
+  wordIsOfType
+} from "../NameFunctions";
 
 class NameModule extends Component {
   constructor() {
@@ -134,7 +140,7 @@ class NameModule extends Component {
     let first, last1, last2;
     // Defines a standard pool of names by adding together the two normal name lists
     if(this.state.selectedCurrent !== this.state.selectedPrev) {
-      this.setState({ namePool:NameFunctions.buildNamePool(this.state.selectedCurrent) }); 
+      this.setState({ namePool:buildNamePool(this.state.selectedCurrent) }); 
       
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
       this.setState({ selectedPrev: this.state.selectedCurrent });
@@ -144,7 +150,7 @@ class NameModule extends Component {
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (NameFunctions.wordIsOfType(first, "noun"));
+    } while (wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -153,18 +159,18 @@ class NameModule extends Component {
       ...this.state.currentEntity,
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
-        : NameFunctions.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
-        : NameFunctions.capitalize(
+        : capitalize(
             this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
               this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
-      : NameFunctions.capitalize(last1) + "-" + NameFunctions.capitalize(last2)
+      : capitalize(last1) + "-" + capitalize(last2)
     };
     this.setState({
       currentEntity: dwarfName,
@@ -324,8 +330,8 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              // onClick={() => NameFunctions.getName()}
-              onClick={() => NameFunctions.cl()}
+              // onClick={() => getName()}
+              onClick={() => cl()}
             >
               Get Name
             </button>

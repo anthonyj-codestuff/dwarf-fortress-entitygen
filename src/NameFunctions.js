@@ -3,20 +3,15 @@
 // Not suitable for FBs or artifacts except in special cases.
 //
 
-import React, { Component } from 'react';
-import { connect } from "react-redux";
-
 // getName() //Should take in a language and a word pool. Outputs a standard name in the given language using the given pool
 
 // wordIsOfType() //Grammar checking function. Checks to see that a given word has a given form
 
-class NameFunctions extends Component {
-
-  cl() {
+  export function cl() {
     console.log("hit!");
   }
 
-  wordIsOfType(word, type) {
+  export function wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
       let typeArray = this.props.grammar[word];
@@ -24,15 +19,15 @@ class NameFunctions extends Component {
     } else return true;
   }
 
-  capitalize = string => {
+  export function capitalize(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
 
-  deaccent(str) {
+  export function deaccent(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
 
-  buildNamePool(selectedPools) {
+  export function buildNamePool(selectedPools) {
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
@@ -66,7 +61,7 @@ class NameFunctions extends Component {
     return newPool;
   }
 
-  getName(pool = []) { //change to getEntityName()
+  export function getName(pool = []) { //change to getEntityName()
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;  
 
@@ -101,7 +96,7 @@ class NameFunctions extends Component {
     });
   }
 
-  cullForbiddenNames(pool, forbiddenArray) {
+  export function cullForbiddenNames(pool, forbiddenArray) {
     // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
     for (let i in forbiddenArray) {
@@ -117,9 +112,3 @@ class NameFunctions extends Component {
     // Filter one more time and remove any word that appears in the pool of forbidden names
     return pool.filter((e, i) => !forbiddenPool.includes(e));
   }
-
-}
-
-const mapStateToProps = state => state;
-
-export default connect(mapStateToProps)(NameFunctions);
