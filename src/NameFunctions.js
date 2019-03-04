@@ -21,7 +21,7 @@ let PROPS;
   export function wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
-      let typeArray = this.props.grammar[word];
+      let typeArray = PROPS.grammar[word];
       return typeArray.includes(type);
     } else return true;
   }
@@ -47,14 +47,14 @@ let PROPS;
       // add only the activated names to the pool
       for (let i = 0; i < selectedPools[0].length; i++) {
         newPool = newPool.concat(
-          this.props.tokens[selectedPools[0][i]]
+          PROPS.tokens[selectedPools[0][i]]
         );
       }
     } else {
       // add all available names to the pool
       for (let i = 0; i < this.state.allNameTokens.length; i++) {
         newPool = newPool.concat(
-          this.props.tokens[this.state.allNameTokens[i]]
+          PROPS.tokens[this.state.allNameTokens[i]]
         );
       }
     }
@@ -75,7 +75,7 @@ let PROPS;
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
-    } while (!this.wordIsOfType(first, "noun"));
+    } while (!wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
@@ -85,13 +85,13 @@ let PROPS;
       firstName: this.state.currentEntity.firstNameHeld === true
         ? this.state.currentEntity.firstName
         : this.capitalize(
-            this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
+            PROPS[this.state.selectedLanguage][PROPS.english.indexOf(first)]
           ),
       lastName: this.state.currentEntity.lastNameHeld === true
         ? this.state.currentEntity.lastName
         : this.capitalize(
-            this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
-              this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
+            PROPS[this.state.selectedLanguage][PROPS.english.indexOf(last1)] +
+              PROPS[this.state.selectedLanguage][PROPS.english.indexOf(last2)]
           ),
       transLastName: this.state.currentEntity.lastNameHeld === true
       ? this.state.currentEntity.transLastName
@@ -109,7 +109,7 @@ let PROPS;
     for (let i in forbiddenArray) {
       // take the token, grab the list from Redux, and add all of the relative arrays together
       forbiddenPool = forbiddenPool.concat(
-        this.props.tokens[forbiddenArray[i]]
+        PROPS.tokens[forbiddenArray[i]]
       );
     }
     // Remove dupes
