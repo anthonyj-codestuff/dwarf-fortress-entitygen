@@ -7,6 +7,7 @@ import "./NameModule.scss";
 import "./NamePoolModal.scss";
 
 import {
+  initializeGenericProps,
   cl,
   buildNamePool,
   getName,
@@ -47,6 +48,7 @@ class NameModule extends Component {
 
   async componentDidMount() {
     await this.props.initializeLanguages();
+    initializeGenericProps();
   }
 
   handleSwitch(name, value) {
