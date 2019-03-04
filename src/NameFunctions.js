@@ -3,12 +3,15 @@
 // Not suitable for FBs or artifacts except in special cases.
 //
 
+import store from './redux/store';
+const props = store.getState();
+
 // getName() //Should take in a language and a word pool. Outputs a standard name in the given language using the given pool
 
 // wordIsOfType() //Grammar checking function. Checks to see that a given word has a given form
 
   export function cl() {
-    console.log("hit!");
+    console.log(JSON.stringify(props ? props : "No Props"));
   }
 
   export function wordIsOfType(word, type) {
