@@ -139,13 +139,17 @@ class NameModule extends Component {
     //DO THIS NEXT: All this button should do is ask for a new name pool and send it to the generic name function along with a desired language
     //
 
+    // set aside name variables for later
     let first, last1, last2;
+    const currentTokens = this.state.selectedCurrent;
+    const prevTokens = this.state.selectedPrev;
     // Defines a standard pool of names by adding together the two normal name lists
-    if(this.state.selectedCurrent !== this.state.selectedPrev) {
-      this.setState({ namePool:buildNamePool(this.state.selectedCurrent) }); 
+    if(currentTokens !== prevTokens) {
+      console.log('hit1');
+      this.setState({ namePool:buildNamePool(currentTokens) }); 
       
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
-      this.setState({ selectedPrev: this.state.selectedCurrent });
+      this.setState({ selectedPrev: currentTokens });
     }
     let pool = this.state.namePool;
 

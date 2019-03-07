@@ -35,6 +35,7 @@ let PROPS;
   }
 
   export function buildNamePool(selectedPools) {
+    console.log('hit2');
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
