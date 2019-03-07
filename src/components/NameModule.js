@@ -144,8 +144,9 @@ class NameModule extends Component {
     const currentTokens = this.state.selectedCurrent;
     const prevTokens = this.state.selectedPrev;
     // Defines a standard pool of names by adding together the two normal name lists
+    console.log('currentTokens', currentTokens);
+    console.log('prevTokens', prevTokens);
     if(currentTokens !== prevTokens) {
-      console.log('hit1');
       this.setState({ namePool:buildNamePool(currentTokens) }); 
       
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
@@ -336,7 +337,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => getName()}
+              onClick={() => this.getName()}
               //onClick={() => cl()}
             >
               Get Name
