@@ -78,7 +78,6 @@ let PROPS;
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
     let dwarfName = {
-      //set new names only if the user has not opted to hold the name
       firstName: PROPS["dwarf"][PROPS.english.indexOf(first)],
       lastName: capitalize (PROPS["dwarf"][PROPS.english.indexOf(last1)] +
                             PROPS["dwarf"][PROPS.english.indexOf(last2)]),
