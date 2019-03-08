@@ -53,9 +53,9 @@ let PROPS;
       }
     } else {
       // add all available names to the pool
-      for (let i = 0; i < this.state.allNameTokens.length; i++) {
+      for (let i = 0; i < PROPS.tokens.length; i++) {
         newPool = newPool.concat(
-          PROPS.tokens[this.state.allNameTokens[i]]
+          PROPS.tokens[PROPS.tokens[i]]
         );
       }
     }
@@ -64,7 +64,7 @@ let PROPS;
     newPool = newPool.filter((e, i, self) => e !== "" && i === self.indexOf(e));
 
     // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-    newPool = this.cullForbiddenNames(newPool, selectedPools[1]);
+    newPool = cullForbiddenNames(newPool, selectedPools[1]);
 
     return newPool;
   }
@@ -81,27 +81,11 @@ let PROPS;
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
     let dwarfName = {
-      //set new names only if the user has not opted to hold the name
-      ...this.state.currentEntity,
-      firstName: this.state.currentEntity.firstNameHeld === true
-        ? this.state.currentEntity.firstName
-        : this.capitalize(
-            PROPS[this.state.selectedLanguage][PROPS.english.indexOf(first)]
-          ),
-      lastName: this.state.currentEntity.lastNameHeld === true
-        ? this.state.currentEntity.lastName
-        : this.capitalize(
-            PROPS[this.state.selectedLanguage][PROPS.english.indexOf(last1)] +
-              PROPS[this.state.selectedLanguage][PROPS.english.indexOf(last2)]
-          ),
-      transLastName: this.state.currentEntity.lastNameHeld === true
-      ? this.state.currentEntity.transLastName
-      : this.capitalize(last1) + "-" + this.capitalize(last2)
+      firstName: PROPS["dwarf"][PROPS.english.indexOf(first)],
+      lastName: PROPS["dwarf"][PROPS.english.indexOf(last1)] +
+              PROPS["dwarf"][PROPS.english.indexOf(last2)],
+      transLastName: capitalize(last1) + "-" + capitalize(last2)
     };
-    this.setState({
-      currentEntity: dwarfName,
-      namesThisSession: this.state.namesThisSession + 1
-    });
   }
 
   export function cullForbiddenNames(pool, forbiddenArray) {
