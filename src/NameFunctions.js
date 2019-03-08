@@ -14,10 +14,6 @@ let PROPS;
     PROPS = store.getState();
   }
 
-  export function cl() {
-    console.log(PROPS ? PROPS.tokens : "No Props");
-  }
-
   export function wordIsOfType(word, type) {
     // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
     if (word) {
@@ -35,7 +31,7 @@ let PROPS;
   }
 
   export function buildNamePool(selectedPools) {
-    console.log('hit2');
+    console.log('selectedPools', selectedPools);
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
@@ -71,7 +67,8 @@ let PROPS;
 
   export function getName(pool = []) { //change to getEntityName()
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
-    let first, last1, last2;  
+    let first, last1, last2;
+    console.log('pool', pool);
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
@@ -93,6 +90,8 @@ let PROPS;
   export function cullForbiddenNames(pool, forbiddenArray) {
     // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
+    console.log('pool, but from cullingFunction', pool);
+    console.log('forbiddenArray', forbiddenArray);
     for (let i in forbiddenArray) {
       // take the token, grab the list from Redux, and add all of the relative arrays together
       forbiddenPool = forbiddenPool.concat(
