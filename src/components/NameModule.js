@@ -338,7 +338,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => this.getName()}
+              onClick={() => getName(this.state.selectedCurrent, this.state.selectedPrev)}
             >
               Get Name
             </button>
