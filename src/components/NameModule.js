@@ -147,6 +147,7 @@ class NameModule extends Component {
     console.log('currentTokens', currentTokens);
     console.log('prevTokens', prevTokens);
     if(currentTokens !== prevTokens) {
+      // call external function and pass in required tokens
       this.setState({ namePool:buildNamePool(currentTokens) }); 
       
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
