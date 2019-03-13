@@ -66,10 +66,11 @@ let PROPS;
   }
 
   // export function getName(pool = []) { //change to getEntityName()
-  export function getName(currentTokens, prevTokens) {
+  export function getName(currentTokens, prevTokens, nameType = 1) {
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;
-    console.log('pool', pool);
+    console.log('currentTokens', currentTokens);
+    console.log('prevTokens', prevTokens);
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
