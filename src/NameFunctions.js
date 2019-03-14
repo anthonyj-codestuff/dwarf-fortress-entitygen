@@ -79,7 +79,7 @@ let PROPS;
       pool = buildNamePool(currentTokens); 
       
       //Now that there is no state, how does pool generation work?
-      selectedPrev = currentTokens;
+      prevTokens = currentTokens;
     }
     let pool = this.state.namePool;
 
