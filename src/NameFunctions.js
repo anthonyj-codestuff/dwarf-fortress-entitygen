@@ -69,23 +69,34 @@ let PROPS;
   export function getName(currentTokens, prevTokens, nameType = 1) {
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;
+    let pool;
     console.log('currentTokens', currentTokens);
     console.log('prevTokens', prevTokens);
 
-    //TODO: Program crashes if the resulting pool of names is empty. Check for this.
-    do {
-      first = pool[Math.floor(Math.random() * pool.length)];
-    } while (!wordIsOfType(first, "noun"));
-    last1 = pool[Math.floor(Math.random() * pool.length)];
-    last2 = pool[Math.floor(Math.random() * pool.length)];
+    // Step 1: Get name pool
+    if(currentTokens !== prevTokens) {
+      // call external function and pass in required tokens
+      pool = buildNamePool(currentTokens); 
+      
+      //Now that there is no state, how does pool generation work?
+      selectedPrev = currentTokens;
+    }
+    let pool = this.state.namePool;
 
-    let dwarfName = {
-      firstName: PROPS["dwarf"][PROPS.english.indexOf(first)],
-      lastName: capitalize (PROPS["dwarf"][PROPS.english.indexOf(last1)] +
-                            PROPS["dwarf"][PROPS.english.indexOf(last2)]),
-      transLastName: capitalize(last1) + "-" + capitalize(last2)
-    };
-    return dwarfName;
+    //TODO: Program crashes if the resulting pool of names is empty. Check for this.
+    // do {
+    //   first = pool[Math.floor(Math.random() * pool.length)];
+    // } while (!wordIsOfType(first, "noun"));
+    // last1 = pool[Math.floor(Math.random() * pool.length)];
+    // last2 = pool[Math.floor(Math.random() * pool.length)];
+
+    // let dwarfName = {
+    //   firstName: PROPS["dwarf"][PROPS.english.indexOf(first)],
+    //   lastName: capitalize (PROPS["dwarf"][PROPS.english.indexOf(last1)] +
+    //                         PROPS["dwarf"][PROPS.english.indexOf(last2)]),
+    //   transLastName: capitalize(last1) + "-" + capitalize(last2)
+    // };
+    console.log(dwarfName);
   }
 
   export function cullForbiddenNames(pool, forbiddenArray) {
