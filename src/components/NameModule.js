@@ -8,9 +8,8 @@ import "./NamePoolModal.scss";
 
 import {
   initializeGenericProps,
-  cl,
   buildNamePool,
-  getName,
+  getEntityName,
   capitalize,
   wordIsOfType
 } from "../NameFunctions";
@@ -41,14 +40,14 @@ class NameModule extends Component {
       goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
   };
     this.handleSwitch = this.handleSwitch.bind(this);
-    this.getName = this.getName.bind(this);
+    this.getName = this.getName.bind(this); // delete?
     this.getSliderValue = this.getSliderValue.bind(this);
     this.toggleModal = this.toggleModal.bind(this);
   }
 
   async componentDidMount() {
     await this.props.initializeLanguages();
-    initializeGenericProps();
+    initializeGenericProps(); // connects the name functions to Redux so they can build naming pools
   }
 
   handleSwitch(name, value) {
@@ -141,49 +140,46 @@ class NameModule extends Component {
 
     // set aside name variables for later
     let first, last1, last2;
-    const currentTokens = this.state.selectedCurrent;
-    const prevTokens = this.state.selectedPrev;
+    const { selectedCurrent, selectedPrev } = this.state;
     // Defines a standard pool of names by adding together the two normal name lists
-    console.log('currentTokens', currentTokens);
-    console.log('prevTokens', prevTokens);
-    if(currentTokens !== prevTokens) {
+
+    if(selectedCurrent !== selectedPrev) {
       // call external function and pass in required tokens
-      this.setState({ namePool:buildNamePool(currentTokens) }); 
-      
+      this.setState({ namePool:buildNamePool(selectedCurrent) }); 
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
-      this.setState({ selectedPrev: currentTokens });
+      this.setState({ selectedPrev: selectedCurrent });
     }
     let pool = this.state.namePool;
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
-    do {
-      first = pool[Math.floor(Math.random() * pool.length)];
-    } while (wordIsOfType(first, "noun"));
-    last1 = pool[Math.floor(Math.random() * pool.length)];
-    last2 = pool[Math.floor(Math.random() * pool.length)];
+    // do {
+    //   first = pool[Math.floor(Math.random() * pool.length)];
+    // } while (wordIsOfType(first, "noun"));
+    // last1 = pool[Math.floor(Math.random() * pool.length)];
+    // last2 = pool[Math.floor(Math.random() * pool.length)];
 
-    let dwarfName = {
-      //set new names only if the user has not chosen to hold the name
-      ...this.state.currentEntity,
-      firstName: this.state.currentEntity.firstNameHeld === true
-        ? this.state.currentEntity.firstName
-        : capitalize(
-            this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
-          ),
-      lastName: this.state.currentEntity.lastNameHeld === true
-        ? this.state.currentEntity.lastName
-        : capitalize(
-            this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
-              this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
-          ),
-      transLastName: this.state.currentEntity.lastNameHeld === true
-      ? this.state.currentEntity.transLastName
-      : capitalize(last1) + "-" + capitalize(last2)
-    };
-    this.setState({
-      currentEntity: dwarfName,
-      namesThisSession: this.state.namesThisSession + 1
-    });
+    // let dwarfName = {
+    //   //set new names only if the user has not chosen to hold the name
+    //   ...this.state.currentEntity,
+    //   firstName: this.state.currentEntity.firstNameHeld === true
+    //     ? this.state.currentEntity.firstName
+    //     : capitalize(
+    //         this.props[this.state.selectedLanguage][this.props.english.indexOf(first)]
+    //       ),
+    //   lastName: this.state.currentEntity.lastNameHeld === true
+    //     ? this.state.currentEntity.lastName
+    //     : capitalize(
+    //         this.props[this.state.selectedLanguage][this.props.english.indexOf(last1)] +
+    //           this.props[this.state.selectedLanguage][this.props.english.indexOf(last2)]
+    //       ),
+    //   transLastName: this.state.currentEntity.lastNameHeld === true
+    //   ? this.state.currentEntity.transLastName
+    //   : capitalize(last1) + "-" + capitalize(last2)
+    // };
+    // this.setState({
+    //   currentEntity: dwarfName,
+    //   namesThisSession: this.state.namesThisSession + 1
+    // });
   }
 
   getSliderValue(sliderWord) {
@@ -338,7 +334,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => getName(this.state.selectedCurrent, this.state.selectedPrev)}
+              onClick={() => this.getName()}
             >
               Get Name
             </button>

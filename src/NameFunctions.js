@@ -66,7 +66,7 @@ let PROPS;
   }
 
   // export function getName(pool = []) { //change to getEntityName()
-  export function getName(currentTokens, prevTokens, nameType = 1) {
+  export function getEntityName(currentTokens, prevTokens, nameType = 1) {
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;
     let pool;
