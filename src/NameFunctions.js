@@ -31,11 +31,9 @@ let PROPS;
   }
 
   export function buildNamePool(selectedPools) {
-    console.log('selectedPools', selectedPools);
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
       //the second is a list of forbidden pools. Forbidden words are removed even if they are also required
-    //TODO: Convert this to create a name pool and nothing else. Return the array of valid names
     let newPool = [];
 
     // If the pool options have changed since last time, rebuild the pool from scratch using the first part of the pool options
@@ -55,14 +53,12 @@ let PROPS;
         );
       }
     }
-
-    console.log("newPool", newPool);
+    //remove dupes
     newPool = newPool.filter((e, i, self) => e !== "" && i === self.indexOf(e));
+    
+    // filtering out forbidden words (passing in the forbidden pools)
+    return cullForbiddenNames(newPool, selectedPools[1]);
 
-    // filtering out forbidden words (passing in the standard set of forbidden dwarf names)
-    newPool = cullForbiddenNames(newPool, selectedPools[1]);
-
-    return newPool;
   }
 
   // export function getName(pool = []) { //change to getEntityName()
@@ -81,7 +77,7 @@ let PROPS;
       //Now that there is no state, how does pool generation work?
       prevTokens = currentTokens;
     }
-    let pool = this.state.namePool;
+    pool = this.state.namePool;
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
@@ -96,14 +92,12 @@ let PROPS;
     //                         PROPS["dwarf"][PROPS.english.indexOf(last2)]),
     //   transLastName: capitalize(last1) + "-" + capitalize(last2)
     // };
-    console.log(dwarfName);
+    // console.log(dwarfName);
   }
 
   export function cullForbiddenNames(pool, forbiddenArray) {
-    // state contains a list of forbidden names per race, but this function should be used to filter out any array of tokens passed in as the second parameter
+    // this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
-    console.log('pool, but from cullingFunction', pool);
-    console.log('forbiddenArray', forbiddenArray);
     for (let i in forbiddenArray) {
       // take the token, grab the list from Redux, and add all of the relative arrays together
       forbiddenPool = forbiddenPool.concat(
