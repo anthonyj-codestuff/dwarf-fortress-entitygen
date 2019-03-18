@@ -142,8 +142,8 @@ class NameModule extends Component {
     let first, last1, last2;
     let pool;
     const { selectedCurrent, selectedPrev } = this.state;
-    // Defines a standard pool of names by adding together the two normal name lists
 
+    // only generates a new pool if the user's options have changed from last time
     if(selectedCurrent !== selectedPrev) {
       // call external function and pass in required tokens
       pool = buildNamePool(selectedCurrent);
@@ -151,7 +151,7 @@ class NameModule extends Component {
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
       this.setState({ selectedPrev: selectedCurrent });
     }
-    console.log(pool);
+    console.log("Print Pool:", pool);
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
