@@ -151,6 +151,7 @@ class NameModule extends Component {
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
       this.setState({ selectedPrev: selectedCurrent });
     }
+    // at this point, the function has a list of valid words to pick from
     console.log("Print Pool:", pool);
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.

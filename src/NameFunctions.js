@@ -62,22 +62,11 @@ let PROPS;
   }
 
   // export function getName(pool = []) { //change to getEntityName()
-  export function getEntityName(currentTokens, prevTokens, nameType = 1) {
+  export function getEntityName(pool, nameType = 1) {
     // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
     let first, last1, last2;
-    let pool;
-    console.log('currentTokens', currentTokens);
-    console.log('prevTokens', prevTokens);
 
-    // Step 1: Get name pool
-    if(currentTokens !== prevTokens) {
-      // call external function and pass in required tokens
-      pool = buildNamePool(currentTokens); 
-      
-      //Now that there is no state, how does pool generation work?
-      prevTokens = currentTokens;
-    }
-    pool = this.state.namePool;
+    // given a pool of names, return an appropriate name (english words only. Translation will happen at the end)
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
@@ -99,7 +88,8 @@ let PROPS;
     // this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
     for (let i in forbiddenArray) {
-      // take the token, grab the list from Redux, and add all of the relative arrays together
+      // every item in forbiddenArray represents another array of words in state.tokens
+      // add those arrays together to get a list of all forbidden words
       forbiddenPool = forbiddenPool.concat(
         PROPS.tokens[forbiddenArray[i]]
       );
