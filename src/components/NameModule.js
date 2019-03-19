@@ -133,26 +133,24 @@ class NameModule extends Component {
   }
 
   getName() {
-
-    //
-    //DO THIS NEXT: All this button should do is ask for a new name pool and send it to the generic name function along with a desired language
-    //
-
-    // set aside name variables for later
-    let first, last1, last2;
-    let pool;
+    let pool = this.state.namePool;
+    let language = this.state.selectedLanguage;
+    let preliminaryName;
     const { selectedCurrent, selectedPrev } = this.state;
 
     // only generates a new pool if the user's options have changed from last time
     if(selectedCurrent !== selectedPrev) {
-      // call external function and pass in required tokens
       pool = buildNamePool(selectedCurrent);
-      this.setState({ namePool: pool }); 
+      this.setState({ namePool: pool }, () => {
+        // at this point, the function has a list of valid words to pick from
+        preliminaryName = getEntityName(this.state.namePool, language, 1);
+      }); 
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
       this.setState({ selectedPrev: selectedCurrent });
+    } else {
+      // this is only here because the other call needs to be a callback
+      preliminaryName = getEntityName(this.state.namePool, language, 1);
     }
-    // at this point, the function has a list of valid words to pick from
-    console.log("Print Pool:", pool);
 
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {

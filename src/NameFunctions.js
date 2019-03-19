@@ -14,22 +14,6 @@ let PROPS;
     PROPS = store.getState();
   }
 
-  export function wordIsOfType(word, type) {
-    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
-    if (word) {
-      let typeArray = PROPS.grammar[word];
-      return typeArray.includes(type);
-    } else return true;
-  }
-
-  export function capitalize(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-  };
-
-  export function deaccent(str) {
-    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  }
-
   export function buildNamePool(selectedPools) {
     //selectedPools should be an array with two arrays inside it.
       //the first is a list of required pools
@@ -61,29 +45,6 @@ let PROPS;
 
   }
 
-  // export function getName(pool = []) { //change to getEntityName()
-  export function getEntityName(pool, nameType = 1) {
-    // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
-    let first, last1, last2;
-
-    // given a pool of names, return an appropriate name (english words only. Translation will happen at the end)
-
-    //TODO: Program crashes if the resulting pool of names is empty. Check for this.
-    // do {
-    //   first = pool[Math.floor(Math.random() * pool.length)];
-    // } while (!wordIsOfType(first, "noun"));
-    // last1 = pool[Math.floor(Math.random() * pool.length)];
-    // last2 = pool[Math.floor(Math.random() * pool.length)];
-
-    // let dwarfName = {
-    //   firstName: PROPS["dwarf"][PROPS.english.indexOf(first)],
-    //   lastName: capitalize (PROPS["dwarf"][PROPS.english.indexOf(last1)] +
-    //                         PROPS["dwarf"][PROPS.english.indexOf(last2)]),
-    //   transLastName: capitalize(last1) + "-" + capitalize(last2)
-    // };
-    // console.log(dwarfName);
-  }
-
   export function cullForbiddenNames(pool, forbiddenArray) {
     // this function should be used to filter out any array of tokens passed in as the second parameter
     let forbiddenPool = [];
@@ -100,4 +61,46 @@ let PROPS;
     );
     // Filter one more time and remove any word that appears in the pool of forbidden names
     return pool.filter((e, i) => !forbiddenPool.includes(e));
+  }
+
+  export function wordIsOfType(word, type) {
+    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+    if (word) {
+      let typeArray = PROPS.grammar[word];
+      return typeArray.includes(type);
+    } else return true;
+  }
+
+  export function capitalize(string) {
+      return (string.charAt(0).toUpperCase() + string.slice(1));
+  };
+
+  export function deaccent(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  // export function getName(pool = []) { //change to getEntityName()
+  export function getEntityName(pool, language = "dwarf", nameType = 1) {
+    // To get a name, choose from the pool of names. The pool should already be filtered to include all relevant spheres
+    let first, last1, last2;
+
+    // given a pool of names, return an appropriate name (english words only. Translation will happen at the end)
+
+    console.log("Print Pool:", pool);
+
+    //TODO: Program crashes if the resulting pool of names is empty. Check for this.
+    do {
+      first = pool[Math.floor(Math.random() * pool.length)];
+    } while (!wordIsOfType(first, "noun"));
+    last1 = pool[Math.floor(Math.random() * pool.length)];
+    last2 = pool[Math.floor(Math.random() * pool.length)];
+
+    console.log(first, last1, last2);
+    let dwarfName = {
+      firstName: capitalize(PROPS[language][PROPS.english.indexOf(first)]),
+      lastName: capitalize (PROPS[language][PROPS.english.indexOf(last1)] +
+                            PROPS[language][PROPS.english.indexOf(last2)]),
+      transLastName: capitalize(last1) + "-" + capitalize(last2)
+    };
+    console.log(dwarfName);
   }
