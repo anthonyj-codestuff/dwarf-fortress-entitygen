@@ -151,7 +151,7 @@ class NameModule extends Component {
       // this is only here because the other call needs to be a callback
       preliminaryName = getEntityName(this.state.namePool, language, 1);
     }
-
+    console.log("2", preliminaryName);
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
     //   first = pool[Math.floor(Math.random() * pool.length)];

@@ -86,8 +86,6 @@ let PROPS;
 
     // given a pool of names, return an appropriate name (english words only. Translation will happen at the end)
 
-    console.log("Print Pool:", pool);
-
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     do {
       first = pool[Math.floor(Math.random() * pool.length)];
@@ -95,12 +93,11 @@ let PROPS;
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
 
-    console.log(first, last1, last2);
     let dwarfName = {
       firstName: capitalize(PROPS[language][PROPS.english.indexOf(first)]),
       lastName: capitalize (PROPS[language][PROPS.english.indexOf(last1)] +
                             PROPS[language][PROPS.english.indexOf(last2)]),
       transLastName: capitalize(last1) + "-" + capitalize(last2)
     };
-    console.log(dwarfName);
+    return dwarfName;
   }
