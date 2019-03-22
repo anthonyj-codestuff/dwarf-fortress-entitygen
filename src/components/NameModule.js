@@ -151,6 +151,7 @@ class NameModule extends Component {
       // this is only here because the other call needs to be a callback
       preliminaryName = getEntityName(this.state.namePool, language, 1);
     }
+    // I'm pretty sure this is getting the name from last time instead of the one that was just asked for
     console.log("2", preliminaryName);
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
