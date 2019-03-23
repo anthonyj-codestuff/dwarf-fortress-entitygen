@@ -99,5 +99,6 @@ let PROPS;
                             PROPS[language][PROPS.english.indexOf(last2)]),
       transLastName: capitalize(last1) + "-" + capitalize(last2)
     };
+    console.log(dwarfName.firstName, dwarfName.lastName, dwarfName.transLastName);
     return dwarfName;
   }
