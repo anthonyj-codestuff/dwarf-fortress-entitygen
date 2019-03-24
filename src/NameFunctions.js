@@ -92,6 +92,7 @@ let PROPS;
     } while (!wordIsOfType(first, "noun"));
     last1 = pool[Math.floor(Math.random() * pool.length)];
     last2 = pool[Math.floor(Math.random() * pool.length)];
+    console.log("names", first, last1, last2);
 
     let dwarfName = {
       firstName: capitalize(PROPS[language][PROPS.english.indexOf(first)]),
