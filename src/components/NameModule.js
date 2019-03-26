@@ -21,9 +21,11 @@ class NameModule extends Component {
       namesThisSession: 0,
       modalIsOpen: false,
       currentEntity: {
-        firstName: "",
-        lastName: "",
-        transLastName: "",
+        name: {
+          firstName: "",
+          lastName: "",
+          transLastName: ""
+        },
         firstNameHeld: false,
         lastNameHeld: false
       },
@@ -135,7 +137,6 @@ class NameModule extends Component {
   getName() {
     let pool = this.state.namePool;
     let language = this.state.selectedLanguage;
-    let preliminaryName;
     const { selectedCurrent, selectedPrev } = this.state;
 
     // only generates a new pool if the user's options have changed from last time
@@ -143,16 +144,27 @@ class NameModule extends Component {
       pool = buildNamePool(selectedCurrent);
       this.setState({ namePool: pool }, () => {
         // at this point, the function has a list of valid words to pick from
-        preliminaryName = getEntityName(this.state.namePool, language, 1);
+        this.setState({
+          currentEntity: {
+            ...this.state.currentEntity,
+            name: getEntityName(this.state.namePool, language, 1)
+          },
+          namesThisSession: this.state.namesThisSession + 1
+        });
       }); 
       //Now that a pool has been generated, update the previous pool so that rapid queries can be faster
       this.setState({ selectedPrev: selectedCurrent });
     } else {
       // this is only here because the other call needs to be a callback
-      preliminaryName = getEntityName(this.state.namePool, language, 1);
+      this.setState({
+        currentEntity: {
+          ...this.state.currentEntity,
+          name: getEntityName(this.state.namePool, language, 1)
+        },
+        namesThisSession: this.state.namesThisSession + 1
+      });
     }
-    // BUG: Doesn't work the first time for some reason. Investigate further
-    console.log("2", preliminaryName);
+
     //TODO: Program crashes if the resulting pool of names is empty. Check for this.
     // do {
     //   first = pool[Math.floor(Math.random() * pool.length)];
@@ -211,7 +223,7 @@ class NameModule extends Component {
               this.setState({ currrentEntity: {...this.state.currentEntity, firstNameHeld: !this.state.currentEntity.firstNameHeld} })
             }
           >
-            {this.state.currentEntity.firstName + " "} {/* print first name with a held or unheld class*/}
+            {this.state.currentEntity.name.firstName + " "} {/* print first name with a held or unheld class*/}
           </span>
           <span
             className={this.state.currentEntity.lastNameHeld ? "held-name" : ""}
@@ -219,7 +231,7 @@ class NameModule extends Component {
               this.setState({ currentEntity: {...this.state.currentEntity, lastNameHeld: !this.state.currentEntity.lastNameHeld} })
             }
           >
-            {this.state.currentEntity.lastName} {/* print last name with a held or unheld class*/}
+            {this.state.currentEntity.name.lastName} {/* print last name with a held or unheld class*/}
           </span>
         </p>
         <p className="translated">
