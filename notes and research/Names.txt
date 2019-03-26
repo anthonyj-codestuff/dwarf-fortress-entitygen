@@ -147,7 +147,7 @@ DWARVES:
   FORBIDDEN:  "domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"
 
 HUMANS:
-  PREFERRED:  none
+  PREFERRED:  Humans pick from the entire naming pool
   FORBIDDEN:  "subordinate", "evil", "negative", "ugly", "negator"
 
             --------------
