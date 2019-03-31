@@ -26,6 +26,11 @@ class NameModule extends Component {
           lastName: "",
           transLastName: ""
         },
+        newName: {
+          firstName: "",
+          lastName: "",
+          transLastName: ""
+        },
         firstNameHeld: false,
         lastNameHeld: false
       },
@@ -147,7 +152,7 @@ class NameModule extends Component {
         this.setState({
           currentEntity: {
             ...this.state.currentEntity,
-            name: getEntityName(this.state.namePool, language, 1)
+            newName: getEntityName(this.state.namePool, language, 1)
           },
           namesThisSession: this.state.namesThisSession + 1
         });
@@ -159,7 +164,7 @@ class NameModule extends Component {
       this.setState({
         currentEntity: {
           ...this.state.currentEntity,
-          name: getEntityName(this.state.namePool, language, 1)
+          newName: getEntityName(this.state.namePool, language, 1)
         },
         namesThisSession: this.state.namesThisSession + 1
       });
