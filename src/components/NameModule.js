@@ -116,11 +116,56 @@ class NameModule extends Component {
     }
   }
 
+  getSliderValue(sliderWord) {
+    // Set the initial value of the toggle based on what values are found in the selectedCurrent arrays
+    return this.state.selectedCurrent[0].includes(sliderWord) &&
+      !this.state.selectedCurrent[1].includes(sliderWord)
+      ? 1
+      : this.state.selectedCurrent[1].includes(sliderWord) &&
+        !this.state.selectedCurrent[0].includes(sliderWord)
+      ? -1
+      : 0;
+  }
+
   toggleModal() {
     this.setState({ modalIsOpen: !this.state.modalIsOpen });
   }
 
   render() {
+
+    let nameBlock = (
+      <div className="entity-name">
+        <p className="original">
+          <span
+            className={
+              this.state.entityName.firstNameHeld ? "held-name" : ""
+            }
+            onClick={() =>
+              this.setState({ entityName: {...this.state.entityName, firstNameHeld: !this.state.entityName.firstNameHeld} })
+            }
+          >
+            {this.state.entityName.first + " "} {/* print first name with a held or unheld class*/}
+          </span>
+          <span
+            className={this.state.entityName.lastNameHeld ? "held-name" : ""}
+            onClick={() =>
+              this.setState({ entityName: {...this.state.entityName, lastNameHeld: !this.state.entityName.lastNameHeld} })
+            }
+          >
+            {this.state.entityName.last} {/* print last name with a held or unheld class*/}
+          </span>
+        </p>
+        <p className="translated">
+          {this.state.entityName.firstName + " " + this.state.entityName.transLastName} {/* print translated name with smaller font*/}
+        </p>
+      </div>
+    ); //nameBlock - Just a few words wrapped in spans
+
+    const toggleStateColor = [
+      "trinary-toggle-red",
+      "trinary-toggle-default",
+      "trinary-toggle-green"
+    ]; //used to set toggle switch classes based on value
 
     let toggleList = (
       <div className="token-list">
