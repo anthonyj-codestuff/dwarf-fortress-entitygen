@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import Modal from "@material-ui/core/Modal";
-import * as Constants from "./assets/languages";
 
 import "./NameModule.scss";
 import "./NamePoolModal.scss";
+import { getPoolState } from './partials/poolModal';
+import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
+import { handleSwitch } from './setters/sliderFuncs'
+import { getNameBlock } from './partials/nameBlock';
+import { getName } from "./partials/getName";
 
 class NameModule extends Component {
   constructor(){
@@ -28,155 +32,60 @@ class NameModule extends Component {
       humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
       goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
     };
+    this.getNameBlock = getNameBlock.bind(this);
+    this.clearSelected = this.clearSelected.bind(this);
+    this.setCurrentRace = setCurrentRace.bind(this);
+    this.setCurrentLanguage = setCurrentLanguage.bind(this);
+    this.getPoolState = getPoolState.bind(this);
+    this.handleSwitch = handleSwitch.bind(this);
+    this.getName = getName.bind(this);
+  }
+
+  wordIsOfType(word, type) {
+    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+    if (word) {
+      let typeArray = this.props.grammar[word];
+      return typeArray.includes(type);
+    } else return true;
   }
 
   componentDidMount(){
-    this.setState({dwarfName: Constants.dwarf[0]});
+    this.setState({entityName: {...this.state.entityName, first: "Click 'Get Name' to start"}});
   }
 
-  handleSwitch(name, value) {
-    // value = -1: Add name to this.state.selectedCurrent[1] (forbidden array) and remove from selectedCurrent[0]
-    // value = 1:  Add name to this.state.selectedCurrent[0] (required array) and remove from selectedCurrent[1]
-    // value = 0:  Remove name from both arrays
-    let tempArray = [];
-    switch (value) {
-      case "-1": //Add name to this.state.selectedCurrent[1] (forbidden array) and remove from selectedCurrent[0]
-        if (!this.state.selectedCurrent[1].includes(name)) {
-          //append name to forbidden
-          this.setState({
-            selectedCurrent: [
-              [...this.state.selectedCurrent[0]],
-              [...this.state.selectedCurrent[1], name]
-            ]
-          });
-        }
-        // if the element is found in the required array, remove it
-        if (this.state.selectedCurrent[0].indexOf(name) !== -1) {
-          this.setState({
-            // filter the element out of the permitted array. Don't touch the second one
-            selectedCurrent: [
-              [
-                ...this.state.selectedCurrent[0].filter(e => {
-                  return e !== name;
-                })
-              ],
-              [...this.state.selectedCurrent[1]]
-            ]
-          });
-        }
-        break;
-      case "1":
-        // everything here should be the same as in "-1" but reversed
-        if (!this.state.selectedCurrent[0].includes(name)) {
-          this.setState({
-            selectedCurrent: [
-              [...this.state.selectedCurrent[0], name],
-              [...this.state.selectedCurrent[1]]
-            ]
-          });
-        }
-        if (this.state.selectedCurrent[1].indexOf(name) !== -1) {
-          this.setState({
-            selectedCurrent: [
-              [...this.state.selectedCurrent[0]],
-              [
-                ...this.state.selectedCurrent[1].filter(e => {
-                  return e !== name;
-                })
-              ]
-            ]
-          });
-        }
-        break;
-      case "0":
-        // remove name from both arrays
-        this.setState({
-          selectedCurrent: [
-            [
-              ...this.state.selectedCurrent[0].filter(e => {
-                return e !== name;
-              })
-            ],
-            [
-              ...this.state.selectedCurrent[1].filter(e => {
-                return e !== name;
-              })
-            ]
-          ]
-        });
-        break;
-      default:
-        console.log(
-          "ERROR: default state reached in handleSwitch() with name",
-          name,
-          "and value",
-          value
-        );
-        break;
-    }
+  clearSelected() {
+    this.setState({ selectedCurrent: [[], []] });
   }
 
-  getSliderValue(sliderWord) {
-    // Set the initial value of the toggle based on what values are found in the selectedCurrent arrays
-    return this.state.selectedCurrent[0].includes(sliderWord) &&
-      !this.state.selectedCurrent[1].includes(sliderWord)
-      ? 1
-      : this.state.selectedCurrent[1].includes(sliderWord) &&
-        !this.state.selectedCurrent[0].includes(sliderWord)
-      ? -1
-      : 0;
-  }
 
   toggleModal() {
     this.setState({ modalIsOpen: !this.state.modalIsOpen });
   }
 
+  async 
+
   render() {
 
-    let nameBlock = (
-      <div className="entity-name">
-        <p className="original">
-          <span
-            className={
-              this.state.entityName.firstNameHeld ? "held-name" : ""
-            }
-            onClick={() =>
-              this.setState({ entityName: {...this.state.entityName, firstNameHeld: !this.state.entityName.firstNameHeld} })
-            }
-          >
-            {this.state.entityName.first + " "} {/* print first name with a held or unheld class*/}
-          </span>
-          <span
-            className={this.state.entityName.lastNameHeld ? "held-name" : ""}
-            onClick={() =>
-              this.setState({ entityName: {...this.state.entityName, lastNameHeld: !this.state.entityName.lastNameHeld} })
-            }
-          >
-            {this.state.entityName.last} {/* print last name with a held or unheld class*/}
-          </span>
-        </p>
-        <p className="translated">
-          {this.state.entityName.firstName + " " + this.state.entityName.transLastName} {/* print translated name with smaller font*/}
-        </p>
-      </div>
-    ); //nameBlock - Just a few words wrapped in spans
-
-    const toggleStateColor = [
-      "trinary-toggle-red",
-      "trinary-toggle-default",
-      "trinary-toggle-green"
-    ]; //used to set toggle switch classes based on value
-
-    
+    const stuffObj = {
+      races: this.state.races,
+      allTokens: this.state.allNameTokens,
+      currentRace: this.state.selectedRace,
+      currentLanuage: this.state.selectedLanguage,
+      currentTokens: this.state.selectedCurrent,
+      setRace: this.setCurrentRace,
+      setLang: this.setCurrentLanguage,
+      handleSwitch: this.handleSwitch,
+      clear: this.clearSelected
+    };
 
     return (
       <div style={{ display: "flex", flexDirection: "row" }}>
         <div className="entity-module">
-          {this.state.namesThisSession > 0 ? nameBlock : null}
+          {this.getNameBlock()}
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => this.getName()}
+              onClick={() => this.getName(this.state.selectedCurrent, this.state.selectedLanguage)}
             >
               Get Name
             </button>
@@ -189,7 +98,7 @@ class NameModule extends Component {
           </div>
         </div>
         <Modal open={this.state.modalIsOpen} onClose={() => this.toggleModal()}>
-          {toggleList}
+          {getPoolState(stuffObj)}
         </Modal>
       </div>
     );
