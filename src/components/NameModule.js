@@ -8,6 +8,7 @@ import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
 import { handleSwitch } from './setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
 import { getName } from "./partials/getName";
+import { allNameTokens } from "./assets/languages";
 
 class NameModule extends Component {
   constructor(){
@@ -26,7 +27,7 @@ class NameModule extends Component {
       selectedLanguage: "dwarf",
       selectedRace: "dwarf",
       races: ["dwarf", "elf", "human", "goblin"],
-      allNameTokens: ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"].sort(),
+      allNameTokens: allNameTokens.sort(),
       dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
       elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
       humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
