@@ -7,22 +7,36 @@ import * as Constants from "../assets/languages";
  * @param {*} language A string from the list of defined languages
  * @returns An object with the requested name in three pieces
  */
-export function getName(tags, language) {
-  let fullPool = getPool(tags[0]);
+export async function getName(tags, language) {
+  let fullPool = getPool(tags);
+  console.log("total length:", fullPool.length);
+  console.log(fullPool.sort());
   this.setState({entityName: {...this.state.entityName, first: language}});
 }
 
-function getPool(posTags) {
+/**
+ * @param {*} tags 
+ * @returns an array of words. Consists of all of the positive word pools minus the negative pools
+ */
+function getPool(tags) {
+  const inclusive = tags[0];
+  const exclusive = tags[1];
   let pool = [];
-  if (posTags.length > 0) {
-    posTags.forEach(e => {
-      console.log("posTags loop", e);
+  // build a pool from the positive labels
+  // if there are no positive labels, merge all possible labels
+  if (!inclusive || inclusive.length <= 0) {
+    // no selected pool. Add all pools
+    Constants.allNameTokens.forEach(e => {
       Constants.tokens[e].forEach(f => pool.push(f));
     });
   } else {
-
+    inclusive.forEach(e => {
+      // at least one pool is selected. add them together
+      console.log("posTags loop", e);
+      Constants.tokens[e].forEach(f => pool.push(f));
+    });
   }
 
   // remove dupes
-  pool = pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
+  return pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
 }
