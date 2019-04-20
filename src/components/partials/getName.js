@@ -9,8 +9,6 @@ import * as Constants from "../assets/languages";
  */
 export async function getName(tags, language) {
   let fullPool = getPool(tags);
-  console.log("total length:", fullPool.length);
-  console.log(fullPool.sort());
   this.setState({entityName: {...this.state.entityName, first: language}});
 }
 
@@ -22,6 +20,7 @@ function getPool(tags) {
   const inclusive = tags[0];
   const exclusive = tags[1];
   let pool = [];
+
   // build a pool from the positive labels
   // if there are no positive labels, merge all possible labels
   if (!inclusive || inclusive.length <= 0) {
@@ -32,10 +31,15 @@ function getPool(tags) {
   } else {
     inclusive.forEach(e => {
       // at least one pool is selected. add them together
-      console.log("posTags loop", e);
       Constants.tokens[e].forEach(f => pool.push(f));
     });
   }
+
+  // reduce list of forbidden tags to a single array
+  const allForbidden = exclusive.map(e => Constants.tokens[e]).flat();
+  
+  // remove negative labels from pool
+  pool = pool.filter(f => !allForbidden.includes(f));
 
   // remove dupes
   return pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
