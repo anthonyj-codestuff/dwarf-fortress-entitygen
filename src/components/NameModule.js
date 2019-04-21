@@ -16,8 +16,8 @@ class NameModule extends Component {
     this.state = {
       entityName: {
         first: "",
-        last: "",
-        transLast: "",
+        last1: "",
+        last2: "",
         firstHeld: false,
         lastHeld: false
       },
@@ -54,18 +54,26 @@ class NameModule extends Component {
   }
 
   handleNameGen() {
+    // get new names
     const nameObj = getName(this.state.selectedCurrent, this.state.selectedLanguage)
     const { first, last1, last2 } = nameObj;
-    const tFirst = wordToLang(first, this.state.selectedLanguage);
-    const tLast1 = wordToLang(last1, this.state.selectedLanguage);
-    const tLast2 = wordToLang(last2, this.state.selectedLanguage);
-    console.log("names", nameObj.first, nameObj.last1, nameObj.last2);
-    this.setState({...this.state, entityName: {
-      ...this.state.entityName,
-      first: tFirst,
-      last: tLast1 + tLast2,
-      transLast: last1 + last2
-    }});
+    // clone old name before setting new one
+    let newEntityName = {
+      first: this.state.entityName.first,
+      last1: this.state.entityName.last1,
+      last2: this.state.entityName.last2,
+      firstHeld: this.state.entityName.firstHeld,
+      lastHeld: this.state.entityName.lastHeld
+    }
+    // 
+    if(!this.state.entityName.lastHeld){
+      newEntityName.last1 = last1
+      newEntityName.last2 = last2;
+    };
+    if(!this.state.entityName.firstHeld){
+      newEntityName.first = first;
+    };
+    this.setState({entityName: newEntityName});
   }
 
   render() {

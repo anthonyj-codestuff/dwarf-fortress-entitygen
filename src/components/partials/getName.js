@@ -59,6 +59,9 @@ function getPool(tags) {
  * @param {string} lang a word from the array of acceptable languages in languages.js
  */
 export function wordToLang(word, lang) {
+  if(word === ""){
+    return "";
+  }
   // TODO: check that lang is a valid choice
   const index = Constants.english.indexOf(word);
   return Constants[lang][index];
