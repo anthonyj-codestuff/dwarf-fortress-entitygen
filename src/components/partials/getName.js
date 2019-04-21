@@ -1,5 +1,6 @@
 /** Constants: An object full of arrays. Each array's key describes its theme */
 import * as Constants from "../assets/languages";
+import { wordIsOfType } from "../assets/utils"
 
 /**
  * Calls getPool() for an array of valid names
@@ -7,9 +8,16 @@ import * as Constants from "../assets/languages";
  * @param {*} language A string from the list of defined languages
  * @returns An object with the requested name in three pieces
  */
-export async function getName(tags, language) {
-  let fullPool = getPool(tags);
-  this.setState({entityName: {...this.state.entityName, first: language}});
+export function getName(tags, language) {
+  let pool = getPool(tags);
+  let first, last1, last2;
+  do {
+    // first name must have a noun form. 
+    first = pool[Math.floor(Math.random() * pool.length)];
+  } while (!wordIsOfType(first, "noun"));
+  last1 = pool[Math.floor(Math.random() * pool.length)];
+  last2 = pool[Math.floor(Math.random() * pool.length)];
+  return { first, last1, last2 };
 }
 
 /**
@@ -43,4 +51,15 @@ function getPool(tags) {
 
   // remove dupes
   return pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
+}
+
+/**
+ * @returns the same word, but in the given language
+ * @param {string} word an english word to be translated
+ * @param {string} lang a word from the array of acceptable languages in languages.js
+ */
+export function wordToLang(word, lang) {
+  // TODO: check that lang is a valid choice
+  const index = Constants.english.indexOf(word);
+  return Constants[lang][index];
 }
