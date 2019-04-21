@@ -1,19 +1,22 @@
 import React  from 'react';
 import { getSliderList } from "./trinarySliderList";
-import { getDropDownMenu } from "./dropDownList";
+import { getPresetMenu, getLanguageMenu } from "./dropDownList";
+import "../NamePoolModal.scss";
 
 /**
  *
  * @param {object} stuffObj
  */
 export function getPoolState(stuffObj) {
-  const { races, allTokens, currentLanguage, currentRace, currentTokens, setRace, setLang, handleSwitch, clear } = stuffObj;
+  const { races, allTokens, currentLanguage, currentTokens, setRace, setLang, handleSwitch, clear } = stuffObj;
   return (
     <div className="token-list">
       <div className="token-list-head">
-        <div>{getDropDownMenu("Race", races, currentRace, setRace)}</div>
         <div>
-          {getDropDownMenu("Language", races, currentLanguage, setLang)}
+          {getPresetMenu(races, currentTokens, setRace)}
+        </div>
+        <div>
+          {getLanguageMenu(races, currentLanguage, setLang)}
         </div>
         <div>
           <button onClick={() => clear()}>

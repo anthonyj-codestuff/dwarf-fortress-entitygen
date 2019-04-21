@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Modal from "@material-ui/core/Modal";
 
 import "./NameModule.scss";
-import "./NamePoolModal.scss";
 import { getPoolState } from './partials/poolModal';
 import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
 import { handleSwitch } from './setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
-import { getName, wordToLang } from "./partials/getName";
+import { getName } from "./partials/getName";
 import { allNameTokens } from "./assets/languages";
+import { racePresets } from "./assets/languages";
 
 class NameModule extends Component {
   constructor(){
@@ -16,22 +16,18 @@ class NameModule extends Component {
     this.state = {
       entityName: {
         first: "",
-        last: "",
-        transLast: "",
+        last1: "",
+        last2: "",
         firstHeld: false,
         lastHeld: false
       },
       namePool: [],
-      selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
+      selectedCurrent: racePresets.dwarf,
       selectedPrev: [],
       selectedLanguage: "dwarf",
-      selectedRace: "dwarf",
-      races: ["dwarf", "elf", "human", "goblin"],
+      races: Object.keys(racePresets),
       allNameTokens: allNameTokens.sort(),
-      dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
-      elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
-      humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
-      goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
+      modalIsOpen: false
     };
     this.getNameBlock = getNameBlock.bind(this);
     this.clearSelected = this.clearSelected.bind(this);
@@ -54,18 +50,26 @@ class NameModule extends Component {
   }
 
   handleNameGen() {
+    // get new names
     const nameObj = getName(this.state.selectedCurrent, this.state.selectedLanguage)
     const { first, last1, last2 } = nameObj;
-    const tFirst = wordToLang(first, this.state.selectedLanguage);
-    const tLast1 = wordToLang(last1, this.state.selectedLanguage);
-    const tLast2 = wordToLang(last2, this.state.selectedLanguage);
-    console.log("names", nameObj.first, nameObj.last1, nameObj.last2);
-    this.setState({...this.state, entityName: {
-      ...this.state.entityName,
-      first: tFirst,
-      last: tLast1 + tLast2,
-      transLast: last1 + last2
-    }});
+    // clone old name before setting new one
+    let newEntityName = {
+      first: this.state.entityName.first,
+      last1: this.state.entityName.last1,
+      last2: this.state.entityName.last2,
+      firstHeld: this.state.entityName.firstHeld,
+      lastHeld: this.state.entityName.lastHeld
+    }
+    // 
+    if(!this.state.entityName.lastHeld){
+      newEntityName.last1 = last1
+      newEntityName.last2 = last2;
+    };
+    if(!this.state.entityName.firstHeld){
+      newEntityName.first = first;
+    };
+    this.setState({entityName: newEntityName});
   }
 
   render() {
@@ -73,7 +77,6 @@ class NameModule extends Component {
     const stuffObj = {
       races: this.state.races,
       allTokens: this.state.allNameTokens,
-      currentRace: this.state.selectedRace,
       currentLanuage: this.state.selectedLanguage,
       currentTokens: this.state.selectedCurrent,
       setRace: this.setCurrentRace,
