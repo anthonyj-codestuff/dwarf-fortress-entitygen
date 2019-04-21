@@ -9,6 +9,24 @@
       "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceFolder}\\src\\index"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch via Babel",
+      "program": "${workspaceRoot}\\src\\app.js",
+      "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/babel-node",
+      "cwd": "${workspaceRoot}"
+    },
+    {
+      "name": "Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceRoot}\\src",
+      "sourceMapPathOverrides": {
+        "webpack:///src/*": "${webRoot}/*"
+      }
     }
   ]
 }
