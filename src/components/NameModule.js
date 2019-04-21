@@ -7,7 +7,7 @@ import { getPoolState } from './partials/poolModal';
 import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
 import { handleSwitch } from './setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
-import { getName } from "./partials/getName";
+import { getName, wordToLang } from "./partials/getName";
 import { allNameTokens } from "./assets/languages";
 
 class NameModule extends Component {
@@ -18,8 +18,8 @@ class NameModule extends Component {
         first: "",
         last: "",
         transLast: "",
-        firstNameHeld: false,
-        lastNameHeld: false
+        firstHeld: false,
+        lastHeld: false
       },
       namePool: [],
       selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
@@ -39,11 +39,9 @@ class NameModule extends Component {
     this.setCurrentLanguage = setCurrentLanguage.bind(this);
     this.getPoolState = getPoolState.bind(this);
     this.handleSwitch = handleSwitch.bind(this);
-    this.getName = getName.bind(this);
   }
 
   componentDidMount(){
-    this.setState({entityName: {...this.state.entityName, first: "Click 'Get Name' to start"}});
   }
 
   clearSelected() {
@@ -55,7 +53,20 @@ class NameModule extends Component {
     this.setState({ modalIsOpen: !this.state.modalIsOpen });
   }
 
-  async 
+  handleNameGen() {
+    const nameObj = getName(this.state.selectedCurrent, this.state.selectedLanguage)
+    const { first, last1, last2 } = nameObj;
+    const tFirst = wordToLang(first, this.state.selectedLanguage);
+    const tLast1 = wordToLang(last1, this.state.selectedLanguage);
+    const tLast2 = wordToLang(last2, this.state.selectedLanguage);
+    console.log("names", nameObj.first, nameObj.last1, nameObj.last2);
+    this.setState({...this.state, entityName: {
+      ...this.state.entityName,
+      first: tFirst,
+      last: tLast1 + tLast2,
+      transLast: last1 + last2
+    }});
+  }
 
   render() {
 
@@ -78,7 +89,7 @@ class NameModule extends Component {
           <div className="entity-module-controls">
             <button
               className="button-entity-name"
-              onClick={() => this.getName(this.state.selectedCurrent, this.state.selectedLanguage)}
+              onClick={() => this.handleNameGen()}
             >
               Get Name
             </button>
