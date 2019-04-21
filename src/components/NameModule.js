@@ -42,14 +42,6 @@ class NameModule extends Component {
     this.getName = getName.bind(this);
   }
 
-  wordIsOfType(word, type) {
-    // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
-    if (word) {
-      let typeArray = this.props.grammar[word];
-      return typeArray.includes(type);
-    } else return true;
-  }
-
   componentDidMount(){
     this.setState({entityName: {...this.state.entityName, first: "Click 'Get Name' to start"}});
   }
