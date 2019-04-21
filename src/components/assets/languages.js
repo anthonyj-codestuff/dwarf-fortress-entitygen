@@ -24,3 +24,10 @@ export const tokens = require('./language_SYM.json');
  * Name pools for caves, regions, wars, islands, etc are excluded
  */
 export const allNameTokens = ["flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", "mystery", "negative", "romantic", "assertive", "aquatic", "protect", "restrain", "thought", "wild", "earth", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", "trade", "travel", "truth", "wealth"];
+
+export const racePresets = {
+  dwarf: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
+  elf: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
+  human: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
+  goblin: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
+};

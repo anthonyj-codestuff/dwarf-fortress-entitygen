@@ -18,7 +18,7 @@ export function getNameBlock() {
   return (
     <div className="entity-name">
       <p className="original">
-        <p>{first ? "" : "Click 'Get Name' to start"}</p>
+        <span>{first ? "" : "Click 'Get Name' to start"}</span>
         <span
           className={
             firstHeld ? "held-name" : ""

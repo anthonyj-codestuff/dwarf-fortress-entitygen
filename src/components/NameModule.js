@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Modal from "@material-ui/core/Modal";
 
 import "./NameModule.scss";
-import "./NamePoolModal.scss";
 import { getPoolState } from './partials/poolModal';
 import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
 import { handleSwitch } from './setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
-import { getName, wordToLang } from "./partials/getName";
+import { getName } from "./partials/getName";
 import { allNameTokens } from "./assets/languages";
+import { racePresets } from "./assets/languages";
 
 class NameModule extends Component {
   constructor(){
@@ -22,16 +22,12 @@ class NameModule extends Component {
         lastHeld: false
       },
       namePool: [],
-      selectedCurrent: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
+      selectedCurrent: racePresets.dwarf,
       selectedPrev: [],
       selectedLanguage: "dwarf",
-      selectedRace: "dwarf",
-      races: ["dwarf", "elf", "human", "goblin"],
+      races: Object.keys(racePresets),
       allNameTokens: allNameTokens.sort(),
-      dwarfNameTokens: [["artifice", "earth"], ["domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"]],
-      elfNameTokens: [["flowery", "nature"], ["domestic", "subordinate", "evil", "negative", "ugly", "negator"]],
-      humanNameTokens: [[], ["subordinate", "evil", "negative", "ugly", "negator"]],
-      goblinNameTokens: [["evil"], ["domestic", "flowery", "holy", "peace", "negator", "good"]]
+      modalIsOpen: false
     };
     this.getNameBlock = getNameBlock.bind(this);
     this.clearSelected = this.clearSelected.bind(this);
@@ -81,7 +77,6 @@ class NameModule extends Component {
     const stuffObj = {
       races: this.state.races,
       allTokens: this.state.allNameTokens,
-      currentRace: this.state.selectedRace,
       currentLanuage: this.state.selectedLanguage,
       currentTokens: this.state.selectedCurrent,
       setRace: this.setCurrentRace,

@@ -4,13 +4,16 @@
 }
 .token-list-head {
   border-bottom: 2px solid #9c9c9c85;
+  background-color: #000000;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  position: sticky;
+  top: 0;
 }
 
 .token-list {
-  width: 50vw;
+  width: 70vw;
   height: 90vh;
   margin: auto;
   margin-top: 5vh;
