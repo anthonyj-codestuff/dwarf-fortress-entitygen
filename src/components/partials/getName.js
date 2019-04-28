@@ -3,10 +3,10 @@ import * as Constants from "../assets/languages";
 import { wordIsOfType } from "../assets/utils"
 
 /**
- * Calls getPool() for an array of valid names
+ * retreives a pool of words and returns a random name
  * @param {*} tags [[required tags],[forbidden tags]]
  * @param {*} language A string from the list of defined languages
- * @returns An object with the requested name in three pieces
+ * @returns An object with the requested name in three pieces. Name is returned in English. Translate it as needed.
  */
 export function getName(tags, language) {
   let pool = getPool(tags);
@@ -25,6 +25,7 @@ export function getName(tags, language) {
  * @returns an array of words. Consists of all of the positive word pools minus the negative pools
  */
 function getPool(tags) {
+  console.log("getPool()");
   const inclusive = tags[0];
   const exclusive = tags[1];
   let pool = [];
