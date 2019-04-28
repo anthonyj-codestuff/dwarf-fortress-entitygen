@@ -1,0 +1,2 @@
+General strategy: create a segmented set of naming functions that can be imported and used as needed.
+  e.g. getPool() should do exactly what it says and be good no matter who calls it.
