@@ -1,4 +1,4 @@
-import { racePresets } from "../assets/languages";
+import { racePresets } from "../assets/constants";
 
 /**
  * Alters the current selected name pools to match that race's predefined set

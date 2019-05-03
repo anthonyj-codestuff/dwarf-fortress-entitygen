@@ -1,5 +1,5 @@
 /** Constants: An object full of arrays. Each array's key describes its theme */
-import * as Constants from "../assets/languages";
+import * as Constants from "../assets/constants";
 import { wordIsOfType } from "../assets/utils"
 
 /**
