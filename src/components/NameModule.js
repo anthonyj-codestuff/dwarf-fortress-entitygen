@@ -29,8 +29,9 @@ class NameModule extends Component {
       allNameTokens: allNameTokens.sort(),
       modalIsOpen: false
     };
-    this.getNameBlock = getNameBlock.bind(this);
     this.clearSelected = this.clearSelected.bind(this);
+    this.toggleModal = this.toggleModal.bind(this);
+    this.getNameBlock = getNameBlock.bind(this);
     this.setCurrentRace = setCurrentRace.bind(this);
     this.setCurrentLanguage = setCurrentLanguage.bind(this);
     this.getPoolState = getPoolState.bind(this);
@@ -82,6 +83,7 @@ class NameModule extends Component {
       setRace: this.setCurrentRace,
       setLang: this.setCurrentLanguage,
       handleSwitch: this.handleSwitch,
+      toggleModal: this.toggleModal,
       clear: this.clearSelected
     };
 

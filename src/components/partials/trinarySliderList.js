@@ -15,7 +15,7 @@ export function getSliderList(tokens, currentTokens, callback) {
   return tokens.map((e, i) => {
     return (
       <div key={"token-" + i} className="token-toggle-row">
-        <span>{e}</span>
+        <span className="text-slider-option">{e}</span>
         <div>
           <input
             id={"ts-" + i}
