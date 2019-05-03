@@ -7,8 +7,8 @@ import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
 import { handleSwitch } from './setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
 import { getName } from "./partials/getName";
-import { allNameTokens } from "./assets/languages";
-import { racePresets } from "./assets/languages";
+import { allNameTokens } from "./assets/constants";
+import { racePresets, languageEnum } from "./assets/constants";
 
 class NameModule extends Component {
   constructor(){
@@ -24,13 +24,13 @@ class NameModule extends Component {
       namePool: [],
       selectedCurrent: racePresets.dwarf,
       selectedPrev: [],
-      selectedLanguage: "dwarf",
-      races: Object.keys(racePresets),
+      selectedLanguage: languageEnum[0],
       allNameTokens: allNameTokens.sort(),
       modalIsOpen: false
     };
-    this.getNameBlock = getNameBlock.bind(this);
     this.clearSelected = this.clearSelected.bind(this);
+    this.toggleModal = this.toggleModal.bind(this);
+    this.getNameBlock = getNameBlock.bind(this);
     this.setCurrentRace = setCurrentRace.bind(this);
     this.setCurrentLanguage = setCurrentLanguage.bind(this);
     this.getPoolState = getPoolState.bind(this);
@@ -75,13 +75,13 @@ class NameModule extends Component {
   render() {
 
     const stuffObj = {
-      races: this.state.races,
       allTokens: this.state.allNameTokens,
-      currentLanuage: this.state.selectedLanguage,
+      currentLanguage: this.state.selectedLanguage,
       currentTokens: this.state.selectedCurrent,
       setRace: this.setCurrentRace,
       setLang: this.setCurrentLanguage,
       handleSwitch: this.handleSwitch,
+      toggleModal: this.toggleModal,
       clear: this.clearSelected
     };
 

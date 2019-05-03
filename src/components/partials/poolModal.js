@@ -8,19 +8,24 @@ import "../NamePoolModal.scss";
  * @param {object} stuffObj
  */
 export function getPoolState(stuffObj) {
-  const { races, allTokens, currentLanguage, currentTokens, setRace, setLang, handleSwitch, clear } = stuffObj;
+  const { allTokens, currentLanguage, currentTokens, setRace, setLang, handleSwitch, toggleModal, clear } = stuffObj;
   return (
     <div className="token-list">
       <div className="token-list-head">
         <div>
-          {getPresetMenu(races, currentTokens, setRace)}
+          {getPresetMenu(currentTokens, setRace)}
         </div>
         <div>
-          {getLanguageMenu(races, currentLanguage, setLang)}
+          {getLanguageMenu(currentLanguage, setLang)}
         </div>
         <div>
           <button onClick={() => clear()}>
-            Clear all options
+            Clear
+          </button>
+        </div>
+        <div>
+          <button onClick={() => toggleModal()}>
+            X
           </button>
         </div>
       </div>

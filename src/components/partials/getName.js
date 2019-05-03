@@ -1,5 +1,5 @@
 /** Constants: An object full of arrays. Each array's key describes its theme */
-import * as Constants from "../assets/languages";
+import * as Constants from "../assets/constants";
 import { wordIsOfType } from "../assets/utils"
 
 /**
@@ -45,7 +45,7 @@ function getPool(tags) {
   }
 
   // reduce list of forbidden tags to a single array
-  const allForbidden = exclusive.map(e => Constants.tokens[e]).flat();
+  const allForbidden = [].concat(...exclusive.map(e => Constants.tokens[e]));
   
   // remove negative labels from pool
   pool = pool.filter(f => !allForbidden.includes(f));

@@ -1,15 +1,46 @@
+
+$red: #d32f2f;
+$green: #43a047;
+$grey: #CCCCCC;
+$white: #FFFFFF;
+$black: #000000;
+$grey-light: #9c9c9c85;
+
+@mixin track {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 1rem;
+  background: $grey;
+}
+
+@mixin nub {
+  border: 1px solid #00001E;
+  height: 28px;
+  width: 50px;
+  border-radius: 1rem;
+  background: #F0F0F0;
+  cursor: pointer;
+}
+
 .text-minor {
   font-size: 12px;
-  color: #FFFFFF;
+  color: $white;
+  font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 .token-list-head {
-  border-bottom: 2px solid #9c9c9c85;
-  background-color: #000000;
+  border-bottom: 2px solid $grey-light;
+  background-color: $black;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   position: sticky;
   top: 0;
+  select {
+    // color: $white;
+    // background: $black;
+    margin: 3px;
+  }
 }
 
 .token-list {
@@ -19,106 +50,92 @@
   margin-top: 5vh;
   overflow-y: scroll;
   overflow-x: hidden;
-  background-color: #000000;
+  background-color: $black;
+  &:focus {
+    outline: none;
+  }
   .token-toggle-row {
-    border-bottom: 1px solid #9c9c9c85;
+    border-bottom: 1px solid $grey-light;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 0 20px;
     span {
       color: white;
       line-height: 30px;
       font-size: 30px;
+      font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     }
+  }
+  button {
+    margin: 3px;
+    // color: $white;
+    // background-color: $black;
+    border-width: 2px;
   }
 }
 
 .trinary-toggle {
-  height: 15px;
+  height: 30px;
+  margin: 2px 0;
+  width: 100%;
+  background-color: $black;
   -webkit-appearance: none;
-  margin: 10px 0;
-  width: 100%;
-  background-color:#00000000;
+  -moz-appearance: none;
+  &:focus {
+    outline: none;
+  }
+
+  // style slider track. one for each major browser
+  &::-webkit-slider-runnable-track {
+    @include track;
+    border: 1px solid $black;
+  }
+  &::-moz-range-track {
+    @include track;
+    border: 0px solid $black;
+  }
+  &::-ms-track {
+    @include track;
+    width: 100px;
+    border-color: transparent;
+    color: transparent;
+    border-width: 10px 0;
+  }
+
+  // style slider nub. one for each major browser
+  &::-webkit-slider-thumb {
+    @include nub;
+    -webkit-appearance: none;
+  }
+  &::-moz-range-thumb {
+    @include nub;
+  }
+  &::-ms-thumb {
+    margin-top: 1px;
+    @include nub;
+  }
 }
-.trinary-toggle:focus {
-  outline: none;
+
+.trinary-toggle-red{
+  &::-webkit-slider-runnable-track{background: $red;}
+  &::-moz-range-track {background: $red;}
+  &::-ms-track {background: $red;}
 }
-.trinary-toggle::-moz-range-track {
-  width: 100%;
-  height: 30px;
-  cursor: pointer;
-  background: #CCCCCC;
-  border-radius: 1rem;
-  border: 0px solid #010101;
+.trinary-toggle-green{
+  &::-webkit-slider-runnable-track{background: $green;}
+  &::-moz-range-track {background: $green;}
+  &::-ms-track {background: $green;}
 }
-.trinary-toggle::-moz-range-thumb {
-  border: 1px solid #00001E;
-  height: 26px;
-  width: 50px;
-  border-radius: 1rem;
-  background: #F0F0F0;
-  cursor: pointer;
+.trinary-toggle-default{
+  &::-webkit-slider-runnable-track{background: $grey;}
+  &::-moz-range-track {background: $grey;}
+  &::-ms-track {background: $grey;}
 }
-.trinary-toggle::-ms-track {
-  width: 100%;
-  height: 30px;
-  cursor: pointer;
-  background: transparent;
-  border-color: transparent;
-  color: transparent;
-}
-.trinary-toggle::-ms-fill-lower {
-  background: #CCCCCC;
-  border: 0px solid #010101;
-  border-radius: 1rem;
-  box-shadow: 1px 1px 1px #000000;
-}
-.trinary-toggle::-ms-fill-upper {
-  background: #CCCCCC;
-  border: 0px solid #010101;
-  border-radius: 1rem;
-  box-shadow: 1px 1px 1px #000000;
-}
-.trinary-toggle::-ms-thumb {
-  margin-top: 1px;
-  border: 1px solid #00001E;
-  height: 26px;
-  width: 50px;
-  border-radius: 1rem;
-  background: #F0F0F0;
-  cursor: pointer;
-}
-.trinary-toggle:focus::-ms-fill-lower {
-  background: #CCCCCC;
-}
-.trinary-toggle:focus::-ms-fill-upper {
-  background: #CCCCCC;
-}
-.trinary-toggle::-webkit-slider-runnable-track {
-  // track
-  width: 100%;
-  height: 30px;
-  cursor: pointer;
-  background: #CCCCCC;
-  border-radius: 1rem;
-  border: 1px solid #010101;
-}
-.trinary-toggle::-webkit-slider-thumb {
-  // button
-  border: 1px solid #00001E;
-  height: 28px;
-  width: 50px;
-  border-radius: 1rem;
-  background: #F0F0F0;
-  cursor: pointer;
-  -webkit-appearance: none;
-}
-.trinary-toggle-red::-webkit-slider-runnable-track{
-  background: #d32f2f;
-}
-.trinary-toggle-green::-webkit-slider-runnable-track{
-  background: #43a047;
-}
-.trinary-toggle-default::-webkit-slider-runnable-track{
-  background: #CCCCCC;
+
+@media only screen and (max-width : 500px){
+  .token-list {
+    width: 90vw;
+    height: 90vh;
+  }
 }
