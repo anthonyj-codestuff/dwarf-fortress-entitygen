@@ -45,7 +45,7 @@ function getPool(tags) {
   }
 
   // reduce list of forbidden tags to a single array
-  const allForbidden = exclusive.map(e => Constants.tokens[e]).flat();
+  const allForbidden = [].concat(...exclusive.map(e => Constants.tokens[e]));
   
   // remove negative labels from pool
   pool = pool.filter(f => !allForbidden.includes(f));
