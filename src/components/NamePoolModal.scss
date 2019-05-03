@@ -6,7 +6,22 @@ $white: #FFFFFF;
 $black: #000000;
 $grey-light: #9c9c9c85;
 
-$breakpoint: 500px;
+@mixin track {
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 1rem;
+  background: $grey;
+}
+
+@mixin nub {
+  border: 1px solid #00001E;
+  height: 28px;
+  width: 50px;
+  border-radius: 1rem;
+  background: #F0F0F0;
+  cursor: pointer;
+}
 
 .text-minor {
   font-size: 12px;
@@ -29,7 +44,6 @@ $breakpoint: 500px;
 }
 
 .token-list {
-  // at 500px, token-list should get wider
   width: 70vw;
   height: 90vh;
   margin: auto;
@@ -62,83 +76,44 @@ $breakpoint: 500px;
 }
 
 .trinary-toggle {
-  height: 15px;
-  -webkit-appearance: none;
-  margin: 10px 0;
+  height: 30px;
+  margin: 2px 0;
   width: 100%;
   background-color: $black;
+  -webkit-appearance: none;
+  -moz-appearance: none;
   &:focus {
     outline: none;
   }
-  &::-moz-range-track {
-    width: 100%;
-    height: 30px;
-    cursor: pointer;
-    background: #CCCCCC;
-    border-radius: 1rem;
-    border: 0px solid #010101;
+
+  // style slider track. one for each major browser
+  &::-webkit-slider-runnable-track {
+    @include track;
+    border: 1px solid $black;
   }
-  &::-moz-range-thumb {
-    border: 1px solid #00001E;
-    height: 26px;
-    width: 50px;
-    border-radius: 1rem;
-    background: #F0F0F0;
-    cursor: pointer;
+  &::-moz-range-track {
+    @include track;
+    border: 0px solid $black;
   }
   &::-ms-track {
-    width: 100%;
-    height: 30px;
-    cursor: pointer;
-    background: transparent;
+    @include track;
+    width: 100px;
     border-color: transparent;
     color: transparent;
+    border-width: 10px 0;
   }
-  &::-ms-fill-lower {
-    background: #CCCCCC;
-    border: 0px solid #010101;
-    border-radius: 1rem;
-    box-shadow: 1px 1px 1px $black;
+
+  // style slider nub. one for each major browser
+  &::-webkit-slider-thumb {
+    @include nub;
+    -webkit-appearance: none;
   }
-  &::-ms-fill-upper {
-    background: #CCCCCC;
-    border: 0px solid #010101;
-    border-radius: 1rem;
-    box-shadow: 1px 1px 1px $black;
+  &::-moz-range-thumb {
+    @include nub;
   }
   &::-ms-thumb {
     margin-top: 1px;
-    border: 1px solid #00001E;
-    height: 26px;
-    width: 50px;
-    border-radius: 1rem;
-    background: #F0F0F0;
-    cursor: pointer;
-  }
-  &:focus::-ms-fill-lower {
-    background: #CCCCCC;
-  }
-  &:focus::-ms-fill-upper {
-    background: #CCCCCC;
-  }
-  &::-webkit-slider-runnable-track {
-    // track
-    width: 100%;
-    height: 30px;
-    cursor: pointer;
-    background: #CCCCCC;
-    border-radius: 1rem;
-    border: 1px solid #010101;
-  }
-  &::-webkit-slider-thumb {
-    // button
-    border: 1px solid #00001E;
-    height: 28px;
-    width: 50px;
-    border-radius: 1rem;
-    background: #F0F0F0;
-    cursor: pointer;
-    -webkit-appearance: none;
+    @include nub;
   }
 }
 
