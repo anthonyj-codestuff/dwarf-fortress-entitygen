@@ -15,9 +15,9 @@ export const deaccent = string => {
  * @returns true if word has the type listed in language_words
  */
 export function wordIsOfType(word, type) {
-  // Take the word, retrieve the array of types from the grammar blob, and check to see if it can be considered "type"
+  // Take the word, retrieve the word class from the grammar blob, and check to see if it can be considered "type"
   if (word) {
-    let typeArray = wordTypes[word];
-    return typeArray.includes(type);
-  } else return true;
+    let singleWord = wordTypes[word];
+    return singleWord.hasWordType(type);
+  } else return false;
 }

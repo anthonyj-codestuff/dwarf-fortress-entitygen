@@ -13,7 +13,8 @@ export const goblin = require('./language_GOBLIN.json').map((e,i) => e.translate
  *  "ace": ["noun"],
  *  "act": ["noun", "verb"]
  */
-export const wordTypes = require('./language_words.json');
+// export const wordTypes = require('./language_words.json');
+export const { wordTypes } = require('./language_words_new.js');
 /**
  * @exports tokens an object with all pool names for keys and an array of words that fit the pool
  * "name_grassland": ["field", "plain", "prairie", "steppe"]

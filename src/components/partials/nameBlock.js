@@ -1,9 +1,27 @@
 import React  from 'react';
 import { capitalize } from '../assets/utils';
 import { wordToLang } from './getName';
+import { wordTypes } from '../assets/language_words_new';
 
 function trimWord(str){
   return str.split("_")[0];
+}
+
+function buildLastName(last1, last2) {
+  if(last1 === "" && last2 === "") {
+    // initially, bith terms should be empty
+    return "";
+  } else if (last1 && last2) {
+    const DFWFirst = wordTypes[last1];
+    const DFWSecond = wordTypes[last2];
+    // after the first pass, both should be filled
+    capitalize(trimWord(last1));
+    capitalize(trimWord(last2));
+    return last1 + last2;
+  } else {
+    // I don't know why this would ever be called
+    throw Error(`invalid terms ${last1} and ${last2} passed to buildLastName()`);
+  }
 }
 
 export function getNameBlock() {
@@ -12,9 +30,9 @@ export function getNameBlock() {
   const entLast1 = wordToLang(last1, this.state.selectedLanguage);
   const entLast2 = wordToLang(last2, this.state.selectedLanguage);
   const entLast = entLast1 + entLast2;
-  const engLast = last1 + last2;
+  const engLast = buildLastName(last1, last2);
   const englishName = (first ? capitalize(trimWord(entFirst)) : "") + " " 
-  + (engLast ? capitalize(trimWord(last1)) + "-" + capitalize(trimWord(last2)) : "");
+  + (engLast ? engLast : "");
   return (
     <div className="entity-name">
       <p className="original">
