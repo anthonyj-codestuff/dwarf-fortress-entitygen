@@ -45,6 +45,7 @@ $grey-light: #9c9c9c85;
 
 .token-list {
   width: 70vw;
+  max-width: 600px;
   height: 90vh;
   margin: auto;
   margin-top: 5vh;
@@ -137,5 +138,8 @@ $grey-light: #9c9c9c85;
   .token-list {
     width: 90vw;
     height: 90vh;
+    .token-toggle-row{
+      padding: 0px 0px;
+    }
   }
 }
