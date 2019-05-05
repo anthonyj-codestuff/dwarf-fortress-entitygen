@@ -21,24 +21,171 @@ Name Object: {
 
 
 
-              -------------
-              EXAMPLE NAMES
-              -------------
+              -----------------------
+              NAME STRUCTURE ANALYSIS
+              -----------------------
 ==DWARVES==
-  Ingish Ecemnish,        "Bodice Tube-trade"
-                          NOUN NOUN-NOUN
-  Eral Gembishlor,        "Vessel seal_animal-tool"
-                          NOUN NOUN-NOUN
-  Tirist Irolmeng         "Rim North-lash"
-                          NOUN ADJ-NOUN
-  Tun Kadolmishos         "Door Hatchet-Beach"
-                          NOUN NOUN-NOUN
-  Tholtig Ableltitthal    "Barricade Bust_noun-play_fun"
-                          NOUN NOUN-ANY
-  Rakust Oddomlokum       "Tomb Cloister-Spear"
-                          NOUN NOUN-NOUN
-  Lokum Nazomzuglar       "Spear Dream-Ship"
-  Zuglar Ostarkeskal      "Ship Bury-Shoot"
+  Litast ònuludar, "Torch Mirror Rained"
+  first: noun0/noun1
+  last1: noun0 verb0
+  last2: verb2 verb3
+  Erush Gingoltar, "Handle Young Gilt"
+  first: noun0/noun1
+  last1: verb0
+  last2: verb2 verb3
+  Olon Rosatoddom, "Gear Chapel Cloistered"
+  first: noun0/noun1
+  last1: noun0
+  last2: verb2 verb3
+  Doren Oslanetur, "Diamond Wind Boulder"
+  first: noun0/noun1 adj0
+  last1: verb0
+  last2: 
+  Minkot Ensebtobul, "Corridor Basis Canyon"
+  first: 
+  last1: 
+  last2: 
+  Sigun Limâreshtân, "Tour Wealthy Smiths"
+  first: 
+  last1: 
+  last2: 
+  Uzol Kaboddom, "Oil Name Cloistered"
+  first: 
+  last1: 
+  last2: 
+  Thîkut Odsazir, "Book Limb Bridge"
+  first: 
+  last1: 
+  last2: 
+  Olin Zonnunok, "Tongs Helm Numbers"
+  first: 
+  last1: 
+  last2: 
+  Såkzul Nosingnish, "Trumpet Brush Trades"
+  first: 
+  last1: 
+  last2: 
+  Solon Alåthilral, "Flag Bolted Treaty"
+  first: 
+  last1: 
+  last2: 
+  Zulban Tanfikod, "Banner Ticked Glazed"
+  first: 
+  last1: 
+  last2: 
+  Etur Ostarkeskal, "Boulder Burial Shoot"
+  first: 
+  last1: 
+  last2: 
+  Cog Äszes, "Boot Cave Brands"
+  first: 
+  last1: 
+  last2: 
+  Inod Nulralsazir, "Gate Stable Bridged"
+  first: 
+  last1: 
+  last2: 
+  Ushat Lirukoslan, "Basement Violent Wind"
+  first: 
+  last1: 
+  last2: 
+  Mestthos ïngizèrnam, "Citadel Ceiling Modest"
+  first: 
+  last1: 
+  last2: 
+  Urvad Oltarkegeth, "Seal Gilt Holds"
+  first: 
+  last1: 
+  last2: 
+  Udib Likotabsam, "Syrup Ink Searched"
+  first: 
+  last1: 
+  last2: 
+  Zutthan Bardumolin, "Treasury Fight Tongs"
+  first: 
+  last1: 
+  last2: 
+  Bëmbul Stâkudònul, "Mechanism Machine Mirrored"
+  first: 
+  last1: 
+  last2: 
+  Sibrek Zoncuggán, "Salve Helmed Sand"
+  first: 
+  last1: 
+  last2: 
+  Catten Mesiredëm, "Channel Shower Keys"
+  first: 
+  last1: 
+  last2: 
+  ïteb Ukerled, "Post Wave Racks"
+  first: 
+  last1: 
+  last2: 
+  Dôbar Anrizolin, "Creation Sky Tongs"
+  first: 
+  last1: 
+  last2: 
+  Deduk Besmarzokun, "Manor Pulley Sieges"
+  first: 
+  last1: 
+  last2: 
+  Dastot Uristnakuth, "Sword Dagger Braid"
+  first: 
+  last1: 
+  last2: 
+  Kadôl Cattensodel, "Gem Channel Shields
+  first: 
+  last1: 
+  last2: 
+  Itlud Sughonu, "Bin Tire Blunts" - Human
+  first: 
+  last1: 
+  last2: 
+  Catten Sodelûthir, "Channel Shield Sear"
+  first: 
+  last1: 
+  last2: 
+  Lòr Reglilum, "Tool Gloved Hoisted"
+  first: 
+  last1: 
+  last2: 
+  Asmel Zedotfikod, "Merchant Lobster Glazed"
+  first: 
+  last1: 
+  last2: 
+  Lòr Tomusònul, "Tool Shoved Mirrors"
+  first: 
+  last1: 
+  last2: 
+  Monom Sodelsacat, "Paper Shield Dots"
+  first: 
+  last1: 
+  last2: 
+  Tekkud Sazirotam, "Pick Bridge Noses"
+  first: 
+  last1: 
+  last2: 
+  Fikod Tunomkadol, "Glaze Mortal Hatchets"
+  first: 
+  last1: 
+  last2: 
+  èrith Onolast, "Labor Mountain Sabres"
+  first: 
+  last1: 
+  last2: 
+  Oddom Likotiseth, "Cloister Ink Quested"
+  first: 
+  last1: 
+  last2: 
+  Asën Dakostemal, "Gravel Floor Sense"
+  first: 
+  last1: 
+  last2: 
+  Iden Oddomvúsh, "Paddle Cloister Heated"
+  first: 
+  last1: 
+  last2: 
+
 ==ELVES==
   Lèma Ceralíceyi         "Hill Will-Petal"
   --Generated--
@@ -110,7 +257,7 @@ HUMANS:
 
 Cacame Awemedinade Monípalóthi
   Base Name: Cacame Awemedinade
-  Translated: Pelt Ape Bald
+  Translated: Pelt Ape Balded
 ? Pools: Nature Nature NONE
   Epithet: Monípalóthi
   Translated: Immortal Onslaught
@@ -123,3 +270,9 @@ Tholtig Momuzidek Lelumdoren
   Epithet: Lelumdoren
   Translated: Wane Diamond
 ? Pools: NONE Earth
+
+Deduk Besmarzokun Arek Tath
+  Base Name: Deduk Besmarzokun
+  Translated: DEDUK Pulley Sieges
+  Epithet: Arek Tath
+  Translated: the Church of Dusk"
