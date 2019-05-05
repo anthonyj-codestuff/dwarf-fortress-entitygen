@@ -65,48 +65,7 @@ Name Object: {
   Lospad Agkuduluz,       "Lospad Slowtreason"
   Zak Ngasmaal,           "Zak Pleatedstop"
   Rodaz Osnusmlomu,       "Rodaz Stenchdiminished"
-  Dozo Utostxoxo,         "Dozo Moleyoung"
-
-              ---------------------
-              FORGOTTEN BEAST NAMES
-              ---------------------
-  Ariyilithémeseye Vera                           The Y of Z
-    royal-night-mole clam                         Y = royal-night-mole
-    The Royal Night-Mole of Clams                 
-  Asngek Dakotu Spos ûrer                         Xx the Y of Z
-    Coast Paddle-Fish Abyss Moist                 Y = abyss
-    Asngek Paddledfishes the Abyss of Moistening  
-  Vesh Sárekmessog                                Xx
-    Dust Echo-Tumor                               
-    Vesh Echoedtumor                              
-  Uthimi Oquarí Nidela                            X the Y of Z
-    Poison Nightmare Dusk                         Y = nightmare
-    Uthimi the Nightmares of Dusk                 
-  Osman Slekiquob Sedast                          X the Y of Z
-    Shadow Lust-Bloat Moist                       Y = lust-bloat
-    Osman the Lustful Bloat of Moistening         
-  Meli                                            X
-    Murk                                          
-    Meli                                          
-  Ezuk Inrus                                      The Y of Z
-    Raunch Poison                                 Y = raunch
-    The Raunch of Poisoning                       
-  Ulspa Ngerxungätkust                            Xx
-    Dagger Wicked-Mirror                          
-    Ulspa Wickedmirrors                           
-  
-  Formats:
-  X
-  Xx
-  The Y of Z
-  X the Y of Z
-  Where X is a NOUN
-  Where Xx is a standard NOUN WORDWORD name
-  Where Y is a number of words
-    Normally 1 or 2, occasionally 3. Further stats needed
-    If it is 1 word, it should be a noun
-    If it is 2 or 3 words, the first one should have an ADJ form
-  Pick a form for the FB's name and generat the pieces as needed
+  Dozo Utostxoxo,         "Dozo Moleyoung"                         
 
               ------------------------
               RULES FOR CHOOSING NAMES
@@ -119,20 +78,20 @@ Second Names are always two-word pairs and can be any combination of word types
 Each race has its own sphere of names to pick from. These spheres are listed in language_SYM and the sphere rules are listed in entity_default. 
 Dwarves pick from the ARTIFICE and EARTH group (231 possible names?) and their last names avoid use of the FLOWERY (and other culled) group
 
-    TAKEN FROM THE WIKI
-      Dwarf first names come from a combination of symbol sets as defined in the raw file language_SYM.txt.
-      175 Dwarf names = (ARTIFICE ∪ EARTH) \ (DOMESTIC ∪ FLOWERY ∪ NEGATOR ∪ NEGATIVE ∪ UGLY ∪ EVIL) 
-      First names also need to have [THE_NOUN_SING] in their language_words.txt entry. This filters out an additional 10, leaving a total of 165 valid names.[1]
-      Valid Names:
-        Aban 	Adil 	Alåth 	Amost 	Asmel 	Asob 	Ast 	Astesh 	Asën 	Athel Atír 	Atîs 	Avuz 	Ber 	Besmar 	Bim 	Bomrek 	Bëmbul 	Catten 	Cerol Cilob 	Cog 	Dakost 	Dastot 	Datan 	Deduk 	Degël 	Deler 	Dodók 	Domas Doren 	Ducim 	Dumat 	Dumed 	Dîshmab 	Dôbar 	Edzul 	Edëm 	Endok 	Eral Erib 	Erush 	Eshtân 	Etur 	Fath 	Feb 	Fikod 	Geshud 	Goden 	Id Iden 	Ilral 	Imush 	Ineth 	Ingish 	Inod 	Kadol 	Kadôl 	Kel 	Kib Kikrost 	Kivish 	Kogan 	Kogsak 	Kol 	Kosoth 	Kulet 	Kumil 	Kûbuk 	Led Libash 	Likot 	Limul 	Litast 	Logem 	Lokum 	Lolor 	Lorbam 	Lòr 	Mafol Mebzuth 	Medtob 	Melbil 	Meng 	Mestthos 	Minkot 	Mistêm 	Moldath 	Momuz 	Monom Mosus 	Mörul 	Mûthkat 	Nil 	Nish 	Nomal 	Obok 	Oddom 	Olin 	Olon Onget 	Onol 	Rakust 	Ral 	Reg 	Rigòth 	Rimtar 	Rith 	Rovod 	Rîsen Sarvesh 	Sazir 	Shem 	Shorast 	Sibrek 	Sigun 	Sodel 	Solon 	Stinthäd 	Stodir Stukos 	Stâkud 	Såkzul 	Tekkud 	Thob 	Tholtig 	Thîkut 	Tirist 	Tobul 	Tosid Tulon 	Tun 	Ubbul 	Udib 	Udil 	Unib 	Urdim 	Urist 	Urvad 	Ushat Ustuth 	Uvash 	Uzol 	Vabôk 	Vucar 	Vutok 	Zan 	Zaneg 	Zas 	Zasit Zefon 	Zon 	Zuglar 	Zulban 	Zuntîr 	Zutthan 	Äs 	Åblel 	Èrith 	Èzum Îton 	Ïngiz 	Ïteb 	Ònul 	Ùshrir 
-      Epithets
-        When a creature scores five notable kills (typically creatures belonging to a civilization, but also any creature that has scored a notable kill itself), it is given an epithet by its civilization. The epithet is most often two names, but can also occasionally be one, though each of these names can be a compound word. The words appear to be selected somewhat randomly, leading to epithets that translate as gibberish such as "the Hardy Ring-Cobra of Dashing". On occasion, the epithet can be surprisingly apt. The epithet is translated in the same places the creature's second name is translated.
-      Animal and megabeast names
-        Animals who are not pets can gain a name by acquiring notable kills or becoming an enemy of a civilization. The language of the animal's name is determined by the civilization that named it, though the relationship is not always straightforward--a wild crundle that kills an elven-named forgotten beast at a dwarven site may receive an elven name, for instance. Most animals who acquire a name in world generation do not ever acquire additional ones, though it is possible. Animals can acquire multiple names more frequently either in fortress mode by killing your dwarves, invaders, or uninvited guests, or in adventurer mode by killing your adventurers or members of their parties.
-        Megabeasts acquire names in an unusual fashion. Unlike other creatures, they do not have a parent civilization. However, all megabeasts have at least one name and typically have more, up to four. Megabeasts appear to gain their original names from the first civilization they have contact with, and in most cases gain epithets from conflict with others. Megabeasts with only one or two names have likely led uneventful lives.
-      Other names
-        On occasion, your dwarves will decide to give names to the creatures inhabiting the area around a fortress. It appears that only creatures who can talk will get names; additionally, the creature must remain on the map for an extended period of time, usually limiting the namings to creatures that inhabit chasms, bottomless pits, underground rivers, and underground pools. However, any creature that can speak, such as a snailman who has become stuck in a ditch, can be given a name. Other than that, the impetus for naming creatures is murky. Some creatures are named after only a few seasons, while others may go unnamed for decades. It may be that a creature must be in the preferences of a dwarf to receive a name, or the naming may occur randomly.
-        Trees near elven settlements may also be named, though this currently has no known effect. 
+TAKEN FROM THE WIKI
+  Dwarf first names come from a combination of symbol sets as defined in the raw file language_SYM.txt.
+  175 Dwarf names = (ARTIFICE ∪ EARTH) \ (DOMESTIC ∪ FLOWERY ∪ NEGATOR ∪ NEGATIVE ∪ UGLY ∪ EVIL) 
+  First names also need to have [THE_NOUN_SING] in their language_words.txt entry. This filters out an additional 10, leaving a total of 165 valid names.[1]
+  Valid Names:
+    Aban 	Adil 	Alåth 	Amost 	Asmel 	Asob 	Ast 	Astesh 	Asën 	Athel Atír 	Atîs 	Avuz 	Ber 	Besmar 	Bim 	Bomrek 	Bëmbul 	Catten 	Cerol Cilob 	Cog 	Dakost 	Dastot 	Datan 	Deduk 	Degël 	Deler 	Dodók 	Domas Doren 	Ducim 	Dumat 	Dumed 	Dîshmab 	Dôbar 	Edzul 	Edëm 	Endok 	Eral Erib 	Erush 	Eshtân 	Etur 	Fath 	Feb 	Fikod 	Geshud 	Goden 	Id Iden 	Ilral 	Imush 	Ineth 	Ingish 	Inod 	Kadol 	Kadôl 	Kel 	Kib Kikrost 	Kivish 	Kogan 	Kogsak 	Kol 	Kosoth 	Kulet 	Kumil 	Kûbuk 	Led Libash 	Likot 	Limul 	Litast 	Logem 	Lokum 	Lolor 	Lorbam 	Lòr 	Mafol Mebzuth 	Medtob 	Melbil 	Meng 	Mestthos 	Minkot 	Mistêm 	Moldath 	Momuz 	Monom Mosus 	Mörul 	Mûthkat 	Nil 	Nish 	Nomal 	Obok 	Oddom 	Olin 	Olon Onget 	Onol 	Rakust 	Ral 	Reg 	Rigòth 	Rimtar 	Rith 	Rovod 	Rîsen Sarvesh 	Sazir 	Shem 	Shorast 	Sibrek 	Sigun 	Sodel 	Solon 	Stinthäd 	Stodir Stukos 	Stâkud 	Såkzul 	Tekkud 	Thob 	Tholtig 	Thîkut 	Tirist 	Tobul 	Tosid Tulon 	Tun 	Ubbul 	Udib 	Udil 	Unib 	Urdim 	Urist 	Urvad 	Ushat Ustuth 	Uvash 	Uzol 	Vabôk 	Vucar 	Vutok 	Zan 	Zaneg 	Zas 	Zasit Zefon 	Zon 	Zuglar 	Zulban 	Zuntîr 	Zutthan 	Äs 	Åblel 	Èrith 	Èzum Îton 	Ïngiz 	Ïteb 	Ònul 	Ùshrir 
+  Epithets
+    When a creature scores five notable kills (typically creatures belonging to a civilization, but also any creature that has scored a notable kill itself), it is given an epithet by its civilization. The epithet is most often two names, but can also occasionally be one, though each of these names can be a compound word. The words appear to be selected somewhat randomly, leading to epithets that translate as gibberish such as "the Hardy Ring-Cobra of Dashing". On occasion, the epithet can be surprisingly apt. The epithet is translated in the same places the creature's second name is translated.
+  Animal and megabeast names
+    Animals who are not pets can gain a name by acquiring notable kills or becoming an enemy of a civilization. The language of the animal's name is determined by the civilization that named it, though the relationship is not always straightforward--a wild crundle that kills an elven-named forgotten beast at a dwarven site may receive an elven name, for instance. Most animals who acquire a name in world generation do not ever acquire additional ones, though it is possible. Animals can acquire multiple names more frequently either in fortress mode by killing your dwarves, invaders, or uninvited guests, or in adventurer mode by killing your adventurers or members of their parties.
+    Megabeasts acquire names in an unusual fashion. Unlike other creatures, they do not have a parent civilization. However, all megabeasts have at least one name and typically have more, up to four. Megabeasts appear to gain their original names from the first civilization they have contact with, and in most cases gain epithets from conflict with others. Megabeasts with only one or two names have likely led uneventful lives.
+  Other names
+    On occasion, your dwarves will decide to give names to the creatures inhabiting the area around a fortress. It appears that only creatures who can talk will get names; additionally, the creature must remain on the map for an extended period of time, usually limiting the namings to creatures that inhabit chasms, bottomless pits, underground rivers, and underground pools. However, any creature that can speak, such as a snailman who has become stuck in a ditch, can be given a name. Other than that, the impetus for naming creatures is murky. Some creatures are named after only a few seasons, while others may go unnamed for decades. It may be that a creature must be in the preferences of a dwarf to receive a name, or the naming may occur randomly.
+    Trees near elven settlements may also be named, though this currently has no known effect. 
 
 ALL VALID TOKENS (for entities, not sites or battles):
     "flowery", "nature", "primitive", "holy", "evil", "negator", "magic", "violent", "peace", "ugly", "death", "old", "subordinate", "leader", "new", "domestic", "mythic", "artifice", "color", 
@@ -141,287 +100,26 @@ ALL VALID TOKENS (for entities, not sites or battles):
 
 DWARVES:
   PREFERRED:  "artifice", "earth"
-  UNUSUAL?:   "nature", "primitive", "holy", "magic", "violent", "peace", "death", "old", "leader", "new", "mythic", "color", "mystery", "romantic", "assertive", "aquatic", "protect", "restrain", 
-              "thought", "wild", "good", "balance", "boundary", "dance", "darkness", "light", "order", "festival", "family", "fire", "food", "freedom", "games", "luck", "music", "sky", "silence", 
-              "trade", "travel", "truth", "wealth"
   FORBIDDEN:  "domestic", "subordinate", "evil", "flowery", "negative", "ugly", "negator"
 
 HUMANS:
   PREFERRED:  Humans pick from the entire naming pool
   FORBIDDEN:  "subordinate", "evil", "negative", "ugly", "negator"
 
-            --------------
-            CENSUS RESULTS
-            --------------
+// EPITHETS //
 
-  RESEARCH :  A survey of 3829 dwarves in a newly-generated world yielded a pool of 249 unique names
-              Out of 3829 generated dwarves, 89 had non-dwarven names
-                Of these, 4 were Goblin and 85 were Human
-              Chance of having a foreign name:  (2.32%)
-              Chance of having a human name:    (2.22%)
-              Chance of having a goblin name:   (0.1 %)
-              Chance of having an elf name:     (0.0 %)
+Cacame Awemedinade Monípalóthi
+  Base Name: Cacame Awemedinade
+  Translated: Pelt Ape Bald
+? Pools: Nature Nature NONE
+  Epithet: Monípalóthi
+  Translated: Immortal Onslaught
+? Pools: Holy/Mythic Violent/Wild
 
-
-    NAMES:    ["aban", "ablel", "abuth", "acal", "adil", "ado", "alath", "amkash", "amost", "amsan", "ape", "as", "asen", "asi", "asmel", "asob", "aspa", "ast", "astesh", "athel", "ather", "atir", "atis", "ato", "avuz", "bekat", "bembul", "ber", "besmar", "bim", "bomrek", "busla", "buslon", "catten", "cerol", "ciko", "cil", "cilob", "cog", "cogith", "dakost", "dap", "dastot", "datan", "deduk", "degel", "deler", "dishmab", "dobar", "dodok", "dof", "domas", "doren", "dostngosp", "ducim", "dumat", "dumed", "edem", "edzul", "eman", "endok", "eral", "erib", "erith", "erush", "eshtan", 
-              "etur", "ezif", "ezum", "fanu", "fath", "fathri", "feb", "fikod", "galel", "gatshi", "gaval", "geno", "geshud", "gib", "gipest", "girus", "goden", "hathur", "icop", "id", "iden", "ilral", "imi", 
-              "imush", "ineth", "ingish", "ingiz", "inod", "inspuz", "irum", "isdi", "islas", "iteb", "ithbi", "ithra", "iton", "jath", "jathbi", "jonu", "kadol", "kammat", "kel", "kes", "kib", "kikrost", 
-              "kivish", "kiwan", "kogan", "kogsak", "kol", "kosoth", "kozi", "kubuk", "kulet", "kumil", "kupe", "lasod", "led", "libash", "likot", "limul", "litast", "logem", "lokum", "lolor", "lor", "lorbam", 
-              "mafol", "mebzuth", "medtob", "melbil", "meng", "mestthos", "minkot", "mirding", "mistem", "mokun", "moldath", "momuz", "monom", "morul", "mosus", "munosh", "muthkat", "naquuv", "naspa", "ngahen", 
-              "ngokang", "nil", "nimu", "nish", "nomal", "obok", "oce", "oddom", "olin", "olon", "onget", "ongi", "onmo", "onol", "onul", "osush", "pictham", "quenir", "rakust", "ral", "ramul", "ras", "reg", 
-              "renal", "rigoth", "rimtar", "risen", "rith", "rorec", "rovod", "rushan", "sakzul", "sarvesh", "sazir", "senre", "shem", "shorast", "sibrek", "sigun", "sodel", "solon", "stakud", 
-              "stinthad", "stodir", "stral", "strodno", "strospi", "stukos", "tar", "tekkud", "thikut", "thob", "tholtig", "thomo", "thudu", "thuthu", "tirist", "tis", "tobul", "tol", "tosid", "tulon", "tun", 
-              "tunem", "tura", "ubbul", "udib", "udil", "unib", "urdim", "urir", "urist", "urvad", "ushat", "ushrir", "uso", "ustuth", "uvash", "uzol", "vabok", "vucar", "vutok", "wimad", "zan", "zaneg", "zas", 
-              "zasit", "zefon", "zicab", "zon", "zuglar", "zulban", "zuntir", "zuso", "zutthan"]
-
-NAME STATS (out of 3829):
-  abuth x1 HUMAN
-  acal x1 HUMAN
-  ado x1 HUMAN
-  amkash x1 HUMAN
-  amsan x1 HUMAN
-  ape x1 HUMAN
-  asi x1 HUMAN
-  aspa x1 HUMAN
-  ather x1 HUMAN
-  ato x1 HUMAN
-  bekat x1 HUMAN
-  busla x1 HUMAN
-  buslon x1 HUMAN
-  ciko x1 HUMAN
-  cil x1 HUMAN
-  cogith x1 HUMAN
-  dap x1 HUMAN
-  dof x1 HUMAN
-  dostngosp x1 GOBLIN
-  eman x1 HUMAN
-  ezif x1 HUMAN
-  fanu x1 HUMAN
-  fathri x1 HUMAN
-  galel x1 HUMAN
-  gatshi x1 HUMAN
-  gaval x1 HUMAN
-  geno x1 HUMAN
-  gib x1 HUMAN
-  gipest x1 HUMAN
-  girus x1 HUMAN
-  hathur x1 HUMAN
-  icop x1 HUMAN
-  imi x1 HUMAN
-  inspuz x1 HUMAN
-  irum x1 HUMAN
-  isdi x1 HUMAN
-  islas x1 HUMAN
-  ithbi x1 HUMAN
-  ithra x1 HUMAN
-  jath x1 HUMAN
-  jathbi x1 HUMAN
-  jonu x1 HUMAN
-  kammat x1 HUMAN
-  kes x1 HUMAN (Kes is a VIOLENT word in Dwarven, but a NATURE word in Human. I think both are possible)
-  kiwan x1 HUMAN
-  kozi x1 HUMAN
-  kupe x1 HUMAN
-  lasod x1 HUMAN
-  mirding x1 HUMAN
-  mokun x1 HUMAN
-  munosh x1 HUMAN
-  naquuv x1 HUMAN
-  naspa x1 HUMAN
-  ngahen x1 HUMAN
-  ngokang x2 GOBLIN
-  nimu x1 HUMAN
-  oce x1 HUMAN
-  ongi x1 HUMAN
-  onmo x2 HUMAN
-  osush x1 HUMAN
-  pictham x1 HUMAN
-  quenir x1 HUMAN
-  ramul x1 HUMAN
-  ras x1 HUMAN
-  renal x1 HUMAN
-  rorec x1 HUMAN
-  rushan x1 HUMAN
-  senre x2 HUMAN
-  stral x2 HUMAN
-  strodno x1 GOBLIN
-  strospi x1 HUMAN
-  tar x1 HUMAN (MAYBE GOBLIN?)
-  thomo x1 HUMAN
-  thudu x1 HUMAN
-  thuthu x1 HUMAN
-  tis x1 HUMAN
-  tol x1 HUMAN (MAYBE GOBLIN?)
-  tunem x1 HUMAN
-  tura x1 HUMAN
-  urir x1 HUMAN (ARTIFICE and DOMESTIC in Dwarven, but only DOMESTIC in Human. This word is normally culled by Dwarf naming rules, but is valid for Humans)
-  uso x2 HUMAN
-  wimad x1 HUMAN
-  zicab x2 HUMAN
-  zuso x1 HUMAN
-DWARVEN NAMES
-  aban       x24 ARTIFICE
-  åblel      x10 ARTIFICE
-  adil       x41 ARTIFICE BOUNDARY
-  alåth      x26 ARTIFICE VIOLENT
-  amost      x10 ARTIFICE
-  äs         x16 EARTH MYSTERY PRIMITIVE
-  asën       x12 EARTH
-  asmel      x30 ARTIFICE TRADE
-  asob       x12 ARTIFICE
-  ast		     x24 ARTIFICE VIOLENT
-  astesh     x19 ARTIFICE PRIMITIVE VIOLENT
-  athel      x14 ARTIFICE MAGIC
-  atír       x24 ARTIFICE COLOR
-  atîs       x13 ARTIFICE
-  avuz       x26 EARTH
-  bëmbul     x32 ARTIFICE
-  ber        x21 EARTH NATURE
-  besmar     x09 ARTIFICE
-  bim        x11 ARTIFICE VIOLENT
-  bomrek     x30 ARTIFICE VIOLENT
-  catten     x24 ARTIFICE
-  cerol      x24 ARTIFICE THOUGHT
-  cilob      x25 ARTIFICE
-  cog        x23 ARTIFICE VIOLENT
-  dakost     x13 ARTIFICE
-  dastot     x29 ARTIFICE VIOLENT
-  datan      x33 ARTIFICE EARTH
-  deduk      x13 ARTIFICE
-  degël      x16 ARTIFICE
-  deler      x10 ARTIFICE ASSERTIVE EARTH
-  dîshmab    x11 ARTIFICE PROTECT
-  dôbar      x16 ARTIFICE
-  dodók      x25 ARTIFICE RESTRAIN
-  domas      x24 ARTIFICE TRADE
-  doren      x39 EARTH WEALTH
-  ducim      x30 ARTIFICE
-  dumat      x17 ARTIFICE
-  dumed      x12 ARTIFICE PROTECT
-  edëm       x37 ARTIFICE ASSERTIVE
-  edzul      x08 ARTIFICE
-  endok      x08 ARTIFICE
-  eral       x09 ARTIFICE
-  erib       x20 EARTH NATURE
-  èrith	     x25 ARTIFICE
-  erush      x21 ARTIFICE
-  eshtân     x12 ARTIFICE
-  etur       x25 EARTH
-  èzum       x22 ARTIFICE RESTRAIN
-  fath       x35 ARTIFICE PRIMITIVE
-  feb        x20 ARTIFICE PRIMITIVE VIOLENT
-  fikod      x30 ARTIFICE
-  geshud     x12 ARTIFICE PROTECT
-  goden      x28 ARTIFICE
-  idîd       x22 EARTH NATURE PRIMITIVE
-  iden       x29 ARTIFICE AQUATIC
-  ilral      x29 ARTIFICE
-  imush      x16 ARTIFICE
-  ineth      x08 ARTIFICE
-  ingish     x26 ARTIFICE ROMANTIC
-  ïngiz      x29 ARTIFICE
-  inod       x26 ARTIFICE BOUNDARY PROTECT
-  ïteb       x18 ARTIFICE
-  îton       x27 ARTIFICE
-  kadol	     x44 ARTIFICE VIOLENT
-  kadôl 		     EARTH WEALTH (LegendsBrowser had both 'kadol's listed under the same name, so I'm not sure how many of each were picked)
-  kel        x19 ARTIFICE
-  kib        x48 ARTIFICE RESTRAIN
-  kikrost    x14 ARTIFICE PROTECT
-  kivish     x32 ARTIFICE VIOLENT
-  kogan      x31 ARTIFICE AQUATIC
-  kogsak     x14 ARTIFICE PROTECT
-  kol        x25 ARTIFICE TRAVEL
-  kosoth     x12 ARTIFICE
-  kûbuk      x29 ARTIFICE VIOLENT
-  kulet      x11 ARTIFICE HOLY THOUGHT
-  kumil      x11 ARTIFICE
-  led        x18 ARTIFICE DEATH VIOLENT
-  libash     x23 ARTIFICE PRIMITIVE VIOLENT
-  likot      x34 ARTIFICE COLOR
-  limul      x16 ASSERTIVE EARTH WEALTH
-  litast     x29 ARTIFICE ASSERTIVE LIGHT
-  logem      x35 ARTIFICE COLOR
-  lokum      x30 ARTIFICE VIOLENT
-  lolor      x18 ARTIFICE THOUGHT
-  lòr        x31 ARTIFICE
-  lorbam     x38 ARTIFICE LEADER
-  mafol      x23 ARTIFICE
-  mebzuth    x27 ARTIFICE AQUATIC
-  medtob     x18 ARTIFICE PROTECT RESTRAIN
-  melbil     x25 ARTIFICE OLD THOUGHT
-  meng       x29 ARTIFICE VIOLENT
-  mestthos   x17 ARTIFICE PROTECT
-  minkot     x27 ARTIFICE
-  mistêm     x22 ARTIFICE
-  moldath    x12 EARTH WILD
-  momuz      x31 ARTIFICE DEATH OLD
-  monom      x28 ARTIFICE THOUGHT
-  mörul      x27 ARTIFICE THOUGHT
-  mosus      x39 ARTIFICE
-  mûthkat    x20 ARTIFICE
-  nil        x31 ARTIFICE
-  nish       x20 ARTIFICE TRADE
-  nomal      x15 ARTIFICE MAGIC
-  obok       x40 ARTIFICE
-  oddom      x29 ARTIFICE HOLY
-  olin       x26 ARTIFICE
-  olon       x22 ARTIFICE
-  onget      x11 EARTH COLOR
-  onol       x20 EARTH NATURE
-  ònul   	   x24 ARTIFICE MYSTERY
-  rakust     x36 ARTIFICE DEATH OLD
-  ral        x25 COLOR EARTH WEALTH
-  reg        x32 ARTIFICE PROTECT
-  rigòth     x28 ARTIFICE
-  rimtar     x18 ARTIFICE ASSERTIVE LEADER PROTECT
-  rîsen      x19 EARTH
-  rith       x31 ARTIFICE MUSIC
-  rovod      x25 ARTIFICE
-  såkzul     x29 ARTIFICE MUSIC
-  sarvesh    x22 ARTIFICE FIRE
-  sazir      x16 ARTIFICE TRAVEL
-  shem       x12 ARTIFICE
-  shorast    x25 ARTIFICE
-  sibrek     x33 ARTIFICE
-  sigun      x24 ARTIFICE
-  sodel      x35 ARTIFICE PROTECT
-  solon      x26 ARTIFICE FESTIVAL LEADER
-  stâkud     x19 ARTIFICE
-  stinthäd   x15 ARTIFICE FESTIVAL
-  stodir     x16 EARTH NATURE VIOLENT
-  stukos     x26 ARTIFICE VIOLENT
-  tekkud     x24 ARTIFICE
-  thîkut     x18 ARTIFICE THOUGHT
-  thob       x39 ARTIFICE
-  tholtig    x13 ARTIFICE PROTECT RESTRAIN
-  tirist     x15 ARTIFICE
-  tobul      x31 ASSERTIVE EARTH NATURE
-  tosid      x25 ARTIFICE PROTECT
-  tulon      x41 ARTIFICE
-  tun        x32 ARTIFICE BOUNDARY
-  ubbul      x07 ARTIFICE MYSTERY PROTECT WEALTH
-  udib       x23 ARTIFICE FOOD
-  udil       x23 ARTIFICE LIGHT
-  unib       x27 ARTIFICE PRIMITIVE
-  urdim      x29 ARTIFICE PROTECT
-  urist      x39 ARTIFICE VIOLENT
-  urvad      x21 ARTIFICE BOUNDARY MAGIC
-  ushat      x07 ARTIFICE
-  ùshrir     x22 EARTH VIOLENT
-  ustuth     x20 ARTIFICE PROTECT RESTRAIN
-  uvash      x10 ARTIFICE
-  uzol       x10 EARTH
-  vabôk      x34 ARTIFICE MAGIC THOUGHT
-  vucar      x25 ARTIFICE DEATH
-  vutok      x12 ARTIFICE
-  zan        x10 ARTIFICE
-  zaneg      x14 ARTIFICE OLD
-  zas        x18 ARTIFICE EARTH MAGIC
-  zasit      x29 ARTIFICE VIOLENT
-  zefon      x23 ARTIFICE NEW
-  zon        x34 ARTIFICE PROTECT
-  zuglar     x28 ARTIFICE AQUATIC
-  zulban     x19 ARTIFICE FESTIVAL LEADER
-  zuntîr     x09 ARTIFICE
-  zutthan    x11 ARTIFICE WEALTH
+Tholtig Momuzidek Lelumdoren
+  Base Name: Tholtig Momuzidek
+  Translated: Barricade Crypt Brain
+? Pools: Artifice Artifice Leader/Thought
+  Epithet: Lelumdoren
+  Translated: Wane Diamond
+? Pools: NONE Earth
