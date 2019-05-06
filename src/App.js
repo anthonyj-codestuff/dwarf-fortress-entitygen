@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
+import './reset.css';
 import './App.css';
-import NameModule from './components/NameModule';
+import NameModule from './components/NameModule/NameModule';
+// import TestModule from './components/TestModule';
 
 class App extends Component {
   render() {
@@ -8,6 +10,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <NameModule/>
+          {/* <TestModule/> */}
         </header>
       </div>
     );
