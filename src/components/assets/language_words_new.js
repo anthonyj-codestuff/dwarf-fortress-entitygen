@@ -53,6 +53,14 @@ class DFWord {
   }
 }
 
+/**
+ * Word Types:
+ *  Nouns: "singular:plural"
+ *  Verbs: "root:3person_sing:past:past_participle:present_participle"
+ *  Adjective: adj
+ *  Prefix: prefix
+ */
+
 export const wordTypes = {
   "": new DFWord(null, null, null, null),
   "abbey": new DFWord("abbey:abbeys", null, null, null),
@@ -2250,4 +2258,4 @@ export const wordTypes = {
   "reason": new DFWord("reason:reasons", "reason:reasons:reasoned:reasoned:reasoning", null, null),
   "squat": new DFWord(null, "squat:squats:squatted:squatted:squatting", "squat", null),
   "festival": new DFWord("festival:festivals", null, "festive", null)
-}
+};
