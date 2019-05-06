@@ -53,19 +53,21 @@ class NameModule extends Component {
   handleNameGen() {
     // get new names
     const nameObj = getName(this.state.selectedCurrent, this.state.selectedLanguage)
-    const { first, last1, last2 } = nameObj;
+    const { first, last1, last2, compoundLast } = nameObj;
     // clone old name before setting new one
     let newEntityName = {
       first: this.state.entityName.first,
       last1: this.state.entityName.last1,
       last2: this.state.entityName.last2,
+      transLast: this.state.entityName.transLast,
       firstHeld: this.state.entityName.firstHeld,
       lastHeld: this.state.entityName.lastHeld
-    }
-    // 
+    };
+    // update the names, but only if they are not frozen
     if(!this.state.entityName.lastHeld){
-      newEntityName.last1 = last1
+      newEntityName.last1 = last1;
       newEntityName.last2 = last2;
+      newEntityName.transLast = compoundLast;
     };
     if(!this.state.entityName.firstHeld){
       newEntityName.first = first;
