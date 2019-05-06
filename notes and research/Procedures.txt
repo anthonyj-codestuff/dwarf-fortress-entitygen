@@ -1,2 +1,14 @@
 General strategy: create a segmented set of naming functions that can be imported and used as needed.
   e.g. getPool() should do exactly what it says and be good no matter who calls it.
+
+When getName() is called from NameModule, it should not handle any of the name generation functions, only call the responsible functions.
+In fact, getName shouldn't be a part of the module anyway since that function will be almost universal. 
+All the module button needs to do is pass the current and previous token objects to the external getName() and wait on a response
+Once a name object comes back, decide whether to update the name on state as per the user's settings
+
+Name Object: {
+  // name object should be language agnostic
+  first: 'cave',
+  last1: 'cloister',
+  last2: 'spear'
+}

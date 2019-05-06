@@ -1,190 +1,230 @@
-When getName() is called from NameModule, it should not handle any of the name generation functions, only call the responsible functions.
-In fact, getName shouldn't be a part of the module anyway since that function will be almost universal. 
-All the module button needs to do is pass the current and previous token objects to the external getName() and wait on a response
-Once a name object comes back, decide whether to update the name on state as per the user's settings
-
-currentTokens: [
-  ['earth', 'artifice'],
-  ['evil', 'flowery', 'domestic']
-]
-previousTokens: [
-  ['magic', 'holy'],
-  ['flowery', 'death', 'subordinate']
-]
-
-Name Object: {
-  // should name object be language agnostic?
-  first: 'cave',
-  last1: 'cloister',
-  last2: 'spear'
-}
-
-
+Noun   always has 2 or 0 forms
+Verb   always has 5 or 0 forms
+Adj    always has 1 or 0 forms
+Prefix always has 1 or 0 forms
 
               -----------------------
               NAME STRUCTURE ANALYSIS
               -----------------------
+      (n, v, a, p) [x=exact, o=inexact, -=null]
 ==DWARVES==
-  Litast ònuludar, "Torch Mirror Rained"
-  first: noun0/noun1
-  last1: noun0 verb0
-  last2: verb2 verb3
-  Erush Gingoltar, "Handle Young Gilt"
-  first: noun0/noun1
-  last1: verb0
-  last2: verb2 verb3
-  Olon Rosatoddom, "Gear Chapel Cloistered"
-  first: noun0/noun1
-  last1: noun0
-  last2: verb2 verb3
-  Doren Oslanetur, "Diamond Wind Boulder"
-  first: noun0/noun1 adj0
-  last1: verb0
-  last2: 
-  Minkot Ensebtobul, "Corridor Basis Canyon"
-  first: 
-  last1: 
-  last2: 
-  Sigun Limâreshtân, "Tour Wealthy Smiths"
-  first: 
-  last1: 
-  last2: 
-  Uzol Kaboddom, "Oil Name Cloistered"
-  first: 
-  last1: 
-  last2: 
-  Thîkut Odsazir, "Book Limb Bridge"
-  first: 
-  last1: 
-  last2: 
-  Olin Zonnunok, "Tongs Helm Numbers"
-  first: 
-  last1: 
-  last2: 
-  Såkzul Nosingnish, "Trumpet Brush Trades"
-  first: 
-  last1: 
-  last2: 
-  Solon Alåthilral, "Flag Bolted Treaty"
-  first: 
-  last1: 
-  last2: 
-  Zulban Tanfikod, "Banner Ticked Glazed"
-  first: 
-  last1: 
-  last2: 
-  Etur Ostarkeskal, "Boulder Burial Shoot"
-  first: 
-  last1: 
-  last2: 
-  Cog Äszes, "Boot Cave Brands"
-  first: 
-  last1: 
-  last2: 
-  Inod Nulralsazir, "Gate Stable Bridged"
-  first: 
-  last1: 
-  last2: 
-  Ushat Lirukoslan, "Basement Violent Wind"
-  first: 
-  last1: 
-  last2: 
-  Mestthos ïngizèrnam, "Citadel Ceiling Modest"
-  first: 
-  last1: 
-  last2: 
-  Urvad Oltarkegeth, "Seal Gilt Holds"
-  first: 
-  last1: 
-  last2: 
-  Udib Likotabsam, "Syrup Ink Searched"
-  first: 
-  last1: 
-  last2: 
-  Zutthan Bardumolin, "Treasury Fight Tongs"
-  first: 
-  last1: 
-  last2: 
-  Bëmbul Stâkudònul, "Mechanism Machine Mirrored"
-  first: 
-  last1: 
-  last2: 
-  Sibrek Zoncuggán, "Salve Helmed Sand"
-  first: 
-  last1: 
-  last2: 
-  Catten Mesiredëm, "Channel Shower Keys"
-  first: 
-  last1: 
-  last2: 
-  ïteb Ukerled, "Post Wave Racks"
-  first: 
-  last1: 
-  last2: 
-  Dôbar Anrizolin, "Creation Sky Tongs"
-  first: 
-  last1: 
-  last2: 
-  Deduk Besmarzokun, "Manor Pulley Sieges"
-  first: 
-  last1: 
-  last2: 
-  Dastot Uristnakuth, "Sword Dagger Braid"
-  first: 
-  last1: 
-  last2: 
-  Kadôl Cattensodel, "Gem Channel Shields
-  first: 
-  last1: 
-  last2: 
-  Itlud Sughonu, "Bin Tire Blunts" - Human
-  first: 
-  last1: 
-  last2: 
-  Catten Sodelûthir, "Channel Shield Sear"
-  first: 
-  last1: 
-  last2: 
-  Lòr Reglilum, "Tool Gloved Hoisted"
-  first: 
-  last1: 
-  last2: 
-  Asmel Zedotfikod, "Merchant Lobster Glazed"
-  first: 
-  last1: 
-  last2: 
-  Lòr Tomusònul, "Tool Shoved Mirrors"
-  first: 
-  last1: 
-  last2: 
-  Monom Sodelsacat, "Paper Shield Dots"
-  first: 
-  last1: 
-  last2: 
-  Tekkud Sazirotam, "Pick Bridge Noses"
-  first: 
-  last1: 
-  last2: 
-  Fikod Tunomkadol, "Glaze Mortal Hatchets"
-  first: 
-  last1: 
-  last2: 
-  èrith Onolast, "Labor Mountain Sabres"
-  first: 
-  last1: 
-  last2: 
-  Oddom Likotiseth, "Cloister Ink Quested"
-  first: 
-  last1: 
-  last2: 
-  Asën Dakostemal, "Gravel Floor Sense"
-  first: 
-  last1: 
-  last2: 
-  Iden Oddomvúsh, "Paddle Cloister Heated"
-  first: 
-  last1: 
-  last2: 
+  Litast ònuludar, "Mirror Rained"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 5, 1, 0) [oo, ooxxo, o, -]
+  Erush Gingoltar, "Young Gilt"
+    last1: (0, 0, 1, 0) [--, -----, x, -]
+    last2: (0, 5, 1, 0) [--, ooxxo, o, -]
+  Olon Rosatoddom, "Chapel Cloistered"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Doren Oslanetur, "Wind Boulder"
+    last1: (0, 5, 0, 0) [--, xoooo, -, -]
+    last2: (2, 0, 0, 0) [xo, -----, -, -]
+  Minkot Ensebtobul, "Basis Canyon"
+    last1: (2, 0, 1, 0) [xo, -----, o, -]
+    last2: (2, 0, 0, 0) [xo, -----, -, -]
+  Sigun Limâreshtân, "Wealthy Smiths"
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Uzol Kaboddom, "Name Cloistered"
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Thîkut Odsazir, "Limb Bridge"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 0, 0) [xo, xoooo, -, -]
+  Olin Zonnunok, "Helm Numbers"
+    last1: (2, 0, 1, 0) [xo, -----, o, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Såkzul Nosingnish, "Brush Trades"
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -] 
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -] 
+  Solon Alåthilral, "Bolted Treaty"
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -] 
+    last2: (2, 0, 0, 0) [xo, -----, -, -] 
+  Zulban Tanfikod, "Ticked Glazed"
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -] 
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -] 
+  Etur Ostarkeskal, "Burial Shoot"
+    last1: (2, 5, 0, 0) [xo, ooooo, -, -]
+    last2: (0, 5, 0, 0) [--, xoooo, -, -]
+  Cog Äszes, "Cave Brands"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 1, 0) [ox, oxooo, o, -]
+  Inod Nulralsazir, "Stable Bridged"
+    last1: (2, 5, 1, 0) [oo, ooooo, x, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Ushat Lirukoslan, "Violent Wind"
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last2: (0, 5, 0, 0) [--, xoooo, -, -]
+  Mestthos ïngizèrnam, "Ceiling Modest"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 0, 1, 0) [oo, -----, x, -]
+  Urvad Oltarkegeth, "Gilt Holds"
+    last1: (0, 5, 1, 0) [--, ooxxo, o, -]
+    last2: (2, 5, 1, 0) [ox, oxooo, o, -]
+  Udib Likotabsam, "Ink Searched"
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Zutthan Bardumolin, "Fight Tongs"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 0, 0, 0) [xx, -----, -, -]
+  Bëmbul Stâkudònul, "Machine Mirrored"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Sibrek Zoncuggán, "Helmed Sand"
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last2: (2, 0, 0, 0) [xo, -----, -, -]
+  Catten Mesiredëm, "Shower Keys"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  ïteb Ukerled, "Wave Racks"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Dôbar Anrizolin, "Sky Tongs"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 0, 0, 0) [xx, -----, -, -]
+  Deduk Besmarzokun, "Pulley Sieges"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+  Dastot Uristnakuth, "Dagger Braid"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 1, 0) [xo, xoooo, o, -]
+  Kadôl Cattensodel, "Channel Shields"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+  Itlud Sughonu, "Tire Blunts" - Human
+    last1: (2, 5, 1, 0) [oo, xoooo, o, -]
+    last2: (0, 5, 1, 0) [--, oxooo, o, -]
+  Catten Sodelûthir, "Shield Sear"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (0, 5, 1, 0) [--, xoooo, o, -]
+  Lòr Reglilum, "Gloved Hoisted"
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last2: (0, 5, 0, 0) [--, ooxxo, -, -]
+  Asmel Zedotfikod, "Lobster Glazed"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Lòr Tomusònul, "Shoved Mirrors"
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+  Monom Sodelsacat, "Shield Dots"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Tekkud Sazirotam, "Bridge Noses"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Fikod Tunomkadol, "Mortal Hatchets"
+    last1: (2, 0, 1, 0) [xo, -----, x, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  èrith Onolast, "Mountain Sabres"
+    last1: (2, 0, 1, 0) [xo, -----, o, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+  Oddom Likotiseth, "Ink Quested"
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+  Asën Dakostemal, "Floor Sense"
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 5, 1, 0) [xo, xoooo, o, -]
+  Iden Oddomvúsh, "Cloister Heated"
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last2: (2, 5, 1, 0) [oo, ooxxo, o, -]
+
+===CONDENSED - FRONT COMPOUND
+    last1: (2, 0, 0, 0) [xo, -----, -, -] noun_sing
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+    last1: (2, 0, 0, 0) [xo, -----, -, -]
+
+    last1: (0, 5, 0, 0) [--, xoooo, -, -] root_verb
+
+    last1: (0, 0, 1, 0) [--, -----, x, -] adj
+
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -] noun_sing / root_verb
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, xoooo, -, -]
+    last1: (2, 5, 0, 0) [xo, ooooo, -, -] noun_sing
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -] past_verb / past_participle_verb
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last1: (2, 5, 0, 0) [oo, ooxxo, -, -]
+
+    last1: (2, 0, 1, 0) [xo, -----, o, -] sing_noun
+    last1: (2, 0, 1, 0) [xo, -----, o, -]
+    last1: (2, 0, 1, 0) [xo, -----, o, -]
+    last1: (2, 0, 1, 0) [oo, -----, x, -] adj
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last1: (2, 0, 1, 0) [oo, -----, x, -]
+    last1: (2, 0, 1, 0) [xo, -----, x, -] sing_noun / adj
+
+    last1: (0, 5, 1, 0) [--, ooxxo, o, -] past_verb / past_participle_verb
+
+    last1: (2, 5, 1, 0) [oo, ooooo, x, -] adj
+    last1: (2, 5, 1, 0) [oo, xoooo, o, -] root_verb
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -] noun_sing / root_verb
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -] 
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -]
+    last1: (2, 5, 1, 0) [xo, xoooo, o, -]
+                        [xo, xoxxo, x, -]
+
+===CONDENSED - REAR COMPOUND
+    last2: (2, 0, 0, 0) [xo, -----, -, -] soun_sing
+    last2: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 0, 0, 0) [xo, -----, -, -] 
+    last2: (2, 0, 0, 0) [xo, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -] noun_plur
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [ox, -----, -, -]
+    last2: (2, 0, 0, 0) [xx, -----, -, -] soun_sing / noun_plur
+    last2: (2, 0, 0, 0) [xx, -----, -, -]
+
+    last2: (0, 5, 0, 0) [--, xoooo, -, -] root_verb
+    last2: (0, 5, 0, 0) [--, xoooo, -, -]
+    last2: (0, 5, 0, 0) [--, ooxxo, -, -] past_verb / past_participle_verb
+
+    last2: (2, 5, 0, 0) [xo, xoooo, -, -] noun_sing / root_verb
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -] past_verb / past_participle_verb
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -] 
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [oo, ooxxo, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -] noun_plur / 3person_sing_verb
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+    last2: (2, 5, 0, 0) [ox, oxooo, -, -]
+
+    last2: (2, 0, 1, 0) [oo, -----, x, -] adj
+
+    last2: (0, 5, 1, 0) [--, ooxxo, o, -] past_verb / past_participle_verb
+    last2: (0, 5, 1, 0) [--, oxooo, o, -] 3person_sing_verb
+    last2: (0, 5, 1, 0) [--, xoooo, o, -] root_verb
+
+    last2: (2, 5, 1, 0) [oo, ooxxo, o, -] past_verb / past_participle_verb
+    last2: (2, 5, 1, 0) [oo, ooxxo, o, -]
+    last2: (2, 5, 1, 0) [ox, oxooo, o, -] noun_plur / 3person_sing_verb
+    last2: (2, 5, 1, 0) [ox, oxooo, o, -]
+    last2: (2, 5, 1, 0) [xo, xoooo, o, -] noun_sing / root_verb
+    last2: (2, 5, 1, 0) [xo, xoooo, o, -]
+                        [xx, xxxxo, x, -]
 
 ==ELVES==
   Lèma Ceralíceyi         "Hill Will-Petal"
@@ -222,7 +262,7 @@ First Names are always nouns
 Second Names are always two-word pairs and can be any combination of word types
   Noun-Noun, Adjective-Noun, and Verb-Noun appear to be the most common
 
-Each race has its own sphere of names to pick from. These spheres are listed in language_SYM and the sphere rules are listed in entity_default. 
+Each race has its own pool of names to pick from. These pools are listed in language_SYM and the sphere rules are listed in entity_default. 
 Dwarves pick from the ARTIFICE and EARTH group (231 possible names?) and their last names avoid use of the FLOWERY (and other culled) group
 
 TAKEN FROM THE WIKI
