@@ -1,7 +1,7 @@
 import React  from 'react';
-import { capitalize, trimWord } from '../assets/utils';
+import { capitalize, trimWord } from '../../assets/utils';
 import { wordToLang } from './getName';
-import { wordTypes } from '../assets/language_words_new';
+import { wordTypes } from '../../assets/language_words_new';
 
 
 function buildLastName(last1, last2) {

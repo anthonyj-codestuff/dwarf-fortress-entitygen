@@ -3,12 +3,12 @@ import Modal from "@material-ui/core/Modal";
 
 import "./NameModule.scss";
 import { getPoolState } from './partials/poolModal';
-import { setCurrentLanguage, setCurrentRace } from "./setters/dropDownFuncs";
-import { handleSwitch } from './setters/sliderFuncs'
+import { setCurrentLanguage, setCurrentRace } from "../setters/dropDownFuncs";
+import { handleSwitch } from '../setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
 import { getName } from "./partials/getName";
-import { allNameTokens } from "./assets/constants";
-import { racePresets, languageEnum } from "./assets/constants";
+import { allNameTokens } from "../assets/constants";
+import { racePresets, languageEnum } from "../assets/constants";
 
 class NameModule extends Component {
   constructor(){

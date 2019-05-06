@@ -1,6 +1,6 @@
 import React  from 'react';
-import { capitalize } from "../assets/utils";
-import { racePresets, raceEnum, languageEnum } from "../assets/constants";
+import { capitalize } from "../../assets/utils";
+import { racePresets, raceEnum, languageEnum } from "../../assets/constants";
 /**
  * Displays the current naming pool with options to choose a new preset.
  * If the name pool does not match any pool, displays "Custom"
