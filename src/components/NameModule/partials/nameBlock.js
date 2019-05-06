@@ -1,12 +1,18 @@
 import React  from 'react';
 import { capitalize, trimWord } from '../../assets/utils';
 import { wordToLang } from './getName';
-import { wordTypes } from '../../assets/language_words_new';
+import { wordTypes } from '../../assets/language_words';
 
-
-function buildLastName(last1, last2) {
+/**
+ * Used for constructing a translated compound name given two base words
+ * Language-agnostic.
+ * @param {string} last1 an english base word
+ * @param {string} last2 an english base word
+ * @returns a single, capitalized string consisting of both words converted to an appropriate form
+ */
+function buildCompoundNameEng(last1, last2) {
   if(last1 === "" && last2 === "") {
-    // initially, bith terms should be empty
+    // initially, both terms should be empty
     return "";
   } else if (last1 && last2) {
     // pull the DFWord classes off of the constant object
@@ -19,7 +25,7 @@ function buildLastName(last1, last2) {
     return capitalize(trimWord(frontCompound)) + trimWord(rearCompound);
   } else {
     // I don't know why this would ever be called
-    throw Error(`invalid terms ${last1} and ${last2} passed to buildLastName()`);
+    throw Error(`invalid terms ${last1} and ${last2} passed to buildCompoundNameEng()`);
   }
 }
 
@@ -68,7 +74,7 @@ export function getNameBlock() {
   const entLast1 = wordToLang(last1, this.state.selectedLanguage);
   const entLast2 = wordToLang(last2, this.state.selectedLanguage);
   const entLast = entLast1 + entLast2;
-  const engLast = buildLastName(last1, last2);
+  const engLast = buildCompoundNameEng(last1, last2);
   const englishName = (first ? capitalize(trimWord(entFirst)) : "") + " " 
   + (engLast ? engLast : "");
   return (

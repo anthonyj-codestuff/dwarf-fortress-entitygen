@@ -1,6 +1,6 @@
 /** Constants: An object full of arrays. Each array's key describes its theme */
 import * as Constants from "../../assets/constants";
-import { wordTypes } from "../../assets/language_words_new";
+import { wordTypes } from "../../assets/language_words";
 
 /**
  * retreives a pool of words and returns a random name

@@ -18,6 +18,7 @@ class NameModule extends Component {
         first: "",
         last1: "",
         last2: "",
+        transLast: "",
         firstHeld: false,
         lastHeld: false
       },

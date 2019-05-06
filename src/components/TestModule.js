@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { wordTypes, wordForms, namesToTest } from './assets/language_words_new';
+import { wordTypes, wordForms, namesToTest } from './assets/language_words';
 
 class TestModule extends Component {
   wordStats() {
