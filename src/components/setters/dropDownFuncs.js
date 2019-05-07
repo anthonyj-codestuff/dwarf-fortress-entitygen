@@ -6,7 +6,10 @@ import { racePresets } from "../assets/constants";
  * @param {string} e a string with incoming race
  */
 export function setCurrentRace(e){
-  this.setState({selectedCurrent: racePresets[e]});
+  this.setState({
+    selectedCurrent: racePresets[e],
+    selectedLanguage: e
+  });
 }
 
 /**

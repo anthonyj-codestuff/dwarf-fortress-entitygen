@@ -27,16 +27,16 @@ class DFWord {
    * TODO: make a constant object to translate forms to numbers for the user
    */
   getNoun(form) {
-    return (this.nouns.length >= form) ? this.nouns[form] : -1;
+    return (this.nouns.length >= form) ? this.nouns[form] : "noNOUNform";
   }
   getVerb(form) {
-    return (this.verbs.length >= form) ? this.verbs[form] : -1;
+    return (this.verbs.length >= form) ? this.verbs[form] : "noVERBform";
   }
   getAdj(form) {
-    return (this.adjs.length >= form) ? this.adjs[form] : -1;
+    return (this.adjs.length >= form) ? this.adjs[form] : "noADJform";
   }
   getPrefix(form) {
-    return (this.prefixes.length >= form) ? this.prefixes[form] : -1;
+    return (this.prefixes.length >= form) ? this.prefixes[form] : "noPREFIXform";
   }
   hasWordType(type) {
     if(!["noun", "verb", "adj", "prefix"].includes(type)) {

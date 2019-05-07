@@ -1,4 +1,3 @@
-/** Constants: An object full of arrays. Each array's key describes its theme */
 import * as Constants from "../../assets/constants";
 import { wordTypes } from "../../assets/language_words";
 import { capitalize, trimWord } from '../../assets/utils';
@@ -12,12 +11,19 @@ import { capitalize, trimWord } from '../../assets/utils';
 export function getName(tags) {
   let pool = getPool(tags);
   let first, last1, last2;
+  console.log(pool.length);
+  console.log(pool);
   do {
-    // first name must have a noun form AND it must not have a prefix form. 
+    // first name must have a noun form
+    // no part of the name may have a prefix form. 
     first = pool[Math.floor(Math.random() * pool.length)];
   } while (!wordTypes[first].hasNounForm || wordTypes[first].hasPrefixForm);
-  last1 = pool[Math.floor(Math.random() * pool.length)];
-  last2 = pool[Math.floor(Math.random() * pool.length)];
+  do {
+    last1 = pool[Math.floor(Math.random() * pool.length)];
+  } while (wordTypes[last1].hasPrefixForm);
+  do {
+    last2 = pool[Math.floor(Math.random() * pool.length)];
+  } while (wordTypes[last2].hasPrefixForm);
   const compoundLast = buildCompoundNameEng(last1, last2);
   return { first, last1, last2, compoundLast };
 }
@@ -32,6 +38,7 @@ function getPool(tags) {
   const inclusive = tags[0];
   const exclusive = tags[1];
   let pool = [];
+  let poolIsGood = false;
 
   // build a pool from the inclusive labels
   // if there are no positive labels, merge all possible labels
@@ -46,15 +53,27 @@ function getPool(tags) {
       Constants.tokens[e].forEach(f => pool.push(f));
     });
   }
-
   // reduce list of exclusive tags to a single array
   const allForbidden = [].concat(...exclusive.map(e => Constants.tokens[e]));
-  
   // remove exclusive labels from pool
   pool = pool.filter(f => !allForbidden.includes(f));
-
   // remove dupes
-  return pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
+  pool = pool.filter((e,i,s) => (e !== "" && s.indexOf(e) === i));
+  
+  // before returning, check if the remaining pool is useable
+  // a valid pool must have AT MINIMUM one word with a noun form
+  for(let i=0; i<pool.length; i++) {
+    if(wordTypes[pool[i]].hasNounForm) {
+      poolIsGood = true;
+      break;
+    }
+  };
+  if(poolIsGood){
+    return pool;
+  } else {
+    // If the pool is too small to use, return something fun
+    return ["dagger"];
+  }
 }
 
 /**

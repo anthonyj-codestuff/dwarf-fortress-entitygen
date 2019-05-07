@@ -3,8 +3,8 @@
  * ["abbey", "ace", "act", "after", "age"...]
  */
 export const english = require('./language_DWARF.json').map((e,i) => e.original);
-export const dwarven = require('./language_DWARF.json').map((e,i) => e.translated);
-export const elven = require('./language_ELF.json').map((e,i) => e.translated);
+export const dwarf = require('./language_DWARF.json').map((e,i) => e.translated);
+export const elf = require('./language_ELF.json').map((e,i) => e.translated);
 export const human = require('./language_HUMAN.json').map((e,i) => e.translated);
 export const goblin = require('./language_GOBLIN.json').map((e,i) => e.translated);
 /**

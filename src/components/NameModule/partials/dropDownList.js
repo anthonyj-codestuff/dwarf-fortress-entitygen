@@ -51,9 +51,10 @@ function getCurrentPreset(currentTags){
 }
 
 /**
- * 
+ * renders a drop-down menu with all available languages. 
+ * displays the language name, but internally uses race names for consistency
  * @param {string} current - The currently selected option 
- * @param {function} callback - Sets state
+ * @param {function} callback - Sets the selected language to state
  */
 export function getLanguageMenu(current, callback) {
   return(
@@ -63,13 +64,13 @@ export function getLanguageMenu(current, callback) {
         onChange={event => callback(event.target.value)}
       >
         {/* fill the dropdown box with the values from the race list */}
-        {languageEnum.map((e, i) => (
+        {raceEnum.map((e, i) => (
           <option
             value={e}
             selected={(current === e) ? "selected" : ""}
             key={`lang-op-${i}`}
           >
-            {capitalize(e)}
+            {capitalize(languageEnum[i])}
           </option>
         ))}
       </select>

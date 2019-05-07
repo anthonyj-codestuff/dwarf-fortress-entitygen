@@ -8,7 +8,7 @@ import { handleSwitch } from '../setters/sliderFuncs'
 import { getNameBlock } from './partials/nameBlock';
 import { getName } from "./partials/getName";
 import { allNameTokens } from "../assets/constants";
-import { racePresets, languageEnum } from "../assets/constants";
+import { racePresets, raceEnum } from "../assets/constants";
 
 class NameModule extends Component {
   constructor(){
@@ -25,7 +25,7 @@ class NameModule extends Component {
       namePool: [],
       selectedCurrent: racePresets.dwarf,
       selectedPrev: [],
-      selectedLanguage: languageEnum[0],
+      selectedLanguage: raceEnum[0],
       allNameTokens: allNameTokens.sort(),
       modalIsOpen: false
     };
