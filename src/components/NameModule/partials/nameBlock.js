@@ -1,5 +1,5 @@
 import React  from 'react';
-import { capitalize, trimWord } from '../../assets/utils';
+import { capitalize } from '../../assets/utils';
 import { wordToLang } from './getName';
 
 export function getNameBlock() {
@@ -9,7 +9,8 @@ export function getNameBlock() {
   const entLast2 = wordToLang(last2, this.state.selectedLanguage);
   const entLast = entLast1 + entLast2;
   const engLast = transLast;
-  const englishName = (first ? capitalize(trimWord(entFirst)) : "") + " " 
+  // entFirst is used as the first name because it is never translated
+  const englishName = (first ? capitalize(entFirst) : "") + " " 
   + (engLast ? engLast : "");
   return (
     <div className="entity-name">

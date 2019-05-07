@@ -12,12 +12,8 @@ export function getPoolState(stuffObj) {
   return (
     <div className="token-list">
       <div className="token-list-head">
-        <div>
           {getPresetMenu(currentTokens, setRace)}
-        </div>
-        <div>
           {getLanguageMenu(currentLanguage, setLang)}
-        </div>
         <div>
           <button onClick={() => clear()}>
             Clear
