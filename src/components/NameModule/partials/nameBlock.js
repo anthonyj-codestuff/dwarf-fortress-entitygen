@@ -14,7 +14,7 @@ export function getNameBlock() {
   + (engLast ? engLast : "");
   return (
     <div className="entity-name">
-      <p className="original">
+      <p className="original" alt="Click a name to freeze it in place">
         <span>{first ? "" : "Click 'Get Name' to start"}</span>
         <span
           className={
