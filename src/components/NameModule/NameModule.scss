@@ -16,7 +16,7 @@ $outer-border: 0px solid #9e9e9e;
     }
   }
   .original {
-    // min-height: 19px;
+    font-size: 1.3em;
     font-family: $font-pixel, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -24,18 +24,19 @@ $outer-border: 0px solid #9e9e9e;
     cursor: pointer;
   }
   .translated {
-    height: 16px;
+    height: 16px; // keeps the div the same height even if there's no text in it
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-    font-size: 14px;
-    margin-bottom: 4px;
+    font-size: 0.7em;
+    margin-bottom: 10px;
   }
 }
 
 .entity-module {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   padding: 30px;
   border: $outer-border;
   .entity-module-controls {
@@ -48,4 +49,11 @@ $outer-border: 0px solid #9e9e9e;
       margin: 0 5px;
     }
   }
+  @media only screen and (max-width : 500px){
+    box-sizing: border-box;
+    border: 3px solid red;
+    width: 90vw;
+    margin: auto;
+  }
 }
+
