@@ -89,8 +89,8 @@ class NameModule extends Component {
     };
 
     return (
-      <div style={{ display: "flex", flexDirection: "row" }}>
-        <div className="entity-module">
+      <div className="entity-module">
+        <div>
           {this.getNameBlock()}
           <div className="entity-module-controls">
             <button

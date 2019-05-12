@@ -34,6 +34,8 @@ $outer-border: 0px solid #9e9e9e;
 }
 
 .entity-module {
+  display: flex;
+  flex-direction: row;
   padding: 30px;
   border: $outer-border;
   .entity-module-controls {
