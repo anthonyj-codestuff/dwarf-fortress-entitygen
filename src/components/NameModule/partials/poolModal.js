@@ -14,12 +14,10 @@ export function getPoolState(stuffObj) {
       <div className="token-list-head">
           {getPresetMenu(currentTokens, setRace)}
           {getLanguageMenu(currentLanguage, setLang)}
-        <div>
+        <div className="flex-row modal-buttonbox">
           <button onClick={() => clear()}>
             Clear
           </button>
-        </div>
-        <div>
           <button onClick={() => toggleModal()}>
             X
           </button>
