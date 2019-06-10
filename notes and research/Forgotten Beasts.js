@@ -112,6 +112,8 @@ const FB_NAMES = [
   },
 ];
 
+//TODO: Go through all of this and break it down to its component parts
+
 const unformatted = [```Geb Rashgur Eb, "Geb the Attack of Sucking"
  Geb the Attack of Sucking was a forgotten beast.  It was the only one of its kind.  A towering humanoid composed of water.  It has four long, spiral horns and it has a bloated body.  Beware its poisonous vapors!  Geb was associated with nightmares and caverns.  In a time before time, Geb began wandering the depths of the world.```,
 ```Ofo, "Ofo"
