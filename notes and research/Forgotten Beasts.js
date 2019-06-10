@@ -39,17 +39,62 @@ const FB_DESCS = [
 /* GENERATED NAMES */
 
 const FB_NAMES = [
+  // blank template
   {
-    original: "Ariyilithémeseye Vera",
-    quote_name: "The Royal Night Mole of Clams",
-    name_format: "The Y of Z",
-    words_translated: ["royal", "night", "mole", "clam"],
-    language: "elf",
-    x: [],
-    y: ["royal", "night", "mole"],
-    z: ["clam"],
-    legends_desc: "The Royal Night-Mole of Clams was a forgotten beast. It was the only one of its kind. A towering three-eyed flycatcher. It has a short trunk and it squirms and fidgets. Its light brown feathers are long and broad. Beware its fire! The Royal Night-Mole was associated with water, thralldom, and caverns.  In a time before time, The Royal Night-Mole began wandering the depths of the world.",
-    ingame_desc: "The Forgotten Beast Ariyilithémeseye Vera has come!  A towering three-eyed flycatcher. It has a short trunk and it squirms and fidgets.  Its light brown feathers are long and broad.  Beware its fire!"
+    name: {
+      original: "",
+      quote_name: "",
+      name_format: "",
+      words_translated: [""],
+      language: "",
+      root_name: "",
+      epithet: [""],
+      x: [""],
+      y: [""],
+      z: [""]
+    },
+    body: {
+      base_animal: "",
+      quirks: [""],
+      deformity: "",
+      demeanor: "",
+      strange_body_part: "",
+      strange_body_part_qualities: [""],
+      beware: "",
+      syndrome: ""
+    },
+    raw: {
+      legends_desc: "the text from Legends Viewer",
+      ingame_desc: "the text from the little pop-up box"
+    }
+  },
+  {
+    name: {
+      original: "Ariyilithémeseye Vera",
+      quote_name: "The Royal Night Mole of Clams",
+      name_format: "The Y of Z",
+      words_translated: ["royal", "night", "mole", "clam"],
+      language: "elf",
+      root_name: "Ariyilithémeseye Vera",
+      epithet: null,
+      x: null,
+      y: ["royal", "night", "mole"],
+      z: ["clam"]
+    },
+    body: {
+      base_animal: "flycatcher",
+      quirks: ["towering", "three-eyed"],
+      deformity: "short trunk",
+      demeanor: "squirms and fidgets",
+      strange_body_part: "feathers",
+      strange_body_part_qualities: ["light brown", "long and broad"],
+      beware: "Beware its fire!",
+      syndrome: null
+    },
+    raw: {
+      legends_desc: "The Royal Night-Mole of Clams was a forgotten beast. It was the only one of its kind. A towering three-eyed flycatcher. It has a short trunk and it squirms and fidgets. Its light brown feathers are long and broad. Beware its fire! The Royal Night-Mole was associated with water, thralldom, and caverns.  In a time before time, The Royal Night-Mole began wandering the depths of the world.",
+      ingame_desc: "The Forgotten Beast Ariyilithémeseye Vera has come!  A towering three-eyed flycatcher. It has a short trunk and it squirms and fidgets.  Its light brown feathers are long and broad.  Beware its fire!"
+    }
   },
   {
     original: "Asngek Dakotu Spos ûrer",
