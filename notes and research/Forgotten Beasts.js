@@ -62,6 +62,17 @@ const FB_NAMES = [
     z: ["moist"]
   },
   {
+    original: "Geb Rashgur Eb", 
+    quote_name: "Geb the Attack of Sucking",
+    name_format: "X + the Y of Z",
+    words_translated: [],
+    language: "",
+    x: [""], //TODO: finish this
+    y: ["attack"],
+    z: ["suck"],
+    legends_desc: "Geb the Attack of Sucking was a forgotten beast.  It was the only one of its kind.  A towering humanoid composed of water.  It has four long, spiral horns and it has a bloated body.  Beware its poisonous vapors!  Geb was associated with nightmares and caverns.  In a time before time, Geb began wandering the depths of the world."
+  },
+  {
     original: "Vesh Sárekmessog",
     quote_name: "Vesh Echoedtumor",
     name_format: "Xx",
@@ -114,9 +125,8 @@ const FB_NAMES = [
 
 //TODO: Go through all of this and break it down to its component parts
 
-const unformatted = [```Geb Rashgur Eb, "Geb the Attack of Sucking"
- Geb the Attack of Sucking was a forgotten beast.  It was the only one of its kind.  A towering humanoid composed of water.  It has four long, spiral horns and it has a bloated body.  Beware its poisonous vapors!  Geb was associated with nightmares and caverns.  In a time before time, Geb began wandering the depths of the world.```,
-```Ofo, "Ofo"
+const unformatted = 
+[```Ofo, "Ofo"
  Ofo was a forgotten beast.  It was the only one of its kind.  A huge hadrosaurid composed of salt.  It has a pair of long antennae and it squirms and fidgets.  Ofo was associated with water, thralldom and caverns.  In a time before time, Ofo began wandering the depths of the world.```,
 ```Tob, "Tob"
  Tob was a forgotten beast.  It was the only one of its kind.  A huge quadruped composed of grime and filth.  It has a pair of spindly antennae and it has a bloated body.  Beware its webs!  Tob was associated with water, deformity and caverns.  In a time before time, Tob began wandering the depths of the world.```,
