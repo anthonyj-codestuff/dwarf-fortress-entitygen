@@ -1,5 +1,5 @@
 //importing color variables
-@import 'src/colors.scss';
+@import '../../colors.scss';
 $font-pixel: VGA9;
 $inner-border: 0px solid cyan;
 $outer-border: 0px solid #9e9e9e;
@@ -7,8 +7,15 @@ $outer-border: 0px solid #9e9e9e;
 
 /* VGA9 font is loaded in index.css, so it should never need a fallback */
 .footer-wrapper {
+  border: 0;
+  p {
+      font-size: 0.75em;
+      color: $lgray;
+  }
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
   position: absolute;
-  bottom: 5px;
   .footer-link {
     margin: 0;
     padding: 0;
@@ -17,10 +24,9 @@ $outer-border: 0px solid #9e9e9e;
     text-decoration: none;
     font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
     margin-bottom: 2px;
-    cursor: pointer;
-    a:link {color: $white;}
-    a:visited {color: $white;}
-    a:hover {color: $white;}
-    a:active {color: $white;} 
+    a {
+      color: $blue;
+      cursor: pointer;
+    }
   }
 }
