@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './reset.css';
 import './App.css';
 import NameModule from './components/NameModule/NameModule';
+import Footer from './components/Footer/Footer';
 // import TestModule from './components/TestModule';
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
         <header className="App-header">
           <NameModule/>
           {/* <TestModule/> */}
+          <Footer/>
         </header>
       </div>
     );
