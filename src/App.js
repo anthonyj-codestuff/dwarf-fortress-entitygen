@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './reset.css';
-import './App.css';
+import './App.scss';
 import NameModule from './components/NameModule/NameModule';
 import Footer from './components/Footer/Footer';
 // import TestModule from './components/TestModule';
